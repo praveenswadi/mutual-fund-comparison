@@ -256,7 +256,8 @@ ul { list-style: none; }
 .error-banner   { background: #1c0a0a; border: 1px solid var(--red);    color: #fecaca; }
 
 /* ─── Overlap matrix ─────────────────────────────────────────── */
-.matrix-wrap { margin-bottom: 28px; }
+/* ─── Chord diagram ───────────────────────────────────────────── */
+.chord-wrap { margin-bottom: 28px; }
 .section-title {
   font-size: 16px;
   font-weight: 700;
@@ -264,53 +265,89 @@ ul { list-style: none; }
 }
 .section-subtitle { font-size: 13px; font-weight: 400; color: var(--muted); }
 
-.matrix-scroll { overflow-x: auto; }
-
-.matrix-table {
-  border-collapse: collapse;
-  font-size: 13px;
+.chord-svg-container {
+  display: flex;
+  justify-content: center;
 }
-.matrix-corner { width: 48px; }
-.matrix-col-head, .matrix-row-head {
-  padding: 8px 16px;
+.chord-svg { display: block; overflow: visible; }
+
+.matrix-hint { color: var(--muted); font-size: 12px; margin-top: 8px; text-align: center; }
+
+/* ─── Chord tooltip ───────────────────────────────────────────── */
+.chord-tooltip {
+  position: fixed;
+  background: #131f35;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 11px 14px;
+  font-size: 12px;
+  z-index: 9999;
+  pointer-events: none;
+  min-width: 175px;
+  max-width: 240px;
+  box-shadow: 0 6px 24px rgba(0,0,0,.6);
+  transition: opacity 0.1s;
+}
+.chord-tt-title {
   font-weight: 700;
   font-size: 13px;
-  color: var(--accent2);
-  text-align: center;
+  color: #f8fafc;
+  letter-spacing: 0.03em;
 }
-.matrix-row-head { text-align: right; padding-right: 14px; white-space: nowrap; }
-
-.matrix-cell {
-  padding: 14px 20px;
-  text-align: center;
-  font-size: 14px;
-  font-weight: 600;
-  border: 2px solid var(--bg);
-  border-radius: 4px;
-  white-space: nowrap;
-}
-.matrix-cell--self {
-  background: var(--bg3);
+.chord-tt-sub {
   color: var(--muted);
-  font-weight: 400;
+  font-size: 11px;
+  margin-top: 1px;
 }
-.matrix-cell--pair {
-  cursor: pointer;
-  transition: transform .1s, box-shadow .1s;
+.chord-tt-divider {
+  height: 1px;
+  background: var(--border);
+  margin: 7px 0;
 }
-.matrix-cell--pair:hover {
-  transform: scale(1.06);
-  box-shadow: 0 0 0 2px var(--accent);
-  z-index: 1;
-  position: relative;
+.chord-tt-total {
+  color: var(--muted);
+  font-size: 11px;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
-.matrix-cell--active {
-  box-shadow: 0 0 0 3px var(--accent) !important;
-  transform: scale(1.06);
-  position: relative;
-  z-index: 2;
+.chord-tt-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 3px 0;
+  font-size: 12px;
 }
-.matrix-hint { color: var(--muted); font-size: 12px; margin-top: 8px; }
+.chord-tt-swatch {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.chord-tt-vs {
+  color: #f8fafc;
+  font-weight: 600;
+}
+.chord-tt-muted {
+  color: var(--muted);
+}
+.chord-tt-overlap {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: 1.2;
+  margin-bottom: 3px;
+}
+.chord-tt-count {
+  color: var(--muted);
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+.chord-tt-hint {
+  color: var(--accent2);
+  font-size: 11px;
+  margin-top: 4px;
+}
 
 /* ─── View toggle row ─────────────────────────────────────────── */
 .view-toggle-row {

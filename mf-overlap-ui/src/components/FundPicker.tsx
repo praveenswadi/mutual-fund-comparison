@@ -2,7 +2,7 @@ import { useState, useMemo } from "react";
 import clsx from "clsx";
 import type { FundMeta } from "../types";
 
-const MAX_SELECTED = 6;
+const MAX_SELECTED = 10;
 
 const ASSET_CLASS_COLORS: Record<string, string> = {
   "Stock - Large-Cap Growth": "#6366f1",

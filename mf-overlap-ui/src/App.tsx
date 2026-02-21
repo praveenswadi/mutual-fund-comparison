@@ -3,7 +3,7 @@ import type { FundHoldings, FundMeta, HoldingFilter } from "./types";
 import { isFundOfFunds, loadFundList, loadHoldings } from "./lib/data";
 import { computeMatrix, pairKey } from "./lib/overlap";
 import { FundPicker } from "./components/FundPicker";
-import { OverlapMatrix } from "./components/OverlapMatrix";
+import { ChordDiagram } from "./components/ChordDiagram";
 import { DetailPanel } from "./components/HoldingsTables";
 
 type LoadState = "idle" | "loading" | "error";
@@ -56,7 +56,7 @@ export default function App() {
         );
         return next;
       }
-      if (prev.length >= 6) return prev;
+      if (prev.length >= 10) return prev;
       return [...prev, symbol];
     });
   };
@@ -151,13 +151,13 @@ export default function App() {
       <main className="main-content">
         <header className="main-header">
           <h1 className="main-title">Vanguard Mutual Fund Overlap Explorer</h1>
-          <p className="main-sub">Compare holdings overlap across up to 6 funds simultaneously.</p>
+          <p className="main-sub">Compare holdings overlap across up to 10 funds simultaneously.</p>
         </header>
 
         {selected.length === 0 && (
           <div className="empty-state">
             <div className="empty-icon">📊</div>
-            <h2>Pick 2–6 funds to compare</h2>
+            <h2>Pick 2–10 funds to compare</h2>
             <p>Use the panel on the left to search and select mutual funds.</p>
           </div>
         )}
@@ -179,14 +179,16 @@ export default function App() {
           </div>
         )}
 
-        {/* Overlap matrix */}
+        {/* Chord diagram */}
         {validHoldings.length >= 2 && !isLoading && (
           <>
-            <OverlapMatrix
+            <ChordDiagram
               funds={validHoldings}
               matrix={matrix}
+              filter={filter}
               activePair={activePair}
               onSelectPair={handleSelectPair}
+              fundMeta={fundMetaMap}
             />
 
             {/* Pair toggle hint for 3-4 funds */}
