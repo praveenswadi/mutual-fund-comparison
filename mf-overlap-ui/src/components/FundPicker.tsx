@@ -2,12 +2,16 @@ import { useState, useMemo } from "react";
 import clsx from "clsx";
 import type { FundMeta } from "../types";
 import {
-  ASSET_CLASS_COLORS,
   acColor,
-  FundTooltipContent,
   FundTooltipPortal,
   useHoverFundTip,
 } from "./FundTooltipPopup";
+
+interface Props {
+  funds:    FundMeta[];
+  selected: string[];
+  onToggle: (symbol: string) => void;
+}
 
 const MAX_SELECTED = 10;
 

@@ -93,7 +93,8 @@ export function ChordDiagram({
   );
 
   const drawRibbon = useCallback(
-    (c: Chord) => d3.ribbon().radius(INNER_R)(c as Parameters<ReturnType<typeof d3.ribbon>>[0]) ?? "",
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    (c: Chord) => d3.ribbon().radius(INNER_R)(c as any) ?? "",
     []
   );
 
