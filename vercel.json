@@ -2,5 +2,8 @@
   "buildCommand": "npm --prefix mf-overlap-ui install && npm --prefix mf-overlap-ui run build",
   "outputDirectory": "mf-overlap-ui/dist",
   "installCommand": "echo 'root install skipped'",
-  "framework": null
+  "framework": null,
+  "rewrites": [
+    { "source": "/((?!assets|holdings|mutual-funds\\.json|vite\\.svg).*)", "destination": "/index.html" }
+  ]
 }
