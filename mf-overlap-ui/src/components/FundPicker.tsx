@@ -21,22 +21,6 @@ const ASSET_CLASS_COLORS: Record<string, string> = {
   "Bond":                     "#64748b",
 };
 
-// Shorten labels for the legend
-const LEGEND_LABELS: Record<string, string> = {
-  "Stock - Large-Cap Growth": "LC Growth",
-  "Stock - Large-Cap Blend":  "LC Blend",
-  "Stock - Large-Cap Value":  "LC Value",
-  "Stock - Mid-Cap Growth":   "MC Growth",
-  "Stock - Mid-Cap Blend":    "MC Blend",
-  "Stock - Mid-Cap Value":    "MC Value",
-  "Stock - Small-Cap Growth": "SC Growth",
-  "Stock - Small-Cap Blend":  "SC Blend",
-  "Stock - Small-Cap Value":  "SC Value",
-  "Stock - Sector":           "Sector",
-  "International":            "International",
-  "Balanced":                 "Balanced",
-  "Bond":                     "Bond",
-};
 
 function acColor(assetClass: string): string {
   const entry = Object.entries(ASSET_CLASS_COLORS).find(([k]) =>
@@ -159,7 +143,6 @@ function FundTooltip({ fund }: { fund: FundMeta }) {
 
 export function FundPicker({ funds, selected, onToggle }: Props) {
   const [query, setQuery] = useState("");
-  const [legendOpen, setLegendOpen] = useState(false);
   const [hoveredFund, setHoveredFund] = useState<FundMeta | null>(null);
   const [tipPos, setTipPos] = useState<{ x: number; y: number } | null>(null);
   const tipRef = useRef<HTMLDivElement>(null);
@@ -174,12 +157,6 @@ export function FundPicker({ funds, selected, onToggle }: Props) {
         f.assetClass.toLowerCase().includes(q)
     );
   }, [funds, query]);
-
-  // Only show legend entries that exist in this fund set
-  const presentClasses = useMemo(
-    () => [...new Set(funds.map((f) => f.assetClass))],
-    [funds]
-  );
 
   const handleItemEnter = useCallback((e: React.MouseEvent, f: FundMeta) => {
     const rect = (e.currentTarget as HTMLElement).getBoundingClientRect();
@@ -252,29 +229,6 @@ export function FundPicker({ funds, selected, onToggle }: Props) {
           <li className="picker-empty">No funds match "{query}"</li>
         )}
       </ul>
-
-      {/* Legend */}
-      <div className="legend-section">
-        <button
-          className="legend-toggle"
-          onClick={() => setLegendOpen((o) => !o)}
-        >
-          <span>Asset Class Legend</span>
-          <span className="legend-toggle-arrow">{legendOpen ? "▲" : "▼"}</span>
-        </button>
-        {legendOpen && (
-          <div className="legend-grid">
-            {Object.entries(ASSET_CLASS_COLORS)
-              .filter(([k]) => presentClasses.some((c) => c === k || c.includes(k.split(" - ")[1] ?? "")))
-              .map(([key, color]) => (
-                <span key={key} className="legend-item">
-                  <span className="legend-swatch" style={{ background: color }} />
-                  <span className="legend-label">{LEGEND_LABELS[key] ?? key}</span>
-                </span>
-              ))}
-          </div>
-        )}
-      </div>
 
       {/* Rich fund tooltip portal */}
       {hoveredFund && tipPos && createPortal(
