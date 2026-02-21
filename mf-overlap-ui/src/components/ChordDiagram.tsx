@@ -61,13 +61,16 @@ export function ChordDiagram({
   const n       = symbols.length;
 
   // ── NxN overlap matrix for d3.chord() ─────────────────────────
+  // Use max(coverageAbyB, coverageBbyA) so chord thickness reflects the
+  // strongest directional overlap (e.g. "VIGAX is 100% contained in VLCAX")
+  // and correctly handles truncated data where raw weightOverlap < actual overlap.
   const dataMatrix = useMemo<number[][]>(() => {
     const m: number[][] = Array.from({ length: n }, () => Array(n).fill(0));
     for (let i = 0; i < n; i++) {
       for (let j = 0; j < n; j++) {
         if (i === j) continue;
         const pair = matrix.get(pairKey(symbols[i], symbols[j]));
-        if (pair) m[i][j] = pair.weightOverlap;
+        if (pair) m[i][j] = Math.max(pair.coverageAbyB, pair.coverageBbyA);
       }
     }
     return m;
@@ -148,15 +151,19 @@ export function ChordDiagram({
       const meta = fundMeta.get(sym);
       const name = meta?.name.replace(" Admiral Shares", "") ?? sym;
 
-      const overlaps: Array<{ sym: string; pct: number; count: number }> = [];
+      // For arc tooltip: show "% of THIS fund covered by each other fund"
+      const overlaps: Array<{ sym: string; covThisByOther: number; covOtherByThis: number; count: number }> = [];
       for (let j = 0; j < n; j++) {
         if (j === gi) continue;
         const pair = matrix.get(pairKey(sym, symbols[j]));
-        if (pair && pair.weightOverlap > 0)
-          overlaps.push({ sym: symbols[j], pct: pair.weightOverlap, count: pair.sharedCount });
+        if (!pair) continue;
+        // Determine which direction is "this fund covered by other"
+        const covThisByOther = pair.symbolA === sym ? pair.coverageAbyB : pair.coverageBbyA;
+        const covOtherByThis = pair.symbolA === sym ? pair.coverageBbyA : pair.coverageAbyB;
+        if (Math.max(covThisByOther, covOtherByThis) > 0)
+          overlaps.push({ sym: symbols[j], covThisByOther, covOtherByThis, count: pair.sharedCount });
       }
-      overlaps.sort((a, b) => b.pct - a.pct);
-      const total = overlaps.reduce((s, o) => s + o.pct, 0);
+      overlaps.sort((a, b) => b.covThisByOther - a.covThisByOther);
 
       setTooltipContent(
         <>
@@ -165,15 +172,18 @@ export function ChordDiagram({
           {overlaps.length > 0 && (
             <>
               <div className="chord-tt-divider" />
-              <div className="chord-tt-total">Total overlap: {total.toFixed(1)}%</div>
-              {overlaps.map((o) => (
-                <div key={o.sym} className="chord-tt-row">
-                  <span className="chord-tt-swatch" style={{ background: overlapColor(o.pct) }} />
-                  <span style={{ color: overlapColor(o.pct), fontWeight: 600 }}>{o.pct.toFixed(1)}%</span>
-                  <span className="chord-tt-vs">{o.sym}</span>
-                  <span className="chord-tt-muted">· {o.count} shared</span>
-                </div>
-              ))}
+              <div className="chord-tt-total">{sym} coverage by other funds:</div>
+              {overlaps.map((o) => {
+                const displayPct = Math.max(o.covThisByOther, o.covOtherByThis);
+                return (
+                  <div key={o.sym} className="chord-tt-row">
+                    <span className="chord-tt-swatch" style={{ background: overlapColor(displayPct) }} />
+                    <span style={{ color: overlapColor(displayPct), fontWeight: 600 }}>{o.covThisByOther.toFixed(1)}%</span>
+                    <span className="chord-tt-vs">{sym}∈{o.sym}</span>
+                    <span className="chord-tt-muted">· {o.count} shared</span>
+                  </div>
+                );
+              })}
             </>
           )}
           {overlaps.length === 0 && (
@@ -203,6 +213,7 @@ export function ChordDiagram({
       const symB = symbols[j];
       const pair = matrix.get(pairKey(symA, symB));
 
+      const maxCov = pair ? Math.max(pair.coverageAbyB, pair.coverageBbyA) : 0;
       setTooltipContent(
         pair ? (
           <>
@@ -210,9 +221,15 @@ export function ChordDiagram({
             <div className="chord-tt-divider" />
             <div
               className="chord-tt-overlap"
-              style={{ color: overlapColor(pair.weightOverlap) }}
+              style={{ color: overlapColor(maxCov) }}
             >
-              {pair.weightOverlap.toFixed(1)}% weight overlap
+              {pair.coverageAbyB.toFixed(1)}% of {symA} in {symB}
+            </div>
+            <div
+              className="chord-tt-overlap"
+              style={{ color: overlapColor(maxCov) }}
+            >
+              {pair.coverageBbyA.toFixed(1)}% of {symB} in {symA}
             </div>
             <div className="chord-tt-count">{pair.sharedCount} shared holdings</div>
             <div className="chord-tt-hint">Click to explore →</div>
@@ -236,7 +253,7 @@ export function ChordDiagram({
   return (
     <div className="chord-wrap">
       <h2 className="section-title">
-        Overlap Diagram <span className="section-subtitle">(weight overlap %)</span>
+        Overlap Diagram <span className="section-subtitle">(directional coverage %)</span>
       </h2>
 
       <div className="chord-svg-container">
@@ -255,7 +272,7 @@ export function ChordDiagram({
               const j    = c.target.index;
               const pair = matrix.get(pairKey(symbols[i], symbols[j]));
               if (!pair) return null;
-              const col = overlapColor(pair.weightOverlap);
+              const col = overlapColor(Math.max(pair.coverageAbyB, pair.coverageBbyA));
               return (
                 <path
                   key={`ribbon-${ci}`}

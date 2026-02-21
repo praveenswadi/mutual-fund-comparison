@@ -572,20 +572,79 @@ ul { list-style: none; }
 .detail-symbol { font-size: 22px; font-weight: 800; color: var(--accent2); }
 .detail-fname  { font-size: 13px; color: var(--muted); }
 .detail-stat   { font-size: 12px; color: var(--muted); }
+.detail-truncation {
+  font-size: 11px;
+  color: var(--yellow);
+  opacity: 0.85;
+  cursor: help;
+}
+
 .detail-center {
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 2px;
+  gap: 5px;
+  min-width: 200px;
 }
-.detail-overlap-pct {
-  font-size: 40px;
-  font-weight: 900;
+
+/* Subset badge: shown when one fund is a holdings-subset of the other */
+.subset-badge {
+  display: inline-block;
+  background: rgba(99, 102, 241, 0.18);
+  border: 1px solid rgba(99, 102, 241, 0.45);
+  color: #a5b4fc;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  padding: 3px 10px;
+  border-radius: 20px;
+  cursor: help;
+  margin-bottom: 2px;
+}
+
+/* Directional coverage rows */
+.detail-coverage-row {
+  display: flex;
+  align-items: baseline;
+  gap: 5px;
+  font-size: 13px;
+  line-height: 1.4;
+}
+.detail-coverage-arrow {
+  color: var(--muted);
+  font-size: 11px;
+  min-width: 48px;
+  text-align: right;
+}
+.detail-coverage-pct {
+  font-size: 20px;
+  font-weight: 800;
   line-height: 1;
+  cursor: help;
 }
-.detail-overlap-label { color: var(--muted); font-size: 12px; }
-.detail-shared-count  { color: var(--text); font-size: 13px; font-weight: 600; margin-top: 4px; }
+.detail-coverage-label {
+  color: var(--muted);
+  font-size: 11px;
+}
+.detail-containment-count {
+  color: var(--muted);
+  font-size: 11px;
+}
+
+.detail-shared-count  { color: var(--text); font-size: 13px; font-weight: 600; }
+
+/* Truncation warning banner below summary */
+.trunc-banner {
+  background: rgba(234, 179, 8, 0.1);
+  border: 1px solid rgba(234, 179, 8, 0.3);
+  color: #fde68a;
+  font-size: 12px;
+  padding: 8px 14px;
+  border-radius: var(--radius);
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
 
 .detail-section-title {
   font-size: 14px;

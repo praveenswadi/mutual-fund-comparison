@@ -14,10 +14,12 @@ import { weightColor, overlapColor } from "../lib/colors";
 const PAGE = 25;
 
 interface PairDetailProps {
-  pair: PairOverlap;
-  filter: HoldingFilter;
-  metaA: FundMeta | undefined;
-  metaB: FundMeta | undefined;
+  pair:     PairOverlap;
+  filter:   HoldingFilter;
+  metaA:    FundMeta | undefined;
+  metaB:    FundMeta | undefined;
+  fundA:    FundHoldings;
+  fundB:    FundHoldings;
 }
 
 function HoldingBadge({ type }: { type: "stock" | "bond" }) {
@@ -78,7 +80,15 @@ function WeightBar({ pct, max }: { pct: number; max: number }) {
   );
 }
 
-export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailProps) {
+/** Returns a truncation note if the fund's data file is incomplete. */
+function truncationNote(fund: FundHoldings, sumWeight: number): string | null {
+  const captured = fund.holdings.length;
+  const total    = fund.holdingsCount.total;
+  if (captured >= total) return null;
+  return `Top ${captured} of ${total} holdings (${sumWeight.toFixed(0)}% of portfolio weight)`;
+}
+
+export function PairDetail({ pair, metaA, metaB, fundA, fundB, filter: _filter }: PairDetailProps) {
   const [sharedPage, setSharedPage] = useState(0);
   const [showUnique, setShowUnique] = useState<"A" | "B">("A");
   const { hoveredFund, tipPos, onEnter, onLeave } = useHoverFundTip();
@@ -95,6 +105,16 @@ export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailPr
   const nameA = metaA?.name?.replace(" Admiral Shares", "") ?? pair.symbolA;
   const nameB = metaB?.name?.replace(" Admiral Shares", "") ?? pair.symbolB;
 
+  // Subset detection: when ≥98% of one fund's holdings are present in the other
+  const SUBSET_THRESHOLD = 0.98;
+  const aInB = pair.containmentAinB >= SUBSET_THRESHOLD; // nearly all of A is in B
+  const bInA = pair.containmentBinA >= SUBSET_THRESHOLD; // nearly all of B is in A
+
+  const truncA = truncationNote(fundA, pair.sumWeightA);
+  const truncB = truncationNote(fundB, pair.sumWeightB);
+
+  const maxCov = Math.max(pair.coverageAbyB, pair.coverageBbyA);
+
   return (
     <div className="detail-wrap">
       {/* Summary bar */}
@@ -108,12 +128,70 @@ export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailPr
           <span className="detail-symbol">{pair.symbolA}</span>
           <span className="detail-fname">{nameA}</span>
           <span className="detail-stat">{pair.totalA} holdings</span>
+          {truncA && (
+            <span className="detail-truncation" title={truncA}>⚠ partial data</span>
+          )}
         </div>
+
         <div className="detail-center">
-          <div className="detail-overlap-pct" style={{ color: overlapColor(pair.weightOverlap) }}>{pair.weightOverlap.toFixed(1)}%</div>
-          <div className="detail-overlap-label">weight overlap</div>
-          <div className="detail-shared-count">{pair.sharedCount} shared holdings</div>
+          {/* Subset badge */}
+          {(aInB || bInA) && (
+            <div
+              className="subset-badge"
+              title={
+                aInB && bInA
+                  ? `All ${pair.symbolA} and all ${pair.symbolB} holdings are present in each other`
+                  : aInB
+                  ? `All ${pair.symbolA} holdings are present in ${pair.symbolB}`
+                  : `All ${pair.symbolB} holdings are present in ${pair.symbolA}`
+              }
+            >
+              {aInB && bInA
+                ? `${pair.symbolA} ≡ ${pair.symbolB}`
+                : aInB
+                ? `${pair.symbolA} ⊂ ${pair.symbolB}`
+                : `${pair.symbolB} ⊂ ${pair.symbolA}`}
+            </div>
+          )}
+
+          {/* Directional coverage */}
+          <div className="detail-coverage-row">
+            <span className="detail-coverage-arrow">{pair.symbolA} →</span>
+            <span
+              className="detail-coverage-pct"
+              style={{ color: overlapColor(pair.coverageAbyB) }}
+              title={`${pair.coverageAbyB.toFixed(1)}% of ${pair.symbolA}'s portfolio weight is in securities also held by ${pair.symbolB}`}
+            >
+              {pair.coverageAbyB.toFixed(1)}%
+            </span>
+            <span className="detail-coverage-label">in {pair.symbolB}</span>
+            <span className="detail-containment-count">
+              ({pair.sharedCount}/{pair.totalA})
+            </span>
+          </div>
+          <div className="detail-coverage-row">
+            <span className="detail-coverage-arrow">{pair.symbolB} →</span>
+            <span
+              className="detail-coverage-pct"
+              style={{ color: overlapColor(pair.coverageBbyA) }}
+              title={`${pair.coverageBbyA.toFixed(1)}% of ${pair.symbolB}'s portfolio weight is in securities also held by ${pair.symbolA}`}
+            >
+              {pair.coverageBbyA.toFixed(1)}%
+            </span>
+            <span className="detail-coverage-label">in {pair.symbolA}</span>
+            <span className="detail-containment-count">
+              ({pair.sharedCount}/{pair.totalB})
+            </span>
+          </div>
+
+          <div
+            className="detail-shared-count"
+            style={{ color: overlapColor(maxCov) }}
+          >
+            {pair.sharedCount} shared holdings
+          </div>
         </div>
+
         <div
           className="detail-fund detail-fund--b"
           style={{ cursor: metaB ? "pointer" : "default" }}
@@ -123,8 +201,23 @@ export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailPr
           <span className="detail-symbol">{pair.symbolB}</span>
           <span className="detail-fname">{nameB}</span>
           <span className="detail-stat">{pair.totalB} holdings</span>
+          {truncB && (
+            <span className="detail-truncation" title={truncB}>⚠ partial data</span>
+          )}
         </div>
       </div>
+
+      {/* Data completeness warnings */}
+      {(truncA || truncB) && (
+        <div className="trunc-banner">
+          <strong>Partial data:</strong>{" "}
+          {[truncA && `${pair.symbolA}: ${truncA}`, truncB && `${pair.symbolB}: ${truncB}`]
+            .filter(Boolean)
+            .join(" · ")}{" "}
+          — overlap figures reflect only the captured holdings.
+        </div>
+      )}
+
       <FundTooltipPortal fund={hoveredFund} pos={tipPos} />
 
       {/* Shared holdings table */}
@@ -317,6 +410,8 @@ export function DetailPanel({ selectedFunds, activePair, filter, fundMeta }: Det
       filter={filter}
       metaA={fundMeta.get(a.symbol)}
       metaB={fundMeta.get(b.symbol)}
+      fundA={a}
+      fundB={b}
     />
   );
 }

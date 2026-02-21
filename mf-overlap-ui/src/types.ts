@@ -62,10 +62,16 @@ export type HoldingFilter = "all" | "stock" | "bond";
 export interface PairOverlap {
   symbolA: string;
   symbolB: string;
-  weightOverlap: number;       // sum of min(wA, wB) for shared IDs
+  weightOverlap: number;       // sum of min(wA, wB) for shared IDs (absolute %)
   sharedCount: number;
   totalA: number;
   totalB: number;
+  sumWeightA: number;          // actual sum of resolved weights in A (may be <100 if data is truncated)
+  sumWeightB: number;
+  coverageAbyB: number;        // weightOverlap / sumWeightA — "% of A's portfolio replicated in B"
+  coverageBbyA: number;        // weightOverlap / sumWeightB — "% of B's portfolio replicated in A"
+  containmentAinB: number;     // sharedCount / totalA — fraction of A's holdings present in B
+  containmentBinA: number;     // sharedCount / totalB — fraction of B's holdings present in A
   sharedHoldings: SharedHolding[];
   uniqueA: ResolvedHolding[];
   uniqueB: ResolvedHolding[];

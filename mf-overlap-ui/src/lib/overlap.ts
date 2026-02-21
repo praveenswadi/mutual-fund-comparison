@@ -38,6 +38,12 @@ export function computePairOverlap(
   const shared: SharedHolding[] = [];
   let weightOverlap = 0;
 
+  // Sum of all resolved weights (may be <100 when the holdings file is truncated)
+  let sumA = 0;
+  for (const r of mapA.values()) sumA += r.weight;
+  let sumB = 0;
+  for (const r of mapB.values()) sumB += r.weight;
+
   for (const [id, rA] of mapA) {
     const rB = mapB.get(id);
     if (!rB) continue;
@@ -65,13 +71,30 @@ export function computePairOverlap(
     .filter((r) => !mapA.has(r.id))
     .sort((x, y) => y.weight - x.weight);
 
+  const round2 = (n: number) => parseFloat(n.toFixed(2));
+
+  // Directional: what fraction of each fund's weight is replicated in the other.
+  // Guard against divide-by-zero for empty filter results.
+  const coverageAbyB = sumA > 0 ? round2((weightOverlap / sumA) * 100) : 0;
+  const coverageBbyA = sumB > 0 ? round2((weightOverlap / sumB) * 100) : 0;
+
+  // Holdings containment: fraction of each fund's holdings count found in the other.
+  const containmentAinB = mapA.size > 0 ? round2(shared.length / mapA.size) : 0;
+  const containmentBinA = mapB.size > 0 ? round2(shared.length / mapB.size) : 0;
+
   return {
     symbolA: a.symbol,
     symbolB: b.symbol,
-    weightOverlap: parseFloat(weightOverlap.toFixed(2)),
+    weightOverlap: round2(weightOverlap),
     sharedCount: shared.length,
     totalA: mapA.size,
     totalB: mapB.size,
+    sumWeightA: round2(sumA),
+    sumWeightB: round2(sumB),
+    coverageAbyB,
+    coverageBbyA,
+    containmentAinB,
+    containmentBinA,
     sharedHoldings: shared,
     uniqueA,
     uniqueB,
