@@ -1,5 +1,6 @@
 import { useState, useRef, useCallback } from "react";
 import { createPortal } from "react-dom";
+import { FundTooltipPortal, useHoverFundTip } from "./FundTooltipPopup";
 import type {
   FundHoldings,
   FundMeta,
@@ -80,6 +81,7 @@ function WeightBar({ pct, max }: { pct: number; max: number }) {
 export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailProps) {
   const [sharedPage, setSharedPage] = useState(0);
   const [showUnique, setShowUnique] = useState<"A" | "B">("A");
+  const { hoveredFund, tipPos, onEnter, onLeave } = useHoverFundTip();
 
   const shared = pair.sharedHoldings;
   const sharedSlice = shared.slice(sharedPage * PAGE, (sharedPage + 1) * PAGE);
@@ -97,7 +99,12 @@ export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailPr
     <div className="detail-wrap">
       {/* Summary bar */}
       <div className="detail-summary">
-        <div className="detail-fund detail-fund--a">
+        <div
+          className="detail-fund detail-fund--a"
+          style={{ cursor: metaA ? "pointer" : "default" }}
+          onMouseEnter={metaA ? (e) => onEnter(e, metaA) : undefined}
+          onMouseLeave={metaA ? onLeave : undefined}
+        >
           <span className="detail-symbol">{pair.symbolA}</span>
           <span className="detail-fname">{nameA}</span>
           <span className="detail-stat">{pair.totalA} holdings</span>
@@ -107,12 +114,18 @@ export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailPr
           <div className="detail-overlap-label">weight overlap</div>
           <div className="detail-shared-count">{pair.sharedCount} shared holdings</div>
         </div>
-        <div className="detail-fund detail-fund--b">
+        <div
+          className="detail-fund detail-fund--b"
+          style={{ cursor: metaB ? "pointer" : "default" }}
+          onMouseEnter={metaB ? (e) => onEnter(e, metaB) : undefined}
+          onMouseLeave={metaB ? onLeave : undefined}
+        >
           <span className="detail-symbol">{pair.symbolB}</span>
           <span className="detail-fname">{nameB}</span>
           <span className="detail-stat">{pair.totalB} holdings</span>
         </div>
       </div>
+      <FundTooltipPortal fund={hoveredFund} pos={tipPos} />
 
       {/* Shared holdings table */}
       <h3 className="detail-section-title">

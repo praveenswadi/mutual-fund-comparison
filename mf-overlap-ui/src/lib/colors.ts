@@ -2,19 +2,21 @@
  * Shared color scale used in the overlap matrix and weight bars.
  *
  * Semantic meaning:
- *   0%   → green  (good — low overlap / small holding weight)
- *  30%   → lime
- *  50%   → amber
- *  70%   → orange
- *  85%   → red    (bad — high overlap / large shared holding)
- * 100%   → purple (extreme)
+ *   0%   → green        (low overlap — good diversification)
+ *  20%   → yellow-green (mild overlap — worth noting)
+ *  35%   → amber        (moderate overlap — some concern)
+ *  50%   → orange       (half your portfolio duplicated — alarming)
+ *  65%   → red          (high overlap — bad)
+ *  85%   → deep red     (very bad — stays red through the danger zone)
+ * 100%   → purple       (near-complete duplication, extreme end only)
  */
 const COLOR_STOPS: Array<{ t: number; h: number; s: number; l: number }> = [
   { t: 0.00, h: 142, s: 70, l: 36 },
-  { t: 0.30, h:  84, s: 68, l: 38 },
-  { t: 0.50, h:  45, s: 96, l: 42 },
-  { t: 0.70, h:  22, s: 90, l: 46 },
-  { t: 0.85, h:   4, s: 84, l: 48 },
+  { t: 0.20, h:  84, s: 68, l: 38 },
+  { t: 0.35, h:  45, s: 96, l: 42 },
+  { t: 0.50, h:  22, s: 90, l: 46 },
+  { t: 0.65, h:   4, s: 84, l: 48 },
+  { t: 0.85, h:   2, s: 88, l: 42 },
   { t: 1.00, h: 272, s: 65, l: 42 },
 ];
 
