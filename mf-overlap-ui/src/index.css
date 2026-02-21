@@ -584,8 +584,13 @@ ul { list-style: none; }
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 5px;
-  min-width: 200px;
+  gap: 10px;
+  min-width: 220px;
+}
+.detail-center .detail-metric-group + .detail-metric-group {
+  padding-top: 8px;
+  border-top: 1px solid var(--border);
+  width: 100%;
 }
 
 /* Subset badge: shown when one fund is a holdings-subset of the other */
@@ -603,6 +608,23 @@ ul { list-style: none; }
   margin-bottom: 2px;
 }
 
+/* Metric group: label + two directional rows */
+.detail-metric-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  width: 100%;
+}
+.detail-metric-header {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 1px;
+}
+
 /* Directional coverage rows */
 .detail-coverage-row {
   display: flex;
@@ -614,7 +636,7 @@ ul { list-style: none; }
 .detail-coverage-arrow {
   color: var(--muted);
   font-size: 11px;
-  min-width: 48px;
+  min-width: 52px;
   text-align: right;
 }
 .detail-coverage-pct {
@@ -622,6 +644,11 @@ ul { list-style: none; }
   font-weight: 800;
   line-height: 1;
   cursor: help;
+}
+/* Smaller variant used for weight coverage (secondary metric) */
+.detail-coverage-pct--sm {
+  font-size: 15px;
+  font-weight: 700;
 }
 .detail-coverage-label {
   color: var(--muted);

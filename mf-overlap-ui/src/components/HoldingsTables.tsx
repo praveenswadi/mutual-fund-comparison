@@ -154,34 +154,70 @@ export function PairDetail({ pair, metaA, metaB, fundA, fundB, filter: _filter }
             </div>
           )}
 
-          {/* Directional coverage */}
-          <div className="detail-coverage-row">
-            <span className="detail-coverage-arrow">{pair.symbolA} →</span>
-            <span
-              className="detail-coverage-pct"
-              style={{ color: overlapColor(pair.coverageAbyB) }}
-              title={`${pair.coverageAbyB.toFixed(1)}% of ${pair.symbolA}'s portfolio weight is in securities also held by ${pair.symbolB}`}
-            >
-              {pair.coverageAbyB.toFixed(1)}%
-            </span>
-            <span className="detail-coverage-label">in {pair.symbolB}</span>
-            <span className="detail-containment-count">
-              ({pair.sharedCount}/{pair.totalA})
-            </span>
+          {/*
+            Holdings containment (count-based): what % of each fund's stocks
+            are physically present in the other fund — regardless of weight.
+          */}
+          <div className="detail-metric-group">
+            <div className="detail-metric-header">stocks present in other fund</div>
+            <div className="detail-coverage-row">
+              <span className="detail-coverage-arrow">{pair.symbolA} →</span>
+              <span
+                className="detail-coverage-pct"
+                style={{ color: overlapColor(pair.containmentAinB * 100) }}
+                title={`${pair.sharedCount} of ${pair.totalA} ${pair.symbolA} stocks are also held by ${pair.symbolB}`}
+              >
+                {(pair.containmentAinB * 100).toFixed(0)}%
+              </span>
+              <span className="detail-containment-count">
+                ({pair.sharedCount}/{pair.totalA})
+              </span>
+            </div>
+            <div className="detail-coverage-row">
+              <span className="detail-coverage-arrow">{pair.symbolB} →</span>
+              <span
+                className="detail-coverage-pct"
+                style={{ color: overlapColor(pair.containmentBinA * 100) }}
+                title={`${pair.sharedCount} of ${pair.totalB} ${pair.symbolB} stocks are also held by ${pair.symbolA}`}
+              >
+                {(pair.containmentBinA * 100).toFixed(0)}%
+              </span>
+              <span className="detail-containment-count">
+                ({pair.sharedCount}/{pair.totalB})
+              </span>
+            </div>
           </div>
-          <div className="detail-coverage-row">
-            <span className="detail-coverage-arrow">{pair.symbolB} →</span>
-            <span
-              className="detail-coverage-pct"
-              style={{ color: overlapColor(pair.coverageBbyA) }}
-              title={`${pair.coverageBbyA.toFixed(1)}% of ${pair.symbolB}'s portfolio weight is in securities also held by ${pair.symbolA}`}
-            >
-              {pair.coverageBbyA.toFixed(1)}%
-            </span>
-            <span className="detail-coverage-label">in {pair.symbolA}</span>
-            <span className="detail-containment-count">
-              ({pair.sharedCount}/{pair.totalB})
-            </span>
+
+          {/*
+            Weight coverage (weight-based): what % of each fund's portfolio WEIGHT
+            is replicated in the other. Can differ from stock count when one fund
+            holds the same stocks at lower proportions (e.g. VMGMX stocks are all
+            in VIMAX but at diluted weights, so VIMAX only covers 41.7% of VMGMX weight).
+          */}
+          <div className="detail-metric-group">
+            <div className="detail-metric-header">portfolio weight replicated</div>
+            <div className="detail-coverage-row">
+              <span className="detail-coverage-arrow">{pair.symbolA} →</span>
+              <span
+                className="detail-coverage-pct detail-coverage-pct--sm"
+                style={{ color: overlapColor(pair.coverageAbyB) }}
+                title={`${pair.coverageAbyB.toFixed(1)}% of ${pair.symbolA}'s portfolio weight is in securities also held by ${pair.symbolB} (at equal or greater weight in ${pair.symbolB})`}
+              >
+                {pair.coverageAbyB.toFixed(1)}%
+              </span>
+              <span className="detail-coverage-label">by {pair.symbolB}</span>
+            </div>
+            <div className="detail-coverage-row">
+              <span className="detail-coverage-arrow">{pair.symbolB} →</span>
+              <span
+                className="detail-coverage-pct detail-coverage-pct--sm"
+                style={{ color: overlapColor(pair.coverageBbyA) }}
+                title={`${pair.coverageBbyA.toFixed(1)}% of ${pair.symbolB}'s portfolio weight is in securities also held by ${pair.symbolA} (at equal or greater weight in ${pair.symbolA})`}
+              >
+                {pair.coverageBbyA.toFixed(1)}%
+              </span>
+              <span className="detail-coverage-label">by {pair.symbolA}</span>
+            </div>
           </div>
 
           <div
