@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, useCallback } from "react";
 import type { FundHoldings, FundMeta, HoldingFilter } from "./types";
 import { isFundOfFunds, loadFundList, loadHoldings } from "./lib/data";
 import { computeMatrix, pairKey } from "./lib/overlap";
@@ -20,6 +20,8 @@ export default function App() {
 
   const [filter, setFilter] = useState<HoldingFilter>("all");
   const [activePair, setActivePair] = useState<[string, string] | null>(null);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const toggleSidebar = useCallback(() => setSidebarOpen((o) => !o), []);
 
   // Load fund list once
   useEffect(() => {
@@ -96,55 +98,67 @@ export default function App() {
   return (
     <div className="app-layout">
       {/* Sidebar */}
-      <aside className="sidebar">
-        <div className="sidebar-logo">
-          <span className="logo-mark">V</span>
-          <span className="logo-text">Fund Overlap</span>
-        </div>
-        {loadState === "error" && (
-          <div className="error-banner">Failed to load funds: {error}</div>
-        )}
-        {loadState === "loading" ? (
-          <div className="spinner-wrap"><span className="spinner" /></div>
-        ) : (
-          <FundPicker
-            funds={allFunds}
-            selected={selected}
-            onToggle={handleToggle}
-          />
-        )}
+      <aside className={`sidebar${sidebarOpen ? "" : " sidebar--collapsed"}`}>
+        {/* Toggle tab */}
+        <button
+          className="sidebar-toggle-btn"
+          onClick={toggleSidebar}
+          title={sidebarOpen ? "Collapse panel" : "Expand panel"}
+          aria-label={sidebarOpen ? "Collapse panel" : "Expand panel"}
+        >
+          {sidebarOpen ? "◀" : "▶"}
+        </button>
 
-        {/* Filter */}
-        {selected.length >= 2 && (
-          <div className="filter-group">
-            <span className="filter-label">Holdings type</span>
-            <div className="toggle-group">
-              {(["all", "stock", "bond"] as HoldingFilter[]).map((f) => (
-                <button
-                  key={f}
-                  className={filter === f ? "toggle-btn toggle-btn--active" : "toggle-btn"}
-                  onClick={() => { setFilter(f); setActivePair(null); }}
-                >
-                  {f === "all" ? "All" : f === "stock" ? "Stocks" : "Bonds"}
-                </button>
+        <div className="sidebar-inner">
+          <div className="sidebar-logo">
+            <span className="logo-mark">V</span>
+            <span className="logo-text">Fund Overlap</span>
+          </div>
+          {loadState === "error" && (
+            <div className="error-banner">Failed to load funds: {error}</div>
+          )}
+          {loadState === "loading" ? (
+            <div className="spinner-wrap"><span className="spinner" /></div>
+          ) : (
+            <FundPicker
+              funds={allFunds}
+              selected={selected}
+              onToggle={handleToggle}
+            />
+          )}
+
+          {/* Filter */}
+          {selected.length >= 2 && (
+            <div className="filter-group">
+              <span className="filter-label">Holdings type</span>
+              <div className="toggle-group">
+                {(["all", "stock", "bond"] as HoldingFilter[]).map((f) => (
+                  <button
+                    key={f}
+                    className={filter === f ? "toggle-btn toggle-btn--active" : "toggle-btn"}
+                    onClick={() => { setFilter(f); setActivePair(null); }}
+                  >
+                    {f === "all" ? "All" : f === "stock" ? "Stocks" : "Bonds"}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Selected chips */}
+          {selected.length > 0 && (
+            <div className="selected-chips">
+              {selected.map((s) => (
+                <span key={s} className="chip">
+                  {s}
+                  {fofSymbols.has(s) && <span className="chip-fof" title="Fund-of-funds">⚠</span>}
+                  {loadingSymbols.has(s) && <span className="chip-loading">…</span>}
+                  <button className="chip-remove" onClick={() => handleToggle(s)}>×</button>
+                </span>
               ))}
             </div>
-          </div>
-        )}
-
-        {/* Selected chips */}
-        {selected.length > 0 && (
-          <div className="selected-chips">
-            {selected.map((s) => (
-              <span key={s} className="chip">
-                {s}
-                {fofSymbols.has(s) && <span className="chip-fof" title="Fund-of-funds">⚠</span>}
-                {loadingSymbols.has(s) && <span className="chip-loading">…</span>}
-                <button className="chip-remove" onClick={() => handleToggle(s)}>×</button>
-              </span>
-            ))}
-          </div>
-        )}
+          )}
+        </div>
       </aside>
 
       {/* Main */}
