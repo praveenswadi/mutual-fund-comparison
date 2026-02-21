@@ -8,7 +8,7 @@ import type {
   PairOverlap,
 } from "../types";
 import { computeIntersection, computePairOverlap } from "../lib/overlap";
-import { weightColor } from "../lib/colors";
+import { weightColor, overlapColor } from "../lib/colors";
 
 const PAGE = 25;
 
@@ -103,7 +103,7 @@ export function PairDetail({ pair, metaA, metaB, filter: _filter }: PairDetailPr
           <span className="detail-stat">{pair.totalA} holdings</span>
         </div>
         <div className="detail-center">
-          <div className="detail-overlap-pct">{pair.weightOverlap.toFixed(1)}%</div>
+          <div className="detail-overlap-pct" style={{ color: overlapColor(pair.weightOverlap) }}>{pair.weightOverlap.toFixed(1)}%</div>
           <div className="detail-overlap-label">weight overlap</div>
           <div className="detail-shared-count">{pair.sharedCount} shared holdings</div>
         </div>
