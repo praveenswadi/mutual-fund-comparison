@@ -1,0 +1,4093 @@
+{
+  "symbol": "VHT",
+  "name": "Health Care ETF",
+  "assetClass": "Stock - Sector",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 408,
+    "bond": 0,
+    "total": 408
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "LLY",
+      "isin": "US5324571083",
+      "cusip": "532457108",
+      "name": "Eli Lilly & Co.",
+      "sharesHeld": "2429312",
+      "marketValue": 2519560940.8,
+      "percentWeight": "12.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "JNJ",
+      "isin": "US4781601046",
+      "cusip": "478160104",
+      "name": "Johnson & Johnson",
+      "sharesHeld": "7172432",
+      "marketValue": 1629935172,
+      "percentWeight": "8.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABBV",
+      "isin": "US00287Y1091",
+      "cusip": "00287Y109",
+      "name": "AbbVie Inc.",
+      "sharesHeld": "5334487",
+      "marketValue": 1189643945.87,
+      "percentWeight": "6.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRK",
+      "isin": "US58933Y1055",
+      "cusip": "58933Y105",
+      "name": "Merck & Co. Inc.",
+      "sharesHeld": "7542571",
+      "marketValue": 831719304.17,
+      "percentWeight": "4.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "UNH",
+      "isin": "US91324P1021",
+      "cusip": "91324P102",
+      "name": "UnitedHealth Group Inc.",
+      "sharesHeld": "2734845",
+      "marketValue": 784709075.85,
+      "percentWeight": "3.96"
+    },
+    {
+      "type": "stock",
+      "ticker": "TMO",
+      "isin": "US8835561023",
+      "cusip": "883556102",
+      "name": "Thermo Fisher Scientific Inc.",
+      "sharesHeld": "1140262",
+      "marketValue": 659766995.82,
+      "percentWeight": "3.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABT",
+      "isin": "US0028241000",
+      "cusip": "002824100",
+      "name": "Abbott Laboratories",
+      "sharesHeld": "5255673",
+      "marketValue": 574445058.9,
+      "percentWeight": "2.90"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMGN",
+      "isin": "US0311621009",
+      "cusip": "031162100",
+      "name": "Amgen Inc.",
+      "sharesHeld": "1625694",
+      "marketValue": 555792264.72,
+      "percentWeight": "2.81"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISRG",
+      "isin": "US46120E6023",
+      "cusip": "46120E602",
+      "name": "Intuitive Surgical Inc.",
+      "sharesHeld": "1082531",
+      "marketValue": 545833780.82,
+      "percentWeight": "2.75"
+    },
+    {
+      "type": "stock",
+      "ticker": "GILD",
+      "isin": "US3755581036",
+      "cusip": "375558103",
+      "name": "Gilead Sciences Inc.",
+      "sharesHeld": "3746859",
+      "marketValue": 531866635.05,
+      "percentWeight": "2.68"
+    },
+    {
+      "type": "stock",
+      "ticker": "PFE",
+      "isin": "US7170811035",
+      "cusip": "717081103",
+      "name": "Pfizer Inc.",
+      "sharesHeld": "17168688",
+      "marketValue": 453940110.72,
+      "percentWeight": "2.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "DHR",
+      "isin": "US2358511028",
+      "cusip": "235851102",
+      "name": "Danaher Corp.",
+      "sharesHeld": "1945996",
+      "marketValue": 425959064.44,
+      "percentWeight": "2.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "BSX",
+      "isin": "US1011371077",
+      "cusip": "101137107",
+      "name": "Boston Scientific Corp.",
+      "sharesHeld": "4474699",
+      "marketValue": 418518597.47,
+      "percentWeight": "2.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "MDT",
+      "isin": "IE00BTN1Y115",
+      "cusip": "G5960L103",
+      "name": "Medtronic plc",
+      "sharesHeld": "3873468",
+      "marketValue": 398812265.28,
+      "percentWeight": "2.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SYK",
+      "isin": "US8636671013",
+      "cusip": "863667101",
+      "name": "Stryker Corp.",
+      "sharesHeld": "1039104",
+      "marketValue": 384011274.24,
+      "percentWeight": "1.94"
+    },
+    {
+      "type": "stock",
+      "ticker": "VRTX",
+      "isin": "US92532F1003",
+      "cusip": "92532F100",
+      "name": "Vertex Pharmaceuticals Inc.",
+      "sharesHeld": "774218",
+      "marketValue": 363805038.2,
+      "percentWeight": "1.84"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMY",
+      "isin": "US1101221083",
+      "cusip": "110122108",
+      "name": "Bristol-Myers Squibb Co.",
+      "sharesHeld": "6146427",
+      "marketValue": 338360806.35,
+      "percentWeight": "1.71"
+    },
+    {
+      "type": "stock",
+      "ticker": "MCK",
+      "isin": "US58155Q1031",
+      "cusip": "58155Q103",
+      "name": "McKesson Corp.",
+      "sharesHeld": "375612",
+      "marketValue": 312212450.52,
+      "percentWeight": "1.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "CVS",
+      "isin": "US1266501006",
+      "cusip": "126650100",
+      "name": "CVS Health Corp.",
+      "sharesHeld": "3830041",
+      "marketValue": 285414655.32,
+      "percentWeight": "1.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "HCA",
+      "isin": "US40412C1018",
+      "cusip": "40412C101",
+      "name": "HCA Healthcare Inc.",
+      "sharesHeld": "494645",
+      "marketValue": 241520314.15,
+      "percentWeight": "1.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "REGN",
+      "isin": "US75886F1075",
+      "cusip": "75886F107",
+      "name": "Regeneron Pharmaceuticals Inc.",
+      "sharesHeld": "314565",
+      "marketValue": 233234219.25,
+      "percentWeight": "1.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELV",
+      "isin": "US0367521038",
+      "cusip": "036752103",
+      "name": "Anthem Inc.",
+      "sharesHeld": "673734",
+      "marketValue": 232936793.16,
+      "percentWeight": "1.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "CI",
+      "isin": "US1255231003",
+      "cusip": "125523100",
+      "name": "Cigna Corp.",
+      "sharesHeld": "806029",
+      "marketValue": 220940609.19,
+      "percentWeight": "1.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "COR",
+      "isin": "US03073E1055",
+      "cusip": "03073E105",
+      "name": "AmerisourceBergen Corp. Class A",
+      "sharesHeld": "556194",
+      "marketValue": 199796008.68,
+      "percentWeight": "1.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "BDX",
+      "isin": "US0758871091",
+      "cusip": "075887109",
+      "name": "Becton Dickinson and Co.",
+      "sharesHeld": "865611",
+      "marketValue": 176134526.28,
+      "percentWeight": "0.89"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZTS",
+      "isin": "US98978V1035",
+      "cusip": "98978V103",
+      "name": "Zoetis Inc.",
+      "sharesHeld": "1338281",
+      "marketValue": 167044234.42,
+      "percentWeight": "0.84"
+    },
+    {
+      "type": "stock",
+      "ticker": "IDXX",
+      "isin": "US45168D1046",
+      "cusip": "45168D104",
+      "name": "IDEXX Laboratories Inc.",
+      "sharesHeld": "241617",
+      "marketValue": 161994533.82,
+      "percentWeight": "0.82"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAH",
+      "isin": "US14149Y1082",
+      "cusip": "14149Y108",
+      "name": "Cardinal Health Inc.",
+      "sharesHeld": "717489",
+      "marketValue": 154174036.32,
+      "percentWeight": "0.78"
+    },
+    {
+      "type": "stock",
+      "ticker": "EW",
+      "isin": "US28176E1082",
+      "cusip": "28176E108",
+      "name": "Edwards Lifesciences Corp.",
+      "sharesHeld": "1773062",
+      "marketValue": 144256324.32,
+      "percentWeight": "0.73"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALNY",
+      "isin": "US02043Q1076",
+      "cusip": "02043Q107",
+      "name": "Alnylam Pharmaceuticals Inc.",
+      "sharesHeld": "395839",
+      "marketValue": 133817332.34,
+      "percentWeight": "0.68"
+    },
+    {
+      "type": "stock",
+      "ticker": "IQV",
+      "isin": "US46266C1053",
+      "cusip": "46266C105",
+      "name": "IQVIA Holdings Inc.",
+      "sharesHeld": "513355",
+      "marketValue": 118148653.25,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "A",
+      "isin": "US00846U1016",
+      "cusip": "00846U101",
+      "name": "Agilent Technologies Inc.",
+      "sharesHeld": "856055",
+      "marketValue": 114582961.75,
+      "percentWeight": "0.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "RMD",
+      "isin": "US7611521078",
+      "cusip": "761152107",
+      "name": "ResMed Inc.",
+      "sharesHeld": "440738",
+      "marketValue": 113847032.78,
+      "percentWeight": "0.57"
+    },
+    {
+      "type": "stock",
+      "ticker": "GEHC",
+      "isin": "US36266G1076",
+      "cusip": "36266G107",
+      "name": "GE HealthCare Technologies Inc.",
+      "sharesHeld": "1378987",
+      "marketValue": 108898603.39,
+      "percentWeight": "0.55"
+    },
+    {
+      "type": "stock",
+      "ticker": "INSM",
+      "isin": "US4576693075",
+      "cusip": "457669307",
+      "name": "Insmed Inc.",
+      "sharesHeld": "638333",
+      "marketValue": 100135297.71,
+      "percentWeight": "0.51"
+    },
+    {
+      "type": "stock",
+      "ticker": "VEEV",
+      "isin": "US9224751084",
+      "cusip": "922475108",
+      "name": "Veeva Systems Inc. Class A",
+      "sharesHeld": "470181",
+      "marketValue": 95879309.52,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "NTRA",
+      "isin": "US6323071042",
+      "cusip": "632307104",
+      "name": "Natera Inc.",
+      "sharesHeld": "393757",
+      "marketValue": 91012992.98,
+      "percentWeight": "0.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "DXCM",
+      "isin": "US2521311074",
+      "cusip": "252131107",
+      "name": "DexCom Inc.",
+      "sharesHeld": "1184320",
+      "marketValue": 86502732.8,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTD",
+      "isin": "US5926881054",
+      "cusip": "592688105",
+      "name": "Mettler-Toledo International Inc.",
+      "sharesHeld": "62209",
+      "marketValue": 85427887.16,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIIB",
+      "isin": "US09062X1037",
+      "cusip": "09062X103",
+      "name": "Biogen Inc.",
+      "sharesHeld": "442757",
+      "marketValue": 79647556.73,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "STE",
+      "isin": "IE00BFY8C754",
+      "cusip": "G8473T100",
+      "name": "STERIS plc",
+      "sharesHeld": "297526",
+      "marketValue": 78130327.6,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "HUM",
+      "isin": "US4448591028",
+      "cusip": "444859102",
+      "name": "Humana Inc.",
+      "sharesHeld": "363195",
+      "marketValue": 70895664,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "LH",
+      "isin": "US5049221055",
+      "cusip": "504922105",
+      "name": "Labcorp Holdings Inc.",
+      "sharesHeld": "250984",
+      "marketValue": 68147175.68,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "ILMN",
+      "isin": "US4523271090",
+      "cusip": "452327109",
+      "name": "Illumina Inc.",
+      "sharesHeld": "464231",
+      "marketValue": 67225291.11,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "WAT",
+      "isin": "US9418481035",
+      "cusip": "941848103",
+      "name": "Waters Corp.",
+      "sharesHeld": "179773",
+      "marketValue": 66645446.56,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNC",
+      "isin": "US15135B1017",
+      "cusip": "15135B101",
+      "name": "Centene Corp.",
+      "sharesHeld": "1483382",
+      "marketValue": 64260108.24,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "DGX",
+      "isin": "US74834L1008",
+      "cusip": "74834L100",
+      "name": "Quest Diagnostics Inc.",
+      "sharesHeld": "337590",
+      "marketValue": 63139457.7,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "UTHR",
+      "isin": "US91307C1027",
+      "cusip": "91307C102",
+      "name": "United Therapeutics Corp.",
+      "sharesHeld": "129773",
+      "marketValue": 60927125.77,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXAS",
+      "isin": "US30063P1057",
+      "cusip": "30063P105",
+      "name": "Exact Sciences Corp.",
+      "sharesHeld": "571897",
+      "marketValue": 58527938.98,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "PODD",
+      "isin": "US45784P1012",
+      "cusip": "45784P101",
+      "name": "Insulet Corp.",
+      "sharesHeld": "212651",
+      "marketValue": 54398252.31,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZBH",
+      "isin": "US98956P1021",
+      "cusip": "98956P102",
+      "name": "Zimmer Biomet Holdings Inc.",
+      "sharesHeld": "598009",
+      "marketValue": 52068643.63,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "THC",
+      "isin": "US88033G4073",
+      "cusip": "88033G407",
+      "name": "Tenet Healthcare Corp.",
+      "sharesHeld": "266910",
+      "marketValue": 50520724.8,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "HOLX",
+      "isin": "US4364401012",
+      "cusip": "436440101",
+      "name": "Hologic Inc.",
+      "sharesHeld": "671679",
+      "marketValue": 50328907.47,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "WST",
+      "isin": "US9553061055",
+      "cusip": "955306105",
+      "name": "West Pharmaceutical Services Inc.",
+      "sharesHeld": "217237",
+      "marketValue": 50207815.44,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "INCY",
+      "isin": "US45337C1027",
+      "cusip": "45337C102",
+      "name": "Incyte Corp.",
+      "sharesHeld": "501449",
+      "marketValue": 50180001.43,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "COO",
+      "isin": "US2166485019",
+      "cusip": "216648501",
+      "name": "Cooper Cos. Inc.",
+      "sharesHeld": "600620",
+      "marketValue": 48878455.6,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRNA",
+      "isin": "US60770K1079",
+      "cusip": "60770K107",
+      "name": "Moderna Inc.",
+      "sharesHeld": "1061036",
+      "marketValue": 46759856.52,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "VTRS",
+      "isin": "US92556V1061",
+      "cusip": "92556V106",
+      "name": "Viatris Inc.",
+      "sharesHeld": "3518561",
+      "marketValue": 46057963.49,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "RVMD",
+      "isin": "US76155X1000",
+      "cusip": "76155X100",
+      "name": "Revolution Medicines Inc.",
+      "sharesHeld": "423156",
+      "marketValue": 41024974.2,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "NBIX",
+      "isin": "US64125C1099",
+      "cusip": "64125C109",
+      "name": "Neurocrine Biosciences Inc.",
+      "sharesHeld": "299411",
+      "marketValue": 40737860.66,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEN",
+      "isin": "US70975L1070",
+      "cusip": "70975L107",
+      "name": "Penumbra Inc.",
+      "sharesHeld": "111830",
+      "marketValue": 40054151.1,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "MEDP",
+      "isin": "US58506Q1094",
+      "cusip": "58506Q109",
+      "name": "Medpace Holdings Inc.",
+      "sharesHeld": "67847",
+      "marketValue": 39519520.56,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "GH",
+      "isin": "US40131M1099",
+      "cusip": "40131M109",
+      "name": "Guardant Health Inc.",
+      "sharesHeld": "338780",
+      "marketValue": 38634471.2,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "RVTY",
+      "isin": "US7140461093",
+      "cusip": "714046109",
+      "name": "PerkinElmer Inc.",
+      "sharesHeld": "350333",
+      "marketValue": 38116230.4,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "IONS",
+      "isin": "US4622221004",
+      "cusip": "462222100",
+      "name": "Ionis Pharmaceuticals Inc.",
+      "sharesHeld": "456958",
+      "marketValue": 37776717.86,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOLV",
+      "isin": "US83444M1018",
+      "cusip": "83444M101",
+      "name": "Solventum Corp.",
+      "sharesHeld": "470208",
+      "marketValue": 36191909.76,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELAN",
+      "isin": "US28414H1032",
+      "cusip": "28414H103",
+      "name": "Elanco Animal Health Inc.",
+      "sharesHeld": "1499425",
+      "marketValue": 36106154,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "UHS",
+      "isin": "US9139031002",
+      "cusip": "913903100",
+      "name": "Universal Health Services Inc. Class B",
+      "sharesHeld": "170257",
+      "marketValue": 34265923.82,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALGN",
+      "isin": "US0162551016",
+      "cusip": "016255101",
+      "name": "Align Technology Inc.",
+      "sharesHeld": "207814",
+      "marketValue": 33879916.42,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "BBIO",
+      "isin": "US10806X1028",
+      "cusip": "10806X102",
+      "name": "Bridgebio Pharma Inc.",
+      "sharesHeld": "432659",
+      "marketValue": 33431560.93,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXEL",
+      "isin": "US30161Q1040",
+      "cusip": "30161Q104",
+      "name": "Exelixis Inc.",
+      "sharesHeld": "772091",
+      "marketValue": 31933683.76,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRL",
+      "isin": "US1598641074",
+      "cusip": "159864107",
+      "name": "Charles River Laboratories International Inc.",
+      "sharesHeld": "148553",
+      "marketValue": 31267435.44,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMRN",
+      "isin": "US09061G1013",
+      "cusip": "09061G101",
+      "name": "BioMarin Pharmaceutical Inc.",
+      "sharesHeld": "550586",
+      "marketValue": 31130132.44,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAX",
+      "isin": "US0718131099",
+      "cusip": "071813109",
+      "name": "Baxter International Inc.",
+      "sharesHeld": "1550482",
+      "marketValue": 31118173.74,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "GMED",
+      "isin": "US3795772082",
+      "cusip": "379577208",
+      "name": "Globus Medical Inc.",
+      "sharesHeld": "339906",
+      "marketValue": 30822676.08,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "TECH",
+      "isin": "US09073M1045",
+      "cusip": "09073M104",
+      "name": "Bio-Techne Corp.",
+      "sharesHeld": "469908",
+      "marketValue": 30116403.72,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENSG",
+      "isin": "US29358P1012",
+      "cusip": "29358P101",
+      "name": "Ensign Group Inc.",
+      "sharesHeld": "174226",
+      "marketValue": 29907635.16,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "MOH",
+      "isin": "US60855R1005",
+      "cusip": "60855R100",
+      "name": "Molina Healthcare Inc.",
+      "sharesHeld": "163609",
+      "marketValue": 29382540.31,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "EHC",
+      "isin": "US29261A1007",
+      "cusip": "29261A100",
+      "name": "Encompass Health Corp.",
+      "sharesHeld": "304195",
+      "marketValue": 28755553.35,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "JAZZ",
+      "isin": "IE00B4Q5ZN47",
+      "cusip": "G50871105",
+      "name": "Jazz Pharmaceuticals plc",
+      "sharesHeld": "164820",
+      "marketValue": 27111241.8,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARWR",
+      "isin": "US04280A1007",
+      "cusip": "04280A100",
+      "name": "Arrowhead Pharmaceuticals Inc.",
+      "sharesHeld": "375598",
+      "marketValue": 26040209.34,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "HALO",
+      "isin": "US40637H1095",
+      "cusip": "40637H109",
+      "name": "Halozyme Therapeutics Inc.",
+      "sharesHeld": "353152",
+      "marketValue": 25324529.92,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "HSIC",
+      "isin": "US8064071025",
+      "cusip": "806407102",
+      "name": "Henry Schein Inc.",
+      "sharesHeld": "329521",
+      "marketValue": 24872245.08,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "ROIV",
+      "isin": "BMG762791017",
+      "cusip": "G76279101",
+      "name": "Roivant Sciences Ltd.",
+      "sharesHeld": "1133653",
+      "marketValue": 24509577.86,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGEN",
+      "isin": "US7599161095",
+      "cusip": "759916109",
+      "name": "Repligen Corp.",
+      "sharesHeld": "161342",
+      "marketValue": 24099654.54,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "RNA",
+      "isin": "US05370A1088",
+      "cusip": "05370A108",
+      "name": "Avidity Biosciences Inc.",
+      "sharesHeld": "330291",
+      "marketValue": 23969217.87,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRAX",
+      "isin": "US74006W2070",
+      "cusip": "74006W207",
+      "name": "Praxis Precision Medicines Inc.",
+      "sharesHeld": "71120",
+      "marketValue": 22331680,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "HQY",
+      "isin": "US42226A1079",
+      "cusip": "42226A107",
+      "name": "HealthEquity Inc.",
+      "sharesHeld": "260121",
+      "marketValue": 22284566.07,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "MDLN",
+      "isin": "US58507V1070",
+      "cusip": "58507V107",
+      "name": "Medline Inc. Class A",
+      "sharesHeld": "498022",
+      "marketValue": 22012572.4,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "CYTK",
+      "isin": "US23282W6057",
+      "cusip": "23282W605",
+      "name": "Cytokinetics Inc.",
+      "sharesHeld": "343093",
+      "marketValue": 21680046.67,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "MDGL",
+      "isin": "US5588681057",
+      "cusip": "558868105",
+      "name": "Madrigal Pharmaceuticals Inc.",
+      "sharesHeld": "43730",
+      "marketValue": 21397526.3,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVTR",
+      "isin": "US05352A1007",
+      "cusip": "05352A100",
+      "name": "Avantor Inc.",
+      "sharesHeld": "1895846",
+      "marketValue": 20702638.32,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "GKOS",
+      "isin": "US3773221029",
+      "cusip": "377322102",
+      "name": "Glaukos Corp.",
+      "sharesHeld": "173108",
+      "marketValue": 20665633.04,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "AXSM",
+      "isin": "US05464T1043",
+      "cusip": "05464T104",
+      "name": "Axsome Therapeutics Inc.",
+      "sharesHeld": "105414",
+      "marketValue": 19422529.5,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "MASI",
+      "isin": "US5747951003",
+      "cusip": "574795100",
+      "name": "Masimo Corp.",
+      "sharesHeld": "139409",
+      "marketValue": 19145037.97,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCVX",
+      "isin": "US92243G1085",
+      "cusip": "92243G108",
+      "name": "Vaxcyte Inc.",
+      "sharesHeld": "352590",
+      "marketValue": 18888246.3,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHE",
+      "isin": "US16359R1032",
+      "cusip": "16359R103",
+      "name": "Chemed Corp.",
+      "sharesHeld": "43992",
+      "marketValue": 18790742.88,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRYS",
+      "isin": "US5011471027",
+      "cusip": "501147102",
+      "name": "Krystal Biotech Inc.",
+      "sharesHeld": "65523",
+      "marketValue": 18296642.52,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYTM",
+      "isin": "US76243J1051",
+      "cusip": "76243J105",
+      "name": "Rhythm Pharmaceuticals Inc.",
+      "sharesHeld": "170397",
+      "marketValue": 17469100.44,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEM",
+      "isin": "US88023B1035",
+      "cusip": "88023B103",
+      "name": "Tempus AI Inc.",
+      "sharesHeld": "280057",
+      "marketValue": 16753009.74,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "OPCH",
+      "isin": "US68404L2016",
+      "cusip": "68404L201",
+      "name": "Option Care Health Inc.",
+      "sharesHeld": "489809",
+      "marketValue": 16653506,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIO",
+      "isin": "US0905722072",
+      "cusip": "090572207",
+      "name": "Bio-Rad Laboratories Inc. Class A",
+      "sharesHeld": "56430",
+      "marketValue": 16573491,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "PTCT",
+      "isin": "US69366J2006",
+      "cusip": "69366J200",
+      "name": "PTC Therapeutics Inc.",
+      "sharesHeld": "215842",
+      "marketValue": 16302546.26,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALKS",
+      "isin": "IE00B56GVS15",
+      "cusip": "G01767105",
+      "name": "Alkermes plc",
+      "sharesHeld": "473354",
+      "marketValue": 16041967.06,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "HIMS",
+      "isin": "US4330001060",
+      "cusip": "433000106",
+      "name": "Hims & Hers Health Inc.",
+      "sharesHeld": "591356",
+      "marketValue": 16019834.04,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRTC",
+      "isin": "US4500561067",
+      "cusip": "450056106",
+      "name": "iRhythm Technologies Inc.",
+      "sharesHeld": "96997",
+      "marketValue": 14987006.47,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "MMSI",
+      "isin": "US5898891040",
+      "cusip": "589889104",
+      "name": "Merit Medical Systems Inc.",
+      "sharesHeld": "178806",
+      "marketValue": 14499378.54,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRKR",
+      "isin": "US1167941087",
+      "cusip": "116794108",
+      "name": "Bruker Corp.",
+      "sharesHeld": "320492",
+      "marketValue": 14194590.68,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "TFX",
+      "isin": "US8793691069",
+      "cusip": "879369106",
+      "name": "Teleflex Inc.",
+      "sharesHeld": "133390",
+      "marketValue": 13921914.3,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "DOCS",
+      "isin": "US26622P1075",
+      "cusip": "26622P107",
+      "name": "Doximity Inc. Class A",
+      "sharesHeld": "370283",
+      "marketValue": 13874504.01,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "RDNT",
+      "isin": "US7504911022",
+      "cusip": "750491102",
+      "name": "RadNet Inc.",
+      "sharesHeld": "197372",
+      "marketValue": 13835777.2,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "LNTH",
+      "isin": "US5165441032",
+      "cusip": "516544103",
+      "name": "Lantheus Holdings Inc.",
+      "sharesHeld": "204985",
+      "marketValue": 13717596.2,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRNX",
+      "isin": "US22663K1079",
+      "cusip": "22663K107",
+      "name": "Crinetics Pharmaceuticals Inc.",
+      "sharesHeld": "269865",
+      "marketValue": 13477058.1,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "TGTX",
+      "isin": "US88322Q1085",
+      "cusip": "88322Q108",
+      "name": "TG Therapeutics Inc.",
+      "sharesHeld": "455025",
+      "marketValue": 13391385.75,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "TMDX",
+      "isin": "US89377M1099",
+      "cusip": "89377M109",
+      "name": "TransMedics Group Inc.",
+      "sharesHeld": "97757",
+      "marketValue": 13096994.08,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "DVA",
+      "isin": "US23918K1088",
+      "cusip": "23918K108",
+      "name": "DaVita Inc.",
+      "sharesHeld": "118572",
+      "marketValue": 12964662.48,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADMA",
+      "isin": "US0008991046",
+      "cusip": "000899104",
+      "name": "ADMA Biologics Inc.",
+      "sharesHeld": "720098",
+      "marketValue": 12457695.4,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "NUVL",
+      "isin": "US6707031075",
+      "cusip": "670703107",
+      "name": "Nuvalent Inc. Class A",
+      "sharesHeld": "120633",
+      "marketValue": 12411929.37,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "PTGX",
+      "isin": "US74366E1029",
+      "cusip": "74366E102",
+      "name": "Protagonist Therapeutics Inc.",
+      "sharesHeld": "150208",
+      "marketValue": 12287014.4,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "FOLD",
+      "isin": "US03152W1099",
+      "cusip": "03152W109",
+      "name": "Amicus Therapeutics Inc.",
+      "sharesHeld": "836938",
+      "marketValue": 11959844.02,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "NVST",
+      "isin": "US29415F1049",
+      "cusip": "29415F104",
+      "name": "Envista Holdings Corp.",
+      "sharesHeld": "501306",
+      "marketValue": 11765651.82,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "MIRM",
+      "isin": "US6047491013",
+      "cusip": "604749101",
+      "name": "Mirum Pharmaceuticals Inc.",
+      "sharesHeld": "113843",
+      "marketValue": 11750874.46,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHC",
+      "isin": "US83601L1026",
+      "cusip": "83601L102",
+      "name": "Sotera Health Co.",
+      "sharesHeld": "643097",
+      "marketValue": 11652917.64,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "BTSG",
+      "isin": "US10950A1060",
+      "cusip": "10950A106",
+      "name": "BrightSpring Health Services Inc.",
+      "sharesHeld": "293643",
+      "marketValue": 11531360.61,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALHC",
+      "isin": "US01625V1044",
+      "cusip": "01625V104",
+      "name": "Alignment Healthcare Inc.",
+      "sharesHeld": "508022",
+      "marketValue": 11445735.66,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CORT",
+      "isin": "US2183521028",
+      "cusip": "218352102",
+      "name": "Corcept Therapeutics Inc.",
+      "sharesHeld": "286289",
+      "marketValue": 11414342.43,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "LGND",
+      "isin": "US53220K5048",
+      "cusip": "53220K504",
+      "name": "Ligand Pharmaceuticals Inc.",
+      "sharesHeld": "59291",
+      "marketValue": 11389801.1,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "LIVN",
+      "isin": "GB00BYMT0J19",
+      "cusip": "G5509L101",
+      "name": "LivaNova plc",
+      "sharesHeld": "164764",
+      "marketValue": 10826642.44,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GRAL",
+      "isin": "US3847471014",
+      "cusip": "384747101",
+      "name": "GRAIL Inc.",
+      "sharesHeld": "110514",
+      "marketValue": 10810479.48,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ICUI",
+      "isin": "US44930G1076",
+      "cusip": "44930G107",
+      "name": "ICU Medical Inc.",
+      "sharesHeld": "70758",
+      "marketValue": 10606624.2,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "KYMR",
+      "isin": "US5015751044",
+      "cusip": "501575104",
+      "name": "Kymera Therapeutics Inc.",
+      "sharesHeld": "143976",
+      "marketValue": 10465615.44,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "BKD",
+      "isin": "US1124631045",
+      "cusip": "112463104",
+      "name": "Brookdale Senior Living Inc.",
+      "sharesHeld": "682493",
+      "marketValue": 10237395,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "HAE",
+      "isin": "US4050241003",
+      "cusip": "405024100",
+      "name": "Haemonetics Corp.",
+      "sharesHeld": "145413",
+      "marketValue": 9693230.58,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "PBH",
+      "isin": "US74112D1019",
+      "cusip": "74112D101",
+      "name": "Prestige Consumer Healthcare Inc.",
+      "sharesHeld": "148566",
+      "marketValue": 9578050.02,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "VKTX",
+      "isin": "US92686J1060",
+      "cusip": "92686J106",
+      "name": "Viking Therapeutics Inc.",
+      "sharesHeld": "322260",
+      "marketValue": 9358430.4,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "INDV",
+      "isin": "US45579U1097",
+      "cusip": "45579U109",
+      "name": "Indivior Pharmaceuticals Inc.",
+      "sharesHeld": "263584",
+      "marketValue": 9325601.92,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "WAY",
+      "isin": "US9467841055",
+      "cusip": "946784105",
+      "name": "Waystar Holding Corp.",
+      "sharesHeld": "345639",
+      "marketValue": 9180171.84,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ITGR",
+      "isin": "US45826H1095",
+      "cusip": "45826H109",
+      "name": "Integer Holdings Corp.",
+      "sharesHeld": "105685",
+      "marketValue": 9179799.1,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "DNLI",
+      "isin": "US24823R1059",
+      "cusip": "24823R105",
+      "name": "Denali Therapeutics Inc.",
+      "sharesHeld": "420373",
+      "marketValue": 9138909.02,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "COGT",
+      "isin": "US19240Q2012",
+      "cusip": "19240Q201",
+      "name": "Cogent Biosciences Inc.",
+      "sharesHeld": "252897",
+      "marketValue": 9081531.27,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "VCYT",
+      "isin": "US92337F1075",
+      "cusip": "92337F107",
+      "name": "Veracyte Inc.",
+      "sharesHeld": "237383",
+      "marketValue": 9039544.64,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACAD",
+      "isin": "US0042251084",
+      "cusip": "004225108",
+      "name": "ACADIA Pharmaceuticals Inc.",
+      "sharesHeld": "357038",
+      "marketValue": 8972364.94,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPRX",
+      "isin": "US14888U1016",
+      "cusip": "14888U101",
+      "name": "Catalyst Pharmaceuticals Inc.",
+      "sharesHeld": "350741",
+      "marketValue": 8523006.3,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRRK",
+      "isin": "US80706P1030",
+      "cusip": "80706P103",
+      "name": "Scholar Rock Holding Corp.",
+      "sharesHeld": "188858",
+      "marketValue": 8373963.72,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARQT",
+      "isin": "US03969K1088",
+      "cusip": "03969K108",
+      "name": "Arcutis Biotherapeutics Inc.",
+      "sharesHeld": "325386",
+      "marketValue": 8255042.82,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SUPN",
+      "isin": "US8684591089",
+      "cusip": "868459108",
+      "name": "Supernus Pharmaceuticals Inc.",
+      "sharesHeld": "169191",
+      "marketValue": 8148238.56,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "TVTX",
+      "isin": "US89422G1076",
+      "cusip": "89422G107",
+      "name": "Travere Therapeutics Inc.",
+      "sharesHeld": "255002",
+      "marketValue": 7928012.18,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CON",
+      "isin": "US20603L1026",
+      "cusip": "20603L102",
+      "name": "Concentra Group Holdings Parent Inc.",
+      "sharesHeld": "347983",
+      "marketValue": 7718262.94,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LQDA",
+      "isin": "US53635D2027",
+      "cusip": "53635D202",
+      "name": "Liquidia Technologies Inc.",
+      "sharesHeld": "181672",
+      "marketValue": 7701076.08,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "IDYA",
+      "isin": "US45166A1025",
+      "cusip": "45166A102",
+      "name": "Ideaya Biosciences Inc.",
+      "sharesHeld": "237756",
+      "marketValue": 7653365.64,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "BEAM",
+      "isin": "US07373V1052",
+      "cusip": "07373V105",
+      "name": "Beam Therapeutics Inc.",
+      "sharesHeld": "274115",
+      "marketValue": 7571056.3,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "XRAY",
+      "isin": "US24906P1093",
+      "cusip": "24906P109",
+      "name": "Dentsply Sirona Inc.",
+      "sharesHeld": "600482",
+      "marketValue": 7488010.54,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "TWST",
+      "isin": "US90184D1000",
+      "cusip": "90184D100",
+      "name": "Twist Bioscience Corp.",
+      "sharesHeld": "181852",
+      "marketValue": 7468661.64,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "IMNM",
+      "isin": "US45257U1088",
+      "cusip": "45257U108",
+      "name": "Immunome Inc.",
+      "sharesHeld": "283144",
+      "marketValue": 6971005.28,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRVA",
+      "isin": "US74276R1023",
+      "cusip": "74276R102",
+      "name": "Privia Health Group Inc.",
+      "sharesHeld": "295984",
+      "marketValue": 6872748.48,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "OMCL",
+      "isin": "US68213N1090",
+      "cusip": "68213N109",
+      "name": "Omnicell Inc.",
+      "sharesHeld": "138935",
+      "marketValue": 6738347.5,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CGON",
+      "isin": "US1569441009",
+      "cusip": "156944100",
+      "name": "CG oncology Inc.",
+      "sharesHeld": "129438",
+      "marketValue": 6737247.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "OGN",
+      "isin": "US68622V1061",
+      "cusip": "68622V106",
+      "name": "Organon & Co.",
+      "sharesHeld": "786276",
+      "marketValue": 6714797.04,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VRDN",
+      "isin": "US92790C1045",
+      "cusip": "92790C104",
+      "name": "Viridian Therapeutics Inc.",
+      "sharesHeld": "197208",
+      "marketValue": 6507864,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMMT",
+      "isin": "US86627T1088",
+      "cusip": "86627T108",
+      "name": "Summit Therapeutics Inc.",
+      "sharesHeld": "449240",
+      "marketValue": 6504995.2,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMRX",
+      "isin": "US03168L1052",
+      "cusip": "03168L105",
+      "name": "Amneal Pharmaceuticals Inc.",
+      "sharesHeld": "473115",
+      "marketValue": 6472213.2,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRVL",
+      "isin": "US2210061097",
+      "cusip": "221006109",
+      "name": "CorVel Corp.",
+      "sharesHeld": "92698",
+      "marketValue": 6454561.74,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "INSP",
+      "isin": "US4577301090",
+      "cusip": "457730109",
+      "name": "Inspire Medical Systems Inc.",
+      "sharesHeld": "84746",
+      "marketValue": 6422051.88,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADPT",
+      "isin": "US00650F1093",
+      "cusip": "00650F109",
+      "name": "Adaptive Biotechnologies Corp.",
+      "sharesHeld": "345556",
+      "marketValue": 6392786,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEOG",
+      "isin": "US6404911066",
+      "cusip": "640491106",
+      "name": "Neogen Corp.",
+      "sharesHeld": "621737",
+      "marketValue": 6354152.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RARE",
+      "isin": "US90400D1081",
+      "cusip": "90400D108",
+      "name": "Ultragenyx Pharmaceutical Inc.",
+      "sharesHeld": "262514",
+      "marketValue": 6318711.98,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "APGE",
+      "isin": "US03770N1019",
+      "cusip": "03770N101",
+      "name": "Apogee Therapeutics Inc.",
+      "sharesHeld": "96316",
+      "marketValue": 6309661.16,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TXG",
+      "isin": "US88025U1097",
+      "cusip": "88025U109",
+      "name": "10X Genomics Inc. Class A",
+      "sharesHeld": "311535",
+      "marketValue": 6293007,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IMVT",
+      "isin": "US45258J1025",
+      "cusip": "45258J102",
+      "name": "Immunovant Inc.",
+      "sharesHeld": "241396",
+      "marketValue": 6276296,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IBRX",
+      "isin": "US45256X1037",
+      "cusip": "45256X103",
+      "name": "ImmunityBio Inc.",
+      "sharesHeld": "1001027",
+      "marketValue": 6256418.75,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TARS",
+      "isin": "US87650L1035",
+      "cusip": "87650L103",
+      "name": "Tarsus Pharmaceuticals Inc.",
+      "sharesHeld": "95875",
+      "marketValue": 6187772.5,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRPT",
+      "isin": "US8036071004",
+      "cusip": "803607100",
+      "name": "Sarepta Therapeutics Inc.",
+      "sharesHeld": "300865",
+      "marketValue": 6119594.1,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DYN",
+      "isin": "US26818M1080",
+      "cusip": "26818M108",
+      "name": "Dyne Therapeutics Inc.",
+      "sharesHeld": "339526",
+      "marketValue": 6074120.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TERN",
+      "isin": "US8808811074",
+      "cusip": "880881107",
+      "name": "Terns Pharmaceuticals Inc.",
+      "sharesHeld": "171658",
+      "marketValue": 5939366.8,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "PGNY",
+      "isin": "US74340E1038",
+      "cusip": "74340E103",
+      "name": "Progyny Inc.",
+      "sharesHeld": "247406",
+      "marketValue": 5905581.22,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRGO",
+      "isin": "IE00BGH1M568",
+      "cusip": "G97822103",
+      "name": "Perrigo Co. plc",
+      "sharesHeld": "415139",
+      "marketValue": 5899125.19,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "WGS",
+      "isin": "US81663L2007",
+      "cusip": "81663L200",
+      "name": "GeneDx Holdings Corp. Class A",
+      "sharesHeld": "60842",
+      "marketValue": 5856650.92,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADUS",
+      "isin": "US0067391062",
+      "cusip": "006739106",
+      "name": "Addus HomeCare Corp.",
+      "sharesHeld": "55506",
+      "marketValue": 5743760.88,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACLX",
+      "isin": "US03940C1009",
+      "cusip": "03940C100",
+      "name": "Arcellx Inc.",
+      "sharesHeld": "83584",
+      "marketValue": 5709623.04,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVDL",
+      "isin": "IE00BDGMC594",
+      "cusip": "G29687103",
+      "name": "Avadel Pharmaceuticals plc",
+      "sharesHeld": "264732",
+      "marketValue": 5704974.6,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRON",
+      "isin": "US2546041011",
+      "cusip": "254604101",
+      "name": "Disc Medicine Inc.",
+      "sharesHeld": "73642",
+      "marketValue": 5693999.44,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NHC",
+      "isin": "US6359061008",
+      "cusip": "635906100",
+      "name": "National HealthCare Corp.",
+      "sharesHeld": "39722",
+      "marketValue": 5684615.42,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MD",
+      "isin": "US58502B1061",
+      "cusip": "58502B106",
+      "name": "MEDNAX Inc.",
+      "sharesHeld": "263455",
+      "marketValue": 5632667.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARDX",
+      "isin": "US0396971071",
+      "cusip": "039697107",
+      "name": "Ardelyx Inc.",
+      "sharesHeld": "729739",
+      "marketValue": 5611692.91,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "QDEL",
+      "isin": "US2197981051",
+      "cusip": "219798105",
+      "name": "QuidelOrtho Corp.",
+      "sharesHeld": "204534",
+      "marketValue": 5557188.78,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "UFPT",
+      "isin": "US9026731029",
+      "cusip": "902673102",
+      "name": "UFP Technologies Inc.",
+      "sharesHeld": "22043",
+      "marketValue": 5535879.02,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATRC",
+      "isin": "US04963C2098",
+      "cusip": "04963C209",
+      "name": "AtriCure Inc.",
+      "sharesHeld": "149793",
+      "marketValue": 5531855.49,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LMAT",
+      "isin": "US5255582018",
+      "cusip": "525558201",
+      "name": "LeMaitre Vascular Inc.",
+      "sharesHeld": "64702",
+      "marketValue": 5497728.94,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VCEL",
+      "isin": "US92346J1088",
+      "cusip": "92346J108",
+      "name": "Vericel Corp.",
+      "sharesHeld": "152792",
+      "marketValue": 5497456.16,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RCUS",
+      "isin": "US03969F1093",
+      "cusip": "03969F109",
+      "name": "Arcus Biosciences Inc.",
+      "sharesHeld": "257434",
+      "marketValue": 5416411.36,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ERAS",
+      "isin": "US29479A1088",
+      "cusip": "29479A108",
+      "name": "Erasca Inc.",
+      "sharesHeld": "513439",
+      "marketValue": 5396243.89,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATEC",
+      "isin": "US02081G2012",
+      "cusip": "02081G201",
+      "name": "Alphatec Holdings Inc.",
+      "sharesHeld": "358230",
+      "marketValue": 5312550.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLNO",
+      "isin": "US8342033094",
+      "cusip": "834203309",
+      "name": "Soleno Therapeutics Inc.",
+      "sharesHeld": "136696",
+      "marketValue": 5270997.76,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "APLS",
+      "isin": "US03753U1060",
+      "cusip": "03753U106",
+      "name": "Apellis Pharmaceuticals Inc.",
+      "sharesHeld": "227874",
+      "marketValue": 5145394.92,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MNKD",
+      "isin": "US56400P7069",
+      "cusip": "56400P706",
+      "name": "MannKind Corp.",
+      "sharesHeld": "881938",
+      "marketValue": 5097601.64,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEM",
+      "isin": "US81619Q1058",
+      "cusip": "81619Q105",
+      "name": "Select Medical Holdings Corp.",
+      "sharesHeld": "337518",
+      "marketValue": 5079645.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VERA",
+      "isin": "US92337R1014",
+      "cusip": "92337R101",
+      "name": "Vera Therapeutics Inc. Class A",
+      "sharesHeld": "115898",
+      "marketValue": 5013747.48,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SNDX",
+      "isin": "US87164F1057",
+      "cusip": "87164F105",
+      "name": "Syndax Pharmaceuticals Inc.",
+      "sharesHeld": "246186",
+      "marketValue": 5000037.66,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AORT",
+      "isin": "US2289031005",
+      "cusip": "228903100",
+      "name": "CryoLife Inc.",
+      "sharesHeld": "121272",
+      "marketValue": 4944259.44,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AUPH",
+      "isin": "CA05156V1022",
+      "cusip": "05156V102",
+      "name": "Aurinia Pharmaceuticals Inc.",
+      "sharesHeld": "338568",
+      "marketValue": 4919393.04,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AXGN",
+      "isin": "US05463X1063",
+      "cusip": "05463X106",
+      "name": "Axogen Inc.",
+      "sharesHeld": "139170",
+      "marketValue": 4850074.5,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRCT",
+      "isin": "US74276L1052",
+      "cusip": "74276L105",
+      "name": "PROCEPT BioRobotics Corp.",
+      "sharesHeld": "167406",
+      "marketValue": 4848077.76,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AZTA",
+      "isin": "US1143401024",
+      "cusip": "114340102",
+      "name": "Brooks Automation Inc.",
+      "sharesHeld": "124389",
+      "marketValue": 4836244.32,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "HRMY",
+      "isin": "US4131971040",
+      "cusip": "413197104",
+      "name": "Harmony Biosciences Holdings Inc.",
+      "sharesHeld": "129902",
+      "marketValue": 4744021.04,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "PACS",
+      "isin": "US69380Q1076",
+      "cusip": "69380Q107",
+      "name": "PACS Group Inc.",
+      "sharesHeld": "140439",
+      "marketValue": 4741220.64,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SYRE",
+      "isin": "US00773J2024",
+      "cusip": "00773J202",
+      "name": "Spyre Therapeutics Inc.",
+      "sharesHeld": "148155",
+      "marketValue": 4737996.9,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEO",
+      "isin": "US64049M2098",
+      "cusip": "64049M209",
+      "name": "NeoGenomics Inc.",
+      "sharesHeld": "387844",
+      "marketValue": 4677398.64,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "RXRX",
+      "isin": "US75629V1044",
+      "cusip": "75629V104",
+      "name": "Recursion Pharmaceuticals Inc. Class A",
+      "sharesHeld": "1105178",
+      "marketValue": 4630695.82,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "FTRE",
+      "isin": "US34965K1079",
+      "cusip": "34965K107",
+      "name": "Fortrea Holdings Inc.",
+      "sharesHeld": "275282",
+      "marketValue": 4627490.42,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNSA",
+      "isin": "GB00BRXB0C07",
+      "cusip": "G52694109",
+      "name": "Kiniksa Pharmaceuticals International plc Class A",
+      "sharesHeld": "105221",
+      "marketValue": 4621306.32,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AGIO",
+      "isin": "US00847X1046",
+      "cusip": "00847X104",
+      "name": "Agios Pharmaceuticals Inc.",
+      "sharesHeld": "166070",
+      "marketValue": 4556960.8,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "EWTX",
+      "isin": "US28036F1057",
+      "cusip": "28036F105",
+      "name": "Edgewise Therapeutics Inc.",
+      "sharesHeld": "159635",
+      "marketValue": 4493725.25,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLDX",
+      "isin": "US15117B2025",
+      "cusip": "15117B202",
+      "name": "Celldex Therapeutics Inc.",
+      "sharesHeld": "180908",
+      "marketValue": 4450336.8,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANIP",
+      "isin": "US00182C1036",
+      "cusip": "00182C103",
+      "name": "ANI Pharmaceuticals Inc.",
+      "sharesHeld": "53950",
+      "marketValue": 4415807.5,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "OCUL",
+      "isin": "US67576A1007",
+      "cusip": "67576A100",
+      "name": "Ocular Therapeutix Inc.",
+      "sharesHeld": "481095",
+      "marketValue": 4397208.3,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "DVAX",
+      "isin": "US2681582019",
+      "cusip": "268158201",
+      "name": "Dynavax Technologies Corp.",
+      "sharesHeld": "283791",
+      "marketValue": 4394503.64,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "COLL",
+      "isin": "US19459J1043",
+      "cusip": "19459J104",
+      "name": "Collegium Pharmaceutical Inc.",
+      "sharesHeld": "95295",
+      "marketValue": 4375946.4,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "WVE",
+      "isin": "SG9999014716",
+      "cusip": "Y95308105",
+      "name": "WaVe Life Sciences Ltd.",
+      "sharesHeld": "336027",
+      "marketValue": 4348189.38,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "MLYS",
+      "isin": "US6031701013",
+      "cusip": "603170101",
+      "name": "Mineralys Therapeutics Inc.",
+      "sharesHeld": "137534",
+      "marketValue": 4248425.26,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NAMS",
+      "isin": "NL00150012L7",
+      "cusip": null,
+      "name": "Newamsterdam Pharma Co. NV",
+      "sharesHeld": "136305",
+      "marketValue": 4241811.6,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CELC",
+      "isin": "US15102K1007",
+      "cusip": "15102K100",
+      "name": "Celcuity Inc.",
+      "sharesHeld": "38462",
+      "marketValue": 4208512.04,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "BHVN",
+      "isin": "VGG1110E1079",
+      "cusip": "G1110E107",
+      "name": "Biohaven Ltd.",
+      "sharesHeld": "351963",
+      "marketValue": 4163722.29,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "BCRX",
+      "isin": "US09058V1035",
+      "cusip": "09058V103",
+      "name": "BioCryst Pharmaceuticals Inc.",
+      "sharesHeld": "625571",
+      "marketValue": 4116257.18,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "DFTX",
+      "isin": "CA24477V1058",
+      "cusip": "24477V105",
+      "name": "Definium Therapeutics Inc.",
+      "sharesHeld": "242088",
+      "marketValue": 4086445.44,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NTLA",
+      "isin": "US45826J1051",
+      "cusip": "45826J105",
+      "name": "Intellia Therapeutics Inc.",
+      "sharesHeld": "308602",
+      "marketValue": 4058116.3,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "TNDM",
+      "isin": "US8753722037",
+      "cusip": "875372203",
+      "name": "Tandem Diabetes Care Inc.",
+      "sharesHeld": "203214",
+      "marketValue": 4041926.46,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NVCR",
+      "isin": "JE00BYSS4X48",
+      "cusip": "G6674U108",
+      "name": "Novocure Ltd.",
+      "sharesHeld": "321468",
+      "marketValue": 3986203.2,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALMS",
+      "isin": "US0223071020",
+      "cusip": "022307102",
+      "name": "Alumis Inc.",
+      "sharesHeld": "161191",
+      "marketValue": 3950791.41,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "HROW",
+      "isin": "US4158581094",
+      "cusip": "415858109",
+      "name": "Harrow Inc.",
+      "sharesHeld": "94830",
+      "marketValue": 3882340.2,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "USPH",
+      "isin": "US90337L1089",
+      "cusip": "90337L108",
+      "name": "US Physical Therapy Inc.",
+      "sharesHeld": "45614",
+      "marketValue": 3825646.18,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENOV",
+      "isin": "US1940145022",
+      "cusip": "194014502",
+      "name": "Enovis Corp.",
+      "sharesHeld": "172212",
+      "marketValue": 3795552.48,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NRIX",
+      "isin": "US67080M1036",
+      "cusip": "67080M103",
+      "name": "Nurix Therapeutics Inc.",
+      "sharesHeld": "229088",
+      "marketValue": 3784533.76,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "LFST",
+      "isin": "US53228F1012",
+      "cusip": "53228F101",
+      "name": "LifeStance Health Group Inc.",
+      "sharesHeld": "529099",
+      "marketValue": 3740729.93,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NVAX",
+      "isin": "US6700024010",
+      "cusip": "670002401",
+      "name": "Novavax Inc.",
+      "sharesHeld": "417686",
+      "marketValue": 3694432.67,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "INVA",
+      "isin": "US45781M1018",
+      "cusip": "45781M101",
+      "name": "Innoviva Inc.",
+      "sharesHeld": "179408",
+      "marketValue": 3588160,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "XERS",
+      "isin": "US98422E1038",
+      "cusip": "98422E103",
+      "name": "Xeris Biopharma Holdings Inc.",
+      "sharesHeld": "487310",
+      "marketValue": 3586601.6,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNMD",
+      "isin": "US2074101013",
+      "cusip": "207410101",
+      "name": "CONMED Corp.",
+      "sharesHeld": "93217",
+      "marketValue": 3578600.63,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACHC",
+      "isin": "US00404A1097",
+      "cusip": "00404A109",
+      "name": "Acadia Healthcare Co. Inc.",
+      "sharesHeld": "265399",
+      "marketValue": 3566962.56,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESTA",
+      "isin": "VGG312491084",
+      "cusip": "G31249108",
+      "name": "Establishment Labs Holdings Inc.",
+      "sharesHeld": "52090",
+      "marketValue": 3549933.5,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMLX",
+      "isin": "US03237H1014",
+      "cusip": "03237H101",
+      "name": "Amylyx Pharmaceuticals Inc.",
+      "sharesHeld": "247891",
+      "marketValue": 3542362.39,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "STOK",
+      "isin": "US86150R1077",
+      "cusip": "86150R107",
+      "name": "Stoke Therapeutics Inc.",
+      "sharesHeld": "116324",
+      "marketValue": 3529270.16,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NUVB",
+      "isin": "US67080N1019",
+      "cusip": "67080N101",
+      "name": "Nuvation Bio Inc.",
+      "sharesHeld": "671089",
+      "marketValue": 3516506.36,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRVS",
+      "isin": "US2210151005",
+      "cusip": "221015100",
+      "name": "Corvus Pharmaceuticals Inc.",
+      "sharesHeld": "168705",
+      "marketValue": 3492193.5,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CSTL",
+      "isin": "US14843C1053",
+      "cusip": "14843C105",
+      "name": "Castle Biosciences Inc.",
+      "sharesHeld": "88056",
+      "marketValue": 3468525.84,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGRY",
+      "isin": "US86881A1007",
+      "cusip": "86881A100",
+      "name": "Surgery Partners Inc.",
+      "sharesHeld": "233398",
+      "marketValue": 3468294.28,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CERT",
+      "isin": "US15687V1098",
+      "cusip": "15687V109",
+      "name": "Certara Inc.",
+      "sharesHeld": "363911",
+      "marketValue": 3198777.69,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CDNA",
+      "isin": "US14167L1035",
+      "cusip": "14167L103",
+      "name": "CareDx Inc.",
+      "sharesHeld": "152960",
+      "marketValue": 3143328,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASTH",
+      "isin": "US03763A2078",
+      "cusip": "03763A207",
+      "name": "Apollo Medical Holdings Inc.",
+      "sharesHeld": "136056",
+      "marketValue": 3093913.44,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMPH",
+      "isin": "US03209R1032",
+      "cusip": "03209R103",
+      "name": "Amphastar Pharmaceuticals Inc.",
+      "sharesHeld": "112345",
+      "marketValue": 2976019.05,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLMA",
+      "isin": "US68062P1066",
+      "cusip": "68062P106",
+      "name": "Olema Pharmaceuticals Inc.",
+      "sharesHeld": "114230",
+      "marketValue": 2937995.6,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TDOC",
+      "isin": "US87918A1051",
+      "cusip": "87918A105",
+      "name": "Teladoc Health Inc.",
+      "sharesHeld": "535720",
+      "marketValue": 2919674,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AHCO",
+      "isin": "US00653Q1022",
+      "cusip": "00653Q102",
+      "name": "AdaptHealth Corp.",
+      "sharesHeld": "287501",
+      "marketValue": 2889385.05,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PNTG",
+      "isin": "US70805E1091",
+      "cusip": "70805E109",
+      "name": "Pennant Group Inc.",
+      "sharesHeld": "103624",
+      "marketValue": 2862094.88,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLOV",
+      "isin": "US18914F1030",
+      "cusip": "18914F103",
+      "name": "Clover Health Investments Corp. Class A",
+      "sharesHeld": "1267285",
+      "marketValue": 2838718.4,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "RLAY",
+      "isin": "US75943R1023",
+      "cusip": "75943R102",
+      "name": "Relay Therapeutics Inc.",
+      "sharesHeld": "363023",
+      "marketValue": 2780756.18,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SDGR",
+      "isin": "US80810D1037",
+      "cusip": "80810D103",
+      "name": "Schrodinger Inc./United States",
+      "sharesHeld": "193677",
+      "marketValue": 2705667.69,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "BLFS",
+      "isin": "US09062W2044",
+      "cusip": "09062W204",
+      "name": "BioLife Solutions Inc.",
+      "sharesHeld": "123739",
+      "marketValue": 2697510.2,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRVI",
+      "isin": "US89532M1018",
+      "cusip": "89532M101",
+      "name": "Trevi Therapeutics Inc.",
+      "sharesHeld": "257533",
+      "marketValue": 2696370.51,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCRX",
+      "isin": "US6951271005",
+      "cusip": "695127100",
+      "name": "Pacira BioSciences Inc.",
+      "sharesHeld": "129115",
+      "marketValue": 2652022.1,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELVN",
+      "isin": "US29337E1029",
+      "cusip": "29337E102",
+      "name": "Enliven Therapeutics Inc.",
+      "sharesHeld": "99068",
+      "marketValue": 2620348.6,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "DNTH",
+      "isin": "US2528281080",
+      "cusip": "252828108",
+      "name": "Dianthus Therapeutics Inc.",
+      "sharesHeld": "48159",
+      "marketValue": 2571209.01,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZYME",
+      "isin": "US98985Y1082",
+      "cusip": "98985Y108",
+      "name": "Zymeworks Inc.",
+      "sharesHeld": "113407",
+      "marketValue": 2555059.71,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "EYPT",
+      "isin": "US30233G2093",
+      "cusip": "30233G209",
+      "name": "EyePoint Inc.",
+      "sharesHeld": "187673",
+      "marketValue": 2537338.96,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TLRY",
+      "isin": "US88688T2096",
+      "cusip": "88688T209",
+      "name": "Tilray Inc. Class 2",
+      "sharesHeld": "339729",
+      "marketValue": 2534378.34,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARVN",
+      "isin": "US04335A1051",
+      "cusip": "04335A105",
+      "name": "Arvinas Inc.",
+      "sharesHeld": "188766",
+      "marketValue": 2525689.08,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MBX",
+      "isin": "US55287L1017",
+      "cusip": "55287L101",
+      "name": "MBX Biosciences Inc.",
+      "sharesHeld": "67539",
+      "marketValue": 2488812.15,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMN",
+      "isin": "US0017441017",
+      "cusip": "001744101",
+      "name": "AMN Healthcare Services Inc.",
+      "sharesHeld": "116610",
+      "marketValue": 2483793,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRMD",
+      "isin": "US46266A1097",
+      "cusip": "46266A109",
+      "name": "iRadimed Corp.",
+      "sharesHeld": "25124",
+      "marketValue": 2459137.12,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PAHC",
+      "isin": "US71742Q1067",
+      "cusip": "71742Q106",
+      "name": "Phibro Animal Health Corp. Class A",
+      "sharesHeld": "60967",
+      "marketValue": 2447825.05,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHR",
+      "isin": "US71944F1066",
+      "cusip": "71944F106",
+      "name": "Phreesia Inc.",
+      "sharesHeld": "181007",
+      "marketValue": 2430924.01,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "BFLY",
+      "isin": "US1241551027",
+      "cusip": "124155102",
+      "name": "Butterfly Network Inc. Class A",
+      "sharesHeld": "613212",
+      "marketValue": 2428319.52,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "DAWN",
+      "isin": "US23954D1090",
+      "cusip": "23954D109",
+      "name": "Day One Biopharmaceuticals Inc.",
+      "sharesHeld": "216911",
+      "marketValue": 2420726.76,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "VTYX",
+      "isin": "US92332V1070",
+      "cusip": "92332V107",
+      "name": "Ventyx Biosciences Inc.",
+      "sharesHeld": "172597",
+      "marketValue": 2407728.15,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "OMER",
+      "isin": "US6821431029",
+      "cusip": "682143102",
+      "name": "Omeros Corp.",
+      "sharesHeld": "205631",
+      "marketValue": 2403826.39,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PGEN",
+      "isin": "US74017N1054",
+      "cusip": "74017N105",
+      "name": "Precigen Inc.",
+      "sharesHeld": "534952",
+      "marketValue": 2401934.48,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "IOVA",
+      "isin": "US4622601007",
+      "cusip": "462260100",
+      "name": "Iovance Biotherapeutics Inc.",
+      "sharesHeld": "930500",
+      "marketValue": 2372775,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESPR",
+      "isin": "US29664W1053",
+      "cusip": "29664W105",
+      "name": "Esperion Therapeutics Inc.",
+      "sharesHeld": "699707",
+      "marketValue": 2372006.73,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "URGN",
+      "isin": "IL0011407140",
+      "cusip": "M96088105",
+      "name": "UroGen Pharma Ltd.",
+      "sharesHeld": "118831",
+      "marketValue": 2330275.91,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SANA",
+      "isin": "US7995661045",
+      "cusip": "799566104",
+      "name": "Sana Biotechnology Inc.",
+      "sharesHeld": "515248",
+      "marketValue": 2282548.64,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORKA",
+      "isin": "US6876041087",
+      "cusip": "687604108",
+      "name": "Oruka Therapeutics Inc.",
+      "sharesHeld": "65777",
+      "marketValue": 2251546.71,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANNX",
+      "isin": "US03589W1027",
+      "cusip": "03589W102",
+      "name": "Annexon Inc.",
+      "sharesHeld": "360618",
+      "marketValue": 2250256.32,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "IART",
+      "isin": "US4579852082",
+      "cusip": "457985208",
+      "name": "Integra LifeSciences Holdings Corp.",
+      "sharesHeld": "200906",
+      "marketValue": 2238092.84,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "XNCR",
+      "isin": "US98401F1057",
+      "cusip": "98401F105",
+      "name": "Xencor Inc.",
+      "sharesHeld": "182659",
+      "marketValue": 2208347.31,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "RAPP",
+      "isin": "US75383L1026",
+      "cusip": "75383L102",
+      "name": "Rapport Therapeutics Inc.",
+      "sharesHeld": "82601",
+      "marketValue": 2198012.61,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TBPH",
+      "isin": "KYG8807B1068",
+      "cusip": "G8807B106",
+      "name": "Theravance Biopharma Inc.",
+      "sharesHeld": "114893",
+      "marketValue": 2176073.42,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRWD",
+      "isin": "US46333X1081",
+      "cusip": "46333X108",
+      "name": "Ironwood Pharmaceuticals Inc. Class A",
+      "sharesHeld": "442128",
+      "marketValue": 2162005.92,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTMX",
+      "isin": "US23284F1057",
+      "cusip": "23284F105",
+      "name": "CytomX Therapeutics Inc.",
+      "sharesHeld": "373677",
+      "marketValue": 2126222.13,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIBN",
+      "isin": "US8257041090",
+      "cusip": "825704109",
+      "name": "SI-BONE Inc.",
+      "sharesHeld": "123865",
+      "marketValue": 2053681.7,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "VIR",
+      "isin": "US92764N1028",
+      "cusip": "92764N102",
+      "name": "Vir Biotechnology Inc.",
+      "sharesHeld": "272362",
+      "marketValue": 2026373.28,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANAB",
+      "isin": "US0327241065",
+      "cusip": "032724106",
+      "name": "AnaptysBio Inc.",
+      "sharesHeld": "42369",
+      "marketValue": 2008714.29,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "KOD",
+      "isin": "US50015M1099",
+      "cusip": "50015M109",
+      "name": "Kodiak Sciences Inc.",
+      "sharesHeld": "87782",
+      "marketValue": 1998796.14,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "GERN",
+      "isin": "US3741631036",
+      "cusip": "374163103",
+      "name": "Geron Corp.",
+      "sharesHeld": "1452570",
+      "marketValue": 1990020.9,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TCMD",
+      "isin": "US87357P1003",
+      "cusip": "87357P100",
+      "name": "Tactile Systems Technology Inc.",
+      "sharesHeld": "67202",
+      "marketValue": 1939449.72,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "GLUE",
+      "isin": "US61225M1027",
+      "cusip": "61225M102",
+      "name": "Monte Rosa Therapeutics Inc.",
+      "sharesHeld": "93881",
+      "marketValue": 1926438.12,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVNS",
+      "isin": "US05350V1061",
+      "cusip": "05350V106",
+      "name": "Avanos Medical Inc.",
+      "sharesHeld": "141718",
+      "marketValue": 1887683.76,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TSHA",
+      "isin": "US8776191061",
+      "cusip": "877619106",
+      "name": "Taysha Gene Therapies Inc.",
+      "sharesHeld": "412894",
+      "marketValue": 1862151.94,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "STAA",
+      "isin": "US8523123052",
+      "cusip": "852312305",
+      "name": "STAAR Surgical Co.",
+      "sharesHeld": "97017",
+      "marketValue": 1838472.15,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MDXG",
+      "isin": "US6024961012",
+      "cusip": "602496101",
+      "name": "MiMedx Group Inc.",
+      "sharesHeld": "359662",
+      "marketValue": 1837872.82,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "NKTR",
+      "isin": "US6402683063",
+      "cusip": "640268306",
+      "name": "Nektar Therapeutics",
+      "sharesHeld": "48844",
+      "marketValue": 1823346.52,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "EBS",
+      "isin": "US29089Q1058",
+      "cusip": "29089Q105",
+      "name": "Emergent BioSolutions Inc.",
+      "sharesHeld": "160479",
+      "marketValue": 1819831.86,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "GRDN",
+      "isin": "US40145W1018",
+      "cusip": "40145W101",
+      "name": "Guardian Pharmacy Services Inc. Class A",
+      "sharesHeld": "60239",
+      "marketValue": 1819217.8,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "KURA",
+      "isin": "US50127T1097",
+      "cusip": "50127T109",
+      "name": "Kura Oncology Inc.",
+      "sharesHeld": "223186",
+      "marketValue": 1812270.32,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABUS",
+      "isin": "CA03879J1003",
+      "cusip": "03879J100",
+      "name": "Arbutus Biopharma Corp.",
+      "sharesHeld": "434739",
+      "marketValue": 1795472.07,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMBC",
+      "isin": "US29082K1051",
+      "cusip": "29082K105",
+      "name": "Embecta Corp.",
+      "sharesHeld": "168595",
+      "marketValue": 1788792.95,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PACB",
+      "isin": "US69404D1081",
+      "cusip": "69404D108",
+      "name": "Pacific Biosciences of California Inc.",
+      "sharesHeld": "776789",
+      "marketValue": 1755543.14,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "VREX",
+      "isin": "US92214X1063",
+      "cusip": "92214X106",
+      "name": "Varex Imaging Corp.",
+      "sharesHeld": "125270",
+      "marketValue": 1746263.8,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHAT",
+      "isin": "US71722W1071",
+      "cusip": "71722W107",
+      "name": "Phathom Pharmaceuticals Inc.",
+      "sharesHeld": "127524",
+      "marketValue": 1743253.08,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRMD",
+      "isin": "US21900C3088",
+      "cusip": "21900C308",
+      "name": "CorMedix Inc.",
+      "sharesHeld": "223979",
+      "marketValue": 1738077.04,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "HNGE",
+      "isin": "US4333131039",
+      "cusip": "433313103",
+      "name": "Hinge Health Inc. Class A",
+      "sharesHeld": "49340",
+      "marketValue": 1721966,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TALK",
+      "isin": "US87427V1035",
+      "cusip": "87427V103",
+      "name": "Talkspace Inc.",
+      "sharesHeld": "423097",
+      "marketValue": 1709311.88,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PVLA",
+      "isin": "US6979471090",
+      "cusip": "697947109",
+      "name": "Palvella Therapeutics Inc.",
+      "sharesHeld": "21715",
+      "marketValue": 1665323.35,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTKB",
+      "isin": "US23285D1090",
+      "cusip": "23285D109",
+      "name": "Cytek Biosciences Inc.",
+      "sharesHeld": "328582",
+      "marketValue": 1642910,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPRY",
+      "isin": "US82835W1080",
+      "cusip": "82835W108",
+      "name": "ARS Pharmaceuticals Inc.",
+      "sharesHeld": "164318",
+      "marketValue": 1641536.82,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "JANX",
+      "isin": "US47103J1051",
+      "cusip": "47103J105",
+      "name": "Janux Therapeutics Inc.",
+      "sharesHeld": "118774",
+      "marketValue": 1628391.54,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "OPK",
+      "isin": "US68375N1037",
+      "cusip": "68375N103",
+      "name": "OPKO Health Inc.",
+      "sharesHeld": "1278746",
+      "marketValue": 1611219.96,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "HSTM",
+      "isin": "US42222N1037",
+      "cusip": "42222N103",
+      "name": "HealthStream Inc.",
+      "sharesHeld": "71038",
+      "marketValue": 1583437.02,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TNGX",
+      "isin": "US87583X1090",
+      "cusip": "87583X109",
+      "name": "Tango Therapeutics Inc.",
+      "sharesHeld": "135924",
+      "marketValue": 1578077.64,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLGT",
+      "isin": "US3596641098",
+      "cusip": "359664109",
+      "name": "Fulgent Genetics Inc.",
+      "sharesHeld": "60143",
+      "marketValue": 1575746.6,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MYGN",
+      "isin": "US62855J1043",
+      "cusip": "62855J104",
+      "name": "Myriad Genetics Inc.",
+      "sharesHeld": "278476",
+      "marketValue": 1565035.12,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MLTX",
+      "isin": "KY61559X1045",
+      "cusip": "61559X104",
+      "name": "MoonLake Immunotherapeutics Class A",
+      "sharesHeld": "96249",
+      "marketValue": 1508221.83,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSNL",
+      "isin": "US71535D1063",
+      "cusip": "71535D106",
+      "name": "Personalis Inc.",
+      "sharesHeld": "160692",
+      "marketValue": 1505684.04,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "KMTS",
+      "isin": "BMG524411052",
+      "cusip": "G52441105",
+      "name": "Kestra Medical Technologies Ltd.",
+      "sharesHeld": "60909",
+      "marketValue": 1502625.03,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALT",
+      "isin": "US02155H2004",
+      "cusip": "02155H200",
+      "name": "Altimmune Inc.",
+      "sharesHeld": "266999",
+      "marketValue": 1495194.4,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGNX",
+      "isin": "US75901B1070",
+      "cusip": "75901B107",
+      "name": "REGENXBIO Inc.",
+      "sharesHeld": "128602",
+      "marketValue": 1435198.32,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "EHAB",
+      "isin": "US29332G1022",
+      "cusip": "29332G102",
+      "name": "Enhabit Inc.",
+      "sharesHeld": "131450",
+      "marketValue": 1397313.5,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVBP",
+      "isin": "US04272N1028",
+      "cusip": "04272N102",
+      "name": "ArriVent Biopharma Inc.",
+      "sharesHeld": "61338",
+      "marketValue": 1379491.62,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "OCGN",
+      "isin": "US67577C1053",
+      "cusip": "67577C105",
+      "name": "Ocugen Inc.",
+      "sharesHeld": "944701",
+      "marketValue": 1369816.45,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CYRX",
+      "isin": "US2290503075",
+      "cusip": "229050307",
+      "name": "CryoPort Inc.",
+      "sharesHeld": "143869",
+      "marketValue": 1368194.19,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORIC",
+      "isin": "US68622P1093",
+      "cusip": "68622P109",
+      "name": "ORIC Pharmaceuticals Inc.",
+      "sharesHeld": "132198",
+      "marketValue": 1356351.48,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CERS",
+      "isin": "US1570851014",
+      "cusip": "157085101",
+      "name": "Cerus Corp.",
+      "sharesHeld": "572254",
+      "marketValue": 1333351.82,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVAH",
+      "isin": "US05356F1057",
+      "cusip": "05356F105",
+      "name": "Aveanna Healthcare Holdings Inc.",
+      "sharesHeld": "157609",
+      "marketValue": 1323915.6,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MLAB",
+      "isin": "US59064R1095",
+      "cusip": "59064R109",
+      "name": "Mesa Laboratories Inc.",
+      "sharesHeld": "16668",
+      "marketValue": 1312771.68,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "KALV",
+      "isin": "US4834971032",
+      "cusip": "483497103",
+      "name": "KalVista Pharmaceuticals Inc.",
+      "sharesHeld": "84070",
+      "marketValue": 1312332.7,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANGO",
+      "isin": "US03475V1017",
+      "cusip": "03475V101",
+      "name": "AngioDynamics Inc.",
+      "sharesHeld": "123652",
+      "marketValue": 1281034.72,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNDA",
+      "isin": "US9216591084",
+      "cusip": "921659108",
+      "name": "Vanda Pharmaceuticals Inc.",
+      "sharesHeld": "169517",
+      "marketValue": 1278158.18,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "UPB",
+      "isin": "US91678A1079",
+      "cusip": "91678A107",
+      "name": "Upstream Bio Inc.",
+      "sharesHeld": "40709",
+      "marketValue": 1265235.72,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "OFIX",
+      "isin": "US68752M1080",
+      "cusip": "68752M108",
+      "name": "Orthofix Medical Inc.",
+      "sharesHeld": "95355",
+      "marketValue": 1261546.65,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "GOSS",
+      "isin": "US38341P1021",
+      "cusip": "38341P102",
+      "name": "Gossamer Bio Inc.",
+      "sharesHeld": "549616",
+      "marketValue": 1253124.48,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "TYRA",
+      "isin": "US90240B1061",
+      "cusip": "90240B106",
+      "name": "Tyra Biosciences Inc.",
+      "sharesHeld": "40505",
+      "marketValue": 1248364.1,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CYH",
+      "isin": "US2036681086",
+      "cusip": "203668108",
+      "name": "Community Health Systems Inc.",
+      "sharesHeld": "385051",
+      "marketValue": 1236013.71,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "FULC",
+      "isin": "US3596161097",
+      "cusip": "359616109",
+      "name": "Fulcrum Therapeutics Inc.",
+      "sharesHeld": "114366",
+      "marketValue": 1227147.18,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRTA",
+      "isin": "IE00B91XRN20",
+      "cusip": "G72800108",
+      "name": "Prothena Corp. plc",
+      "sharesHeld": "138460",
+      "marketValue": 1219832.6,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVXL",
+      "isin": "US0327973006",
+      "cusip": "032797300",
+      "name": "Anavex Life Sciences Corp.",
+      "sharesHeld": "257433",
+      "marketValue": 1209935.1,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBLL",
+      "isin": "US15678C1027",
+      "cusip": "15678C102",
+      "name": "Ceribell Inc.",
+      "sharesHeld": "55289",
+      "marketValue": 1139506.29,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SVRA",
+      "isin": "US8051111016",
+      "cusip": "805111101",
+      "name": "Savara Inc.",
+      "sharesHeld": "209128",
+      "marketValue": 1129291.2,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRVI",
+      "isin": "US56600D1072",
+      "cusip": "56600D107",
+      "name": "Maravai LifeSciences Holdings Inc. Class A",
+      "sharesHeld": "328191",
+      "marketValue": 1102721.76,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "AKBA",
+      "isin": "US00972D1054",
+      "cusip": "00972D105",
+      "name": "Akebia Therapeutics Inc.",
+      "sharesHeld": "762130",
+      "marketValue": 1074603.3,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "CGEM",
+      "isin": "US2300311063",
+      "cusip": "230031106",
+      "name": "Cullinan Therapeutics Inc.",
+      "sharesHeld": "89312",
+      "marketValue": 1068171.52,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAB",
+      "isin": "US34385P1084",
+      "cusip": "34385P108",
+      "name": "Fluidigm Corp.",
+      "sharesHeld": "751617",
+      "marketValue": 1052263.8,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MGTX",
+      "isin": "KYG596651029",
+      "cusip": "G59665102",
+      "name": "MeiraGTx Holdings plc",
+      "sharesHeld": "132251",
+      "marketValue": 1006430.11,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "REPL",
+      "isin": "US76029N1063",
+      "cusip": "76029N106",
+      "name": "Replimune Group Inc.",
+      "sharesHeld": "141671",
+      "marketValue": 995947.13,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRME",
+      "isin": "US74168J1016",
+      "cusip": "74168J101",
+      "name": "Prime Medicine Inc.",
+      "sharesHeld": "260961",
+      "marketValue": 994261.41,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "EVH",
+      "isin": "US30050B1017",
+      "cusip": "30050B101",
+      "name": "Evolent Health Inc. Class A",
+      "sharesHeld": "302110",
+      "marketValue": 969773.1,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "BVS",
+      "isin": "US09075A1088",
+      "cusip": "09075A108",
+      "name": "Bioventus Inc.",
+      "sharesHeld": "121219",
+      "marketValue": 961266.67,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "FDMT",
+      "isin": "US35104E1001",
+      "cusip": "35104E100",
+      "name": "4D Molecular Therapeutics Inc.",
+      "sharesHeld": "105959",
+      "marketValue": 938796.74,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "KIDS",
+      "isin": "US68752L1008",
+      "cusip": "68752L100",
+      "name": "OrthoPediatrics Corp.",
+      "sharesHeld": "52865",
+      "marketValue": 923022.9,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "RXST",
+      "isin": "US78349D1072",
+      "cusip": "78349D107",
+      "name": "RxSight Inc.",
+      "sharesHeld": "105245",
+      "marketValue": 914579.05,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "DNA",
+      "isin": "US37611X2099",
+      "cusip": "37611X209",
+      "name": "Ginkgo Bioworks Holdings Inc.",
+      "sharesHeld": "99682",
+      "marketValue": 894147.54,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "KROS",
+      "isin": "US4923271013",
+      "cusip": "492327101",
+      "name": "Keros Therapeutics Inc.",
+      "sharesHeld": "49840",
+      "marketValue": 892634.4,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZBIO",
+      "isin": "US98937L1052",
+      "cusip": "98937L105",
+      "name": "Zenas Biopharma Inc.",
+      "sharesHeld": "48417",
+      "marketValue": 889420.29,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLP",
+      "isin": "US8292141053",
+      "cusip": "829214105",
+      "name": "Simulations Plus Inc.",
+      "sharesHeld": "52559",
+      "marketValue": 887721.51,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIGA",
+      "isin": "US8269171067",
+      "cusip": "826917106",
+      "name": "SIGA Technologies Inc.",
+      "sharesHeld": "131081",
+      "marketValue": 878242.7,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "RCKT",
+      "isin": "US77313F1066",
+      "cusip": "77313F106",
+      "name": "Rocket Pharmaceuticals Inc.",
+      "sharesHeld": "245716",
+      "marketValue": 855091.68,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "PLSE",
+      "isin": "US74587B1017",
+      "cusip": "74587B101",
+      "name": "Pulse Biosciences Inc.",
+      "sharesHeld": "61392",
+      "marketValue": 849051.36,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALDX",
+      "isin": "US01438T1060",
+      "cusip": "01438T106",
+      "name": "Aldeyra Therapeutics Inc.",
+      "sharesHeld": "156739",
+      "marketValue": 840121.04,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALLO",
+      "isin": "US0197701065",
+      "cusip": "019770106",
+      "name": "Allogene Therapeutics Inc.",
+      "sharesHeld": "454877",
+      "marketValue": 836973.68,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "BCAX",
+      "isin": "US0554771032",
+      "cusip": "055477103",
+      "name": "Bicara Therapeutics Inc.",
+      "sharesHeld": "49564",
+      "marketValue": 832675.2,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "CCRN",
+      "isin": "US2274831047",
+      "cusip": "227483104",
+      "name": "Cross Country Healthcare Inc.",
+      "sharesHeld": "89221",
+      "marketValue": 831539.72,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "QTRX",
+      "isin": "US74766Q1013",
+      "cusip": "74766Q101",
+      "name": "Quanterix Corp.",
+      "sharesHeld": "126408",
+      "marketValue": 801426.72,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "VSTM",
+      "isin": "US92337C2035",
+      "cusip": "92337C203",
+      "name": "Verastem Inc.",
+      "sharesHeld": "130168",
+      "marketValue": 794024.8,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEPN",
+      "isin": "US81734D1046",
+      "cusip": "81734D104",
+      "name": "Septerna Inc.",
+      "sharesHeld": "33660",
+      "marketValue": 785624.4,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "AGL",
+      "isin": "US00857U1079",
+      "cusip": "00857U107",
+      "name": "agilon health Inc.",
+      "sharesHeld": "943123",
+      "marketValue": 784866.96,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORGO",
+      "isin": "US68621F1021",
+      "cusip": "68621F102",
+      "name": "Organogenesis Holdings Inc. Class A",
+      "sharesHeld": "191791",
+      "marketValue": 767164,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "XOMA",
+      "isin": "US98419J2069",
+      "cusip": "98419J206",
+      "name": "XOMA Corp.",
+      "sharesHeld": "29176",
+      "marketValue": 748656.16,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "AURA",
+      "isin": "US05153U1079",
+      "cusip": "05153U107",
+      "name": "Aura Biosciences Inc.",
+      "sharesHeld": "131518",
+      "marketValue": 736500.8,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "RZLT",
+      "isin": "US76200L3096",
+      "cusip": "76200L309",
+      "name": "Rezolute Inc.",
+      "sharesHeld": "219559",
+      "marketValue": 733327.06,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "CATX",
+      "isin": "US46489V3024",
+      "cusip": "46489V302",
+      "name": "Perspective Therapeutics Inc.",
+      "sharesHeld": "193071",
+      "marketValue": 731739.09,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARDT",
+      "isin": "US03980N1072",
+      "cusip": "03980N107",
+      "name": "Ardent Health Inc.",
+      "sharesHeld": "86245",
+      "marketValue": 704621.65,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "EOLS",
+      "isin": "US30052C1071",
+      "cusip": "30052C107",
+      "name": "Evolus Inc.",
+      "sharesHeld": "145361",
+      "marketValue": 681743.09,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRDA",
+      "isin": "US29384C1080",
+      "cusip": "29384C108",
+      "name": "Entrada Therapeutics Inc.",
+      "sharesHeld": "57913",
+      "marketValue": 662524.72,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVIR",
+      "isin": "US04683R1068",
+      "cusip": "04683R106",
+      "name": "Atea Pharmaceuticals Inc.",
+      "sharesHeld": "155896",
+      "marketValue": 660999.04,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "LXRX",
+      "isin": "US5288723027",
+      "cusip": "528872302",
+      "name": "Lexicon Pharmaceuticals Inc.",
+      "sharesHeld": "551784",
+      "marketValue": 640069.44,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "GDRX",
+      "isin": "US38246G1085",
+      "cusip": "38246G108",
+      "name": "GoodRx Holdings Inc. Class A",
+      "sharesHeld": "261344",
+      "marketValue": 593250.88,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "QSI",
+      "isin": "US74765K1051",
+      "cusip": "74765K105",
+      "name": "Quantum-Si Inc.",
+      "sharesHeld": "496159",
+      "marketValue": 560659.67,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "LENZ",
+      "isin": "US52635N1037",
+      "cusip": "52635N103",
+      "name": "LENZ Therapeutics Inc.",
+      "sharesHeld": "35348",
+      "marketValue": 559205.36,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "LYEL",
+      "isin": "US55083R2031",
+      "cusip": "55083R203",
+      "name": "Lyell Immunopharma Inc.",
+      "sharesHeld": "23223",
+      "marketValue": 557352,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "HRTX",
+      "isin": "US4277461020",
+      "cusip": "427746102",
+      "name": "Heron Therapeutics Inc.",
+      "sharesHeld": "421248",
+      "marketValue": 556047.36,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARCT",
+      "isin": "US03969T1097",
+      "cusip": "03969T109",
+      "name": "Arcturus Therapeutics Holdings Inc.",
+      "sharesHeld": "74280",
+      "marketValue": 554871.6,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "EDIT",
+      "isin": "US28106W1036",
+      "cusip": "28106W103",
+      "name": "Editas Medicine Inc.",
+      "sharesHeld": "271901",
+      "marketValue": 541082.99,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "OSUR",
+      "isin": "US68554V1089",
+      "cusip": "68554V108",
+      "name": "OraSure Technologies Inc.",
+      "sharesHeld": "189936",
+      "marketValue": 529921.44,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACH",
+      "isin": "US6907321029",
+      "cusip": "690732102",
+      "name": "Owens & Minor Inc.",
+      "sharesHeld": "234120",
+      "marketValue": 517405.2,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "HUMA",
+      "isin": "US44486Q1031",
+      "cusip": "44486Q103",
+      "name": "Humacyte Inc.",
+      "sharesHeld": "481333",
+      "marketValue": 480225.93,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "OABI",
+      "isin": "US68218J1034",
+      "cusip": "68218J103",
+      "name": "OmniAb Inc.",
+      "sharesHeld": "261064",
+      "marketValue": 475136.48,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTEV",
+      "isin": "US62548M2098",
+      "cusip": "62548M209",
+      "name": "Claritev Corp. Class A",
+      "sharesHeld": "17424",
+      "marketValue": 473235.84,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALEC",
+      "isin": "US0144421072",
+      "cusip": "014442107",
+      "name": "Alector Inc.",
+      "sharesHeld": "242732",
+      "marketValue": 458763.48,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "HCAT",
+      "isin": "US42225T1079",
+      "cusip": "42225T107",
+      "name": "Health Catalyst Inc.",
+      "sharesHeld": "211568",
+      "marketValue": 454871.2,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZNTL",
+      "isin": "US98943L1070",
+      "cusip": "98943L107",
+      "name": "Zentalis Pharmaceuticals Inc.",
+      "sharesHeld": "152710",
+      "marketValue": 371085.3,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "TMCI",
+      "isin": "US89455T1097",
+      "cusip": "89455T109",
+      "name": "Treace Medical Concepts Inc.",
+      "sharesHeld": "152718",
+      "marketValue": 354305.76,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "FATE",
+      "isin": "US31189P1021",
+      "cusip": "31189P102",
+      "name": "Fate Therapeutics Inc.",
+      "sharesHeld": "296746",
+      "marketValue": 353127.74,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "NMRA",
+      "isin": "US6409791000",
+      "cusip": "640979100",
+      "name": "Neumora Therapeutics Inc.",
+      "sharesHeld": "172030",
+      "marketValue": 342339.7,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "MGNX",
+      "isin": "US5560991094",
+      "cusip": "556099109",
+      "name": "MacroGenics Inc.",
+      "sharesHeld": "155780",
+      "marketValue": 285077.4,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "MXCT",
+      "isin": "US57777K1060",
+      "cusip": "57777K106",
+      "name": "MaxCyte Inc.",
+      "sharesHeld": "306193",
+      "marketValue": 277655.81,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAVA",
+      "isin": "US14817C1071",
+      "cusip": "14817C107",
+      "name": "Cassava Sciences Inc.",
+      "sharesHeld": "133941",
+      "marketValue": 266542.59,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "DH",
+      "isin": "US24477E1038",
+      "cusip": "24477E103",
+      "name": "Definitive Healthcare Corp. Class A",
+      "sharesHeld": "114055",
+      "marketValue": 264607.6,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "DCGO",
+      "isin": "US2560861096",
+      "cusip": "256086109",
+      "name": "DocGo Inc.",
+      "sharesHeld": "262931",
+      "marketValue": 201562.9,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRRO",
+      "isin": "US5009461089",
+      "cusip": "500946108",
+      "name": "Korro Bio Inc.",
+      "sharesHeld": "13878",
+      "marketValue": 184993.74,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "PLRX",
+      "isin": "US7291391057",
+      "cusip": "729139105",
+      "name": "Pliant Therapeutics Inc.",
+      "sharesHeld": "116046",
+      "marketValue": 140415.66,
+      "percentWeight": "0.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALXO",
+      "isin": "US00166B1052",
+      "cusip": "00166B105",
+      "name": "ALX Oncology Holdings Inc.",
+      "sharesHeld": "77209",
+      "marketValue": 134343.66,
+      "percentWeight": "0.00"
+    }
+  ]
+}

@@ -1,0 +1,1503 @@
+{
+  "symbol": "VGSLX",
+  "name": "Real Estate Index Fund Admiral Shares",
+  "assetClass": "Stock - Sector",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 149,
+    "bond": 0,
+    "total": 149
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "VRTPX",
+      "isin": "US9220316957",
+      "cusip": "922031695",
+      "name": "Vanguard Real Estate II Index Fund Institutional Plus Shares",
+      "sharesHeld": "436700972",
+      "marketValue": 9546283248.95,
+      "percentWeight": "14.51"
+    },
+    {
+      "type": "stock",
+      "ticker": "WELL",
+      "isin": "US95040Q1040",
+      "cusip": "95040Q104",
+      "name": "Welltower Inc.",
+      "sharesHeld": "24695002",
+      "marketValue": 4651550576.72,
+      "percentWeight": "7.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "PLD",
+      "isin": "US74340W1036",
+      "cusip": "74340W103",
+      "name": "Prologis Inc.",
+      "sharesHeld": "34652779",
+      "marketValue": 4524266826.24,
+      "percentWeight": "6.88"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMT",
+      "isin": "US03027X1000",
+      "cusip": "03027X100",
+      "name": "American Tower Corp.",
+      "sharesHeld": "17472540",
+      "marketValue": 3132476971.2,
+      "percentWeight": "4.76"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQIX",
+      "isin": "US29444U7000",
+      "cusip": "29444U700",
+      "name": "Equinix Inc.",
+      "sharesHeld": "3651762",
+      "marketValue": 2997840978.66,
+      "percentWeight": "4.56"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPG",
+      "isin": "US8288061091",
+      "cusip": "828806109",
+      "name": "Simon Property Group Inc.",
+      "sharesHeld": "12182677",
+      "marketValue": 2330667936.87,
+      "percentWeight": "3.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "DLR",
+      "isin": "US2538681030",
+      "cusip": "253868103",
+      "name": "Digital Realty Trust Inc.",
+      "sharesHeld": "12726194",
+      "marketValue": 2111911894.3,
+      "percentWeight": "3.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "O",
+      "isin": "US7561091049",
+      "cusip": "756109104",
+      "name": "Realty Income Corp.",
+      "sharesHeld": "33847065",
+      "marketValue": 2070086495.4,
+      "percentWeight": "3.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBRE",
+      "isin": "US12504L1098",
+      "cusip": "12504L109",
+      "name": "CBRE Group Inc. Class A",
+      "sharesHeld": "11102994",
+      "marketValue": 1891172968.02,
+      "percentWeight": "2.88"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSA",
+      "isin": "US74460D1090",
+      "cusip": "74460D109",
+      "name": "Public Storage",
+      "sharesHeld": "5892276",
+      "marketValue": 1627387708.44,
+      "percentWeight": "2.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "CCI",
+      "isin": "US22822V1017",
+      "cusip": "22822V101",
+      "name": "Crown Castle International Corp.",
+      "sharesHeld": "16249352",
+      "marketValue": 1410606247.12,
+      "percentWeight": "2.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "VTR",
+      "isin": "US92276F1003",
+      "cusip": "92276F100",
+      "name": "Ventas Inc.",
+      "sharesHeld": "16958404",
+      "marketValue": 1317159238.68,
+      "percentWeight": "2.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXR",
+      "isin": "US30225T1025",
+      "cusip": "30225T102",
+      "name": "Extra Space Storage Inc.",
+      "sharesHeld": "7920208",
+      "marketValue": 1092751097.76,
+      "percentWeight": "1.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "VICI",
+      "isin": "US9256521090",
+      "cusip": "925652109",
+      "name": "VICI Properties Inc.",
+      "sharesHeld": "37152416",
+      "marketValue": 1043239841.28,
+      "percentWeight": "1.59"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRM",
+      "isin": "US46284V1017",
+      "cusip": "46284V101",
+      "name": "Iron Mountain Inc.",
+      "sharesHeld": "11020842",
+      "marketValue": 1015350173.46,
+      "percentWeight": "1.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "CSGP",
+      "isin": "US22160N1090",
+      "cusip": "22160N109",
+      "name": "CoStar Group Inc.",
+      "sharesHeld": "15733267",
+      "marketValue": 967595920.5,
+      "percentWeight": "1.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVB",
+      "isin": "US0534841012",
+      "cusip": "053484101",
+      "name": "AvalonBay Communities Inc.",
+      "sharesHeld": "5313104",
+      "marketValue": 943979187.68,
+      "percentWeight": "1.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQR",
+      "isin": "US29476L1070",
+      "cusip": "29476L107",
+      "name": "Equity Residential",
+      "sharesHeld": "13538230",
+      "marketValue": 843702493.6,
+      "percentWeight": "1.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "SBAC",
+      "isin": "US78410G1040",
+      "cusip": "78410G104",
+      "name": "SBA Communications Corp. Class A",
+      "sharesHeld": "4006767",
+      "marketValue": 737685872.37,
+      "percentWeight": "1.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "WY",
+      "isin": "US9621661043",
+      "cusip": "962166104",
+      "name": "Weyerhaeuser Co.",
+      "sharesHeld": "26923064",
+      "marketValue": 694076589.92,
+      "percentWeight": "1.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "JLL",
+      "isin": "US48020Q1076",
+      "cusip": "48020Q107",
+      "name": "Jones Lang LaSalle Inc.",
+      "sharesHeld": "1767976",
+      "marketValue": 632776290.16,
+      "percentWeight": "0.96"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESS",
+      "isin": "US2971781057",
+      "cusip": "297178105",
+      "name": "Essex Property Trust Inc.",
+      "sharesHeld": "2403282",
+      "marketValue": 605314637.34,
+      "percentWeight": "0.92"
+    },
+    {
+      "type": "stock",
+      "ticker": "SUI",
+      "isin": "US8666741041",
+      "cusip": "866674104",
+      "name": "Sun Communities Inc.",
+      "sharesHeld": "4670184",
+      "marketValue": 595121547.12,
+      "percentWeight": "0.90"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAA",
+      "isin": "US59522J1034",
+      "cusip": "59522J103",
+      "name": "Mid-America Apartment Communities Inc.",
+      "sharesHeld": "4368591",
+      "marketValue": 586701771.3,
+      "percentWeight": "0.89"
+    },
+    {
+      "type": "stock",
+      "ticker": "INVH",
+      "isin": "US46187W1071",
+      "cusip": "46187W107",
+      "name": "Invitation Homes Inc.",
+      "sharesHeld": "21730888",
+      "marketValue": 580866636.24,
+      "percentWeight": "0.88"
+    },
+    {
+      "type": "stock",
+      "ticker": "WPC",
+      "isin": "US92936U1097",
+      "cusip": "92936U109",
+      "name": "WP Carey Inc.",
+      "sharesHeld": "8171683",
+      "marketValue": 569974889.25,
+      "percentWeight": "0.87"
+    },
+    {
+      "type": "stock",
+      "ticker": "KIM",
+      "isin": "US49446R1095",
+      "cusip": "49446R109",
+      "name": "Kimco Realty Corp.",
+      "sharesHeld": "25270260",
+      "marketValue": 532697080.8,
+      "percentWeight": "0.81"
+    },
+    {
+      "type": "stock",
+      "ticker": "OHI",
+      "isin": "US6819361006",
+      "cusip": "681936100",
+      "name": "Omega Healthcare Investors Inc.",
+      "sharesHeld": "11007991",
+      "marketValue": 483030645.08,
+      "percentWeight": "0.73"
+    },
+    {
+      "type": "stock",
+      "ticker": "HST",
+      "isin": "US44107P1049",
+      "cusip": "44107P104",
+      "name": "Host Hotels & Resorts Inc.",
+      "sharesHeld": "25655956",
+      "marketValue": 475404864.68,
+      "percentWeight": "0.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "GLPI",
+      "isin": "US36467J1088",
+      "cusip": "36467J108",
+      "name": "Gaming and Leisure Properties Inc.",
+      "sharesHeld": "10560803",
+      "marketValue": 472595934.25,
+      "percentWeight": "0.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "REG",
+      "isin": "US7588491032",
+      "cusip": "758849103",
+      "name": "Regency Centers Corp.",
+      "sharesHeld": "6436158",
+      "marketValue": 469002833.46,
+      "percentWeight": "0.71"
+    },
+    {
+      "type": "stock",
+      "ticker": "DOC",
+      "isin": "US42250P1030",
+      "cusip": "42250P103",
+      "name": "Healthpeak Properties Inc.",
+      "sharesHeld": "25932191",
+      "marketValue": 447070972.84,
+      "percentWeight": "0.68"
+    },
+    {
+      "type": "stock",
+      "ticker": "UDR",
+      "isin": "US9026531049",
+      "cusip": "902653104",
+      "name": "UDR Inc.",
+      "sharesHeld": "11746463",
+      "marketValue": 436381100.45,
+      "percentWeight": "0.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPT",
+      "isin": "US1331311027",
+      "cusip": "133131102",
+      "name": "Camden Property Trust",
+      "sharesHeld": "3987328",
+      "marketValue": 434818118.4,
+      "percentWeight": "0.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELS",
+      "isin": "US29472R1086",
+      "cusip": "29472R108",
+      "name": "Equity LifeStyle Properties Inc.",
+      "sharesHeld": "6870005",
+      "marketValue": 433978215.85,
+      "percentWeight": "0.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAMR",
+      "isin": "US5128161099",
+      "cusip": "512816109",
+      "name": "Lamar Advertising Co. Class A",
+      "sharesHeld": "3204005",
+      "marketValue": 411105881.55,
+      "percentWeight": "0.63"
+    },
+    {
+      "type": "stock",
+      "ticker": "Z",
+      "isin": "US98954M2008",
+      "cusip": "98954M200",
+      "name": "Zillow Group Inc.",
+      "sharesHeld": "6235473",
+      "marketValue": 393021863.19,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMH",
+      "isin": "US02665T3068",
+      "cusip": "02665T306",
+      "name": "American Homes 4 Rent Class A",
+      "sharesHeld": "12435906",
+      "marketValue": 389492575.92,
+      "percentWeight": "0.59"
+    },
+    {
+      "type": "stock",
+      "ticker": "EGP",
+      "isin": "US2772761019",
+      "cusip": "277276101",
+      "name": "EastGroup Properties Inc.",
+      "sharesHeld": "1990337",
+      "marketValue": 361524812.68,
+      "percentWeight": "0.55"
+    },
+    {
+      "type": "stock",
+      "ticker": "BXP",
+      "isin": "US1011211018",
+      "cusip": "101121101",
+      "name": "Boston Properties Inc.",
+      "sharesHeld": "5539694",
+      "marketValue": 358252010.98,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "REXR",
+      "isin": "US76169C1009",
+      "cusip": "76169C100",
+      "name": "Rexford Industrial Realty Inc.",
+      "sharesHeld": "8831590",
+      "marketValue": 357944342.7,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARE",
+      "isin": "US0152711091",
+      "cusip": "015271109",
+      "name": "Alexandria Real Estate Equities Inc.",
+      "sharesHeld": "5809455",
+      "marketValue": 317428621.2,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "CUBE",
+      "isin": "US2296631094",
+      "cusip": "229663109",
+      "name": "CubeSmart",
+      "sharesHeld": "8367719",
+      "marketValue": 314040494.07,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTRE",
+      "isin": "US14174T1079",
+      "cusip": "14174T107",
+      "name": "CareTrust REIT Inc.",
+      "sharesHeld": "8333014",
+      "marketValue": 311154742.76,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "FRT",
+      "isin": "US3137451015",
+      "cusip": "313745101",
+      "name": "Federal Realty Investment Trust",
+      "sharesHeld": "3057527",
+      "marketValue": 309299431.32,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRX",
+      "isin": "US11120U1051",
+      "cusip": "11120U105",
+      "name": "Brixmor Property Group Inc.",
+      "sharesHeld": "11423776",
+      "marketValue": 306042959.04,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADC",
+      "isin": "US0084921008",
+      "cusip": "008492100",
+      "name": "Agree Realty Corp.",
+      "sharesHeld": "4128944",
+      "marketValue": 298233625.12,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "COMP",
+      "isin": "US20464U1007",
+      "cusip": "20464U100",
+      "name": "Compass Inc.",
+      "sharesHeld": "23789226",
+      "marketValue": 297841109.52,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "AHR",
+      "isin": "US3981823038",
+      "cusip": "398182303",
+      "name": "American Healthcare REIT Inc.",
+      "sharesHeld": "6290781",
+      "marketValue": 295100536.71,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "NNN",
+      "isin": "US6374171063",
+      "cusip": "637417106",
+      "name": "National Retail Properties Inc.",
+      "sharesHeld": "7043635",
+      "marketValue": 293508270.45,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "FR",
+      "isin": "US32054K1034",
+      "cusip": "32054K103",
+      "name": "First Industrial Realty Trust Inc.",
+      "sharesHeld": "4940527",
+      "marketValue": 286698781.81,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "STAG",
+      "isin": "US85254J1025",
+      "cusip": "85254J102",
+      "name": "STAG Industrial Inc.",
+      "sharesHeld": "6965423",
+      "marketValue": 261273016.73,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRNO",
+      "isin": "US88146M1018",
+      "cusip": "88146M101",
+      "name": "Terreno Realty Corp.",
+      "sharesHeld": "3853966",
+      "marketValue": 237173067.64,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "EPRT",
+      "isin": "US29670E1073",
+      "cusip": "29670E107",
+      "name": "Essential Properties Realty Trust Inc.",
+      "sharesHeld": "7392423",
+      "marketValue": 224433962.28,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "RHP",
+      "isin": "US78377T1079",
+      "cusip": "78377T107",
+      "name": "Ryman Hospitality Properties Inc.",
+      "sharesHeld": "2232822",
+      "marketValue": 211448243.4,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "HR",
+      "isin": "US42226K1051",
+      "cusip": "42226K105",
+      "name": "Healthcare Trust of America Inc. Class A",
+      "sharesHeld": "12463149",
+      "marketValue": 209256271.71,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNO",
+      "isin": "US9290421091",
+      "cusip": "929042109",
+      "name": "Vornado Realty Trust",
+      "sharesHeld": "6090229",
+      "marketValue": 194156500.52,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRG",
+      "isin": "US49803T3005",
+      "cusip": "49803T300",
+      "name": "Kite Realty Group Trust",
+      "sharesHeld": "8203974",
+      "marketValue": 192711349.26,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAC",
+      "isin": "US5543821012",
+      "cusip": "554382101",
+      "name": "Macerich Co.",
+      "sharesHeld": "9429146",
+      "marketValue": 178493733.78,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "OPEN",
+      "isin": "US6837121036",
+      "cusip": "683712103",
+      "name": "Opendoor Technologies Inc.",
+      "sharesHeld": "33793916",
+      "marketValue": 174038667.4,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "PECO",
+      "isin": "US71844V2016",
+      "cusip": "71844V201",
+      "name": "Phillips Edison & Co. Inc.",
+      "sharesHeld": "4686718",
+      "marketValue": 169799793.14,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "SBRA",
+      "isin": "US78573L1061",
+      "cusip": "78573L106",
+      "name": "Sabra Health Care REIT Inc.",
+      "sharesHeld": "8946602",
+      "marketValue": 167569855.46,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "CUZ",
+      "isin": "US2227955026",
+      "cusip": "222795502",
+      "name": "Cousins Properties Inc.",
+      "sharesHeld": "6269352",
+      "marketValue": 158238444.48,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "EPR",
+      "isin": "US26884U1097",
+      "cusip": "26884U109",
+      "name": "EPR Properties",
+      "sharesHeld": "2839601",
+      "marketValue": 154019958.24,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRT",
+      "isin": "US45378A1060",
+      "cusip": "45378A106",
+      "name": "Independence Realty Trust Inc.",
+      "sharesHeld": "8724450",
+      "marketValue": 145698315,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "NHI",
+      "isin": "US63633D1046",
+      "cusip": "63633D104",
+      "name": "National Health Investors Inc.",
+      "sharesHeld": "1771007",
+      "marketValue": 145435094.84,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRC",
+      "isin": "US49427F1084",
+      "cusip": "49427F108",
+      "name": "Kilroy Realty Corp.",
+      "sharesHeld": "4193024",
+      "marketValue": 144575467.52,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "CWK",
+      "isin": "GB00BFZ4N465",
+      "cusip": "G2717C106",
+      "name": "Cushman & Wakefield UK Holdco London Ltd.",
+      "sharesHeld": "8637532",
+      "marketValue": 142001026.08,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "SKT",
+      "isin": "US8754651060",
+      "cusip": "875465106",
+      "name": "Tanger Factory Outlet Centers Inc.",
+      "sharesHeld": "4222452",
+      "marketValue": 138158629.44,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRP",
+      "isin": "US6011371027",
+      "cusip": "601137102",
+      "name": "Millrose Properties Inc.",
+      "sharesHeld": "4601808",
+      "marketValue": 137133878.4,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "OUT",
+      "isin": "US69007J3041",
+      "cusip": "69007J304",
+      "name": "Outfront Media Inc.",
+      "sharesHeld": "5614555",
+      "marketValue": 136545977.6,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "COLD",
+      "isin": "US03064D1081",
+      "cusip": "03064D108",
+      "name": "Americold Realty Trust",
+      "sharesHeld": "10625075",
+      "marketValue": 131857180.75,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "BNL",
+      "isin": "US11135E2037",
+      "cusip": "11135E203",
+      "name": "Broadstone Net Lease Inc.",
+      "sharesHeld": "7056295",
+      "marketValue": 130612020.45,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "CDP",
+      "isin": "US22002T1088",
+      "cusip": "22002T108",
+      "name": "Corporate Office Properties Trust",
+      "sharesHeld": "4212843",
+      "marketValue": 129797692.83,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYN",
+      "isin": "US7549071030",
+      "cusip": "754907103",
+      "name": "Rayonier Inc.",
+      "sharesHeld": "5707848",
+      "marketValue": 129796463.52,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLG",
+      "isin": "US78440X8873",
+      "cusip": "78440X887",
+      "name": "SL Green Realty Corp.",
+      "sharesHeld": "2649690",
+      "marketValue": 118653118.2,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCH",
+      "isin": "US7376301039",
+      "cusip": "737630103",
+      "name": "PotlatchDeltic Corp.",
+      "sharesHeld": "2741683",
+      "marketValue": 114410431.59,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZG",
+      "isin": "US98954M1018",
+      "cusip": "98954M101",
+      "name": "Zillow Group Inc. Class A",
+      "sharesHeld": "1785473",
+      "marketValue": 111127839.52,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "LXP",
+      "isin": "US5290434084",
+      "cusip": "529043408",
+      "name": "LXP Industrial Trust",
+      "sharesHeld": "2207771",
+      "marketValue": 109395053.05,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "HIW",
+      "isin": "US4312841087",
+      "cusip": "431284108",
+      "name": "Highwoods Properties Inc.",
+      "sharesHeld": "4032130",
+      "marketValue": 104230560.5,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "HHH",
+      "isin": "US44267T1025",
+      "cusip": "44267T102",
+      "name": "Howard Hughes Holdings Inc.",
+      "sharesHeld": "1219483",
+      "marketValue": 99582981.78,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "NMRK",
+      "isin": "US65158N1028",
+      "cusip": "65158N102",
+      "name": "Newmark Group Inc. Class A",
+      "sharesHeld": "5509060",
+      "marketValue": 98226539.8,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "AKR",
+      "isin": "US0042391096",
+      "cusip": "004239109",
+      "name": "Acadia Realty Trust",
+      "sharesHeld": "4887962",
+      "marketValue": 97808119.62,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "APLE",
+      "isin": "US03784Y2000",
+      "cusip": "03784Y200",
+      "name": "Apple Hospitality REIT Inc.",
+      "sharesHeld": "8399518",
+      "marketValue": 97770389.52,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "FCPT",
+      "isin": "US35086T1097",
+      "cusip": "35086T109",
+      "name": "Four Corners Property Trust Inc.",
+      "sharesHeld": "3896234",
+      "marketValue": 96042168.1,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "JOE",
+      "isin": "US7901481009",
+      "cusip": "790148100",
+      "name": "St. Joe Co.",
+      "sharesHeld": "1404559",
+      "marketValue": 92967760.21,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "LINE",
+      "isin": "US53566V1061",
+      "cusip": "53566V106",
+      "name": "Lineage Inc.",
+      "sharesHeld": "2560729",
+      "marketValue": 91443632.59,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "UE",
+      "isin": "US91704F1049",
+      "cusip": "91704F104",
+      "name": "Urban Edge Properties",
+      "sharesHeld": "4693742",
+      "marketValue": 91199407.06,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "NSA",
+      "isin": "US6378701063",
+      "cusip": "637870106",
+      "name": "National Storage Affiliates Trust",
+      "sharesHeld": "2721281",
+      "marketValue": 86563948.61,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "CURB",
+      "isin": "US23128Q1013",
+      "cusip": "23128Q101",
+      "name": "Curbline Properties Corp.",
+      "sharesHeld": "3533519",
+      "marketValue": 85687835.75,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "IVT",
+      "isin": "US46124J2015",
+      "cusip": "46124J201",
+      "name": "InvenTrust Properties Corp.",
+      "sharesHeld": "2897543",
+      "marketValue": 85158788.77,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "PK",
+      "isin": "US7005171050",
+      "cusip": "700517105",
+      "name": "Park Hotels & Resorts Inc.",
+      "sharesHeld": "7459605",
+      "marketValue": 81533482.65,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "MPW",
+      "isin": "US58463J3041",
+      "cusip": "58463J304",
+      "name": "Medical Properties Trust Inc.",
+      "sharesHeld": "15253710",
+      "marketValue": 76573624.2,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "GNL",
+      "isin": "US3793782018",
+      "cusip": "379378201",
+      "name": "Global Net Lease Inc.",
+      "sharesHeld": "7424242",
+      "marketValue": 70233329.32,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "DRH",
+      "isin": "US2527843013",
+      "cusip": "252784301",
+      "name": "DiamondRock Hospitality Co.",
+      "sharesHeld": "7649494",
+      "marketValue": 70222354.92,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "DEI",
+      "isin": "US25960P1093",
+      "cusip": "25960P109",
+      "name": "Douglas Emmett Inc.",
+      "sharesHeld": "6250022",
+      "marketValue": 66000232.32,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "LTC",
+      "isin": "US5021751020",
+      "cusip": "502175102",
+      "name": "LTC Properties Inc.",
+      "sharesHeld": "1720038",
+      "marketValue": 62729785.86,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "GTY",
+      "isin": "US3742971092",
+      "cusip": "374297109",
+      "name": "Getty Realty Corp.",
+      "sharesHeld": "2007723",
+      "marketValue": 59950608.78,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHO",
+      "isin": "US8678921011",
+      "cusip": "867892101",
+      "name": "Sunstone Hotel Investors Inc.",
+      "sharesHeld": "6733055",
+      "marketValue": 59048892.35,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "NTST",
+      "isin": "US64119V3033",
+      "cusip": "64119V303",
+      "name": "NETSTREIT Corp.",
+      "sharesHeld": "3117204",
+      "marketValue": 58728123.36,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALEX",
+      "isin": "US0144911049",
+      "cusip": "014491104",
+      "name": "Alexander & Baldwin Inc.",
+      "sharesHeld": "2715362",
+      "marketValue": 56316607.88,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "XHR",
+      "isin": "US9840171030",
+      "cusip": "984017103",
+      "name": "Xenia Hotels & Resorts Inc.",
+      "sharesHeld": "3573815",
+      "marketValue": 52713771.25,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEB",
+      "isin": "US70509V1008",
+      "cusip": "70509V100",
+      "name": "Pebblebrook Hotel Trust",
+      "sharesHeld": "4422765",
+      "marketValue": 50507976.3,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "IIPR",
+      "isin": "US45781V1017",
+      "cusip": "45781V101",
+      "name": "Innovative Industrial Properties Inc.",
+      "sharesHeld": "1044810",
+      "marketValue": 50485219.2,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "SILA",
+      "isin": "US1462805086",
+      "cusip": "146280508",
+      "name": "Sila Realty Trust Inc.",
+      "sharesHeld": "2057022",
+      "marketValue": 50088485.7,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "VRE",
+      "isin": "US5544891048",
+      "cusip": "554489104",
+      "name": "Mack-Cali Realty Corp.",
+      "sharesHeld": "3135573",
+      "marketValue": 47629353.87,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "UMH",
+      "isin": "US9030021037",
+      "cusip": "903002103",
+      "name": "UMH Properties Inc.",
+      "sharesHeld": "3007524",
+      "marketValue": 47007600.12,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "LB",
+      "isin": "US5149521008",
+      "cusip": "514952100",
+      "name": "Landbridge Co. LLC Class A",
+      "sharesHeld": "709224",
+      "marketValue": 40752011.04,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "KW",
+      "isin": "US4893981070",
+      "cusip": "489398107",
+      "name": "Kennedy-Wilson Holdings Inc.",
+      "sharesHeld": "4118687",
+      "marketValue": 40569066.95,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CSR",
+      "isin": "US15202L1070",
+      "cusip": "15202L107",
+      "name": "Centerspace",
+      "sharesHeld": "625270",
+      "marketValue": 40186102.9,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "PDM",
+      "isin": "US7201902068",
+      "cusip": "720190206",
+      "name": "Piedmont Office Realty Trust Inc. Class A",
+      "sharesHeld": "4645007",
+      "marketValue": 39110958.94,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "JBGS",
+      "isin": "US46590V1008",
+      "cusip": "46590V100",
+      "name": "JBG SMITH Properties",
+      "sharesHeld": "2302810",
+      "marketValue": 38779320.4,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "RLJ",
+      "isin": "US74965L1017",
+      "cusip": "74965L101",
+      "name": "RLJ Lodging Trust",
+      "sharesHeld": "5074940",
+      "marketValue": 37706804.2,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "DEA",
+      "isin": "US27616P3010",
+      "cusip": "27616P301",
+      "name": "Easterly Government Properties Inc. Class A",
+      "sharesHeld": "1608209",
+      "marketValue": 37616008.51,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "DHC",
+      "isin": "US25525P1075",
+      "cusip": "25525P107",
+      "name": "Diversified Healthcare Trust",
+      "sharesHeld": "6307933",
+      "marketValue": 36649090.73,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMA",
+      "isin": "US83192D4025",
+      "cusip": "83192D402",
+      "name": "Smartstop Self Storage REIT Inc.",
+      "sharesHeld": "1158737",
+      "marketValue": 36430691.28,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESRT",
+      "isin": "US2921041065",
+      "cusip": "292104106",
+      "name": "Empire State Realty Trust Inc.",
+      "sharesHeld": "5349679",
+      "marketValue": 35468371.77,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "AAT",
+      "isin": "US0240131047",
+      "cusip": "024013104",
+      "name": "American Assets Trust Inc.",
+      "sharesHeld": "1825952",
+      "marketValue": 32976693.12,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "AIV",
+      "isin": "US03748R7474",
+      "cusip": "03748R747",
+      "name": "Apartment Investment and Management Co.",
+      "sharesHeld": "5048469",
+      "marketValue": 29684997.72,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXPI",
+      "isin": "US30212W1009",
+      "cusip": "30212W100",
+      "name": "eXp World Holdings Inc.",
+      "sharesHeld": "2954714",
+      "marketValue": 26710614.56,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MMI",
+      "isin": "US5663241090",
+      "cusip": "566324109",
+      "name": "Marcus & Millichap Inc.",
+      "sharesHeld": "946805",
+      "marketValue": 25753096,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAFE",
+      "isin": "US78646V1070",
+      "cusip": "78646V107",
+      "name": "Safehold Inc.",
+      "sharesHeld": "1742587",
+      "marketValue": 24587902.57,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "WSR",
+      "isin": "US9660842041",
+      "cusip": "966084204",
+      "name": "Whitestone REIT",
+      "sharesHeld": "1711655",
+      "marketValue": 24373967.2,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "NXRT",
+      "isin": "US65341D1028",
+      "cusip": "65341D102",
+      "name": "NexPoint Residential Trust Inc.",
+      "sharesHeld": "805552",
+      "marketValue": 24343781.44,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTO",
+      "isin": "US22948Q1013",
+      "cusip": "22948Q101",
+      "name": "CTO Realty Growth Inc.",
+      "sharesHeld": "1226341",
+      "marketValue": 21792079.57,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "PKST",
+      "isin": "US39818P7996",
+      "cusip": "39818P799",
+      "name": "Peakstone Realty Trust",
+      "sharesHeld": "1371348",
+      "marketValue": 21420455.76,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALX",
+      "isin": "US0147521092",
+      "cusip": "014752109",
+      "name": "Alexander's Inc.",
+      "sharesHeld": "85941",
+      "marketValue": 21046950.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AHH",
+      "isin": "US04208T1088",
+      "cusip": "04208T108",
+      "name": "Armada Hoffler Properties Inc.",
+      "sharesHeld": "2997626",
+      "marketValue": 20893453.22,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBL",
+      "isin": "US1248308785",
+      "cusip": "124830878",
+      "name": "CBL & Associates Properties Inc.",
+      "sharesHeld": "578308",
+      "marketValue": 20703426.4,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GOOD",
+      "isin": "US3765361080",
+      "cusip": "376536108",
+      "name": "Gladstone Commercial Corp.",
+      "sharesHeld": "1741595",
+      "marketValue": 20289581.75,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "FOR",
+      "isin": "US3462321015",
+      "cusip": "346232101",
+      "name": "Forestar Group Inc.",
+      "sharesHeld": "760463",
+      "marketValue": 19787247.26,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "UHT",
+      "isin": "US91359E1055",
+      "cusip": "91359E105",
+      "name": "Universal Health Realty Income Trust",
+      "sharesHeld": "491810",
+      "marketValue": 19539611.3,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHCT",
+      "isin": "US20369C1062",
+      "cusip": "20369C106",
+      "name": "Community Healthcare Trust Inc.",
+      "sharesHeld": "1059811",
+      "marketValue": 18313534.08,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BDN",
+      "isin": "US1053682035",
+      "cusip": "105368203",
+      "name": "Brandywine Realty Trust",
+      "sharesHeld": "6464879",
+      "marketValue": 18295607.57,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "FPI",
+      "isin": "US31154R1095",
+      "cusip": "31154R109",
+      "name": "Farmland Partners Inc.",
+      "sharesHeld": "1564428",
+      "marketValue": 18163009.08,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "INN",
+      "isin": "US8660821005",
+      "cusip": "866082100",
+      "name": "Summit Hotel Properties Inc.",
+      "sharesHeld": "4058967",
+      "marketValue": 17940634.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "HPP",
+      "isin": "US4440974065",
+      "cusip": "444097406",
+      "name": "Hudson Pacific Properties Inc.",
+      "sharesHeld": "2026337",
+      "marketValue": 17467024.94,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GMRE",
+      "isin": "US37954A3032",
+      "cusip": "37954A303",
+      "name": "Global Medical REIT Inc.",
+      "sharesHeld": "473993",
+      "marketValue": 16371718.22,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "BFS",
+      "isin": "US8043951016",
+      "cusip": "804395101",
+      "name": "Saul Centers Inc.",
+      "sharesHeld": "499650",
+      "marketValue": 15853894.5,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAND",
+      "isin": "US3765491010",
+      "cusip": "376549101",
+      "name": "Gladstone Land Corp.",
+      "sharesHeld": "1279074",
+      "marketValue": 14261675.1,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLP",
+      "isin": "US6824061039",
+      "cusip": "682406103",
+      "name": "One Liberty Properties Inc.",
+      "sharesHeld": "602767",
+      "marketValue": 12989628.85,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLDT",
+      "isin": "US16208T1025",
+      "cusip": "16208T102",
+      "name": "Chatham Lodging Trust",
+      "sharesHeld": "1740788",
+      "marketValue": 12377002.68,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRC",
+      "isin": "US8790801091",
+      "cusip": "879080109",
+      "name": "Tejon Ranch Co.",
+      "sharesHeld": "750306",
+      "marketValue": 12072423.54,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SVC",
+      "isin": "US81761L1026",
+      "cusip": "81761L102",
+      "name": "Service Properties Trust",
+      "sharesHeld": "5900454",
+      "marketValue": 11741903.46,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SITC",
+      "isin": "US82981J8514",
+      "cusip": "82981J851",
+      "name": "SITE Centers Corp.",
+      "sharesHeld": "1853569",
+      "marketValue": 11343842.28,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NLOP",
+      "isin": "US64110Y1082",
+      "cusip": "64110Y108",
+      "name": "NET Lease Office Properties",
+      "sharesHeld": "523654",
+      "marketValue": 10216489.54,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "RMR",
+      "isin": "US74967R1068",
+      "cusip": "74967R106",
+      "name": "RMR Group Inc. Class A",
+      "sharesHeld": "589562",
+      "marketValue": 8931864.3,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRG",
+      "isin": "US81752R1005",
+      "cusip": "81752R100",
+      "name": "Seritage Growth Properties Class A",
+      "sharesHeld": "1376364",
+      "marketValue": 4542001.2,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "US64ESC19977",
+      "cusip": "64ESC1997",
+      "name": "New York REIT Liquidating LLC",
+      "sharesHeld": "1208",
+      "marketValue": 2585.12,
+      "percentWeight": "0.00"
+    }
+  ]
+}

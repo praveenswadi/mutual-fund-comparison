@@ -1,0 +1,4023 @@
+{
+  "symbol": "IVOO",
+  "name": "S&P Mid-Cap 400 ETF",
+  "assetClass": "Stock - Mid-Cap Blend",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 401,
+    "bond": 0,
+    "total": 401
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "CIEN",
+      "isin": "US1717793095",
+      "cusip": "171779309",
+      "name": "Ciena Corp.",
+      "sharesHeld": "210999",
+      "marketValue": 53131658.19,
+      "percentWeight": "1.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "COHR",
+      "isin": "US19247G1076",
+      "cusip": "19247G107",
+      "name": "Coherent Corp.",
+      "sharesHeld": "235081",
+      "marketValue": 49879486.58,
+      "percentWeight": "0.99"
+    },
+    {
+      "type": "stock",
+      "ticker": "LITE",
+      "isin": "US55024U1097",
+      "cusip": "55024U109",
+      "name": "Lumentum Holdings Inc.",
+      "sharesHeld": "106057",
+      "marketValue": 41557374.88,
+      "percentWeight": "0.83"
+    },
+    {
+      "type": "stock",
+      "ticker": "CW",
+      "isin": "US2315611010",
+      "cusip": "231561101",
+      "name": "Curtiss-Wright Corp.",
+      "sharesHeld": "55159",
+      "marketValue": 36222363.71,
+      "percentWeight": "0.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLEX",
+      "isin": "SG9999000020",
+      "cusip": "Y2573F102",
+      "name": "Flex Ltd.",
+      "sharesHeld": "553155",
+      "marketValue": 34870891.2,
+      "percentWeight": "0.70"
+    },
+    {
+      "type": "stock",
+      "ticker": "CASY",
+      "isin": "US1475281036",
+      "cusip": "147528103",
+      "name": "Casey's General Stores Inc.",
+      "sharesHeld": "55617",
+      "marketValue": 33731710.5,
+      "percentWeight": "0.67"
+    },
+    {
+      "type": "stock",
+      "ticker": "FTI",
+      "isin": "GB00BDSFG982",
+      "cusip": "G87110105",
+      "name": "TechnipFMC plc",
+      "sharesHeld": "605089",
+      "marketValue": 33715559.08,
+      "percentWeight": "0.67"
+    },
+    {
+      "type": "stock",
+      "ticker": "ILMN",
+      "isin": "US4523271090",
+      "cusip": "452327109",
+      "name": "Illumina Inc.",
+      "sharesHeld": "228568",
+      "marketValue": 33098932.08,
+      "percentWeight": "0.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSTG",
+      "isin": "US74624M1027",
+      "cusip": "74624M102",
+      "name": "Pure Storage Inc. Class A",
+      "sharesHeld": "467021",
+      "marketValue": 32476640.34,
+      "percentWeight": "0.65"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGLD",
+      "isin": "US7802871084",
+      "cusip": "780287108",
+      "name": "Royal Gold Inc.",
+      "sharesHeld": "121198",
+      "marketValue": 31912645.38,
+      "percentWeight": "0.64"
+    },
+    {
+      "type": "stock",
+      "ticker": "RBA",
+      "isin": "CA74935Q1072",
+      "cusip": "74935Q107",
+      "name": "RB Global Inc.",
+      "sharesHeld": "277768",
+      "marketValue": 31546111.76,
+      "percentWeight": "0.63"
+    },
+    {
+      "type": "stock",
+      "ticker": "UTHR",
+      "isin": "US91307C1027",
+      "cusip": "91307C102",
+      "name": "United Therapeutics Corp.",
+      "sharesHeld": "64408",
+      "marketValue": 30238911.92,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "WWD",
+      "isin": "US9807451037",
+      "cusip": "980745103",
+      "name": "Woodward Inc.",
+      "sharesHeld": "89699",
+      "marketValue": 28509930.16,
+      "percentWeight": "0.57"
+    },
+    {
+      "type": "stock",
+      "ticker": "BWXT",
+      "isin": "US05605H1005",
+      "cusip": "05605H100",
+      "name": "BWX Technologies Inc.",
+      "sharesHeld": "136762",
+      "marketValue": 28095017.66,
+      "percentWeight": "0.56"
+    },
+    {
+      "type": "stock",
+      "ticker": "USFD",
+      "isin": "US9120081099",
+      "cusip": "912008109",
+      "name": "US Foods Holding Corp.",
+      "sharesHeld": "333481",
+      "marketValue": 27885681.22,
+      "percentWeight": "0.56"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGI",
+      "isin": "US88023U1016",
+      "cusip": "88023U101",
+      "name": "Tempur Sealy International Inc.",
+      "sharesHeld": "313986",
+      "marketValue": 27583670.1,
+      "percentWeight": "0.55"
+    },
+    {
+      "type": "stock",
+      "ticker": "BURL",
+      "isin": "US1220171060",
+      "cusip": "122017106",
+      "name": "Burlington Stores Inc.",
+      "sharesHeld": "93149",
+      "marketValue": 27559063.14,
+      "percentWeight": "0.55"
+    },
+    {
+      "type": "stock",
+      "ticker": "TWLO",
+      "isin": "US90138F1021",
+      "cusip": "90138F102",
+      "name": "Twilio Inc. Class A",
+      "sharesHeld": "226798",
+      "marketValue": 27320087.08,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "NVT",
+      "isin": "IE00BDVJJQ56",
+      "cusip": "G6700G107",
+      "name": "nVent Electric plc",
+      "sharesHeld": "241362",
+      "marketValue": 27095298.12,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENTG",
+      "isin": "US29362U1043",
+      "cusip": "29362U104",
+      "name": "Entegris Inc.",
+      "sharesHeld": "226776",
+      "marketValue": 26775442.32,
+      "percentWeight": "0.53"
+    },
+    {
+      "type": "stock",
+      "ticker": "FN",
+      "isin": "KYG3323L1005",
+      "cusip": "G3323L100",
+      "name": "Fabrinet",
+      "sharesHeld": "53592",
+      "marketValue": 26230068.48,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "KTOS",
+      "isin": "US50077B2079",
+      "cusip": "50077B207",
+      "name": "Kratos Defense & Security Solutions Inc.",
+      "sharesHeld": "252563",
+      "marketValue": 26016514.63,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "XPO",
+      "isin": "US9837931008",
+      "cusip": "983793100",
+      "name": "XPO Logistics Inc.",
+      "sharesHeld": "175588",
+      "marketValue": 26006338.68,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "NXT",
+      "isin": "US65290E1010",
+      "cusip": "65290E101",
+      "name": "Nextpower Inc. Class A",
+      "sharesHeld": "221966",
+      "marketValue": 25989998.94,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "RS",
+      "isin": "US7595091023",
+      "cusip": "759509102",
+      "name": "Reliance Steel & Aluminum Co.",
+      "sharesHeld": "78214",
+      "marketValue": 25771513,
+      "percentWeight": "0.51"
+    },
+    {
+      "type": "stock",
+      "ticker": "JLL",
+      "isin": "US48020Q1076",
+      "cusip": "48020Q107",
+      "name": "Jones Lang LaSalle Inc.",
+      "sharesHeld": "70598",
+      "marketValue": 25267730.18,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "THC",
+      "isin": "US88033G4073",
+      "cusip": "88033G407",
+      "name": "Tenet Healthcare Corp.",
+      "sharesHeld": "131464",
+      "marketValue": 24883505.92,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATI",
+      "isin": "US01741R1023",
+      "cusip": "01741R102",
+      "name": "Allegheny Technologies Inc.",
+      "sharesHeld": "203232",
+      "marketValue": 24448809.6,
+      "percentWeight": "0.49"
+    },
+    {
+      "type": "stock",
+      "ticker": "TLN",
+      "isin": "US87422Q1094",
+      "cusip": "87422Q109",
+      "name": "Talen Energy Corp.",
+      "sharesHeld": "68344",
+      "marketValue": 23808315.84,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRS",
+      "isin": "US1442851036",
+      "cusip": "144285103",
+      "name": "Carpenter Technology Corp.",
+      "sharesHeld": "74522",
+      "marketValue": 23685327.26,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "MKSI",
+      "isin": "US55306N1046",
+      "cusip": "55306N104",
+      "name": "MKS Instruments Inc.",
+      "sharesHeld": "100475",
+      "marketValue": 23652819.75,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "EWBC",
+      "isin": "US27579R1041",
+      "cusip": "27579R104",
+      "name": "East West Bancorp Inc.",
+      "sharesHeld": "205802",
+      "marketValue": 23551980.88,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "RBC",
+      "isin": "US75524B1044",
+      "cusip": "75524B104",
+      "name": "RBC Bearings Inc.",
+      "sharesHeld": "47087",
+      "marketValue": 23527961.29,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "NLY",
+      "isin": "US0357108390",
+      "cusip": "035710839",
+      "name": "Annaly Capital Management Inc.",
+      "sharesHeld": "1021638",
+      "marketValue": 23507890.38,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "ITT",
+      "isin": "US45073V1089",
+      "cusip": "45073V108",
+      "name": "ITT Inc.",
+      "sharesHeld": "127144",
+      "marketValue": 23178351.2,
+      "percentWeight": "0.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "APG",
+      "isin": "US00187Y1001",
+      "cusip": "00187Y100",
+      "name": "API Group Corp.",
+      "sharesHeld": "553678",
+      "marketValue": 23016394.46,
+      "percentWeight": "0.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "WPC",
+      "isin": "US92936U1097",
+      "cusip": "92936U109",
+      "name": "WP Carey Inc.",
+      "sharesHeld": "327797",
+      "marketValue": 22863840.75,
+      "percentWeight": "0.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "CG",
+      "isin": "US14316J1088",
+      "cusip": "14316J108",
+      "name": "Carlyle Group Inc.",
+      "sharesHeld": "388179",
+      "marketValue": 22817161.62,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "SATS",
+      "isin": "US2787681061",
+      "cusip": "278768106",
+      "name": "EchoStar Corp. Class A",
+      "sharesHeld": "201366",
+      "marketValue": 22798658.52,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "MLI",
+      "isin": "US6247561029",
+      "cusip": "624756102",
+      "name": "Mueller Industries Inc.",
+      "sharesHeld": "166053",
+      "marketValue": 22606455.42,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "HL",
+      "isin": "US4227041062",
+      "cusip": "422704106",
+      "name": "Hecla Mining Co.",
+      "sharesHeld": "1002381",
+      "marketValue": 22573620.12,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "PFGC",
+      "isin": "US71377A1034",
+      "cusip": "71377A103",
+      "name": "Performance Food Group Co.",
+      "sharesHeld": "234565",
+      "marketValue": 22389229.25,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTZ",
+      "isin": "US5763231090",
+      "cusip": "576323109",
+      "name": "MasTec Inc.",
+      "sharesHeld": "91749",
+      "marketValue": 22063799.52,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "AA",
+      "isin": "US0138721065",
+      "cusip": "013872106",
+      "name": "Alcoa Corp.",
+      "sharesHeld": "387381",
+      "marketValue": 22007114.61,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "LECO",
+      "isin": "US5339001068",
+      "cusip": "533900106",
+      "name": "Lincoln Electric Holdings Inc.",
+      "sharesHeld": "82309",
+      "marketValue": 21840693.15,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "GGG",
+      "isin": "US3841091040",
+      "cusip": "384109104",
+      "name": "Graco Inc.",
+      "sharesHeld": "247989",
+      "marketValue": 21656879.37,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "OKTA",
+      "isin": "US6792951054",
+      "cusip": "679295105",
+      "name": "Okta Inc.",
+      "sharesHeld": "252010",
+      "marketValue": 21289804.8,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "PNFP",
+      "isin": "US72348N1090",
+      "cusip": "72348N109",
+      "name": "Pinnacle Financial Partners Inc.",
+      "sharesHeld": "223802",
+      "marketValue": 21281332.18,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "CSL",
+      "isin": "US1423391002",
+      "cusip": "142339100",
+      "name": "Carlisle Cos. Inc.",
+      "sharesHeld": "62355",
+      "marketValue": 21256195.95,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "WCC",
+      "isin": "US95082P1057",
+      "cusip": "95082P105",
+      "name": "WESCO International Inc.",
+      "sharesHeld": "72768",
+      "marketValue": 21061242.24,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTSI",
+      "isin": "US55405Y1001",
+      "cusip": "55405Y100",
+      "name": "MACOM Technology Solutions Holdings Inc.",
+      "sharesHeld": "95801",
+      "marketValue": 20986167.06,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEN",
+      "isin": "US70975L1070",
+      "cusip": "70975L107",
+      "name": "Penumbra Inc.",
+      "sharesHeld": "58581",
+      "marketValue": 20981956.77,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "TOL",
+      "isin": "US8894781033",
+      "cusip": "889478103",
+      "name": "Toll Brothers Inc.",
+      "sharesHeld": "144174",
+      "marketValue": 20831701.26,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "FNF",
+      "isin": "US31620R3030",
+      "cusip": "31620R303",
+      "name": "Fidelity National Financial Inc.",
+      "sharesHeld": "381241",
+      "marketValue": 20735697.99,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "RPM",
+      "isin": "US7496851038",
+      "cusip": "749685103",
+      "name": "RPM International Inc.",
+      "sharesHeld": "191811",
+      "marketValue": 20516104.56,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "CACI",
+      "isin": "US1271903049",
+      "cusip": "127190304",
+      "name": "CACI International Inc. Class A",
+      "sharesHeld": "33029",
+      "marketValue": 20497136.82,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "EVR",
+      "isin": "US29977A1051",
+      "cusip": "29977A105",
+      "name": "Evercore Inc. Class A",
+      "sharesHeld": "57856",
+      "marketValue": 20438789.12,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "NBIX",
+      "isin": "US64125C1099",
+      "cusip": "64125C109",
+      "name": "Neurocrine Biosciences Inc.",
+      "sharesHeld": "149148",
+      "marketValue": 20293076.88,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "WSO",
+      "isin": "US9426222009",
+      "cusip": "942622200",
+      "name": "Watsco Inc.",
+      "sharesHeld": "52242",
+      "marketValue": 20188920.9,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "DKS",
+      "isin": "US2533931026",
+      "cusip": "253393102",
+      "name": "Dick's Sporting Goods Inc.",
+      "sharesHeld": "98887",
+      "marketValue": 19975174,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGA",
+      "isin": "US7593516047",
+      "cusip": "759351604",
+      "name": "Reinsurance Group of America Inc. Class A",
+      "sharesHeld": "98301",
+      "marketValue": 19930527.75,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQH",
+      "isin": "US29452E1010",
+      "cusip": "29452E101",
+      "name": "Equitable Holdings Inc.",
+      "sharesHeld": "428635",
+      "marketValue": 19888664,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "PINS",
+      "isin": "US72352L1061",
+      "cusip": "72352L106",
+      "name": "Pinterest Inc. Class A",
+      "sharesHeld": "891328",
+      "marketValue": 19725088.64,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "BLD",
+      "isin": "US89055F1030",
+      "cusip": "89055F103",
+      "name": "TopBuild Corp.",
+      "sharesHeld": "41750",
+      "marketValue": 19541087.5,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLH",
+      "isin": "US1844961078",
+      "cusip": "184496107",
+      "name": "Clean Harbors Inc.",
+      "sharesHeld": "75132",
+      "marketValue": 19527558.12,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "RNR",
+      "isin": "BMG7496G1033",
+      "cusip": "G7496G103",
+      "name": "RenaissanceRe Holdings Ltd.",
+      "sharesHeld": "68975",
+      "marketValue": 19430257.5,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "OHI",
+      "isin": "US6819361006",
+      "cusip": "681936100",
+      "name": "Omega Healthcare Investors Inc.",
+      "sharesHeld": "442060",
+      "marketValue": 19397592.8,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "MEDP",
+      "isin": "US58506Q1094",
+      "cusip": "58506Q109",
+      "name": "Medpace Holdings Inc.",
+      "sharesHeld": "33285",
+      "marketValue": 19387846.8,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "DTM",
+      "isin": "US23345M1071",
+      "cusip": "23345M107",
+      "name": "DT Midstream Inc.",
+      "sharesHeld": "152085",
+      "marketValue": 19165751.7,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACM",
+      "isin": "US00766T1007",
+      "cusip": "00766T100",
+      "name": "AECOM",
+      "sharesHeld": "198118",
+      "marketValue": 19104518.74,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "GLPI",
+      "isin": "US36467J1088",
+      "cusip": "36467J108",
+      "name": "Gaming and Leisure Properties Inc.",
+      "sharesHeld": "423336",
+      "marketValue": 18944286,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "SF",
+      "isin": "US8606301021",
+      "cusip": "860630102",
+      "name": "Stifel Financial Corp.",
+      "sharesHeld": "152317",
+      "marketValue": 18780686.1,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "RMBS",
+      "isin": "US7509171069",
+      "cusip": "750917106",
+      "name": "Rambus Inc.",
+      "sharesHeld": "161030",
+      "marketValue": 18330044.9,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELS",
+      "isin": "US29472R1086",
+      "cusip": "29472R108",
+      "name": "Equity LifeStyle Properties Inc.",
+      "sharesHeld": "289918",
+      "marketValue": 18314120.06,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "BJ",
+      "isin": "US05550J1016",
+      "cusip": "05550J101",
+      "name": "BJ's Wholesale Club Holdings Inc.",
+      "sharesHeld": "197085",
+      "marketValue": 18218537.4,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "FHN",
+      "isin": "US3205171057",
+      "cusip": "320517105",
+      "name": "First Horizon National Corp.",
+      "sharesHeld": "736510",
+      "marketValue": 18037129.9,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "SNX",
+      "isin": "US87162W1009",
+      "cusip": "87162W100",
+      "name": "SYNNEX Corp.",
+      "sharesHeld": "113289",
+      "marketValue": 17975565.63,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "GWRE",
+      "isin": "US40171V1008",
+      "cusip": "40171V100",
+      "name": "Guidewire Software Inc.",
+      "sharesHeld": "127181",
+      "marketValue": 17901997.56,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELAN",
+      "isin": "US28414H1032",
+      "cusip": "28414H103",
+      "name": "Elanco Animal Health Inc.",
+      "sharesHeld": "743244",
+      "marketValue": 17897315.52,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "CCK",
+      "isin": "US2283681060",
+      "cusip": "228368106",
+      "name": "Crown Holdings Inc.",
+      "sharesHeld": "170564",
+      "marketValue": 17854639.52,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "TXRH",
+      "isin": "US8826811098",
+      "cusip": "882681109",
+      "name": "Texas Roadhouse Inc. Class A",
+      "sharesHeld": "98946",
+      "marketValue": 17796427.56,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALLY",
+      "isin": "US02005N1000",
+      "cusip": "02005N100",
+      "name": "Ally Financial Inc.",
+      "sharesHeld": "419359",
+      "marketValue": 17730498.52,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "NYT",
+      "isin": "US6501111073",
+      "cusip": "650111107",
+      "name": "New York Times Co. Class A",
+      "sharesHeld": "241674",
+      "marketValue": 17717120.94,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "DCI",
+      "isin": "US2576511099",
+      "cusip": "257651109",
+      "name": "Donaldson Co. Inc.",
+      "sharesHeld": "173255",
+      "marketValue": 17661614.7,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "UNM",
+      "isin": "US91529Y1064",
+      "cusip": "91529Y106",
+      "name": "Unum Group",
+      "sharesHeld": "230285",
+      "marketValue": 17494751.45,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRU",
+      "isin": "US89400J1079",
+      "cusip": "89400J107",
+      "name": "TransUnion",
+      "sharesHeld": "220506",
+      "marketValue": 17424384.12,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "DT",
+      "isin": "US2681501092",
+      "cusip": "268150109",
+      "name": "Dynatrace Inc.",
+      "sharesHeld": "451021",
+      "marketValue": 17179389.89,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCI",
+      "isin": "US8175651046",
+      "cusip": "817565104",
+      "name": "Service Corp. International/US",
+      "sharesHeld": "209706",
+      "marketValue": 16866653.58,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "PR",
+      "isin": "US71424F1057",
+      "cusip": "71424F105",
+      "name": "Permian Resources Corp. Class A",
+      "sharesHeld": "1038733",
+      "marketValue": 16754763.29,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAMR",
+      "isin": "US5128161099",
+      "cusip": "512816109",
+      "name": "Lamar Advertising Co. Class A",
+      "sharesHeld": "129932",
+      "marketValue": 16671574.92,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXEL",
+      "isin": "US30161Q1040",
+      "cusip": "30161Q104",
+      "name": "Exelixis Inc.",
+      "sharesHeld": "401061",
+      "marketValue": 16587882.96,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "LSCC",
+      "isin": "US5184151042",
+      "cusip": "518415104",
+      "name": "Lattice Semiconductor Corp.",
+      "sharesHeld": "204611",
+      "marketValue": 16475277.72,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "OVV",
+      "isin": "US69047Q1022",
+      "cusip": "69047Q102",
+      "name": "Ovintiv Inc.",
+      "sharesHeld": "378873",
+      "marketValue": 16469609.31,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "STRL",
+      "isin": "US8592411016",
+      "cusip": "859241101",
+      "name": "Sterling Construction Co. Inc.",
+      "sharesHeld": "45951",
+      "marketValue": 16446322.41,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "WTRG",
+      "isin": "US29670G1022",
+      "cusip": "29670G102",
+      "name": "Essential Utilities Inc.",
+      "sharesHeld": "423320",
+      "marketValue": 16420582.8,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "WMS",
+      "isin": "US00790R1041",
+      "cusip": "00790R104",
+      "name": "Advanced Drainage Systems Inc.",
+      "sharesHeld": "107015",
+      "marketValue": 16270560.6,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMRN",
+      "isin": "US09061G1013",
+      "cusip": "09061G101",
+      "name": "BioMarin Pharmaceutical Inc.",
+      "sharesHeld": "287386",
+      "marketValue": 16248804.44,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAH",
+      "isin": "US0995021062",
+      "cusip": "099502106",
+      "name": "Booz Allen Hamilton Holding Corp. Class A",
+      "sharesHeld": "181456",
+      "marketValue": 16044339.52,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "RRX",
+      "isin": "US7587501039",
+      "cusip": "758750103",
+      "name": "Regal Beloit Corp.",
+      "sharesHeld": "99312",
+      "marketValue": 16038888,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "AR",
+      "isin": "US03674X1063",
+      "cusip": "03674X106",
+      "name": "Antero Resources Corp.",
+      "sharesHeld": "438403",
+      "marketValue": 15944717.11,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "NTNX",
+      "isin": "US67059N1081",
+      "cusip": "67059N108",
+      "name": "Nutanix Inc.",
+      "sharesHeld": "405070",
+      "marketValue": 15931403.1,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "WBS",
+      "isin": "US9478901096",
+      "cusip": "947890109",
+      "name": "Webster Financial Corp.",
+      "sharesHeld": "241263",
+      "marketValue": 15867867.51,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "FIVE",
+      "isin": "US33829M1018",
+      "cusip": "33829M101",
+      "name": "Five Below Inc.",
+      "sharesHeld": "82488",
+      "marketValue": 15808000.32,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "DOCU",
+      "isin": "US2561631068",
+      "cusip": "256163106",
+      "name": "DocuSign Inc. Class A",
+      "sharesHeld": "300840",
+      "marketValue": 15806133.6,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "DY",
+      "isin": "US2674751019",
+      "cusip": "267475101",
+      "name": "Dycom Industries Inc.",
+      "sharesHeld": "43309",
+      "marketValue": 15781366.51,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPXC",
+      "isin": "US78473E1038",
+      "cusip": "78473E103",
+      "name": "SPX Technologies Inc.",
+      "sharesHeld": "74547",
+      "marketValue": 15536340.27,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "SSB",
+      "isin": "US84472E1029",
+      "cusip": "84472E102",
+      "name": "SOUTHSTATE BANK Corp.",
+      "sharesHeld": "150357",
+      "marketValue": 15386031.81,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMH",
+      "isin": "US02665T3068",
+      "cusip": "02665T306",
+      "name": "American Homes 4 Rent Class A",
+      "sharesHeld": "487672",
+      "marketValue": 15273887.04,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNM",
+      "isin": "US21874C1027",
+      "cusip": "21874C102",
+      "name": "Core & Main Inc. Class A",
+      "sharesHeld": "285245",
+      "marketValue": 15220673.2,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "TTMI",
+      "isin": "US87305R1095",
+      "cusip": "87305R109",
+      "name": "TTM Technologies Inc.",
+      "sharesHeld": "154568",
+      "marketValue": 15178577.6,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "BWA",
+      "isin": "US0997241064",
+      "cusip": "099724106",
+      "name": "BorgWarner Inc.",
+      "sharesHeld": "319987",
+      "marketValue": 15170583.67,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARMK",
+      "isin": "US03852U1060",
+      "cusip": "03852U106",
+      "name": "Aramark",
+      "sharesHeld": "393192",
+      "marketValue": 15133960.08,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "GMED",
+      "isin": "US3795772082",
+      "cusip": "379577208",
+      "name": "Globus Medical Inc.",
+      "sharesHeld": "166654",
+      "marketValue": 15112184.72,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "JEF",
+      "isin": "US47233W1099",
+      "cusip": "47233W109",
+      "name": "Jefferies Financial Group Inc.",
+      "sharesHeld": "246872",
+      "marketValue": 15103628.96,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "JAZZ",
+      "isin": "IE00B4Q5ZN47",
+      "cusip": "G50871105",
+      "name": "Jazz Pharmaceuticals plc",
+      "sharesHeld": "90897",
+      "marketValue": 14951647.53,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLS",
+      "isin": "US34354P1057",
+      "cusip": "34354P105",
+      "name": "Flowserve Corp.",
+      "sharesHeld": "190146",
+      "marketValue": 14859909.9,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "ONTO",
+      "isin": "US6833441057",
+      "cusip": "683344105",
+      "name": "Onto Innovation Inc.",
+      "sharesHeld": "73315",
+      "marketValue": 14813295.75,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "WTFC",
+      "isin": "US97650W1080",
+      "cusip": "97650W108",
+      "name": "Wintrust Financial Corp.",
+      "sharesHeld": "100173",
+      "marketValue": 14774515.77,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENSG",
+      "isin": "US29358P1012",
+      "cusip": "29358P101",
+      "name": "Ensign Group Inc.",
+      "sharesHeld": "86035",
+      "marketValue": 14768768.1,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "OC",
+      "isin": "US6907421019",
+      "cusip": "690742101",
+      "name": "Owens Corning",
+      "sharesHeld": "122952",
+      "marketValue": 14734567.68,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "TTEK",
+      "isin": "US88162G1031",
+      "cusip": "88162G103",
+      "name": "Tetra Tech Inc.",
+      "sharesHeld": "391055",
+      "marketValue": 14727131.3,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "GME",
+      "isin": "US36467W1099",
+      "cusip": "36467W109",
+      "name": "GameStop Corp. Class A",
+      "sharesHeld": "616421",
+      "marketValue": 14720133.48,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "AIT",
+      "isin": "US03820C1053",
+      "cusip": "03820C105",
+      "name": "Applied Industrial Technologies Inc.",
+      "sharesHeld": "56417",
+      "marketValue": 14691550.97,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "EGP",
+      "isin": "US2772761019",
+      "cusip": "277276101",
+      "name": "EastGroup Properties Inc.",
+      "sharesHeld": "79666",
+      "marketValue": 14470532.24,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "AEIS",
+      "isin": "US0079731008",
+      "cusip": "007973100",
+      "name": "Advanced Energy Industries Inc.",
+      "sharesHeld": "56461",
+      "marketValue": 14417880.96,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNH",
+      "isin": "NL0010545661",
+      "cusip": "N20944109",
+      "name": "CNH Industrial NV",
+      "sharesHeld": "1323858",
+      "marketValue": 14244712.08,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "EHC",
+      "isin": "US29261A1007",
+      "cusip": "29261A100",
+      "name": "Encompass Health Corp.",
+      "sharesHeld": "150505",
+      "marketValue": 14227237.65,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "ROIV",
+      "isin": "BMG762791017",
+      "cusip": "G76279101",
+      "name": "Roivant Sciences Ltd.",
+      "sharesHeld": "655437",
+      "marketValue": 14170547.94,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "REXR",
+      "isin": "US76169C1009",
+      "cusip": "76169C100",
+      "name": "Rexford Industrial Realty Inc.",
+      "sharesHeld": "347518",
+      "marketValue": 14084904.54,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "AYI",
+      "isin": "US00508Y1029",
+      "cusip": "00508Y102",
+      "name": "Acuity Brands Inc.",
+      "sharesHeld": "45492",
+      "marketValue": 14067946.08,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "WAL",
+      "isin": "US9576381092",
+      "cusip": "957638109",
+      "name": "Western Alliance Bancorp",
+      "sharesHeld": "154413",
+      "marketValue": 13765918.95,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLI",
+      "isin": "US4415931009",
+      "cusip": "441593100",
+      "name": "Houlihan Lokey Inc. Class A",
+      "sharesHeld": "81543",
+      "marketValue": 13725317.76,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "GTLS",
+      "isin": "US16115Q3083",
+      "cusip": "16115Q308",
+      "name": "Chart Industries Inc.",
+      "sharesHeld": "66097",
+      "marketValue": 13704551.98,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "MANH",
+      "isin": "US5627501092",
+      "cusip": "562750109",
+      "name": "Manhattan Associates Inc.",
+      "sharesHeld": "90143",
+      "marketValue": 13612494.43,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "OSK",
+      "isin": "US6882392011",
+      "cusip": "688239201",
+      "name": "Oshkosh Corp.",
+      "sharesHeld": "94621",
+      "marketValue": 13608392.22,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "UMBF",
+      "isin": "US9027881088",
+      "cusip": "902788108",
+      "name": "UMB Financial Corp.",
+      "sharesHeld": "106800",
+      "marketValue": 13578552,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "AFG",
+      "isin": "US0259321042",
+      "cusip": "025932104",
+      "name": "American Financial Group Inc./OH",
+      "sharesHeld": "103551",
+      "marketValue": 13489588.77,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "RRC",
+      "isin": "US75281A1097",
+      "cusip": "75281A109",
+      "name": "Range Resources Corp.",
+      "sharesHeld": "354434",
+      "marketValue": 13415326.9,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "TTC",
+      "isin": "US8910921084",
+      "cusip": "891092108",
+      "name": "Toro Co.",
+      "sharesHeld": "146386",
+      "marketValue": 13394319,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNX",
+      "isin": "US4990491049",
+      "cusip": "499049104",
+      "name": "Knight-Swift Transportation Holdings Inc.",
+      "sharesHeld": "242833",
+      "marketValue": 13380098.3,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "CR",
+      "isin": "US2244081046",
+      "cusip": "224408104",
+      "name": "Crane Co.",
+      "sharesHeld": "73232",
+      "marketValue": 13375092.48,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAIA",
+      "isin": "US78709Y1055",
+      "cusip": "78709Y105",
+      "name": "Saia Inc.",
+      "sharesHeld": "39854",
+      "marketValue": 13345908.98,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORI",
+      "isin": "US6802231042",
+      "cusip": "680223104",
+      "name": "Old Republic International Corp.",
+      "sharesHeld": "340542",
+      "marketValue": 13339030.14,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVAV",
+      "isin": "US0080731088",
+      "cusip": "008073108",
+      "name": "AeroVironment Inc.",
+      "sharesHeld": "47591",
+      "marketValue": 13248858.49,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZION",
+      "isin": "US9897011071",
+      "cusip": "989701107",
+      "name": "Zions Bancorp NA",
+      "sharesHeld": "220856",
+      "marketValue": 13231482.96,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "CFR",
+      "isin": "US2298991090",
+      "cusip": "229899109",
+      "name": "Cullen/Frost Bankers Inc.",
+      "sharesHeld": "95638",
+      "marketValue": 13180829.16,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "COLB",
+      "isin": "US1972361026",
+      "cusip": "197236102",
+      "name": "Columbia Banking System Inc.",
+      "sharesHeld": "447467",
+      "marketValue": 13173428.48,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMG",
+      "isin": "US0082521081",
+      "cusip": "008252108",
+      "name": "Affiliated Managers Group Inc.",
+      "sharesHeld": "42074",
+      "marketValue": 13172948.66,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "OGE",
+      "isin": "US6708371033",
+      "cusip": "670837103",
+      "name": "OGE Energy Corp.",
+      "sharesHeld": "301359",
+      "marketValue": 13163361.12,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "AAL",
+      "isin": "US02376R1023",
+      "cusip": "02376R102",
+      "name": "American Airlines Group Inc.",
+      "sharesHeld": "987365",
+      "marketValue": 13131954.5,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "VMI",
+      "isin": "US9202531011",
+      "cusip": "920253101",
+      "name": "Valmont Industries Inc.",
+      "sharesHeld": "29467",
+      "marketValue": 13129316.52,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNSL",
+      "isin": "US49714P1084",
+      "cusip": "49714P108",
+      "name": "Kinsale Capital Group Inc.",
+      "sharesHeld": "33059",
+      "marketValue": 13087396.92,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "UGI",
+      "isin": "US9026811052",
+      "cusip": "902681105",
+      "name": "UGI Corp.",
+      "sharesHeld": "321491",
+      "marketValue": 12895004.01,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "COKE",
+      "isin": "US1910981026",
+      "cusip": "191098102",
+      "name": "Coca-Cola Consolidated Inc.",
+      "sharesHeld": "84623",
+      "marketValue": 12867773.38,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "CUBE",
+      "isin": "US2296631094",
+      "cusip": "229663109",
+      "name": "CubeSmart",
+      "sharesHeld": "341130",
+      "marketValue": 12802608.9,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "CMC",
+      "isin": "US2017231034",
+      "cusip": "201723103",
+      "name": "Commercial Metals Co.",
+      "sharesHeld": "165999",
+      "marketValue": 12760343.13,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ONB",
+      "isin": "US6800331075",
+      "cusip": "680033107",
+      "name": "Old National Bancorp/IN",
+      "sharesHeld": "520280",
+      "marketValue": 12710440.4,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALV",
+      "isin": "US0528001094",
+      "cusip": "052800109",
+      "name": "Autoliv Inc.",
+      "sharesHeld": "104533",
+      "marketValue": 12673580.92,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "HALO",
+      "isin": "US40637H1095",
+      "cusip": "40637H109",
+      "name": "Halozyme Therapeutics Inc.",
+      "sharesHeld": "175908",
+      "marketValue": 12614362.68,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRI",
+      "isin": "US74164M1080",
+      "cusip": "74164M108",
+      "name": "Primerica Inc.",
+      "sharesHeld": "47740",
+      "marketValue": 12557529.6,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "CELH",
+      "isin": "US15118V2079",
+      "cusip": "15118V207",
+      "name": "Celsius Holdings Inc.",
+      "sharesHeld": "239085",
+      "marketValue": 12547180.8,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "AHR",
+      "isin": "US3981823038",
+      "cusip": "398182303",
+      "name": "American Healthcare REIT Inc.",
+      "sharesHeld": "264604",
+      "marketValue": 12412573.64,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADC",
+      "isin": "US0084921008",
+      "cusip": "008492100",
+      "name": "Agree Realty Corp.",
+      "sharesHeld": "171622",
+      "marketValue": 12396257.06,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRBG",
+      "isin": "US21871X1090",
+      "cusip": "21871X109",
+      "name": "Corebridge Financial Inc.",
+      "sharesHeld": "399965",
+      "marketValue": 12330920.95,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "WTS",
+      "isin": "US9427491025",
+      "cusip": "942749102",
+      "name": "Watts Water Technologies Inc. Class A",
+      "sharesHeld": "40994",
+      "marketValue": 12269914.14,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRX",
+      "isin": "US11120U1051",
+      "cusip": "11120U105",
+      "name": "Brixmor Property Group Inc.",
+      "sharesHeld": "457863",
+      "marketValue": 12266149.77,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATR",
+      "isin": "US0383361039",
+      "cusip": "038336103",
+      "name": "AptarGroup Inc.",
+      "sharesHeld": "98168",
+      "marketValue": 12266091.6,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEIC",
+      "isin": "US7841171033",
+      "cusip": "784117103",
+      "name": "SEI Investments Co.",
+      "sharesHeld": "139180",
+      "marketValue": 12226963,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "DINO",
+      "isin": "US4039491000",
+      "cusip": "403949100",
+      "name": "HF Sinclair Corp",
+      "sharesHeld": "233897",
+      "marketValue": 12160305.03,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "LFUS",
+      "isin": "US5370081045",
+      "cusip": "537008104",
+      "name": "Littelfuse Inc.",
+      "sharesHeld": "37249",
+      "marketValue": 12059736.24,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "MP",
+      "isin": "US5533681012",
+      "cusip": "553368101",
+      "name": "MP Materials Corp.",
+      "sharesHeld": "201487",
+      "marketValue": 11841390.99,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "NNN",
+      "isin": "US6374171063",
+      "cusip": "637417106",
+      "name": "National Retail Properties Inc.",
+      "sharesHeld": "284097",
+      "marketValue": 11838321.99,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGEN",
+      "isin": "US7599161095",
+      "cusip": "759916109",
+      "name": "Repligen Corp.",
+      "sharesHeld": "79154",
+      "marketValue": 11823232.98,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAD",
+      "isin": "US5367971034",
+      "cusip": "536797103",
+      "name": "Lithia Motors Inc. Class A",
+      "sharesHeld": "36277",
+      "marketValue": 11733432.88,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLF",
+      "isin": "US1858991011",
+      "cusip": "185899101",
+      "name": "Cleveland-Cliffs Inc.",
+      "sharesHeld": "852236",
+      "marketValue": 11726767.36,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "CYTK",
+      "isin": "US23282W6057",
+      "cusip": "23282W605",
+      "name": "Cytokinetics Inc.",
+      "sharesHeld": "182901",
+      "marketValue": 11557514.19,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "R",
+      "isin": "US7835491082",
+      "cusip": "783549108",
+      "name": "Ryder System Inc.",
+      "sharesHeld": "60392",
+      "marketValue": 11551781.76,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "FR",
+      "isin": "US32054K1034",
+      "cusip": "32054K103",
+      "name": "First Industrial Realty Trust Inc.",
+      "sharesHeld": "198082",
+      "marketValue": 11494698.46,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORA",
+      "isin": "US6866881021",
+      "cusip": "686688102",
+      "name": "Ormat Technologies Inc.",
+      "sharesHeld": "90920",
+      "marketValue": 11359544.8,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "NFG",
+      "isin": "US6361801011",
+      "cusip": "636180101",
+      "name": "National Fuel Gas Co.",
+      "sharesHeld": "135167",
+      "marketValue": 11320236.25,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "PLNT",
+      "isin": "US72703H1014",
+      "cusip": "72703H101",
+      "name": "Planet Fitness Inc. Class A",
+      "sharesHeld": "124132",
+      "marketValue": 11300977.28,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "INGR",
+      "isin": "US4571871023",
+      "cusip": "457187102",
+      "name": "Ingredion Inc.",
+      "sharesHeld": "95030",
+      "marketValue": 11223043,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVTR",
+      "isin": "US05352A1007",
+      "cusip": "05352A100",
+      "name": "Avantor Inc.",
+      "sharesHeld": "1019979",
+      "marketValue": 11138170.68,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLR",
+      "isin": "US3434121022",
+      "cusip": "343412102",
+      "name": "Fluor Corp.",
+      "sharesHeld": "241110",
+      "marketValue": 11136870.9,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "HQY",
+      "isin": "US42226A1079",
+      "cusip": "42226A107",
+      "name": "HealthEquity Inc.",
+      "sharesHeld": "128881",
+      "marketValue": 11041235.27,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "WING",
+      "isin": "US9741551033",
+      "cusip": "974155103",
+      "name": "Wingstop Inc.",
+      "sharesHeld": "41566",
+      "marketValue": 11032863.38,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "SSD",
+      "isin": "US8290731053",
+      "cusip": "829073105",
+      "name": "Simpson Manufacturing Co. Inc.",
+      "sharesHeld": "62014",
+      "marketValue": 10962834.92,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "VOYA",
+      "isin": "US9290891004",
+      "cusip": "929089100",
+      "name": "Voya Financial Inc.",
+      "sharesHeld": "142373",
+      "marketValue": 10914314.18,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "DAR",
+      "isin": "US2372661015",
+      "cusip": "237266101",
+      "name": "Darling Ingredients Inc.",
+      "sharesHeld": "236636",
+      "marketValue": 10804799.76,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "MUSA",
+      "isin": "US6267551025",
+      "cusip": "626755102",
+      "name": "Murphy USA Inc.",
+      "sharesHeld": "25501",
+      "marketValue": 10774427.51,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "IDA",
+      "isin": "US4511071064",
+      "cusip": "451107106",
+      "name": "IDACORP Inc.",
+      "sharesHeld": "80837",
+      "marketValue": 10734345.23,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "AXTA",
+      "isin": "BMG0750C1082",
+      "cusip": "G0750C108",
+      "name": "Axalta Coating Systems Ltd.",
+      "sharesHeld": "319166",
+      "marketValue": 10717594.28,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNOM",
+      "isin": "US64361Q1013",
+      "cusip": "64361Q101",
+      "name": "Viper Energy Inc. Class A",
+      "sharesHeld": "251962",
+      "marketValue": 10668071.08,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "FND",
+      "isin": "US3397501012",
+      "cusip": "339750101",
+      "name": "Floor & Decor Holdings Inc. Class A",
+      "sharesHeld": "161198",
+      "marketValue": 10632620.08,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "G",
+      "isin": "BMG3922B1072",
+      "cusip": "G3922B107",
+      "name": "Genpact Ltd.",
+      "sharesHeld": "239870",
+      "marketValue": 10578267,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "AGCO",
+      "isin": "US0010841023",
+      "cusip": "001084102",
+      "name": "AGCO Corp.",
+      "sharesHeld": "92655",
+      "marketValue": 10508003.55,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "STAG",
+      "isin": "US85254J1025",
+      "cusip": "85254J102",
+      "name": "STAG Industrial Inc.",
+      "sharesHeld": "279346",
+      "marketValue": 10478268.46,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESAB",
+      "isin": "US29605J1060",
+      "cusip": "29605J106",
+      "name": "Esab Corp.",
+      "sharesHeld": "85372",
+      "marketValue": 10338549.2,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "BROS",
+      "isin": "US26701L1008",
+      "cusip": "26701L100",
+      "name": "Dutch Bros Inc. Class A",
+      "sharesHeld": "190027",
+      "marketValue": 10335568.53,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "SFM",
+      "isin": "US85208M1027",
+      "cusip": "85208M102",
+      "name": "Sprouts Farmers Market Inc.",
+      "sharesHeld": "145656",
+      "marketValue": 10328466.96,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "CART",
+      "isin": "US5653941030",
+      "cusip": "565394103",
+      "name": "Maplebear Inc.",
+      "sharesHeld": "274907",
+      "marketValue": 10215544.12,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARW",
+      "isin": "US0427351004",
+      "cusip": "042735100",
+      "name": "Arrow Electronics Inc.",
+      "sharesHeld": "77056",
+      "marketValue": 10209149.44,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "MIDD",
+      "isin": "US5962781010",
+      "cusip": "596278101",
+      "name": "Middleby Corp.",
+      "sharesHeld": "69325",
+      "marketValue": 10202560.25,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBSH",
+      "isin": "US2005251036",
+      "cusip": "200525103",
+      "name": "Commerce Bancshares Inc./MO",
+      "sharesHeld": "193396",
+      "marketValue": 10180365.44,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLLI",
+      "isin": "US6811161099",
+      "cusip": "681116109",
+      "name": "Ollie's Bargain Outlet Holdings Inc.",
+      "sharesHeld": "91715",
+      "marketValue": 10117081.65,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "WFRD",
+      "isin": "IE00BLNN3691",
+      "cusip": "G48833118",
+      "name": "Weatherford International plc",
+      "sharesHeld": "107302",
+      "marketValue": 10094972.16,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOV",
+      "isin": "US62955J1034",
+      "cusip": "62955J103",
+      "name": "NOV Inc.",
+      "sharesHeld": "545709",
+      "marketValue": 10013760.15,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRUS",
+      "isin": "US1727551004",
+      "cusip": "172755100",
+      "name": "Cirrus Logic Inc.",
+      "sharesHeld": "76328",
+      "marketValue": 9948591.52,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENS",
+      "isin": "US29275Y1029",
+      "cusip": "29275Y102",
+      "name": "EnerSys",
+      "sharesHeld": "55207",
+      "marketValue": 9947749.33,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "FCFS",
+      "isin": "US33768G1076",
+      "cusip": "33768G107",
+      "name": "FirstCash Holdings Inc.",
+      "sharesHeld": "58095",
+      "marketValue": 9905197.5,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "HXL",
+      "isin": "US4282911084",
+      "cusip": "428291108",
+      "name": "Hexcel Corp.",
+      "sharesHeld": "119081",
+      "marketValue": 9861097.61,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACI",
+      "isin": "US0130911037",
+      "cusip": "013091103",
+      "name": "Albertsons Cos. Inc. Class A",
+      "sharesHeld": "591628",
+      "marketValue": 9850606.2,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "PB",
+      "isin": "US7436061052",
+      "cusip": "743606105",
+      "name": "Prosperity Bancshares Inc.",
+      "sharesHeld": "142100",
+      "marketValue": 9806321,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHWY",
+      "isin": "US16679L1098",
+      "cusip": "16679L109",
+      "name": "Chewy Inc.",
+      "sharesHeld": "336660",
+      "marketValue": 9800172.6,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "H",
+      "isin": "US4485791028",
+      "cusip": "448579102",
+      "name": "Hyatt Hotels Corp. Class A",
+      "sharesHeld": "62561",
+      "marketValue": 9782663.57,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXP",
+      "isin": "US26969P1084",
+      "cusip": "26969P108",
+      "name": "Eagle Materials Inc.",
+      "sharesHeld": "47963",
+      "marketValue": 9775339.03,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "GBCI",
+      "isin": "US37637Q1058",
+      "cusip": "37637Q105",
+      "name": "Glacier Bancorp Inc.",
+      "sharesHeld": "192446",
+      "marketValue": 9753163.28,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "MSA",
+      "isin": "US5534981064",
+      "cusip": "553498106",
+      "name": "MSA Safety Inc.",
+      "sharesHeld": "55053",
+      "marketValue": 9752638.95,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHDN",
+      "isin": "US1714841087",
+      "cusip": "171484108",
+      "name": "Churchill Downs Inc.",
+      "sharesHeld": "99092",
+      "marketValue": 9746689.12,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "FBIN",
+      "isin": "US34964C1062",
+      "cusip": "34964C106",
+      "name": "Fortune Brands Home & Security Inc.",
+      "sharesHeld": "179720",
+      "marketValue": 9722852,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "GATX",
+      "isin": "US3614481030",
+      "cusip": "361448103",
+      "name": "GATX Corp.",
+      "sharesHeld": "53399",
+      "marketValue": 9713812.09,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAT",
+      "isin": "US5770811025",
+      "cusip": "577081102",
+      "name": "Mattel Inc.",
+      "sharesHeld": "464921",
+      "marketValue": 9712199.69,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "CGNX",
+      "isin": "US1924221039",
+      "cusip": "192422103",
+      "name": "Cognex Corp.",
+      "sharesHeld": "250702",
+      "marketValue": 9712195.48,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "GXO",
+      "isin": "US36262G1013",
+      "cusip": "36262G101",
+      "name": "GXO Logistics Inc.",
+      "sharesHeld": "171257",
+      "marketValue": 9691433.63,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "FAF",
+      "isin": "US31847R1023",
+      "cusip": "31847R102",
+      "name": "First American Financial Corp.",
+      "sharesHeld": "152444",
+      "marketValue": 9631411.92,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "VFC",
+      "isin": "US9182041080",
+      "cusip": "918204108",
+      "name": "VF Corp.",
+      "sharesHeld": "491009",
+      "marketValue": 9618866.31,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "KEX",
+      "isin": "US4972661064",
+      "cusip": "497266106",
+      "name": "Kirby Corp.",
+      "sharesHeld": "81070",
+      "marketValue": 9538696.2,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "GAP",
+      "isin": "US3647601083",
+      "cusip": "364760108",
+      "name": "Gap Inc.",
+      "sharesHeld": "338581",
+      "marketValue": 9473496.38,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "FNB",
+      "isin": "US3025201019",
+      "cusip": "302520101",
+      "name": "FNB Corp./PA",
+      "sharesHeld": "535719",
+      "marketValue": 9401868.45,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "AM",
+      "isin": "US03676B1026",
+      "cusip": "03676B102",
+      "name": "Antero Midstream Corp.",
+      "sharesHeld": "498688",
+      "marketValue": 9385308.16,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "MASI",
+      "isin": "US5747951003",
+      "cusip": "574795100",
+      "name": "Masimo Corp.",
+      "sharesHeld": "68299",
+      "marketValue": 9379501.67,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "STWD",
+      "isin": "US85571B1052",
+      "cusip": "85571B105",
+      "name": "Starwood Property Trust Inc.",
+      "sharesHeld": "520715",
+      "marketValue": 9336419.95,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXLS",
+      "isin": "US3020811044",
+      "cusip": "302081104",
+      "name": "ExlService Holdings Inc.",
+      "sharesHeld": "237408",
+      "marketValue": 9294523.2,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "THG",
+      "isin": "US4108671052",
+      "cusip": "410867105",
+      "name": "Hanover Insurance Group Inc.",
+      "sharesHeld": "53226",
+      "marketValue": 9268775.64,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "AAON",
+      "isin": "US0003602069",
+      "cusip": "000360206",
+      "name": "AAON Inc.",
+      "sharesHeld": "101229",
+      "marketValue": 9217912.74,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESNT",
+      "isin": "BMG3198U1027",
+      "cusip": "G3198U102",
+      "name": "Essent Group Ltd.",
+      "sharesHeld": "144622",
+      "marketValue": 9099616.24,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "LEA",
+      "isin": "US5218652049",
+      "cusip": "521865204",
+      "name": "Lear Corp.",
+      "sharesHeld": "77591",
+      "marketValue": 9085130.19,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "NXST",
+      "isin": "US65336K1034",
+      "cusip": "65336K103",
+      "name": "Nexstar Media Group Inc. Class A",
+      "sharesHeld": "42644",
+      "marketValue": 9056732.72,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHE",
+      "isin": "US16359R1032",
+      "cusip": "16359R103",
+      "name": "Chemed Corp.",
+      "sharesHeld": "21188",
+      "marketValue": 9050242.32,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAVA",
+      "isin": "US1489291021",
+      "cusip": "148929102",
+      "name": "Cava Group Inc.",
+      "sharesHeld": "149218",
+      "marketValue": 9045595.16,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTG",
+      "isin": "US5528481030",
+      "cusip": "552848103",
+      "name": "MGIC Investment Corp.",
+      "sharesHeld": "334725",
+      "marketValue": 9010797,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "UFPI",
+      "isin": "US90278Q1085",
+      "cusip": "90278Q108",
+      "name": "UFP Industries Inc.",
+      "sharesHeld": "87145",
+      "marketValue": 9000335.6,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "VLY",
+      "isin": "US9197941076",
+      "cusip": "919794107",
+      "name": "Valley National Bancorp",
+      "sharesHeld": "717395",
+      "marketValue": 8938741.7,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "SARO",
+      "isin": "US85423L1035",
+      "cusip": "85423L103",
+      "name": "StandardAero Inc.",
+      "sharesHeld": "288787",
+      "marketValue": 8920630.43,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "TMHC",
+      "isin": "US87724P1066",
+      "cusip": "87724P106",
+      "name": "Taylor Morrison Home Corp. Class A",
+      "sharesHeld": "146196",
+      "marketValue": 8910646.2,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "JHG",
+      "isin": "JE00BYPZJM29",
+      "cusip": "G4474Y214",
+      "name": "Janus Henderson Group plc",
+      "sharesHeld": "184863",
+      "marketValue": 8897456.19,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCTY",
+      "isin": "US70438V1061",
+      "cusip": "70438V106",
+      "name": "Paylocity Holding Corp.",
+      "sharesHeld": "65897",
+      "marketValue": 8894777.06,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "UBSI",
+      "isin": "US9099071071",
+      "cusip": "909907107",
+      "name": "United Bankshares Inc./WV",
+      "sharesHeld": "209567",
+      "marketValue": 8870971.11,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "TKR",
+      "isin": "US8873891043",
+      "cusip": "887389104",
+      "name": "Timken Co.",
+      "sharesHeld": "94830",
+      "marketValue": 8837207.7,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "HR",
+      "isin": "US42226K1051",
+      "cusip": "42226K105",
+      "name": "Healthcare Trust of America Inc. Class A",
+      "sharesHeld": "526057",
+      "marketValue": 8832497.03,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALK",
+      "isin": "US0116591092",
+      "cusip": "011659109",
+      "name": "Alaska Air Group Inc.",
+      "sharesHeld": "173517",
+      "marketValue": 8819869.11,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "THO",
+      "isin": "US8851601018",
+      "cusip": "885160101",
+      "name": "Thor Industries Inc.",
+      "sharesHeld": "78744",
+      "marketValue": 8809091.28,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLNE",
+      "isin": "US4074971064",
+      "cusip": "407497106",
+      "name": "Hamilton Lane Inc. Class A",
+      "sharesHeld": "61167",
+      "marketValue": 8639227.08,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "TXNM",
+      "isin": "US69349H1077",
+      "cusip": "69349H107",
+      "name": "PNM Resources Inc.",
+      "sharesHeld": "146596",
+      "marketValue": 8637436.32,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "HWC",
+      "isin": "US4101201097",
+      "cusip": "410120109",
+      "name": "Hancock Whitney Corp.",
+      "sharesHeld": "125073",
+      "marketValue": 8605022.4,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHRD",
+      "isin": "US6742152076",
+      "cusip": "674215207",
+      "name": "Chord Energy Corp.",
+      "sharesHeld": "85086",
+      "marketValue": 8529020.64,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "POR",
+      "isin": "US7365088472",
+      "cusip": "736508847",
+      "name": "Portland General Electric Co.",
+      "sharesHeld": "168278",
+      "marketValue": 8455969.5,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "HIMS",
+      "isin": "US4330001060",
+      "cusip": "433000106",
+      "name": "Hims & Hers Health Inc.",
+      "sharesHeld": "311605",
+      "marketValue": 8441379.45,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "AN",
+      "isin": "US05329W1027",
+      "cusip": "05329W102",
+      "name": "AutoNation Inc.",
+      "sharesHeld": "40917",
+      "marketValue": 8387166.66,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLM",
+      "isin": "US78442P1066",
+      "cusip": "78442P106",
+      "name": "SLM Corp.",
+      "sharesHeld": "303738",
+      "marketValue": 8246486.7,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BKH",
+      "isin": "US0921131092",
+      "cusip": "092113109",
+      "name": "Black Hills Corp.",
+      "sharesHeld": "112900",
+      "marketValue": 8239442,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "WH",
+      "isin": "US98311A1051",
+      "cusip": "98311A105",
+      "name": "Wyndham Hotels & Resorts Inc.",
+      "sharesHeld": "113028",
+      "marketValue": 8227308.12,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMKR",
+      "isin": "US0316521006",
+      "cusip": "031652100",
+      "name": "Amkor Technology Inc.",
+      "sharesHeld": "170091",
+      "marketValue": 8220498.03,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYAN",
+      "isin": "US78351F1075",
+      "cusip": "78351F107",
+      "name": "Ryan Specialty Holdings Inc. Class A",
+      "sharesHeld": "169520",
+      "marketValue": 8184425.6,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNT",
+      "isin": "US9288811014",
+      "cusip": "928881101",
+      "name": "Vontier Corp.",
+      "sharesHeld": "217026",
+      "marketValue": 8138475,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "KBR",
+      "isin": "US48242W1062",
+      "cusip": "48242W106",
+      "name": "KBR Inc.",
+      "sharesHeld": "189975",
+      "marketValue": 8132829.75,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "OPCH",
+      "isin": "US68404L2016",
+      "cusip": "68404L201",
+      "name": "Option Care Health Inc.",
+      "sharesHeld": "237462",
+      "marketValue": 8073708,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "M",
+      "isin": "US55616P1049",
+      "cusip": "55616P104",
+      "name": "Macy's Inc.",
+      "sharesHeld": "401683",
+      "marketValue": 8041693.66,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "RLI",
+      "isin": "US7496071074",
+      "cusip": "749607107",
+      "name": "RLI Corp.",
+      "sharesHeld": "137377",
+      "marketValue": 8026938.11,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "DUOL",
+      "isin": "US26603R1068",
+      "cusip": "26603R106",
+      "name": "Duolingo Inc.",
+      "sharesHeld": "59860",
+      "marketValue": 8024831.6,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIO",
+      "isin": "US0905722072",
+      "cusip": "090572207",
+      "name": "Bio-Rad Laboratories Inc. Class A",
+      "sharesHeld": "27201",
+      "marketValue": 7988933.7,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "MMS",
+      "isin": "US5779331041",
+      "cusip": "577933104",
+      "name": "MAXIMUS Inc.",
+      "sharesHeld": "84300",
+      "marketValue": 7961292,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "SWX",
+      "isin": "US8448951025",
+      "cusip": "844895102",
+      "name": "Southwest Gas Holdings Inc.",
+      "sharesHeld": "96100",
+      "marketValue": 7959002,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "PATH",
+      "isin": "US90364P1057",
+      "cusip": "90364P105",
+      "name": "UiPath Inc. Class A",
+      "sharesHeld": "631034",
+      "marketValue": 7944718.06,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "LPX",
+      "isin": "US5463471053",
+      "cusip": "546347105",
+      "name": "Louisiana-Pacific Corp.",
+      "sharesHeld": "94809",
+      "marketValue": 7939305.66,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "FCN",
+      "isin": "US3029411093",
+      "cusip": "302941109",
+      "name": "FTI Consulting Inc.",
+      "sharesHeld": "45275",
+      "marketValue": 7908184.25,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTDR",
+      "isin": "US5764852050",
+      "cusip": "576485205",
+      "name": "Matador Resources Co.",
+      "sharesHeld": "174767",
+      "marketValue": 7906459.08,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "ULS",
+      "isin": "US9037311076",
+      "cusip": "903731107",
+      "name": "UL Solutions Inc. Class A",
+      "sharesHeld": "112572",
+      "marketValue": 7905931.56,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "HOMB",
+      "isin": "US4368932004",
+      "cusip": "436893200",
+      "name": "Home BancShares Inc./AR",
+      "sharesHeld": "273416",
+      "marketValue": 7901722.4,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BCO",
+      "isin": "US1096961040",
+      "cusip": "109696104",
+      "name": "Brink's Co.",
+      "sharesHeld": "62150",
+      "marketValue": 7895536,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "WEX",
+      "isin": "US96208T1043",
+      "cusip": "96208T104",
+      "name": "WEX Inc.",
+      "sharesHeld": "51298",
+      "marketValue": 7894762.2,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "KD",
+      "isin": "US50155Q1004",
+      "cusip": "50155Q100",
+      "name": "Kyndryl Holdings Inc.",
+      "sharesHeld": "341947",
+      "marketValue": 7864781,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEU",
+      "isin": "US6515871076",
+      "cusip": "651587107",
+      "name": "NewMarket Corp.",
+      "sharesHeld": "11668",
+      "marketValue": 7826777.72,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNX",
+      "isin": "US12653C1080",
+      "cusip": "12653C108",
+      "name": "CNX Resources Corp.",
+      "sharesHeld": "201703",
+      "marketValue": 7826076.4,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BSY",
+      "isin": "US08265T2087",
+      "cusip": "08265T208",
+      "name": "Bentley Systems Inc. Class B",
+      "sharesHeld": "222809",
+      "marketValue": 7825052.08,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "BC",
+      "isin": "US1170431092",
+      "cusip": "117043109",
+      "name": "Brunswick Corp./DE",
+      "sharesHeld": "97300",
+      "marketValue": 7805406,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "DOCS",
+      "isin": "US26622P1075",
+      "cusip": "26622P107",
+      "name": "Doximity Inc. Class A",
+      "sharesHeld": "205503",
+      "marketValue": 7700197.41,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNO",
+      "isin": "US9290421091",
+      "cusip": "929042109",
+      "name": "Vornado Realty Trust",
+      "sharesHeld": "241346",
+      "marketValue": 7694110.48,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "LSTR",
+      "isin": "US5150981018",
+      "cusip": "515098101",
+      "name": "Landstar System Inc.",
+      "sharesHeld": "51370",
+      "marketValue": 7672623.2,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRG",
+      "isin": "US49803T3005",
+      "cusip": "49803T300",
+      "name": "Kite Realty Group Trust",
+      "sharesHeld": "323898",
+      "marketValue": 7608364.02,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIGI",
+      "isin": "US8163001071",
+      "cusip": "816300107",
+      "name": "Selective Insurance Group Inc.",
+      "sharesHeld": "90378",
+      "marketValue": 7598982.24,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLED",
+      "isin": "US91347P1057",
+      "cusip": "91347P105",
+      "name": "Universal Display Corp.",
+      "sharesHeld": "66137",
+      "marketValue": 7593850.34,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVT",
+      "isin": "US0538071038",
+      "cusip": "053807103",
+      "name": "Avnet Inc.",
+      "sharesHeld": "121671",
+      "marketValue": 7591053.69,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELF",
+      "isin": "US26856L1035",
+      "cusip": "26856L103",
+      "name": "elf Beauty Inc.",
+      "sharesHeld": "89216",
+      "marketValue": 7582467.84,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "ST",
+      "isin": "GB00BFMBMT84",
+      "cusip": "G8060N102",
+      "name": "Sensata Technologies Holding plc",
+      "sharesHeld": "217937",
+      "marketValue": 7538440.83,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "GNTX",
+      "isin": "US3719011096",
+      "cusip": "371901109",
+      "name": "Gentex Corp.",
+      "sharesHeld": "327498",
+      "marketValue": 7535728.98,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "OZK",
+      "isin": "US06417N1037",
+      "cusip": "06417N103",
+      "name": "Bank OZK",
+      "sharesHeld": "158396",
+      "marketValue": 7533313.76,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "HRB",
+      "isin": "US0936711052",
+      "cusip": "093671105",
+      "name": "H&R Block Inc.",
+      "sharesHeld": "189142",
+      "marketValue": 7461651.9,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "SR",
+      "isin": "US84857L1017",
+      "cusip": "84857L101",
+      "name": "Spire Inc.",
+      "sharesHeld": "88304",
+      "marketValue": 7460804.96,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "NJR",
+      "isin": "US6460251068",
+      "cusip": "646025106",
+      "name": "New Jersey Resources Corp.",
+      "sharesHeld": "150289",
+      "marketValue": 7436299.72,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRKR",
+      "isin": "US1167941087",
+      "cusip": "116794108",
+      "name": "Bruker Corp.",
+      "sharesHeld": "165928",
+      "marketValue": 7348951.12,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "POST",
+      "isin": "US7374461041",
+      "cusip": "737446104",
+      "name": "Post Holdings Inc.",
+      "sharesHeld": "71512",
+      "marketValue": 7316392.72,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "BYD",
+      "isin": "US1033041013",
+      "cusip": "103304101",
+      "name": "Boyd Gaming Corp.",
+      "sharesHeld": "86474",
+      "marketValue": 7310511.96,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "MORN",
+      "isin": "US6177001095",
+      "cusip": "617700109",
+      "name": "Morningstar Inc.",
+      "sharesHeld": "35683",
+      "marketValue": 7211177.47,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOVT",
+      "isin": "CA67000B1040",
+      "cusip": "67000B104",
+      "name": "Novanta Inc.",
+      "sharesHeld": "53517",
+      "marketValue": 7200177.18,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "LOPE",
+      "isin": "US38526M1062",
+      "cusip": "38526M106",
+      "name": "Grand Canyon Education Inc.",
+      "sharesHeld": "41341",
+      "marketValue": 7186719.44,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTN",
+      "isin": "US91879Q1094",
+      "cusip": "91879Q109",
+      "name": "Vail Resorts Inc.",
+      "sharesHeld": "53787",
+      "marketValue": 7157436.09,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "OGS",
+      "isin": "US68235P1084",
+      "cusip": "68235P108",
+      "name": "ONE Gas Inc.",
+      "sharesHeld": "89768",
+      "marketValue": 7141942.08,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "SON",
+      "isin": "US8354951027",
+      "cusip": "835495102",
+      "name": "Sonoco Products Co.",
+      "sharesHeld": "147602",
+      "marketValue": 7084896,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "QLYS",
+      "isin": "US74758T3032",
+      "cusip": "74758T303",
+      "name": "Qualys Inc.",
+      "sharesHeld": "53647",
+      "marketValue": 7076039.3,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAIC",
+      "isin": "US8086251076",
+      "cusip": "808625107",
+      "name": "Science Applications International Corp.",
+      "sharesHeld": "68854",
+      "marketValue": 7006583.04,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLAB",
+      "isin": "US8269191024",
+      "cusip": "826919102",
+      "name": "Silicon Laboratories Inc.",
+      "sharesHeld": "49147",
+      "marketValue": 7000990.15,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "SBRA",
+      "isin": "US78573L1061",
+      "cusip": "78573L106",
+      "name": "Sabra Health Care REIT Inc.",
+      "sharesHeld": "373032",
+      "marketValue": 6986889.36,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "BDC",
+      "isin": "US0774541066",
+      "cusip": "077454106",
+      "name": "Belden Inc.",
+      "sharesHeld": "58789",
+      "marketValue": 6908295.39,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "TCBI",
+      "isin": "US88224Q1076",
+      "cusip": "88224Q107",
+      "name": "Texas Capital Bancshares Inc.",
+      "sharesHeld": "68284",
+      "marketValue": 6908292.28,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANF",
+      "isin": "US0028962076",
+      "cusip": "002896207",
+      "name": "Abercrombie & Fitch Co.",
+      "sharesHeld": "70412",
+      "marketValue": 6874323.56,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALGM",
+      "isin": "US01749D1054",
+      "cusip": "01749D105",
+      "name": "Allegro MicroSystems Inc.",
+      "sharesHeld": "185537",
+      "marketValue": 6848170.67,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "BBWI",
+      "isin": "US0708301041",
+      "cusip": "070830104",
+      "name": "Bath & Body Works Inc.",
+      "sharesHeld": "308450",
+      "marketValue": 6724210,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "WHR",
+      "isin": "US9633201069",
+      "cusip": "963320106",
+      "name": "Whirlpool Corp.",
+      "sharesHeld": "84002",
+      "marketValue": 6719319.98,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "TNL",
+      "isin": "US8941641024",
+      "cusip": "894164102",
+      "name": "Travel + Leisure Co.",
+      "sharesHeld": "96236",
+      "marketValue": 6692251.44,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASB",
+      "isin": "US0454871056",
+      "cusip": "045487105",
+      "name": "Associated Banc-Corp",
+      "sharesHeld": "244641",
+      "marketValue": 6668913.66,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "DBX",
+      "isin": "US26210C1045",
+      "cusip": "26210C104",
+      "name": "Dropbox Inc. Class A",
+      "sharesHeld": "260932",
+      "marketValue": 6648547.36,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "TREX",
+      "isin": "US89531P1057",
+      "cusip": "89531P105",
+      "name": "Trex Co. Inc.",
+      "sharesHeld": "160454",
+      "marketValue": 6646004.68,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "LNTH",
+      "isin": "US5165441032",
+      "cusip": "516544103",
+      "name": "Lantheus Holdings Inc.",
+      "sharesHeld": "99201",
+      "marketValue": 6638530.92,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "APPF",
+      "isin": "US03783C1009",
+      "cusip": "03783C100",
+      "name": "Appfolio Inc.",
+      "sharesHeld": "34516",
+      "marketValue": 6553898.08,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "WMG",
+      "isin": "US9345502036",
+      "cusip": "934550203",
+      "name": "Warner Music Group Corp. Class A",
+      "sharesHeld": "218248",
+      "marketValue": 6543075.04,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "CROX",
+      "isin": "US2270461096",
+      "cusip": "227046109",
+      "name": "Crocs Inc.",
+      "sharesHeld": "77674",
+      "marketValue": 6518402.08,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "GPK",
+      "isin": "US3886891015",
+      "cusip": "388689101",
+      "name": "Graphic Packaging Holding Co.",
+      "sharesHeld": "441636",
+      "marketValue": 6469967.4,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "CUZ",
+      "isin": "US2227955026",
+      "cusip": "222795502",
+      "name": "Cousins Properties Inc.",
+      "sharesHeld": "251372",
+      "marketValue": 6344629.28,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "NWE",
+      "isin": "US6680743050",
+      "cusip": "668074305",
+      "name": "Northwestern Energy Group Inc.",
+      "sharesHeld": "91873",
+      "marketValue": 6234501.78,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "VVV",
+      "isin": "US92047W1018",
+      "cusip": "92047W101",
+      "name": "Valvoline Inc.",
+      "sharesHeld": "190164",
+      "marketValue": 6222166.08,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "FFIN",
+      "isin": "US32020R1095",
+      "cusip": "32020R109",
+      "name": "First Financial Bankshares Inc.",
+      "sharesHeld": "194973",
+      "marketValue": 6204040.86,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "EPR",
+      "isin": "US26884U1097",
+      "cusip": "26884U109",
+      "name": "EPR Properties",
+      "sharesHeld": "113914",
+      "marketValue": 6178695.36,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "MUR",
+      "isin": "US6267171022",
+      "cusip": "626717102",
+      "name": "Murphy Oil Corp.",
+      "sharesHeld": "200750",
+      "marketValue": 6040567.5,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNO",
+      "isin": "US12621E1038",
+      "cusip": "12621E103",
+      "name": "CNO Financial Group Inc.",
+      "sharesHeld": "142672",
+      "marketValue": 5999357.6,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEGA",
+      "isin": "US7055731035",
+      "cusip": "705573103",
+      "name": "Pegasystems Inc.",
+      "sharesHeld": "137111",
+      "marketValue": 5990379.59,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "FOUR",
+      "isin": "US82452J1097",
+      "cusip": "82452J109",
+      "name": "Shift4 Payments Inc. Class A",
+      "sharesHeld": "101083",
+      "marketValue": 5967940.32,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRT",
+      "isin": "US45378A1060",
+      "cusip": "45378A106",
+      "name": "Independence Realty Trust Inc.",
+      "sharesHeld": "357196",
+      "marketValue": 5965173.2,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "GHC",
+      "isin": "US3846371041",
+      "cusip": "384637104",
+      "name": "Graham Holdings Co. Class B",
+      "sharesHeld": "5076",
+      "marketValue": 5921813.88,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLG",
+      "isin": "US6494454001",
+      "cusip": "649445400",
+      "name": "Flagstar Bank NA",
+      "sharesHeld": "447856",
+      "marketValue": 5920656.32,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "FHI",
+      "isin": "US3142111034",
+      "cusip": "314211103",
+      "name": "Federated Investors Inc. Class B",
+      "sharesHeld": "110548",
+      "marketValue": 5889997.44,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "DLB",
+      "isin": "US25659T1079",
+      "cusip": "25659T107",
+      "name": "Dolby Laboratories Inc. Class A",
+      "sharesHeld": "91550",
+      "marketValue": 5876594.5,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "NVST",
+      "isin": "US29415F1049",
+      "cusip": "29415F104",
+      "name": "Envista Holdings Corp.",
+      "sharesHeld": "246006",
+      "marketValue": 5773760.82,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "MSM",
+      "isin": "US5535301064",
+      "cusip": "553530106",
+      "name": "MSC Industrial Direct Co. Inc. Class A",
+      "sharesHeld": "68440",
+      "marketValue": 5772229.6,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "BILL",
+      "isin": "US0900431000",
+      "cusip": "090043100",
+      "name": "Bill.Com Holdings Inc.",
+      "sharesHeld": "133365",
+      "marketValue": 5757367.05,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBT",
+      "isin": "US1270551013",
+      "cusip": "127055101",
+      "name": "Cabot Corp.",
+      "sharesHeld": "79614",
+      "marketValue": 5747334.66,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNF",
+      "isin": "US4988941047",
+      "cusip": "498894104",
+      "name": "Knife River Corp.",
+      "sharesHeld": "84771",
+      "marketValue": 5694068.07,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLGN",
+      "isin": "US8270481091",
+      "cusip": "827048109",
+      "name": "Silgan Holdings Inc.",
+      "sharesHeld": "131265",
+      "marketValue": 5664084.75,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "CVLT",
+      "isin": "US2041661024",
+      "cusip": "204166102",
+      "name": "CommVault Systems Inc.",
+      "sharesHeld": "65968",
+      "marketValue": 5653457.6,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "IBOC",
+      "isin": "US4590441030",
+      "cusip": "459044103",
+      "name": "International Bancshares Corp.",
+      "sharesHeld": "80913",
+      "marketValue": 5634781.32,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHC",
+      "isin": "US83601L1026",
+      "cusip": "83601L102",
+      "name": "Sotera Health Co.",
+      "sharesHeld": "310230",
+      "marketValue": 5621367.6,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRC",
+      "isin": "US49427F1084",
+      "cusip": "49427F108",
+      "name": "Kilroy Realty Corp.",
+      "sharesHeld": "162859",
+      "marketValue": 5615378.32,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEX",
+      "isin": "US8807791038",
+      "cusip": "880779103",
+      "name": "Terex Corp.",
+      "sharesHeld": "98146",
+      "marketValue": 5594322,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "VAL",
+      "isin": "BMG9460G1015",
+      "cusip": "G9460G101",
+      "name": "Valaris Ltd.",
+      "sharesHeld": "96806",
+      "marketValue": 5588610.38,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSN",
+      "isin": "US70202L1026",
+      "cusip": "70202L102",
+      "name": "Parsons Corp.",
+      "sharesHeld": "79654",
+      "marketValue": 5580559.24,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "KBH",
+      "isin": "US48666K1097",
+      "cusip": "48666K109",
+      "name": "KB Home",
+      "sharesHeld": "96914",
+      "marketValue": 5576431.56,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "BHF",
+      "isin": "US10922N1037",
+      "cusip": "10922N103",
+      "name": "Brighthouse Financial Inc.",
+      "sharesHeld": "85530",
+      "marketValue": 5479051.8,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "LIVN",
+      "isin": "GB00BYMT0J19",
+      "cusip": "G5509L101",
+      "name": "LivaNova plc",
+      "sharesHeld": "81690",
+      "marketValue": 5367849.9,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXPO",
+      "isin": "US30214U1025",
+      "cusip": "30214U102",
+      "name": "Exponent Inc.",
+      "sharesHeld": "74644",
+      "marketValue": 5364664.28,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "YETI",
+      "isin": "US98585X1046",
+      "cusip": "98585X104",
+      "name": "YETI Holdings Inc.",
+      "sharesHeld": "116397",
+      "marketValue": 5320506.87,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "MZTI",
+      "isin": "US5138471033",
+      "cusip": "513847103",
+      "name": "Lancaster Colony Corp.",
+      "sharesHeld": "30500",
+      "marketValue": 5232885,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "CDP",
+      "isin": "US22002T1088",
+      "cusip": "22002T108",
+      "name": "Corporate Office Properties Trust",
+      "sharesHeld": "169002",
+      "marketValue": 5206951.62,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "PII",
+      "isin": "US7310681025",
+      "cusip": "731068102",
+      "name": "Polaris Inc.",
+      "sharesHeld": "79946",
+      "marketValue": 5103752.64,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYN",
+      "isin": "US7549071030",
+      "cusip": "754907103",
+      "name": "Rayonier Inc.",
+      "sharesHeld": "220720",
+      "marketValue": 5019172.8,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVNT",
+      "isin": "US05368V1061",
+      "cusip": "05368V106",
+      "name": "Avient Corp.",
+      "sharesHeld": "137054",
+      "marketValue": 4954502.1,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "SYNA",
+      "isin": "US87157D1090",
+      "cusip": "87157D109",
+      "name": "Synaptics Inc.",
+      "sharesHeld": "58332",
+      "marketValue": 4812973.32,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRBR",
+      "isin": "US07831C1036",
+      "cusip": "07831C103",
+      "name": "BellRing Brands Inc.",
+      "sharesHeld": "188473",
+      "marketValue": 4687323.51,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "HAE",
+      "isin": "US4050241003",
+      "cusip": "405024100",
+      "name": "Haemonetics Corp.",
+      "sharesHeld": "70026",
+      "marketValue": 4667933.16,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "RH",
+      "isin": "US74967X1037",
+      "cusip": "74967X103",
+      "name": "RH",
+      "sharesHeld": "22996",
+      "marketValue": 4572294.68,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "PVH",
+      "isin": "US6936561009",
+      "cusip": "693656100",
+      "name": "PVH Corp.",
+      "sharesHeld": "72014",
+      "marketValue": 4490793.04,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCH",
+      "isin": "US7376301039",
+      "cusip": "737630103",
+      "name": "PotlatchDeltic Corp.",
+      "sharesHeld": "107165",
+      "marketValue": 4471995.45,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "PAG",
+      "isin": "US70959W1036",
+      "cusip": "70959W103",
+      "name": "Penske Automotive Group Inc.",
+      "sharesHeld": "27586",
+      "marketValue": 4325208.94,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMG",
+      "isin": "US8101861065",
+      "cusip": "810186106",
+      "name": "Scotts Miracle-Gro Co.",
+      "sharesHeld": "66691",
+      "marketValue": 4282896.02,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "EEFT",
+      "isin": "US2987361092",
+      "cusip": "298736109",
+      "name": "Euronet Worldwide Inc.",
+      "sharesHeld": "58417",
+      "marketValue": 4232895.82,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASH",
+      "isin": "US0441861046",
+      "cusip": "044186104",
+      "name": "Ashland Global Holdings Inc.",
+      "sharesHeld": "68183",
+      "marketValue": 4170072.28,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "PBF",
+      "isin": "US69318G1067",
+      "cusip": "69318G106",
+      "name": "PBF Energy Inc. Class A",
+      "sharesHeld": "122727",
+      "marketValue": 4106445.42,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "HGV",
+      "isin": "US43283X1054",
+      "cusip": "43283X105",
+      "name": "Hilton Grand Vacations Inc.",
+      "sharesHeld": "89601",
+      "marketValue": 4041901.11,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "GT",
+      "isin": "US3825501014",
+      "cusip": "382550101",
+      "name": "Goodyear Tire & Rubber Co.",
+      "sharesHeld": "429258",
+      "marketValue": 4039317.78,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPRI",
+      "isin": "VGG1890L1076",
+      "cusip": "G1890L107",
+      "name": "Capri Holdings Ltd.",
+      "sharesHeld": "178279",
+      "marketValue": 4023757.03,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "WLK",
+      "isin": "US9604131022",
+      "cusip": "960413102",
+      "name": "Westlake Chemical Corp.",
+      "sharesHeld": "49781",
+      "marketValue": 3948628.92,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "CXT",
+      "isin": "US2244411052",
+      "cusip": "224441105",
+      "name": "Crane NXT Co.",
+      "sharesHeld": "74123",
+      "marketValue": 3744693.96,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "XRAY",
+      "isin": "US24906P1093",
+      "cusip": "24906P109",
+      "name": "Dentsply Sirona Inc.",
+      "sharesHeld": "298023",
+      "marketValue": 3716346.81,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "VC",
+      "isin": "US92839U2069",
+      "cusip": "92839U206",
+      "name": "Visteon Corp.",
+      "sharesHeld": "40822",
+      "marketValue": 3709086.92,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLO",
+      "isin": "US3434981011",
+      "cusip": "343498101",
+      "name": "Flowers Foods Inc.",
+      "sharesHeld": "316147",
+      "marketValue": 3613560.21,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLN",
+      "isin": "US6806652052",
+      "cusip": "680665205",
+      "name": "Olin Corp.",
+      "sharesHeld": "170451",
+      "marketValue": 3547085.31,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "HOG",
+      "isin": "US4128221086",
+      "cusip": "412822108",
+      "name": "Harley-Davidson Inc.",
+      "sharesHeld": "176381",
+      "marketValue": 3492343.8,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "IPGP",
+      "isin": "US44980X1090",
+      "cusip": "44980X109",
+      "name": "IPG Photonics Corp.",
+      "sharesHeld": "37736",
+      "marketValue": 3487183.76,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "KMPR",
+      "isin": "US4884011002",
+      "cusip": "488401100",
+      "name": "Kemper Corp.",
+      "sharesHeld": "87371",
+      "marketValue": 3443291.11,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "NSA",
+      "isin": "US6378701063",
+      "cusip": "637870106",
+      "name": "National Storage Affiliates Trust",
+      "sharesHeld": "105758",
+      "marketValue": 3364161.98,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASGN",
+      "isin": "US00191U1025",
+      "cusip": "00191U102",
+      "name": "ASGN Inc.",
+      "sharesHeld": "63668",
+      "marketValue": 3316466.12,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "GTM",
+      "isin": "US98980F1049",
+      "cusip": "98980F104",
+      "name": "ZoomInfo Technologies Inc. Class A",
+      "sharesHeld": "409450",
+      "marketValue": 3296072.5,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "PK",
+      "isin": "US7005171050",
+      "cusip": "700517105",
+      "name": "Park Hotels & Resorts Inc.",
+      "sharesHeld": "298538",
+      "marketValue": 3263020.34,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHH",
+      "isin": "US1699051066",
+      "cusip": "169905106",
+      "name": "Choice Hotels International Inc.",
+      "sharesHeld": "30846",
+      "marketValue": 3170968.8,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "BLKB",
+      "isin": "US09227Q1004",
+      "cusip": "09227Q100",
+      "name": "Blackbaud Inc.",
+      "sharesHeld": "54659",
+      "marketValue": 2935188.3,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAR",
+      "isin": "US0537741052",
+      "cusip": "053774105",
+      "name": "Avis Budget Group Inc.",
+      "sharesHeld": "25369",
+      "marketValue": 2917181.31,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "PPC",
+      "isin": "US72147K1088",
+      "cusip": "72147K108",
+      "name": "Pilgrim's Pride Corp.",
+      "sharesHeld": "63763",
+      "marketValue": 2765401.31,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "GEF",
+      "isin": "US3976241071",
+      "cusip": "397624107",
+      "name": "Greif Inc. Class A",
+      "sharesHeld": "38997",
+      "marketValue": 2753968.14,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNXC",
+      "isin": "US20602D1019",
+      "cusip": "20602D101",
+      "name": "Concentrix Corp.",
+      "sharesHeld": "65848",
+      "marketValue": 2459422.8,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAM",
+      "isin": "US1005571070",
+      "cusip": "100557107",
+      "name": "Boston Beer Co. Inc. Class A",
+      "sharesHeld": "11457",
+      "marketValue": 2447444.34,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "COLM",
+      "isin": "US1985161066",
+      "cusip": "198516106",
+      "name": "Columbia Sportswear Co.",
+      "sharesHeld": "37751",
+      "marketValue": 2086875.28,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "COTY",
+      "isin": "US2220702037",
+      "cusip": "222070203",
+      "name": "Coty Inc. Class A",
+      "sharesHeld": "547360",
+      "marketValue": 1735131.2,
+      "percentWeight": "0.03"
+    }
+  ]
+}

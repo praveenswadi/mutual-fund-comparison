@@ -1,0 +1,1143 @@
+{
+  "symbol": "VAW",
+  "name": "Materials ETF",
+  "assetClass": "Stock - Sector",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 113,
+    "bond": 0,
+    "total": 113
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "LIN",
+      "isin": "IE000S9YS762",
+      "cusip": "G54950103",
+      "name": "Linde plc",
+      "sharesHeld": "1340153",
+      "marketValue": 612409716.41,
+      "percentWeight": "14.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEM",
+      "isin": "US6516391066",
+      "cusip": "651639106",
+      "name": "Newmont Goldcorp Corp.",
+      "sharesHeld": "3139400",
+      "marketValue": 352711590,
+      "percentWeight": "8.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "FCX",
+      "isin": "US35671D8570",
+      "cusip": "35671D857",
+      "name": "Freeport-McMoRan Inc.",
+      "sharesHeld": "4103482",
+      "marketValue": 247152720.86,
+      "percentWeight": "5.70"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHW",
+      "isin": "US8243481061",
+      "cusip": "824348106",
+      "name": "Sherwin-Williams Co.",
+      "sharesHeld": "676970",
+      "marketValue": 240080640.8,
+      "percentWeight": "5.53"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRH",
+      "isin": "IE0001827041",
+      "cusip": "G25508105",
+      "name": "CRH plc",
+      "sharesHeld": "1922477",
+      "marketValue": 235330409.57,
+      "percentWeight": "5.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "ECL",
+      "isin": "US2788651006",
+      "cusip": "278865100",
+      "name": "Ecolab Inc.",
+      "sharesHeld": "729545",
+      "marketValue": 205724394.55,
+      "percentWeight": "4.74"
+    },
+    {
+      "type": "stock",
+      "ticker": "APD",
+      "isin": "US0091581068",
+      "cusip": "009158106",
+      "name": "Air Products & Chemicals Inc.",
+      "sharesHeld": "609065",
+      "marketValue": 165970212.5,
+      "percentWeight": "3.83"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTVA",
+      "isin": "US22052L1044",
+      "cusip": "22052L104",
+      "name": "Corteva Inc.",
+      "sharesHeld": "1940884",
+      "marketValue": 141296355.2,
+      "percentWeight": "3.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "NUE",
+      "isin": "US6703461052",
+      "cusip": "670346105",
+      "name": "Nucor Corp.",
+      "sharesHeld": "656020",
+      "marketValue": 116587874.4,
+      "percentWeight": "2.69"
+    },
+    {
+      "type": "stock",
+      "ticker": "VMC",
+      "isin": "US9291601097",
+      "cusip": "929160109",
+      "name": "Vulcan Materials Co.",
+      "sharesHeld": "377613",
+      "marketValue": 113487811.02,
+      "percentWeight": "2.62"
+    },
+    {
+      "type": "stock",
+      "ticker": "MLM",
+      "isin": "US5732841060",
+      "cusip": "573284106",
+      "name": "Martin Marietta Materials Inc.",
+      "sharesHeld": "172355",
+      "marketValue": 112366842.25,
+      "percentWeight": "2.59"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMRZ",
+      "isin": "CH1430134226",
+      "cusip": null,
+      "name": "Amrize Ltd.",
+      "sharesHeld": "1422652",
+      "marketValue": 74859948.24,
+      "percentWeight": "1.73"
+    },
+    {
+      "type": "stock",
+      "ticker": "PPG",
+      "isin": "US6935061076",
+      "cusip": "693506107",
+      "name": "PPG Industries Inc.",
+      "sharesHeld": "645057",
+      "marketValue": 74587940.91,
+      "percentWeight": "1.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "STLD",
+      "isin": "US8581191009",
+      "cusip": "858119100",
+      "name": "Steel Dynamics Inc.",
+      "sharesHeld": "399681",
+      "marketValue": 71770717.17,
+      "percentWeight": "1.65"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGLD",
+      "isin": "US7802871084",
+      "cusip": "780287108",
+      "name": "Royal Gold Inc.",
+      "sharesHeld": "240515",
+      "marketValue": 63330004.65,
+      "percentWeight": "1.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "SW",
+      "isin": "IE00028FXN24",
+      "cusip": "G8267P108",
+      "name": "Smurfit WestRock plc",
+      "sharesHeld": "1492247",
+      "marketValue": 62122242.61,
+      "percentWeight": "1.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMCR",
+      "isin": "JE00BV7DQ550",
+      "cusip": "G0250X107",
+      "name": "Amcor plc",
+      "sharesHeld": "1319473",
+      "marketValue": 58386680.25,
+      "percentWeight": "1.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "IP",
+      "isin": "US4601461035",
+      "cusip": "460146103",
+      "name": "International Paper Co.",
+      "sharesHeld": "1433538",
+      "marketValue": 57800252.16,
+      "percentWeight": "1.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALB",
+      "isin": "US0126531013",
+      "cusip": "012653101",
+      "name": "Albemarle Corp.",
+      "sharesHeld": "336341",
+      "marketValue": 57389864.83,
+      "percentWeight": "1.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "PKG",
+      "isin": "US6951561090",
+      "cusip": "695156109",
+      "name": "Packaging Corp. of America",
+      "sharesHeld": "257160",
+      "marketValue": 57230958,
+      "percentWeight": "1.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "DOW",
+      "isin": "US2605571031",
+      "cusip": "260557103",
+      "name": "Dow Inc.",
+      "sharesHeld": "2025908",
+      "marketValue": 55813765.4,
+      "percentWeight": "1.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "DD",
+      "isin": "US26614N1028",
+      "cusip": "26614N102",
+      "name": "DuPont de Nemours Inc.",
+      "sharesHeld": "1196704",
+      "marketValue": 52559239.68,
+      "percentWeight": "1.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "IFF",
+      "isin": "US4595061015",
+      "cusip": "459506101",
+      "name": "International Flavors & Fragrances Inc.",
+      "sharesHeld": "732477",
+      "marketValue": 51134219.37,
+      "percentWeight": "1.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "RS",
+      "isin": "US7595091023",
+      "cusip": "759509102",
+      "name": "Reliance Steel & Aluminum Co.",
+      "sharesHeld": "150314",
+      "marketValue": 49528463,
+      "percentWeight": "1.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "CF",
+      "isin": "US1252691001",
+      "cusip": "125269100",
+      "name": "CF Industries Holdings Inc.",
+      "sharesHeld": "462924",
+      "marketValue": 43158404.52,
+      "percentWeight": "0.99"
+    },
+    {
+      "type": "stock",
+      "ticker": "HL",
+      "isin": "US4227041062",
+      "cusip": "422704106",
+      "name": "Hecla Mining Co.",
+      "sharesHeld": "1914835",
+      "marketValue": 43122084.2,
+      "percentWeight": "0.99"
+    },
+    {
+      "type": "stock",
+      "ticker": "BALL",
+      "isin": "US0584981064",
+      "cusip": "058498106",
+      "name": "Ball Corp.",
+      "sharesHeld": "738916",
+      "marketValue": 42022152.92,
+      "percentWeight": "0.97"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVY",
+      "isin": "US0536111091",
+      "cusip": "053611109",
+      "name": "Avery Dennison Corp.",
+      "sharesHeld": "222872",
+      "marketValue": 41344984.72,
+      "percentWeight": "0.95"
+    },
+    {
+      "type": "stock",
+      "ticker": "RPM",
+      "isin": "US7496851038",
+      "cusip": "749685103",
+      "name": "RPM International Inc.",
+      "sharesHeld": "366450",
+      "marketValue": 39195492,
+      "percentWeight": "0.90"
+    },
+    {
+      "type": "stock",
+      "ticker": "CDE",
+      "isin": "US1921085049",
+      "cusip": "192108504",
+      "name": "Coeur Mining Inc.",
+      "sharesHeld": "1836902",
+      "marketValue": 37546276.88,
+      "percentWeight": "0.87"
+    },
+    {
+      "type": "stock",
+      "ticker": "LYB",
+      "isin": "NL0009434992",
+      "cusip": "N53745100",
+      "name": "LyondellBasell Industries NV Class A",
+      "sharesHeld": "735432",
+      "marketValue": 36036168,
+      "percentWeight": "0.83"
+    },
+    {
+      "type": "stock",
+      "ticker": "CCK",
+      "isin": "US2283681060",
+      "cusip": "228368106",
+      "name": "Crown Holdings Inc.",
+      "sharesHeld": "332603",
+      "marketValue": 34816882.04,
+      "percentWeight": "0.80"
+    },
+    {
+      "type": "stock",
+      "ticker": "AA",
+      "isin": "US0138721065",
+      "cusip": "013872106",
+      "name": "Alcoa Corp.",
+      "sharesHeld": "549988",
+      "marketValue": 31244818.28,
+      "percentWeight": "0.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOLS",
+      "isin": "US83443Q1031",
+      "cusip": "83443Q103",
+      "name": "Solstice Advanced Materials Inc.",
+      "sharesHeld": "459202",
+      "marketValue": 28364907.54,
+      "percentWeight": "0.65"
+    },
+    {
+      "type": "stock",
+      "ticker": "MOS",
+      "isin": "US61945C1036",
+      "cusip": "61945C103",
+      "name": "Mosaic Co.",
+      "sharesHeld": "907083",
+      "marketValue": 24944782.5,
+      "percentWeight": "0.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "CMC",
+      "isin": "US2017231034",
+      "cusip": "201723103",
+      "name": "Commercial Metals Co.",
+      "sharesHeld": "319905",
+      "marketValue": 24591097.35,
+      "percentWeight": "0.57"
+    },
+    {
+      "type": "stock",
+      "ticker": "MP",
+      "isin": "US5533681012",
+      "cusip": "553368101",
+      "name": "MP Materials Corp.",
+      "sharesHeld": "404923",
+      "marketValue": 23797324.71,
+      "percentWeight": "0.55"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATR",
+      "isin": "US0383361039",
+      "cusip": "038336103",
+      "name": "AptarGroup Inc.",
+      "sharesHeld": "188287",
+      "marketValue": 23526460.65,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMN",
+      "isin": "US2774321002",
+      "cusip": "277432100",
+      "name": "Eastman Chemical Co.",
+      "sharesHeld": "328201",
+      "marketValue": 22750893.32,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLF",
+      "isin": "US1858991011",
+      "cusip": "185899101",
+      "name": "Cleveland-Cliffs Inc.",
+      "sharesHeld": "1628213",
+      "marketValue": 22404210.88,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "AXTA",
+      "isin": "BMG0750C1082",
+      "cusip": "G0750C108",
+      "name": "Axalta Coating Systems Ltd.",
+      "sharesHeld": "618975",
+      "marketValue": 20785180.5,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESI",
+      "isin": "US28618M1062",
+      "cusip": "28618M106",
+      "name": "Element Solutions Inc.",
+      "sharesHeld": "656018",
+      "marketValue": 19090123.8,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXP",
+      "isin": "US26969P1084",
+      "cusip": "26969P108",
+      "name": "Eagle Materials Inc.",
+      "sharesHeld": "92741",
+      "marketValue": 18901543.21,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEE",
+      "isin": "US81211K1007",
+      "cusip": "81211K100",
+      "name": "Sealed Air Corp.",
+      "sharesHeld": "420399",
+      "marketValue": 17606310.12,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "BCPC",
+      "isin": "US0576652004",
+      "cusip": "057665200",
+      "name": "Balchem Corp.",
+      "sharesHeld": "92758",
+      "marketValue": 15784628.86,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEU",
+      "isin": "US6515871076",
+      "cusip": "651587107",
+      "name": "NewMarket Corp.",
+      "sharesHeld": "22827",
+      "marketValue": 15312123.33,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "LPX",
+      "isin": "US5463471053",
+      "cusip": "546347105",
+      "name": "Louisiana-Pacific Corp.",
+      "sharesHeld": "179130",
+      "marketValue": 15000346.2,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "CE",
+      "isin": "US1508701034",
+      "cusip": "150870103",
+      "name": "Celanese Corp. Class A",
+      "sharesHeld": "312968",
+      "marketValue": 13908297.92,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "SON",
+      "isin": "US8354951027",
+      "cusip": "835495102",
+      "name": "Sonoco Products Co.",
+      "sharesHeld": "281894",
+      "marketValue": 13530912,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "HCC",
+      "isin": "US93627C1018",
+      "cusip": "93627C101",
+      "name": "Warrior Met Coal Inc.",
+      "sharesHeld": "150247",
+      "marketValue": 13417057.1,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "GPK",
+      "isin": "US3886891015",
+      "cusip": "388689101",
+      "name": "Graphic Packaging Holding Co.",
+      "sharesHeld": "846714",
+      "marketValue": 12404360.1,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLGN",
+      "isin": "US8270481091",
+      "cusip": "827048109",
+      "name": "Silgan Holdings Inc.",
+      "sharesHeld": "259925",
+      "marketValue": 11215763.75,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBT",
+      "isin": "US1270551013",
+      "cusip": "127055101",
+      "name": "Cabot Corp.",
+      "sharesHeld": "152062",
+      "marketValue": 10977355.78,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNF",
+      "isin": "US4988941047",
+      "cusip": "498894104",
+      "name": "Knife River Corp.",
+      "sharesHeld": "161950",
+      "marketValue": 10878181.5,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRM",
+      "isin": "US71385M1071",
+      "cusip": "71385M107",
+      "name": "Perimeter Solutions Inc.",
+      "sharesHeld": "397636",
+      "marketValue": 10398181.4,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "SXT",
+      "isin": "US81725T1007",
+      "cusip": "81725T100",
+      "name": "Sensient Technologies Corp.",
+      "sharesHeld": "103167",
+      "marketValue": 9751344.84,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVNT",
+      "isin": "US05368V1061",
+      "cusip": "05368V106",
+      "name": "Avient Corp.",
+      "sharesHeld": "261633",
+      "marketValue": 9458032.95,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "FUL",
+      "isin": "US3596941068",
+      "cusip": "359694106",
+      "name": "HB Fuller Co.",
+      "sharesHeld": "154593",
+      "marketValue": 9291039.3,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "WLK",
+      "isin": "US9604131022",
+      "cusip": "960413102",
+      "name": "Westlake Chemical Corp.",
+      "sharesHeld": "109963",
+      "marketValue": 8722265.16,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMG",
+      "isin": "US8101861065",
+      "cusip": "810186106",
+      "name": "Scotts Miracle-Gro Co.",
+      "sharesHeld": "132018",
+      "marketValue": 8478195.96,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTRN",
+      "isin": "US5766901012",
+      "cusip": "576690101",
+      "name": "Materion Corp.",
+      "sharesHeld": "59239",
+      "marketValue": 8191568.92,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "CSTM",
+      "isin": "FR0013467479",
+      "cusip": "F21107101",
+      "name": "Constellium SE Class A",
+      "sharesHeld": "358933",
+      "marketValue": 8065224.51,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASH",
+      "isin": "US0441861046",
+      "cusip": "044186104",
+      "name": "Ashland Global Holdings Inc.",
+      "sharesHeld": "130633",
+      "marketValue": 7989514.28,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "HWKN",
+      "isin": "US4202611095",
+      "cusip": "420261109",
+      "name": "Hawkins Inc.",
+      "sharesHeld": "56685",
+      "marketValue": 7383221.25,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "CENX",
+      "isin": "US1564311082",
+      "cusip": "156431108",
+      "name": "Century Aluminum Co.",
+      "sharesHeld": "160062",
+      "marketValue": 7255610.46,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "NGVT",
+      "isin": "US45688C1071",
+      "cusip": "45688C107",
+      "name": "Ingevity Corp.",
+      "sharesHeld": "104223",
+      "marketValue": 6856831.17,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLN",
+      "isin": "US6806652052",
+      "cusip": "680665205",
+      "name": "Olin Corp.",
+      "sharesHeld": "327664",
+      "marketValue": 6818687.84,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "OI",
+      "isin": "US67098H1041",
+      "cusip": "67098H104",
+      "name": "O-I Glass Inc.",
+      "sharesHeld": "440357",
+      "marketValue": 6728654.96,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMR",
+      "isin": "US0207641061",
+      "cusip": "020764106",
+      "name": "Alpha Metallurgical Resources Inc.",
+      "sharesHeld": "31713",
+      "marketValue": 6653387.4,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "CC",
+      "isin": "US1638511089",
+      "cusip": "163851108",
+      "name": "Chemours Co.",
+      "sharesHeld": "427858",
+      "marketValue": 6413591.42,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "KWR",
+      "isin": "US7473161070",
+      "cusip": "747316107",
+      "name": "Quaker Chemical Corp.",
+      "sharesHeld": "39773",
+      "marketValue": 6114701.02,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTX",
+      "isin": "US6031581068",
+      "cusip": "603158106",
+      "name": "Minerals Technologies Inc.",
+      "sharesHeld": "89678",
+      "marketValue": 5897225.28,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "IOSP",
+      "isin": "US45768S1050",
+      "cusip": "45768S105",
+      "name": "Innospec Inc.",
+      "sharesHeld": "70977",
+      "marketValue": 5800240.44,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "PPTA",
+      "isin": "CA7142661031",
+      "cusip": "714266103",
+      "name": "Perpetua Resources Corp.",
+      "sharesHeld": "215210",
+      "marketValue": 5728890.2,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "KALU",
+      "isin": "US4830077040",
+      "cusip": "483007704",
+      "name": "Kaiser Aluminum Corp.",
+      "sharesHeld": "46239",
+      "marketValue": 5669826.18,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "FMC",
+      "isin": "US3024913036",
+      "cusip": "302491303",
+      "name": "FMC Corp.",
+      "sharesHeld": "357028",
+      "marketValue": 5641042.4,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "HUN",
+      "isin": "US4470111075",
+      "cusip": "447011107",
+      "name": "Huntsman Corp.",
+      "sharesHeld": "471798",
+      "marketValue": 5104854.36,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "GEF",
+      "isin": "US3976241071",
+      "cusip": "397624107",
+      "name": "Greif Inc. Class A",
+      "sharesHeld": "71058",
+      "marketValue": 5018115.96,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLVM",
+      "isin": "US8713321029",
+      "cusip": "871332102",
+      "name": "Sylvamo Corp.",
+      "sharesHeld": "98081",
+      "marketValue": 4800084.14,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "IE",
+      "isin": "US46578C1080",
+      "cusip": "46578C108",
+      "name": "Ivanhoe Electric Inc. / US",
+      "sharesHeld": "265726",
+      "marketValue": 4541257.34,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "USLM",
+      "isin": "US9119221029",
+      "cusip": "911922102",
+      "name": "United States Lime & Minerals Inc.",
+      "sharesHeld": "32742",
+      "marketValue": 3946393.26,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "TMC",
+      "isin": "CA87261Y1060",
+      "cusip": "87261Y106",
+      "name": "TMC the metals co Inc.",
+      "sharesHeld": "583060",
+      "marketValue": 3859857.2,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "WS",
+      "isin": "US9821041012",
+      "cusip": "982104101",
+      "name": "Worthington Steel Inc.",
+      "sharesHeld": "94444",
+      "marketValue": 3799482.12,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCT",
+      "isin": "US74623V1035",
+      "cusip": "74623V103",
+      "name": "PureCycle Technologies Inc.",
+      "sharesHeld": "386043",
+      "marketValue": 3690571.08,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCL",
+      "isin": "US8585861003",
+      "cusip": "858586100",
+      "name": "Stepan Co.",
+      "sharesHeld": "61415",
+      "marketValue": 3538118.15,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ECVT",
+      "isin": "US27923Q1094",
+      "cusip": "27923Q109",
+      "name": "Ecovyst Inc.",
+      "sharesHeld": "327023",
+      "marketValue": 3469714.03,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRS",
+      "isin": "US8962152091",
+      "cusip": "896215209",
+      "name": "TriMas Corp.",
+      "sharesHeld": "92949",
+      "marketValue": 3231836.73,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "MUX",
+      "isin": "US58039P3055",
+      "cusip": "58039P305",
+      "name": "McEwen Inc.",
+      "sharesHeld": "133418",
+      "marketValue": 3222044.7,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "USAR",
+      "isin": "US91733P1075",
+      "cusip": "91733P107",
+      "name": "USA Rare Earth Inc.",
+      "sharesHeld": "130137",
+      "marketValue": 2917671.54,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CMP",
+      "isin": "US20451N1019",
+      "cusip": "20451N101",
+      "name": "Compass Minerals International Inc.",
+      "sharesHeld": "101261",
+      "marketValue": 2529499.78,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "UAMY",
+      "isin": "US9115491030",
+      "cusip": "911549103",
+      "name": "US Antimony Corp.",
+      "sharesHeld": "337380",
+      "marketValue": 2472995.4,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYI",
+      "isin": "US7837541041",
+      "cusip": "783754104",
+      "name": "Ryerson Holding Corp.",
+      "sharesHeld": "78181",
+      "marketValue": 2206267.82,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "METC",
+      "isin": "US75134P6007",
+      "cusip": "75134P600",
+      "name": "Ramaco Resources Inc. Class A",
+      "sharesHeld": "110158",
+      "marketValue": 2149182.58,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTUS",
+      "isin": "US8873991033",
+      "cusip": "887399103",
+      "name": "TimkenSteel Corp.",
+      "sharesHeld": "107526",
+      "marketValue": 2145143.7,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TROX",
+      "isin": "GB00BJT16S69",
+      "cusip": "G9087Q102",
+      "name": "Tronox Holdings plc Class A",
+      "sharesHeld": "339681",
+      "marketValue": 2058466.86,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASPI",
+      "isin": "US00218A1051",
+      "cusip": "00218A105",
+      "name": "ASP Isotopes Inc.",
+      "sharesHeld": "303809",
+      "marketValue": 1926149.06,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SXC",
+      "isin": "US86722A1034",
+      "cusip": "86722A103",
+      "name": "SunCoke Energy Inc.",
+      "sharesHeld": "241769",
+      "marketValue": 1900304.34,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MATV",
+      "isin": "US8085411069",
+      "cusip": "808541106",
+      "name": "Schweitzer-Mauduit International Inc.",
+      "sharesHeld": "156150",
+      "marketValue": 1881607.5,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MYE",
+      "isin": "US6284641098",
+      "cusip": "628464109",
+      "name": "Myers Industries Inc.",
+      "sharesHeld": "90825",
+      "marketValue": 1877352.75,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "KOP",
+      "isin": "US50060P1066",
+      "cusip": "50060P106",
+      "name": "Koppers Holdings Inc.",
+      "sharesHeld": "56333",
+      "marketValue": 1659570.18,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZEUS",
+      "isin": "US68162K1060",
+      "cusip": "68162K106",
+      "name": "Olympic Steel Inc.",
+      "sharesHeld": "28796",
+      "marketValue": 1384799.64,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LXU",
+      "isin": "US5021601043",
+      "cusip": "502160104",
+      "name": "LSB Industries Inc.",
+      "sharesHeld": "143947",
+      "marketValue": 1337267.63,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAGN",
+      "isin": "US55939A1079",
+      "cusip": "55939A107",
+      "name": "Magnera Corp.",
+      "sharesHeld": "96673",
+      "marketValue": 1263516.11,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASIX",
+      "isin": "US00773T1016",
+      "cusip": "00773T101",
+      "name": "AdvanSix Inc.",
+      "sharesHeld": "76611",
+      "marketValue": 1213518.24,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IPI",
+      "isin": "US46121Y2019",
+      "cusip": "46121Y201",
+      "name": "Intrepid Potash Inc.",
+      "sharesHeld": "32369",
+      "marketValue": 1062997.96,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "OEC",
+      "isin": "LU1092234845",
+      "cusip": "L72967109",
+      "name": "Orion Engineered Carbons SA",
+      "sharesHeld": "160366",
+      "marketValue": 991061.88,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLW",
+      "isin": "US18538R1032",
+      "cusip": "18538R103",
+      "name": "Clearwater Paper Corp.",
+      "sharesHeld": "46130",
+      "marketValue": 775906.6,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASPN",
+      "isin": "US04523Y1055",
+      "cusip": "04523Y105",
+      "name": "Aspen Aerogels Inc.",
+      "sharesHeld": "200666",
+      "marketValue": 676244.42,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "PACK",
+      "isin": "US75321W1036",
+      "cusip": "75321W103",
+      "name": "Ranpak Holdings Corp. Class A",
+      "sharesHeld": "133038",
+      "marketValue": 670511.52,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVD",
+      "isin": "US0303711081",
+      "cusip": "030371108",
+      "name": "American Vanguard Corp.",
+      "sharesHeld": "76979",
+      "marketValue": 391053.32,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRO",
+      "isin": "US50105F1057",
+      "cusip": "50105F105",
+      "name": "Kronos Worldwide Inc.",
+      "sharesHeld": "65448",
+      "marketValue": 343602,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORBS",
+      "isin": "US22890A3023",
+      "cusip": "22890A302",
+      "name": "Eightco Holdings Inc.",
+      "sharesHeld": "232470",
+      "marketValue": 337081.5,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "MERC",
+      "isin": "US5880561015",
+      "cusip": "588056101",
+      "name": "Mercer International Inc.",
+      "sharesHeld": "114461",
+      "marketValue": 232355.83,
+      "percentWeight": "0.01"
+    }
+  ]
+}

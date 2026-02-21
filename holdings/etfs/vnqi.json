@@ -1,0 +1,5013 @@
+{
+  "symbol": "VNQI",
+  "name": "Global ex-U.S. Real Estate ETF",
+  "assetClass": "International",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 713,
+    "bond": 0,
+    "total": 713
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "GMG",
+      "isin": "AU000000GMG2",
+      "cusip": null,
+      "name": "Goodman Group",
+      "sharesHeld": "7083464",
+      "marketValue": 150478833.35,
+      "percentWeight": "3.80"
+    },
+    {
+      "type": "stock",
+      "ticker": "8801",
+      "isin": "JP3893200000",
+      "cusip": null,
+      "name": "Mitsui Fudosan Co. Ltd.",
+      "sharesHeld": "9639671",
+      "marketValue": 110537160.71,
+      "percentWeight": "2.79"
+    },
+    {
+      "type": "stock",
+      "ticker": "8802",
+      "isin": "JP3899600005",
+      "cusip": null,
+      "name": "Mitsubishi Estate Co. Ltd.",
+      "sharesHeld": "4334045",
+      "marketValue": 110457097.84,
+      "percentWeight": "2.79"
+    },
+    {
+      "type": "stock",
+      "ticker": "8830",
+      "isin": "JP3409000001",
+      "cusip": null,
+      "name": "Sumitomo Realty & Development Co. Ltd.",
+      "sharesHeld": "3241934",
+      "marketValue": 90278072.94,
+      "percentWeight": "2.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMAAR",
+      "isin": "AEE000301011",
+      "cusip": null,
+      "name": "Emaar Properties PJSC",
+      "sharesHeld": "21462987",
+      "marketValue": 87798490.43,
+      "percentWeight": "2.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "16",
+      "isin": "HK0016000132",
+      "cusip": null,
+      "name": "Sun Hung Kai Properties Ltd.",
+      "sharesHeld": "5321441",
+      "marketValue": 85456417.56,
+      "percentWeight": "2.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNA",
+      "isin": "DE000A1ML7J1",
+      "cusip": null,
+      "name": "Vonovia SE",
+      "sharesHeld": "2912537",
+      "marketValue": 85276955.87,
+      "percentWeight": "2.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "1925",
+      "isin": "JP3505000004",
+      "cusip": null,
+      "name": "Daiwa House Industry Co. Ltd.",
+      "sharesHeld": "2101574",
+      "marketValue": 71609172.35,
+      "percentWeight": "1.81"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCG",
+      "isin": "AU000000SCG8",
+      "cusip": null,
+      "name": "Scentre Group",
+      "sharesHeld": "18073072",
+      "marketValue": 51218517.12,
+      "percentWeight": "1.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGRO",
+      "isin": "GB00B5ZN1N88",
+      "cusip": null,
+      "name": "Segro plc",
+      "sharesHeld": "4688352",
+      "marketValue": 48845956.31,
+      "percentWeight": "1.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPSN",
+      "isin": "CH0008038389",
+      "cusip": null,
+      "name": "Swiss Prime Site AG",
+      "sharesHeld": "277956",
+      "marketValue": 47319391.95,
+      "percentWeight": "1.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "URW",
+      "isin": "FR0013326246",
+      "cusip": null,
+      "name": "Unibail-Rodamco-Westfield",
+      "sharesHeld": "422010",
+      "marketValue": 46659499.31,
+      "percentWeight": "1.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "823",
+      "isin": "HK0823032773",
+      "cusip": null,
+      "name": "Link REIT",
+      "sharesHeld": "8963886",
+      "marketValue": 41213804.65,
+      "percentWeight": "1.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "1113",
+      "isin": "KYG2177B1014",
+      "cusip": null,
+      "name": "CK Asset Holdings Ltd.",
+      "sharesHeld": "6782613",
+      "marketValue": 39733486.54,
+      "percentWeight": "1.00"
+    },
+    {
+      "type": "stock",
+      "ticker": "1109",
+      "isin": "KYG2108Y1052",
+      "cusip": null,
+      "name": "China Resources Land Ltd.",
+      "sharesHeld": "9888446",
+      "marketValue": 38724991.7,
+      "percentWeight": "0.98"
+    },
+    {
+      "type": "stock",
+      "ticker": "C38U",
+      "isin": "SG1M51904654",
+      "cusip": null,
+      "name": "CapitaLand Integrated Commercial Trust",
+      "sharesHeld": "20030192",
+      "marketValue": 37604752.68,
+      "percentWeight": "0.95"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALDAR",
+      "isin": "AEA002001013",
+      "cusip": null,
+      "name": "Aldar Properties PJSC",
+      "sharesHeld": "13092804",
+      "marketValue": 34227359.73,
+      "percentWeight": "0.86"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSPN",
+      "isin": "CH0018294154",
+      "cusip": null,
+      "name": "PSP Swiss Property AG",
+      "sharesHeld": "158886",
+      "marketValue": 31891444.59,
+      "percentWeight": "0.81"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGP",
+      "isin": "AU000000SGP0",
+      "cusip": null,
+      "name": "Stockland",
+      "sharesHeld": "8391354",
+      "marketValue": 31397140.65,
+      "percentWeight": "0.79"
+    },
+    {
+      "type": "stock",
+      "ticker": "A17U",
+      "isin": "SG1M77906915",
+      "cusip": null,
+      "name": "CapitaLand Ascendas REIT",
+      "sharesHeld": "13250384",
+      "marketValue": 29652476.15,
+      "percentWeight": "0.75"
+    },
+    {
+      "type": "stock",
+      "ticker": "LI",
+      "isin": "FR0000121964",
+      "cusip": null,
+      "name": "Klepierre SA",
+      "sharesHeld": "765487",
+      "marketValue": 29489144.19,
+      "percentWeight": "0.74"
+    },
+    {
+      "type": "stock",
+      "ticker": "H78",
+      "isin": "BMG4587L1090",
+      "cusip": null,
+      "name": "Hongkong Land Holdings Ltd.",
+      "sharesHeld": "3452512",
+      "marketValue": 29294122.4,
+      "percentWeight": "0.74"
+    },
+    {
+      "type": "stock",
+      "ticker": "3003",
+      "isin": "JP3360800001",
+      "cusip": null,
+      "name": "Hulic Co. Ltd.",
+      "sharesHeld": "2340337",
+      "marketValue": 27889591.26,
+      "percentWeight": "0.70"
+    },
+    {
+      "type": "stock",
+      "ticker": "8951",
+      "isin": "JP3027670003",
+      "cusip": null,
+      "name": "Nippon Building Fund Inc.",
+      "sharesHeld": "29957",
+      "marketValue": 27787671.67,
+      "percentWeight": "0.70"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHC",
+      "isin": "AU000000CHC0",
+      "cusip": null,
+      "name": "Charter Hall Group",
+      "sharesHeld": "1638369",
+      "marketValue": 26091375.92,
+      "percentWeight": "0.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "GPT",
+      "isin": "AU000000GPT8",
+      "cusip": null,
+      "name": "GPT Group",
+      "sharesHeld": "6635168",
+      "marketValue": 24377682.24,
+      "percentWeight": "0.62"
+    },
+    {
+      "type": "stock",
+      "ticker": "VCX",
+      "isin": "AU000000VCX7",
+      "cusip": null,
+      "name": "Vicinity Ltd.",
+      "sharesHeld": "13542882",
+      "marketValue": 23104801.24,
+      "percentWeight": "0.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "688",
+      "isin": "HK0688002218",
+      "cusip": "Y15004107",
+      "name": "China Overseas Land & Investment Ltd.",
+      "sharesHeld": "12890210",
+      "marketValue": 23102013.19,
+      "percentWeight": "0.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAND",
+      "isin": "GB00BYW0PQ60",
+      "cusip": null,
+      "name": "Land Securities Group plc",
+      "sharesHeld": "2580766",
+      "marketValue": 23034461.38,
+      "percentWeight": "0.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "LMP",
+      "isin": "GB00B4WFW713",
+      "cusip": null,
+      "name": "LondonMetric Property plc",
+      "sharesHeld": "8116362",
+      "marketValue": 22280133.2,
+      "percentWeight": "0.56"
+    },
+    {
+      "type": "stock",
+      "ticker": "1878",
+      "isin": "JP3486800000",
+      "cusip": "J11151107",
+      "name": "Daito Trust Construction Co. Ltd.",
+      "sharesHeld": "1062725",
+      "marketValue": 21570579.28,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRL",
+      "isin": "ES0105025003",
+      "cusip": null,
+      "name": "Merlin Properties Socimi SA",
+      "sharesHeld": "1386781",
+      "marketValue": 20639742.81,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "8952",
+      "isin": "JP3027680002",
+      "cusip": null,
+      "name": "Japan Real Estate Investment Corp.",
+      "sharesHeld": "24653",
+      "marketValue": 19889886.96,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "NRP",
+      "isin": "NL0015000RT3",
+      "cusip": null,
+      "name": "NEPI Rockcastle NV",
+      "sharesHeld": "2170973",
+      "marketValue": 19770235.71,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "BLND",
+      "isin": "GB0001367019",
+      "cusip": null,
+      "name": "British Land Co. plc",
+      "sharesHeld": "3463424",
+      "marketValue": 19755118.71,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "8953",
+      "isin": "JP3039710003",
+      "cusip": null,
+      "name": "Japan Metropolitan Fund Invest",
+      "sharesHeld": "24937",
+      "marketValue": 19627462.14,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "BBOX",
+      "isin": "GB00BG49KP99",
+      "cusip": null,
+      "name": "Tritax Big Box REIT plc",
+      "sharesHeld": "8610809",
+      "marketValue": 19545913.24,
+      "percentWeight": "0.49"
+    },
+    {
+      "type": "stock",
+      "ticker": "1997",
+      "isin": "KYG9593A1040",
+      "cusip": null,
+      "name": "Wharf Real Estate Investment Co. Ltd.",
+      "sharesHeld": "5568652",
+      "marketValue": 19333035.17,
+      "percentWeight": "0.49"
+    },
+    {
+      "type": "stock",
+      "ticker": "83",
+      "isin": "HK0083000502",
+      "cusip": null,
+      "name": "Sino Land Co. Ltd.",
+      "sharesHeld": "12657022",
+      "marketValue": 19047663.73,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "MGR",
+      "isin": "AU000000MGR9",
+      "cusip": null,
+      "name": "Mirvac Group",
+      "sharesHeld": "13666749",
+      "marketValue": 18979917.17,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "3289",
+      "isin": "JP3569200003",
+      "cusip": null,
+      "name": "Tokyu Fudosan Holdings Corp.",
+      "sharesHeld": "2045244",
+      "marketValue": 18937960.17,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "LEG",
+      "isin": "DE000LEG1110",
+      "cusip": null,
+      "name": "LEG Immobilien SE",
+      "sharesHeld": "261744",
+      "marketValue": 18926076.58,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "WDP",
+      "isin": "BE0974349814",
+      "cusip": null,
+      "name": "Warehouses De Pauw CVA",
+      "sharesHeld": "658331",
+      "marketValue": 18654225.55,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "12",
+      "isin": "HK0012000102",
+      "cusip": null,
+      "name": "Henderson Land Development Co. Ltd.",
+      "sharesHeld": "4686936",
+      "marketValue": 18642833.45,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "BALD B",
+      "isin": "SE0017832488",
+      "cusip": null,
+      "name": "Fastighets AB Balder Class B",
+      "sharesHeld": "2411729",
+      "marketValue": 18190716.5,
+      "percentWeight": "0.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "DXS",
+      "isin": "AU000000DXS1",
+      "cusip": null,
+      "name": "Dexus",
+      "sharesHeld": "3725264",
+      "marketValue": 17379349.48,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "FIBRAPL14",
+      "isin": "MXCFFI170008",
+      "cusip": null,
+      "name": "Prologis Property Mexico SA de CV",
+      "sharesHeld": "3724172",
+      "marketValue": 17112097.25,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "8804",
+      "isin": "JP3582600007",
+      "cusip": null,
+      "name": "Tokyo Tatemono Co. Ltd.",
+      "sharesHeld": "724383",
+      "marketValue": 17046341.49,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "AZRG",
+      "isin": "IL0011194789",
+      "cusip": null,
+      "name": "Azrieli Group Ltd.",
+      "sharesHeld": "125984",
+      "marketValue": 16895096.59,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAGA B",
+      "isin": "SE0005127818",
+      "cusip": null,
+      "name": "Sagax AB Class B",
+      "sharesHeld": "756545",
+      "marketValue": 16682686.88,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "GFC",
+      "isin": "FR0010040865",
+      "cusip": null,
+      "name": "Gecina SA",
+      "sharesHeld": "180782",
+      "marketValue": 16605048.26,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "3462",
+      "isin": "JP3048110005",
+      "cusip": null,
+      "name": "Nomura Real Estate Master Fund Inc.",
+      "sharesHeld": "14981",
+      "marketValue": 16187354.81,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAST",
+      "isin": "SE0000379190",
+      "cusip": "W2084X107",
+      "name": "Castellum AB",
+      "sharesHeld": "1280150",
+      "marketValue": 15825533.35,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "DLF",
+      "isin": "INE271C01023",
+      "cusip": null,
+      "name": "DLF Ltd.",
+      "sharesHeld": "2235015",
+      "marketValue": 15475574.01,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "3281",
+      "isin": "JP3047510007",
+      "cusip": null,
+      "name": "GLP J-Reit",
+      "sharesHeld": "16637",
+      "marketValue": 15293471.26,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "8972",
+      "isin": "JP3046270009",
+      "cusip": null,
+      "name": "KDX Realty Investment Corp.",
+      "sharesHeld": "13998",
+      "marketValue": 15143543.38,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALLN",
+      "isin": "CH0008837566",
+      "cusip": null,
+      "name": "Allreal Holding AG",
+      "sharesHeld": "50561",
+      "marketValue": 14789739.15,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "3283",
+      "isin": "JP3047550003",
+      "cusip": null,
+      "name": "Nippon Prologis REIT Inc.",
+      "sharesHeld": "25344",
+      "marketValue": 14788797.14,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "FUNO11",
+      "isin": "MXCFFU000001",
+      "cusip": "P3515D163",
+      "name": "Fibra Uno Administracion SA de CV",
+      "sharesHeld": "9497985",
+      "marketValue": 14771986.28,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "AED",
+      "isin": "BE0003851681",
+      "cusip": null,
+      "name": "Aedifica SA",
+      "sharesHeld": "164727",
+      "marketValue": 14505535.11,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "C09",
+      "isin": "SG1R89002252",
+      "cusip": null,
+      "name": "City Developments Ltd.",
+      "sharesHeld": "1985990",
+      "marketValue": 14471066.56,
+      "percentWeight": "0.37"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMBASSY",
+      "isin": "INE041025011",
+      "cusip": null,
+      "name": "Embassy Office Parks REIT",
+      "sharesHeld": "3027673",
+      "marketValue": 14300091.8,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMPH",
+      "isin": "PHY8076N1120",
+      "cusip": "Y8076N112",
+      "name": "SM Prime Holdings Inc.",
+      "sharesHeld": "38026307",
+      "marketValue": 13923635.15,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "8984",
+      "isin": "JP3046390005",
+      "cusip": null,
+      "name": "Daiwa House REIT Investment Corp.",
+      "sharesHeld": "15919",
+      "marketValue": 13870703.75,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "U14",
+      "isin": "SG1S83002349",
+      "cusip": null,
+      "name": "UOL Group Ltd.",
+      "sharesHeld": "1609678",
+      "marketValue": 13747575.1,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "COFB",
+      "isin": "BE0003593044",
+      "cusip": null,
+      "name": "Cofinimmo SA",
+      "sharesHeld": "131943",
+      "marketValue": 13719462.95,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMAARDEV",
+      "isin": "AEE001901017",
+      "cusip": "M4100K102",
+      "name": "Emaar Development PJSC",
+      "sharesHeld": "2915744",
+      "marketValue": 13666075.06,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIG",
+      "isin": "IL0010972607",
+      "cusip": null,
+      "name": "Big Shopping Centers Ltd.",
+      "sharesHeld": "56048",
+      "marketValue": 13481455.83,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHC",
+      "isin": "GB00B62G9D36",
+      "cusip": null,
+      "name": "Shaftesbury Capital plc",
+      "sharesHeld": "6764636",
+      "marketValue": 13307877.62,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "MOBN",
+      "isin": "CH0011108872",
+      "cusip": null,
+      "name": "Mobimo Holding AG",
+      "sharesHeld": "25796",
+      "marketValue": 12990466.8,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "GRT",
+      "isin": "ZAE000179420",
+      "cusip": null,
+      "name": "Growthpoint Properties Ltd.",
+      "sharesHeld": "11875661",
+      "marketValue": 12969441.45,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "8954",
+      "isin": "JP3040880001",
+      "cusip": null,
+      "name": "Orix JREIT Inc.",
+      "sharesHeld": "19140",
+      "marketValue": 12818457.03,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHP",
+      "isin": "GB00BYRJ5J14",
+      "cusip": null,
+      "name": "Primary Health Properties plc",
+      "sharesHeld": "8992849",
+      "marketValue": 12764751.9,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "UTG",
+      "isin": "GB0006928617",
+      "cusip": null,
+      "name": "UNITE Group plc",
+      "sharesHeld": "1639728",
+      "marketValue": 12752794.64,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "M44U",
+      "isin": "SG1S03926213",
+      "cusip": null,
+      "name": "Mapletree Logistics Trust",
+      "sharesHeld": "11821123",
+      "marketValue": 12576964.92,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "AJBU",
+      "isin": "SG1AF6000009",
+      "cusip": null,
+      "name": "Keppel DC REIT",
+      "sharesHeld": "6920403",
+      "marketValue": 12400691.95,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "ME8U",
+      "isin": "SG2C32962814",
+      "cusip": null,
+      "name": "Mapletree Industrial Trust",
+      "sharesHeld": "7411991",
+      "marketValue": 12287141.99,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "3231",
+      "isin": "JP3762900003",
+      "cusip": "J5893B104",
+      "name": "Nomura Real Estate Holdings Inc.",
+      "sharesHeld": "1844845",
+      "marketValue": 12259436.76,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "8960",
+      "isin": "JP3045540006",
+      "cusip": null,
+      "name": "United Urban Investment Corp.",
+      "sharesHeld": "10611",
+      "marketValue": 12259301.24,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "1209",
+      "isin": "KYG2122G1064",
+      "cusip": null,
+      "name": "China Resources Mixc Lifestyle Services Ltd.",
+      "sharesHeld": "2053600",
+      "marketValue": 12144920.63,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "COV",
+      "isin": "FR0000064578",
+      "cusip": null,
+      "name": "Covivio SA/France",
+      "sharesHeld": "189502",
+      "marketValue": 12106505.72,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHOENIXLTD",
+      "isin": "INE211B01039",
+      "cusip": null,
+      "name": "Phoenix Mills Ltd.",
+      "sharesHeld": "657156",
+      "marketValue": 11945445.59,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "MALLPLAZA",
+      "isin": "CL0002456714",
+      "cusip": "P7898L106",
+      "name": "Plaza SA",
+      "sharesHeld": "2666919",
+      "marketValue": 11599875.33,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "LODHA",
+      "isin": "INE670K01029",
+      "cusip": null,
+      "name": "Lodha Developers Ltd.",
+      "sharesHeld": "1073456",
+      "marketValue": 11354359.3,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "8963",
+      "isin": "JP3046190009",
+      "cusip": null,
+      "name": "Invincible Investment Corp.",
+      "sharesHeld": "26492",
+      "marketValue": 11219845.38,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEG",
+      "isin": "DE0008303504",
+      "cusip": null,
+      "name": "TAG Immobilien AG",
+      "sharesHeld": "654948",
+      "marketValue": 11111415.75,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "MLSR",
+      "isin": "IL0003230146",
+      "cusip": null,
+      "name": "Melisron Ltd.",
+      "sharesHeld": "82525",
+      "marketValue": 10812244.06,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "3269",
+      "isin": "JP3047160001",
+      "cusip": null,
+      "name": "Advance Residence Investment Corp.",
+      "sharesHeld": "9886",
+      "marketValue": 10729189.69,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "4",
+      "isin": "HK0004000045",
+      "cusip": "Y8800U127",
+      "name": "Wharf Holdings Ltd.",
+      "sharesHeld": "3282652",
+      "marketValue": 10614038.68,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "DLN",
+      "isin": "GB0002652740",
+      "cusip": null,
+      "name": "Derwent London plc",
+      "sharesHeld": "389029",
+      "marketValue": 10304067.39,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "1972",
+      "isin": "HK0000063609",
+      "cusip": null,
+      "name": "Swire Properties Ltd.",
+      "sharesHeld": "3388000",
+      "marketValue": 10269198.83,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "PARAUCO",
+      "isin": "CLP763281068",
+      "cusip": null,
+      "name": "Parque Arauco SA",
+      "sharesHeld": "2299622",
+      "marketValue": 9774264.32,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTPNV",
+      "isin": "NL00150006R6",
+      "cusip": null,
+      "name": "CTP NV",
+      "sharesHeld": "448306",
+      "marketValue": 9773377.74,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "WIHL",
+      "isin": "SE0018012635",
+      "cusip": "W9899F163",
+      "name": "Wihlborgs Fastigheter AB",
+      "sharesHeld": "937592",
+      "marketValue": 9687270.12,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "BYG",
+      "isin": "GB0002869419",
+      "cusip": null,
+      "name": "Big Yellow Group plc",
+      "sharesHeld": "681518",
+      "marketValue": 9647429.96,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "RDF",
+      "isin": "ZAE000190252",
+      "cusip": null,
+      "name": "Redefine Properties Ltd.",
+      "sharesHeld": "24938250",
+      "marketValue": 9567232.04,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "8985",
+      "isin": "JP3046400002",
+      "cusip": null,
+      "name": "Japan Hotel REIT Investment Corp.",
+      "sharesHeld": "17648",
+      "marketValue": 9488407.74,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "VESTA*",
+      "isin": "MX01VE0M0003",
+      "cusip": null,
+      "name": "Corp Inmobiliaria Vesta SAB de CV",
+      "sharesHeld": "3054350",
+      "marketValue": 9444785.65,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "NSR",
+      "isin": "AU000000NSR2",
+      "cusip": null,
+      "name": "National Storage REIT",
+      "sharesHeld": "4865257",
+      "marketValue": 9323502.51,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRESTIGE",
+      "isin": "INE811K01011",
+      "cusip": null,
+      "name": "Prestige Estates Projects Ltd.",
+      "sharesHeld": "582885",
+      "marketValue": 9271950.86,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "8955",
+      "isin": "JP3040890000",
+      "cusip": null,
+      "name": "Japan Prime Realty Investment Corp.",
+      "sharesHeld": "13649",
+      "marketValue": 9256389.88,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "MVNE",
+      "isin": "IL0002260193",
+      "cusip": null,
+      "name": "Mivne Real Estate KD Ltd.",
+      "sharesHeld": "1978791",
+      "marketValue": 9221413.76,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "4300",
+      "isin": "SA11U0S23612",
+      "cusip": null,
+      "name": "Dar Al Arkan Real Estate Development Co.",
+      "sharesHeld": "1835480",
+      "marketValue": 9149328.27,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "N2IU",
+      "isin": "SG2D18969584",
+      "cusip": null,
+      "name": "Mapletree Pan Asia Commercial Trust",
+      "sharesHeld": "7856241",
+      "marketValue": 9009955.4,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "960",
+      "isin": "KYG5635P1090",
+      "cusip": "G5635P109",
+      "name": "Longfor Group Holdings Ltd.",
+      "sharesHeld": "6830008",
+      "marketValue": 8981982.03,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "GODREJPROP",
+      "isin": "INE484J01027",
+      "cusip": null,
+      "name": "Godrej Properties Ltd.",
+      "sharesHeld": "522596",
+      "marketValue": 8970760.66,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "HMSO",
+      "isin": "GB00BRJQ8J25",
+      "cusip": "G4273Q164",
+      "name": "Hammerson plc",
+      "sharesHeld": "1838390",
+      "marketValue": 8926611.08,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "IWG",
+      "isin": "JE00BYVQYS01",
+      "cusip": "G4969N103",
+      "name": "International Workplace Group plc",
+      "sharesHeld": "2593229",
+      "marketValue": 8791405.67,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "3309",
+      "isin": "JP3047820000",
+      "cusip": null,
+      "name": "Sekisui House Reit Inc.",
+      "sharesHeld": "14924",
+      "marketValue": 8763733.69,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "T82U",
+      "isin": "SG1Q52922370",
+      "cusip": null,
+      "name": "Suntec REIT",
+      "sharesHeld": "7648627",
+      "marketValue": 8640008.35,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAFE",
+      "isin": "GB00B1N7Z094",
+      "cusip": null,
+      "name": "Safestore Holdings plc",
+      "sharesHeld": "756832",
+      "marketValue": 8600998.47,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "J69U",
+      "isin": "SG1T60930966",
+      "cusip": null,
+      "name": "Frasers Centrepoint Trust",
+      "sharesHeld": "4867888",
+      "marketValue": 8571309.54,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "MGOR",
+      "isin": "IL0011044885",
+      "cusip": null,
+      "name": "Mega Or Holdings Ltd.",
+      "sharesHeld": "78622",
+      "marketValue": 8555290.68,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "3249",
+      "isin": "JP3046500009",
+      "cusip": null,
+      "name": "Industrial & Infrastructure Fund Investment Corp.",
+      "sharesHeld": "8779",
+      "marketValue": 8501944.64,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPN-F",
+      "isin": "TH0481B10Z18",
+      "cusip": null,
+      "name": "Central Pattana PCL",
+      "sharesHeld": "4642800",
+      "marketValue": 8493676.14,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "K71U",
+      "isin": "SG1T22929874",
+      "cusip": null,
+      "name": "Keppel REIT",
+      "sharesHeld": "10937287",
+      "marketValue": 8480416.91,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "4325",
+      "isin": "SA169G7I3IH8",
+      "cusip": null,
+      "name": "Umm Al Qura for Development & Construction Co.",
+      "sharesHeld": "1645171",
+      "marketValue": 8465337.11,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "CATE",
+      "isin": "SE0001664707",
+      "cusip": null,
+      "name": "Catena AB",
+      "sharesHeld": "161163",
+      "marketValue": 8365914.84,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "3471",
+      "isin": "JP3048300002",
+      "cusip": null,
+      "name": "Mitsui Fudosan Logistics Park Inc.",
+      "sharesHeld": "11145",
+      "marketValue": 8318212.27,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "4100",
+      "isin": "SA0007879659",
+      "cusip": null,
+      "name": "Makkah Construction & Development Co.",
+      "sharesHeld": "339037",
+      "marketValue": 8175800.29,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "BUOU",
+      "isin": "SG1CI9000006",
+      "cusip": null,
+      "name": "Frasers Logistics & Commercial Trust",
+      "sharesHeld": "10245052",
+      "marketValue": 8143201.58,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "PNDX B",
+      "isin": "SE0007100359",
+      "cusip": null,
+      "name": "Pandox AB Class B",
+      "sharesHeld": "364887",
+      "marketValue": 7872893.84,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "3226",
+      "isin": "JP3046440008",
+      "cusip": null,
+      "name": "Mitsui Fudosan Accommodations Fund Inc.",
+      "sharesHeld": "8711",
+      "marketValue": 7787782.94,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "AT1",
+      "isin": "LU1673108939",
+      "cusip": null,
+      "name": "Aroundtown SA",
+      "sharesHeld": "2448134",
+      "marketValue": 7779526.58,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "LLC",
+      "isin": "AU000000LLC3",
+      "cusip": null,
+      "name": "Lendlease Corp. Ltd.",
+      "sharesHeld": "2272256",
+      "marketValue": 7604134.06,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAR.UN",
+      "isin": "CA1349211054",
+      "cusip": "134921105",
+      "name": "Canadian Apartment Properties REIT",
+      "sharesHeld": "264986",
+      "marketValue": 7504028.32,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIRET",
+      "isin": "INE0FDU25010",
+      "cusip": null,
+      "name": "Brookfield India Real Estate Trust",
+      "sharesHeld": "1923283",
+      "marketValue": 7383952.69,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "101",
+      "isin": "HK0101000591",
+      "cusip": null,
+      "name": "Hang Lung Properties Ltd.",
+      "sharesHeld": "6109932",
+      "marketValue": 7372690.65,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALHE",
+      "isin": "IL0003900136",
+      "cusip": "M0867F104",
+      "name": "Alony Hetz Properties & Investments Ltd.",
+      "sharesHeld": "555801",
+      "marketValue": 7333920.29,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "COL",
+      "isin": "ES0139140174",
+      "cusip": null,
+      "name": "Colonial SFL Socimi SA",
+      "sharesHeld": "1173985",
+      "marketValue": 7261251.54,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "HMN",
+      "isin": "SGXC16332337",
+      "cusip": null,
+      "name": "CapitaLand Ascott Trust",
+      "sharesHeld": "9406212",
+      "marketValue": 7259716.05,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "MABANEE",
+      "isin": "KW0EQ0400725",
+      "cusip": null,
+      "name": "Mabanee Co. KPSC",
+      "sharesHeld": "2214366",
+      "marketValue": 7247300.49,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALI",
+      "isin": "PHY0488F1004",
+      "cusip": "Y0488F100",
+      "name": "Ayala Land Inc.",
+      "sharesHeld": "20099360",
+      "marketValue": 7247223.88,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "GPE",
+      "isin": "GB00BF5H9P87",
+      "cusip": null,
+      "name": "Great Portland Estates plc",
+      "sharesHeld": "1406934",
+      "marketValue": 7220983.01,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "2542",
+      "isin": "TW0002542008",
+      "cusip": null,
+      "name": "Highwealth Construction Corp.",
+      "sharesHeld": "6123062",
+      "marketValue": 7213473.69,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "KOJAMO",
+      "isin": "FI4000312251",
+      "cusip": "X4543E117",
+      "name": "Kojamo Oyj",
+      "sharesHeld": "633367",
+      "marketValue": 7161758.95,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "REI.UN",
+      "isin": "CA7669101031",
+      "cusip": "766910103",
+      "name": "RioCan REIT",
+      "sharesHeld": "499669",
+      "marketValue": 7159359.74,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRE",
+      "isin": "GG00B1W3VF54",
+      "cusip": null,
+      "name": "Sirius Real Estate Ltd.",
+      "sharesHeld": "5242539",
+      "marketValue": 7065487.5,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "GRI",
+      "isin": "GB00B04V1276",
+      "cusip": null,
+      "name": "Grainger plc",
+      "sharesHeld": "2571212",
+      "marketValue": 6843868.89,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "3279",
+      "isin": "JP3047490002",
+      "cusip": null,
+      "name": "Activia Properties Inc.",
+      "sharesHeld": "7321",
+      "marketValue": 6837327.08,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "17",
+      "isin": "HK0000608585",
+      "cusip": null,
+      "name": "New World Development Co. Ltd.",
+      "sharesHeld": "4692000",
+      "marketValue": 6826702.94,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "GRT.UN",
+      "isin": "CA3874372053",
+      "cusip": "387437205",
+      "name": "Granite REIT",
+      "sharesHeld": "105427",
+      "marketValue": 6801866.82,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "FMTY14",
+      "isin": "MXCFFM010000",
+      "cusip": null,
+      "name": "Fibra MTY SAPI de CV",
+      "sharesHeld": "7773000",
+      "marketValue": 6605004.01,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "VKE",
+      "isin": "ZAE000180865",
+      "cusip": null,
+      "name": "Vukile Property Fund Ltd.",
+      "sharesHeld": "4314188",
+      "marketValue": 6599686.5,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "OBEROIRLTY",
+      "isin": "INE093I01010",
+      "cusip": null,
+      "name": "Oberoi Realty Ltd.",
+      "sharesHeld": "403825",
+      "marketValue": 6554172.77,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMOT",
+      "isin": "IL0010972789",
+      "cusip": null,
+      "name": "Amot Investments Ltd.",
+      "sharesHeld": "836831",
+      "marketValue": 6480203.39,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "TMGH",
+      "isin": "EGS691S1C011",
+      "cusip": null,
+      "name": "Talaat Moustafa Group",
+      "sharesHeld": "3509930",
+      "marketValue": 6466071.13,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "RGN",
+      "isin": "AU0000253502",
+      "cusip": "988NUC908",
+      "name": "Region Group",
+      "sharesHeld": "4020996",
+      "marketValue": 6449451.8,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "3466",
+      "isin": "JP3048180008",
+      "cusip": null,
+      "name": "LaSalle Logiport REIT",
+      "sharesHeld": "6209",
+      "marketValue": 6301861.18,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "10",
+      "isin": "HK0010000088",
+      "cusip": null,
+      "name": "Hang Lung Group Ltd.",
+      "sharesHeld": "2905103",
+      "marketValue": 6255868.09,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "FABG",
+      "isin": "SE0011166974",
+      "cusip": null,
+      "name": "Fabege AB",
+      "sharesHeld": "676194",
+      "marketValue": 6245907.53,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHP.UN",
+      "isin": "CA17039A1066",
+      "cusip": "17039A106",
+      "name": "Choice Properties REIT",
+      "sharesHeld": "557223",
+      "marketValue": 6236608.91,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "8967",
+      "isin": "JP3046230003",
+      "cusip": null,
+      "name": "Japan Logistics Fund Inc.",
+      "sharesHeld": "9502",
+      "marketValue": 6207628.25,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "9945",
+      "isin": "TW0009945006",
+      "cusip": null,
+      "name": "Ruentex Development Co. Ltd.",
+      "sharesHeld": "6742483",
+      "marketValue": 6161781.46,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "MONT",
+      "isin": "BE0003853703",
+      "cusip": null,
+      "name": "Montea NV",
+      "sharesHeld": "72712",
+      "marketValue": 6158808.96,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLW",
+      "isin": "AU000000CLW0",
+      "cusip": null,
+      "name": "Charter Hall Long Wale REIT",
+      "sharesHeld": "2272015",
+      "marketValue": 6145233.23,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "8986",
+      "isin": "JP3046410001",
+      "cusip": null,
+      "name": "Daiwa Securities Living Investments Corp.",
+      "sharesHeld": "8272",
+      "marketValue": 6138836.16,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "FFB",
+      "isin": "ZAE000248506",
+      "cusip": null,
+      "name": "Fortress Real Estate Investments Ltd. Class B",
+      "sharesHeld": "4172614",
+      "marketValue": 6104797.95,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "683",
+      "isin": "BMG524401079",
+      "cusip": null,
+      "name": "Kerry Properties Ltd.",
+      "sharesHeld": "2007332",
+      "marketValue": 6093783.67,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "RIT1",
+      "isin": "IL0010989205",
+      "cusip": null,
+      "name": "Reit 1 Ltd.",
+      "sharesHeld": "693601",
+      "marketValue": 6089294.73,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "NXST",
+      "isin": "INE0NDH25011",
+      "cusip": null,
+      "name": "Nexus Select Trust",
+      "sharesHeld": "3625731",
+      "marketValue": 6084811.52,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "6098",
+      "isin": "KYG2453A1085",
+      "cusip": null,
+      "name": "Country Garden Services Holdings Co. Ltd.",
+      "sharesHeld": "7301000",
+      "marketValue": 6037033.83,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "HDN",
+      "isin": "AU0000113136",
+      "cusip": null,
+      "name": "HomeCo Daily Needs REIT",
+      "sharesHeld": "6501540",
+      "marketValue": 5833860.18,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "WALL B",
+      "isin": "SE0017780133",
+      "cusip": null,
+      "name": "Wallenstam AB",
+      "sharesHeld": "1269538",
+      "marketValue": 5781567.13,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "VGP",
+      "isin": "BE0003878957",
+      "cusip": null,
+      "name": "VGP NV",
+      "sharesHeld": "46319",
+      "marketValue": 5680302.45,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "8976",
+      "isin": "JP3046310003",
+      "cusip": null,
+      "name": "Daiwa Office Investment Corp.",
+      "sharesHeld": "2379",
+      "marketValue": 5667863.58,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRES",
+      "isin": "QA000A0KD6J5",
+      "cusip": null,
+      "name": "Barwa Real Estate Co.",
+      "sharesHeld": "7503871",
+      "marketValue": 5644522.64,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "14",
+      "isin": "HK0014000126",
+      "cusip": "Y38203124",
+      "name": "Hysan Development Co. Ltd.",
+      "sharesHeld": "2045655",
+      "marketValue": 5618138.07,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "FIBRAMQ12",
+      "isin": "MXCFFI0U0002",
+      "cusip": null,
+      "name": "FIBRA Macquarie Mexico",
+      "sharesHeld": "2618872",
+      "marketValue": 5445743.22,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "CENCOMALLS",
+      "isin": "CL0002941178",
+      "cusip": null,
+      "name": "Cencosud Shopping SA",
+      "sharesHeld": "1674107",
+      "marketValue": 5365153.58,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "3282",
+      "isin": "JP3047540004",
+      "cusip": null,
+      "name": "Comforia Residential REIT Inc.",
+      "sharesHeld": "7365",
+      "marketValue": 5319333.72,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "IOIPG",
+      "isin": "MYL5249OO007",
+      "cusip": null,
+      "name": "IOI Properties Group Bhd.",
+      "sharesHeld": "6534400",
+      "marketValue": 5285238.88,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "8964",
+      "isin": "JP3046200006",
+      "cusip": null,
+      "name": "Frontier Real Estate Investment Corp.",
+      "sharesHeld": "8897",
+      "marketValue": 5241465.27,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIMEPROP",
+      "isin": "MYL5288OO005",
+      "cusip": null,
+      "name": "Sime Darby Property Bhd.",
+      "sharesHeld": "13729800",
+      "marketValue": 5231088.63,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "FCR.UN",
+      "isin": "CA31890B1031",
+      "cusip": "31890B103",
+      "name": "First Capital REIT",
+      "sharesHeld": "359653",
+      "marketValue": 5227138.3,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "3292",
+      "isin": "JP3047650001",
+      "cusip": null,
+      "name": "AEON REIT Investment Corp.",
+      "sharesHeld": "5984",
+      "marketValue": 5179141.33,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "HUFV A",
+      "isin": "SE0000170375",
+      "cusip": "W30061126",
+      "name": "Hufvudstaden AB Class A",
+      "sharesHeld": "372683",
+      "marketValue": 5149833.61,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "RES",
+      "isin": "ZAE000209557",
+      "cusip": null,
+      "name": "Resilient REIT Ltd.",
+      "sharesHeld": "1024680",
+      "marketValue": 5106154.36,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "BWP",
+      "isin": "AU000000BWP3",
+      "cusip": null,
+      "name": "BWP Property Group Ltd.",
+      "sharesHeld": "1956642",
+      "marketValue": 5083764.28,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "3234",
+      "isin": "JP3046470005",
+      "cusip": null,
+      "name": "Mori Hills REIT Investment Corp.",
+      "sharesHeld": "5354",
+      "marketValue": 5022287.46,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "SUPR",
+      "isin": "GB00BF345X11",
+      "cusip": null,
+      "name": "Supermarket Income Reit plc",
+      "sharesHeld": "4313041",
+      "marketValue": 4938001.03,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "CIBUS",
+      "isin": "SE0010832204",
+      "cusip": null,
+      "name": "Cibus Nordic Real Estate AB publ",
+      "sharesHeld": "283849",
+      "marketValue": 4920243.6,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "3900",
+      "isin": "KYG4100M1050",
+      "cusip": null,
+      "name": "Greentown China Holdings Ltd.",
+      "sharesHeld": "3414314",
+      "marketValue": 4886850.05,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "C2PU",
+      "isin": "SG1V52937132",
+      "cusip": null,
+      "name": "Parkway Life REIT",
+      "sharesHeld": "1510697",
+      "marketValue": 4847900.42,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "HYP",
+      "isin": "ZAE000190724",
+      "cusip": null,
+      "name": "Hyprop Investments Ltd.",
+      "sharesHeld": "1383866",
+      "marketValue": 4833906.75,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRU.UN",
+      "isin": "CA83179X1087",
+      "cusip": "83179X108",
+      "name": "SmartCentres REIT",
+      "sharesHeld": "244742",
+      "marketValue": 4797241.57,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "CQR",
+      "isin": "AU000000CQR9",
+      "cusip": null,
+      "name": "Charter Hall Retail REIT",
+      "sharesHeld": "1749124",
+      "marketValue": 4763080.65,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "3295",
+      "isin": "JP3047660000",
+      "cusip": null,
+      "name": "Hulic Reit Inc.",
+      "sharesHeld": "4258",
+      "marketValue": 4740143.98,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "SUNREIT",
+      "isin": "MYL5176TO001",
+      "cusip": null,
+      "name": "Sunway REIT",
+      "sharesHeld": "7079434",
+      "marketValue": 4644419.39,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "INA",
+      "isin": "AU000000INA9",
+      "cusip": null,
+      "name": "Ingenia Communities Group",
+      "sharesHeld": "1409052",
+      "marketValue": 4620012.21,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "DIR.UN",
+      "isin": "CA26153W1095",
+      "cusip": "26153W109",
+      "name": "Dream Industrial REIT",
+      "sharesHeld": "485113",
+      "marketValue": 4581612.88,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISN",
+      "isin": "CH1338987303",
+      "cusip": null,
+      "name": "Intershop Holding AG",
+      "sharesHeld": "21087",
+      "marketValue": 4569687.78,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "ECMPA",
+      "isin": "NL0015000K93",
+      "cusip": null,
+      "name": "Eurocommercial Properties NV",
+      "sharesHeld": "153245",
+      "marketValue": 4520601.34,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "NYF",
+      "isin": "SE0011426428",
+      "cusip": null,
+      "name": "Nyfosa AB",
+      "sharesHeld": "561231",
+      "marketValue": 4461597.3,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "XIOR",
+      "isin": "BE0974288202",
+      "cusip": null,
+      "name": "Xior Student Housing NV",
+      "sharesHeld": "133994",
+      "marketValue": 4459437.34,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "1908",
+      "isin": "KYG3165D1097",
+      "cusip": null,
+      "name": "C&D International Investment Group Ltd.",
+      "sharesHeld": "2161000",
+      "marketValue": 4451465.81,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "8956",
+      "isin": "JP3041770003",
+      "cusip": null,
+      "name": "NTT UD REIT Investment Corp.",
+      "sharesHeld": "4763",
+      "marketValue": 4392016.34,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "3481",
+      "isin": "JP3048480002",
+      "cusip": null,
+      "name": "Mitsubishi Estate Logistics REIT Investment Corp.",
+      "sharesHeld": "5158",
+      "marketValue": 4385545.54,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "8961",
+      "isin": "JP3046170001",
+      "cusip": null,
+      "name": "Mori Trust Reit Inc.",
+      "sharesHeld": "8725",
+      "marketValue": 4383028.98,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "4090",
+      "isin": "SA0007879790",
+      "cusip": null,
+      "name": "Taiba Investments Co.",
+      "sharesHeld": "441811",
+      "marketValue": 4318809.07,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRT",
+      "isin": "INE1JAR25012",
+      "cusip": null,
+      "name": "Knowledge Realty Trust",
+      "sharesHeld": "3216791",
+      "marketValue": 4296850.95,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "CARM",
+      "isin": "FR0010828137",
+      "cusip": null,
+      "name": "Carmila SA",
+      "sharesHeld": "219144",
+      "marketValue": 4240526.65,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "4321",
+      "isin": "SA14QG523GH3",
+      "cusip": null,
+      "name": "Arabian Centres Co.",
+      "sharesHeld": "813376",
+      "marketValue": 4238957.16,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "1918",
+      "isin": "KYG8569A1067",
+      "cusip": null,
+      "name": "Sunac China Holdings Ltd.",
+      "sharesHeld": "27347000",
+      "marketValue": 4233945.43,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "IGBREIT",
+      "isin": "MYL5227TO002",
+      "cusip": null,
+      "name": "IGB REIT",
+      "sharesHeld": "5696900",
+      "marketValue": 4230628.93,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "GMT",
+      "isin": "NZCPTE0001S9",
+      "cusip": null,
+      "name": "Goodman Property Trust",
+      "sharesHeld": "3611225",
+      "marketValue": 4207955.74,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "BEI.UN",
+      "isin": "CA0966311064",
+      "cusip": "096631106",
+      "name": "Boardwalk REIT",
+      "sharesHeld": "83024",
+      "marketValue": 4197996.84,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "MINDSPACE",
+      "isin": "INE0CCU25019",
+      "cusip": null,
+      "name": "Mindspace Business Parks REIT",
+      "sharesHeld": "764640",
+      "marketValue": 4145380.86,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "DWNI",
+      "isin": "DE000A0HN5C6",
+      "cusip": null,
+      "name": "Deutsche Wohnen SE",
+      "sharesHeld": "166178",
+      "marketValue": 4131563.4,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "9A4U",
+      "isin": "SGXC55341835",
+      "cusip": null,
+      "name": "ESR-REIT",
+      "sharesHeld": "1923836",
+      "marketValue": 4130875.6,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "CIP",
+      "isin": "AU000000CIP0",
+      "cusip": null,
+      "name": "Centuria Industrial REIT",
+      "sharesHeld": "1821422",
+      "marketValue": 4115505.15,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "MERY",
+      "isin": "FR0010241638",
+      "cusip": null,
+      "name": "Mercialys SA",
+      "sharesHeld": "324217",
+      "marketValue": 4079292.37,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "DIMRI",
+      "isin": "IL0010903156",
+      "cusip": null,
+      "name": "YH Dimri Construction & Development Ltd.",
+      "sharesHeld": "31935",
+      "marketValue": 4054583.57,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "817",
+      "isin": "HK0817039453",
+      "cusip": null,
+      "name": "China Jinmao Holdings Group Ltd.",
+      "sharesHeld": "18275054",
+      "marketValue": 4047617.66,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "8957",
+      "isin": "JP3044510000",
+      "cusip": null,
+      "name": "Tokyu REIT Inc.",
+      "sharesHeld": "2978",
+      "marketValue": 3992037.14,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAI",
+      "isin": "AT0000641352",
+      "cusip": null,
+      "name": "CA Immobilien Anlagen AG",
+      "sharesHeld": "132898",
+      "marketValue": 3965648.49,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRIGADE",
+      "isin": "INE791I01019",
+      "cusip": null,
+      "name": "Brigade Enterprises Ltd.",
+      "sharesHeld": "482751",
+      "marketValue": 3954812.38,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHUR",
+      "isin": "GG00BQZCBZ44",
+      "cusip": null,
+      "name": "Shurgard Self Storage Ltd.",
+      "sharesHeld": "108368",
+      "marketValue": 3933513.32,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "8850",
+      "isin": "JP3399200009",
+      "cusip": "J76702109",
+      "name": "Starts Corp. Inc.",
+      "sharesHeld": "123600",
+      "marketValue": 3921215.76,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "EKGYO.E",
+      "isin": "TREEGYO00017",
+      "cusip": null,
+      "name": "Emlak Konut Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "6665589",
+      "marketValue": 3918783.72,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "JYEU",
+      "isin": "SGXC61949712",
+      "cusip": null,
+      "name": "Lendlease Global Commercial REIT",
+      "sharesHeld": "7774918",
+      "marketValue": 3901559.1,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "8987",
+      "isin": "JP3046420000",
+      "cusip": null,
+      "name": "Japan Excellent Inc.",
+      "sharesHeld": "4019",
+      "marketValue": 3886249.68,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "WPR",
+      "isin": "AU0000088064",
+      "cusip": null,
+      "name": "Waypoint REIT Ltd.",
+      "sharesHeld": "2269329",
+      "marketValue": 3868192.07,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNI",
+      "isin": "AU000000CNI5",
+      "cusip": null,
+      "name": "Centuria Capital Group",
+      "sharesHeld": "2868547",
+      "marketValue": 3846161.98,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "2202",
+      "isin": "CNE100001SR9",
+      "cusip": null,
+      "name": "China Vanke Co. Ltd. Class H",
+      "sharesHeld": "7837083",
+      "marketValue": 3808160.63,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "3296",
+      "isin": "JP3047750009",
+      "cusip": null,
+      "name": "NIPPON REIT Investment Corp.",
+      "sharesHeld": "6105",
+      "marketValue": 3792395.29,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "AURA",
+      "isin": "IL0003730194",
+      "cusip": null,
+      "name": "Aura Investments Ltd.",
+      "sharesHeld": "526193",
+      "marketValue": 3710450.45,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "8966",
+      "isin": "JP3046220004",
+      "cusip": null,
+      "name": "Heiwa Real Estate REIT Inc.",
+      "sharesHeld": "3750",
+      "marketValue": 3698699.94,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARPT",
+      "isin": "IL0010958358",
+      "cusip": null,
+      "name": "Airport City Ltd.",
+      "sharesHeld": "197362",
+      "marketValue": 3671484.28,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "3468",
+      "isin": "JP3048200004",
+      "cusip": null,
+      "name": "Star Asia Investment Corp.",
+      "sharesHeld": "9260",
+      "marketValue": 3594332.78,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "AREIT",
+      "isin": "PHY1001D1010",
+      "cusip": null,
+      "name": "AREIT Inc.",
+      "sharesHeld": "4882020",
+      "marketValue": 3592206.41,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "8919",
+      "isin": "JP3932950003",
+      "cusip": "J30978100",
+      "name": "Katitas Co. Ltd.",
+      "sharesHeld": "178092",
+      "marketValue": 3518842.28,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "HR.UN",
+      "isin": "CA4039254079",
+      "cusip": "403925407",
+      "name": "H&R REIT",
+      "sharesHeld": "443415",
+      "marketValue": 3500687.58,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRE",
+      "isin": "KW0EQ0400618",
+      "cusip": null,
+      "name": "Kuwait Real Estate Co. KSC",
+      "sharesHeld": "3071157",
+      "marketValue": 3495938.72,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "PANI",
+      "isin": "ID1000145303",
+      "cusip": null,
+      "name": "Pantai Indah Kapuk Dua Tbk PT",
+      "sharesHeld": "6290753",
+      "marketValue": 3480975.97,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "RET",
+      "isin": "BE0003720340",
+      "cusip": null,
+      "name": "Retail Estates NV",
+      "sharesHeld": "44943",
+      "marketValue": 3444757.39,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "CY6U",
+      "isin": "SG1V35936920",
+      "cusip": null,
+      "name": "Capitaland India Trust",
+      "sharesHeld": "3529442",
+      "marketValue": 3443770.98,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARF",
+      "isin": "AU000000ARF6",
+      "cusip": null,
+      "name": "Arena REIT",
+      "sharesHeld": "1394435",
+      "marketValue": 3433911.46,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "778",
+      "isin": "SG1O33912138",
+      "cusip": null,
+      "name": "Fortune REIT",
+      "sharesHeld": "5249861",
+      "marketValue": 3412017.86,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "8848",
+      "isin": "JP3167500002",
+      "cusip": null,
+      "name": "Leopalace21 Corp.",
+      "sharesHeld": "761250",
+      "marketValue": 3402985.54,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALTIJARIA",
+      "isin": "KW0EQ0401632",
+      "cusip": null,
+      "name": "Commercial Real Estate Co. KSC",
+      "sharesHeld": "5018398",
+      "marketValue": 3371918.98,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "AXREIT",
+      "isin": "MYL5106TO008",
+      "cusip": null,
+      "name": "Axis REIT",
+      "sharesHeld": "6584100",
+      "marketValue": 3368759.27,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "3498",
+      "isin": "JP3211050004",
+      "cusip": null,
+      "name": "Kasumigaseki Capital Co. Ltd.",
+      "sharesHeld": "69100",
+      "marketValue": 3353306.06,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "3287",
+      "isin": "JP3047610005",
+      "cusip": null,
+      "name": "Hoshino Resorts REIT Inc.",
+      "sharesHeld": "2008",
+      "marketValue": 3333545.28,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "NP3",
+      "isin": "SE0006342333",
+      "cusip": null,
+      "name": "NP3 Fastigheter AB",
+      "sharesHeld": "112136",
+      "marketValue": 3328013.89,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "8968",
+      "isin": "JP3046240002",
+      "cusip": null,
+      "name": "Fukuoka REIT Corp.",
+      "sharesHeld": "2686",
+      "marketValue": 3238624.37,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "WHA",
+      "isin": "NL0000289213",
+      "cusip": null,
+      "name": "Wereldhave NV",
+      "sharesHeld": "130025",
+      "marketValue": 3221441.88,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQU",
+      "isin": "ZAE000188843",
+      "cusip": null,
+      "name": "Equites Property Fund Ltd.",
+      "sharesHeld": "2857990",
+      "marketValue": 3179617.93,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISCN",
+      "isin": "IL0004340191",
+      "cusip": null,
+      "name": "Israel Canada T.R Ltd.",
+      "sharesHeld": "558880",
+      "marketValue": 3153613.44,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALTA",
+      "isin": "FR0000033219",
+      "cusip": null,
+      "name": "Altarea SCA",
+      "sharesHeld": "22671",
+      "marketValue": 3127077.44,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "2548",
+      "isin": "TW0002548005",
+      "cusip": null,
+      "name": "Huaku Development Co. Ltd.",
+      "sharesHeld": "927730",
+      "marketValue": 3125714.58,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLP B",
+      "isin": "SE0017565476",
+      "cusip": null,
+      "name": "Swedish Logistic Property AB Class B",
+      "sharesHeld": "656420",
+      "marketValue": 3089558.44,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "THRL",
+      "isin": "GB00BJGTLF51",
+      "cusip": null,
+      "name": "Target Healthcare REIT plc",
+      "sharesHeld": "2157228",
+      "marketValue": 3070256.85,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "8958",
+      "isin": "JP3044520009",
+      "cusip": null,
+      "name": "Global One Real Estate Investment Corp.",
+      "sharesHeld": "3372",
+      "marketValue": 2975151.81,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLARL",
+      "isin": "IL0011096448",
+      "cusip": null,
+      "name": "Sella Capital Real Estate Ltd.",
+      "sharesHeld": "828072",
+      "marketValue": 2966233.7,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATRLJ B",
+      "isin": "SE0024320832",
+      "cusip": "W1R95C111",
+      "name": "Atrium Ljungberg AB",
+      "sharesHeld": "780410",
+      "marketValue": 2955816.52,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "1030",
+      "isin": "KYG7956A1094",
+      "cusip": null,
+      "name": "Seazen Group Ltd.",
+      "sharesHeld": "8814666",
+      "marketValue": 2942565.71,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "WKP",
+      "isin": "GB00B67G5X01",
+      "cusip": null,
+      "name": "Workspace Group plc",
+      "sharesHeld": "510692",
+      "marketValue": 2930225.22,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "NTDU",
+      "isin": "SGXC92727947",
+      "cusip": null,
+      "name": "NTT DC REIT",
+      "sharesHeld": "2844600",
+      "marketValue": 2902163.33,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "SVI",
+      "isin": "CA86212H1055",
+      "cusip": "86212H105",
+      "name": "StorageVault Canada Inc.",
+      "sharesHeld": "773484",
+      "marketValue": 2817523.33,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALOS3",
+      "isin": "BRALOSACNOR5",
+      "cusip": null,
+      "name": "Allos SA",
+      "sharesHeld": "479485",
+      "marketValue": 2815274.62,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "123",
+      "isin": "HK0000745908",
+      "cusip": null,
+      "name": "Yuexiu Property Co. Ltd.",
+      "sharesHeld": "4830982",
+      "marketValue": 2814437.69,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "6666",
+      "isin": "KYG3224K1022",
+      "cusip": null,
+      "name": "Evergrande Property Services Group Ltd.",
+      "sharesHeld": "17903000",
+      "marketValue": 2772186.31,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "WHA-F",
+      "isin": "TH3871010Z19",
+      "cusip": null,
+      "name": "WHA Corp. PCL",
+      "sharesHeld": "25075386",
+      "marketValue": 2763204.73,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANANTRAJ",
+      "isin": "INE242C01024",
+      "cusip": null,
+      "name": "Anant Raj Ltd.",
+      "sharesHeld": "501941",
+      "marketValue": 2759721.51,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARGO",
+      "isin": "NL0015000D84",
+      "cusip": null,
+      "name": "Argo Properties NV",
+      "sharesHeld": "67972",
+      "marketValue": 2749711.41,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPNREIT-F",
+      "isin": "TH8351010013",
+      "cusip": null,
+      "name": "CPN Retail Growth Leasehold REIT",
+      "sharesHeld": "7642881",
+      "marketValue": 2740315.94,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEKGY.E",
+      "isin": "TREPEGY00022",
+      "cusip": null,
+      "name": "Peker Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "11877203",
+      "marketValue": 2735875.9,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "BLSR",
+      "isin": "IL0010985658",
+      "cusip": null,
+      "name": "Blue Square Real Estate Ltd.",
+      "sharesHeld": "18671",
+      "marketValue": 2724537.16,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMT",
+      "isin": "IL0010816861",
+      "cusip": null,
+      "name": "Summit Real Estate Holdings Ltd.",
+      "sharesHeld": "133685",
+      "marketValue": 2720155.3,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "2869",
+      "isin": "KYG410121084",
+      "cusip": null,
+      "name": "Greentown Service Group Co. Ltd.",
+      "sharesHeld": "4590000",
+      "marketValue": 2668784.09,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ECOWLD",
+      "isin": "MYL8206OO004",
+      "cusip": null,
+      "name": "Eco World Development Group Bhd.",
+      "sharesHeld": "4695300",
+      "marketValue": 2656921.62,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ICAD",
+      "isin": "FR0000035081",
+      "cusip": null,
+      "name": "Icade",
+      "sharesHeld": "107579",
+      "marketValue": 2656896.01,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "KPIG",
+      "isin": "ID1000052301",
+      "cusip": null,
+      "name": "MNC Tourism Indonesia Tbk PT",
+      "sharesHeld": "237314900",
+      "marketValue": 2647769.51,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "KMP.UN",
+      "isin": "CA49410M1023",
+      "cusip": "49410M102",
+      "name": "Killam Apartment REIT",
+      "sharesHeld": "205455",
+      "marketValue": 2646554.33,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "697",
+      "isin": "HK0000592854",
+      "cusip": null,
+      "name": "Shoucheng Holdings Ltd.",
+      "sharesHeld": "10104000",
+      "marketValue": 2633483.61,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "GLF",
+      "isin": "AU0000402562",
+      "cusip": null,
+      "name": "Gemlife Communities Group",
+      "sharesHeld": "750309",
+      "marketValue": 2623805.85,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "DIOS",
+      "isin": "SE0001634262",
+      "cusip": null,
+      "name": "Dios Fastigheter AB",
+      "sharesHeld": "361642",
+      "marketValue": 2619155.17,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "O5RU",
+      "isin": "SG2D63974620",
+      "cusip": null,
+      "name": "Aims Apac Reit",
+      "sharesHeld": "2210488",
+      "marketValue": 2611456.73,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "GYC",
+      "isin": "LU0775917882",
+      "cusip": null,
+      "name": "Grand City Properties SA",
+      "sharesHeld": "232826",
+      "marketValue": 2609454.85,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABREL",
+      "isin": "INE055A01016",
+      "cusip": null,
+      "name": "Aditya Birla Real Estate Ltd.",
+      "sharesHeld": "189627",
+      "marketValue": 2604427.04,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATT",
+      "isin": "ZAE000177218",
+      "cusip": null,
+      "name": "Attacq Ltd.",
+      "sharesHeld": "2414139",
+      "marketValue": 2583129.25,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "600895",
+      "isin": "CNE000000JX9",
+      "cusip": null,
+      "name": "Shanghai Zhangjiang High-Tech Park Development Co. Ltd. Class A",
+      "sharesHeld": "429897",
+      "marketValue": 2567917.11,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "PAVREIT",
+      "isin": "MYL5212TO004",
+      "cusip": null,
+      "name": "Pavilion REIT",
+      "sharesHeld": "5207700",
+      "marketValue": 2563180.53,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPSETIA",
+      "isin": "MYL8664OO004",
+      "cusip": null,
+      "name": "SP Setia Bhd Group",
+      "sharesHeld": "10272600",
+      "marketValue": 2563141.39,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "8977",
+      "isin": "JP3046320002",
+      "cusip": null,
+      "name": "Hankyu Hanshin REIT Inc.",
+      "sharesHeld": "2414",
+      "marketValue": 2559166.37,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "395400",
+      "isin": "KR7395400005",
+      "cusip": null,
+      "name": "SK REITs Co. Ltd.",
+      "sharesHeld": "661716",
+      "marketValue": 2556916.06,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "4322",
+      "isin": "SA15J1S23H17",
+      "cusip": null,
+      "name": "Retal Urban Development Co.",
+      "sharesHeld": "750669",
+      "marketValue": 2551667.17,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "DGT",
+      "isin": "AU0000367088",
+      "cusip": null,
+      "name": "DigiCo Infrastructure REIT",
+      "sharesHeld": "1417470",
+      "marketValue": 2526775.33,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHAM",
+      "isin": "CH0524026959",
+      "cusip": null,
+      "name": "Cham Swiss Properties AG",
+      "sharesHeld": "77182",
+      "marketValue": 2517142.69,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "AU8U",
+      "isin": "SG1U25933169",
+      "cusip": null,
+      "name": "CapitaLand China Trust",
+      "sharesHeld": "4069208",
+      "marketValue": 2507957.72,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "8803",
+      "isin": "JP3834800009",
+      "cusip": null,
+      "name": "Heiwa Real Estate Co. Ltd.",
+      "sharesHeld": "170564",
+      "marketValue": 2495906.99,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "HIAG",
+      "isin": "CH0239518779",
+      "cusip": null,
+      "name": "Hiag Immobilien Holding AG",
+      "sharesHeld": "15427",
+      "marketValue": 2480202.55,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "RCR",
+      "isin": "PHY7319E1039",
+      "cusip": null,
+      "name": "RL Commercial REIT Inc.",
+      "sharesHeld": "20108900",
+      "marketValue": 2465230.82,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "PMZ.UN",
+      "isin": "CA74167K1093",
+      "cusip": "74167K109",
+      "name": "Primaris REIT",
+      "sharesHeld": "200634",
+      "marketValue": 2438580.18,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "DUBAIRESI",
+      "isin": "AEE01657D252",
+      "cusip": "M28898100",
+      "name": "Dubai Residential REIT",
+      "sharesHeld": "6789003",
+      "marketValue": 2423917.16,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "2602",
+      "isin": "CNE100005K85",
+      "cusip": null,
+      "name": "Onewo Inc.",
+      "sharesHeld": "961600",
+      "marketValue": 2410023.59,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "P40U",
+      "isin": "SG1S18926810",
+      "cusip": null,
+      "name": "Starhill Global REIT",
+      "sharesHeld": "5181068",
+      "marketValue": 2403297.1,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SBB B",
+      "isin": "SE0009554454",
+      "cusip": null,
+      "name": "Samhallsbyggnadsbolaget i Norden AB",
+      "sharesHeld": "4347427",
+      "marketValue": 2394190.4,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "TS0U",
+      "isin": "SG2G60000004",
+      "cusip": null,
+      "name": "OUE REIT",
+      "sharesHeld": "8038200",
+      "marketValue": 2370659.23,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SET",
+      "isin": "SGXC11267561",
+      "cusip": null,
+      "name": "Stoneweg Europe Stapled Trust",
+      "sharesHeld": "1252466",
+      "marketValue": 2364280.05,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "IGTI11",
+      "isin": "BRIGTICDAM16",
+      "cusip": null,
+      "name": "Iguatemi SA",
+      "sharesHeld": "434452",
+      "marketValue": 2352739.92,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAMDA",
+      "isin": "GRS245213004",
+      "cusip": null,
+      "name": "LAMDA Development SA",
+      "sharesHeld": "279994",
+      "marketValue": 2350857.94,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "4220",
+      "isin": "SA000A0KDVM8",
+      "cusip": null,
+      "name": "Emaar Economic City",
+      "sharesHeld": "891247",
+      "marketValue": 2341025.74,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "IIP.UN",
+      "isin": "CA46071W2058",
+      "cusip": "46071W205",
+      "name": "InterRent REIT",
+      "sharesHeld": "238624",
+      "marketValue": 2336031.96,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "3487",
+      "isin": "JP3048680007",
+      "cusip": null,
+      "name": "CRE Logistics REIT Inc.",
+      "sharesHeld": "2141",
+      "marketValue": 2306393.32,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "4150",
+      "isin": "SA0007879683",
+      "cusip": null,
+      "name": "Arriyadh Development Co.",
+      "sharesHeld": "398463",
+      "marketValue": 2304491.38,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "VHP",
+      "isin": "NZCHPE0001S4",
+      "cusip": null,
+      "name": "Vital Healthcare Property Trust",
+      "sharesHeld": "1935176",
+      "marketValue": 2297397.99,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CQE",
+      "isin": "AU0000030645",
+      "cusip": null,
+      "name": "Charter Hall Social Infrastructure REIT",
+      "sharesHeld": "1133855",
+      "marketValue": 2291808.96,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "2539",
+      "isin": "TW0002539004",
+      "cusip": null,
+      "name": "Sakura Development Co. Ltd.",
+      "sharesHeld": "1528456",
+      "marketValue": 2288466.25,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "FTB",
+      "isin": "ZAE000304796",
+      "cusip": null,
+      "name": "Fairvest Ltd. Class B",
+      "sharesHeld": "5580084",
+      "marketValue": 2286304.68,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "6049",
+      "isin": "CNE100003PV3",
+      "cusip": null,
+      "name": "Poly Property Services Co. Ltd.",
+      "sharesHeld": "521200",
+      "marketValue": 2262918.95,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "119",
+      "isin": "HK0119000674",
+      "cusip": null,
+      "name": "Poly Property Group Co. Ltd.",
+      "sharesHeld": "7493048",
+      "marketValue": 2256241.82,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRT.UN",
+      "isin": "CA1264621006",
+      "cusip": "126462100",
+      "name": "CT REIT",
+      "sharesHeld": "185987",
+      "marketValue": 2229139.53,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "AP.UN",
+      "isin": "CA0194561027",
+      "cusip": "019456102",
+      "name": "Allied Properties REIT",
+      "sharesHeld": "215477",
+      "marketValue": 2223370.07,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "8975",
+      "isin": "JP3046300004",
+      "cusip": null,
+      "name": "Ichigo Office REIT Investment Corp.",
+      "sharesHeld": "3531",
+      "marketValue": 2217276.44,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "IRES",
+      "isin": "IE00BJ34P519",
+      "cusip": null,
+      "name": "Irish Residential Properties REIT plc",
+      "sharesHeld": "1817878",
+      "marketValue": 2168348.84,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "3476",
+      "isin": "JP3048370005",
+      "cusip": null,
+      "name": "Mirai Corp.",
+      "sharesHeld": "6642",
+      "marketValue": 2145639.65,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPI",
+      "isin": "AT0000A21KS2",
+      "cusip": null,
+      "name": "CPI Europe AG",
+      "sharesHeld": "115768",
+      "marketValue": 2135461.84,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRR.UN",
+      "isin": "CA2271071094",
+      "cusip": "227107109",
+      "name": "Crombie REIT",
+      "sharesHeld": "186123",
+      "marketValue": 2132353.25,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TECOM",
+      "isin": "AEE01081T004",
+      "cusip": null,
+      "name": "TECOM Group PJSC",
+      "sharesHeld": "2079382",
+      "marketValue": 2129054.46,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPINV",
+      "isin": "BE0974273055",
+      "cusip": null,
+      "name": "Care Property Invest NV",
+      "sharesHeld": "146157",
+      "marketValue": 2117647.2,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "PLAZ B",
+      "isin": "SE0004977692",
+      "cusip": null,
+      "name": "Platzer Fastigheter Holding AB Class B",
+      "sharesHeld": "254156",
+      "marketValue": 2117270.68,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOBHA",
+      "isin": "INE671H01015",
+      "cusip": null,
+      "name": "Sobha Ltd.",
+      "sharesHeld": "133068",
+      "marketValue": 2101657.68,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "2979",
+      "isin": "JP3048960003",
+      "cusip": null,
+      "name": "SOSiLA Logistics REIT Inc.",
+      "sharesHeld": "2513",
+      "marketValue": 2080438.2,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "MNRT",
+      "isin": "IL0011405730",
+      "cusip": null,
+      "name": "Menivim- The New REIT Ltd.",
+      "sharesHeld": "2672631",
+      "marketValue": 2076775.65,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "YGGYO.E",
+      "isin": "TREYGMI00012",
+      "cusip": null,
+      "name": "Yeni Gimat Gayrimenkul Ortakligi AS",
+      "sharesHeld": "643107",
+      "marketValue": 2061291.64,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAC",
+      "isin": "ZAE000203238",
+      "cusip": null,
+      "name": "SA Corporate Real Estate Ltd.",
+      "sharesHeld": "9138986",
+      "marketValue": 2060944.52,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "NO0013178616",
+      "cusip": null,
+      "name": "Public Property Invest AS Class A",
+      "sharesHeld": "830576",
+      "marketValue": 2059146.63,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "2778",
+      "isin": "HK2778034606",
+      "cusip": null,
+      "name": "Champion REIT",
+      "sharesHeld": "6363512",
+      "marketValue": 2057969.44,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "81",
+      "isin": "HK0000065737",
+      "cusip": null,
+      "name": "China Overseas Grand Oceans Group Ltd.",
+      "sharesHeld": "6068079",
+      "marketValue": 2053232.37,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "FTREIT-F",
+      "isin": "TH6172010014",
+      "cusip": null,
+      "name": "Frasers Property Thailand Industrial Freehold & Leasehold REIT",
+      "sharesHeld": "5473500",
+      "marketValue": 2051552.52,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "WHART-F",
+      "isin": "TH6141010012",
+      "cusip": null,
+      "name": "WHA Premium Growth Freehold & Leasehold Real Estate InvestmentTrust",
+      "sharesHeld": "6039496",
+      "marketValue": 2050112.82,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "PCTN",
+      "isin": "GB00B0LCW208",
+      "cusip": null,
+      "name": "Picton Property Income Ltd.",
+      "sharesHeld": "1797757",
+      "marketValue": 2046761.68,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "600515",
+      "isin": "CNE000001C32",
+      "cusip": null,
+      "name": "Hainan Airport Infrastructure Co. Ltd.",
+      "sharesHeld": "3165652",
+      "marketValue": 2040708.62,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "6177",
+      "isin": "TW0006177009",
+      "cusip": null,
+      "name": "Da-Li Development Co. Ltd.",
+      "sharesHeld": "1359233",
+      "marketValue": 2023383.57,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "8923",
+      "isin": "JP3595070008",
+      "cusip": "J8963D109",
+      "name": "Tosei Corp.",
+      "sharesHeld": "198500",
+      "marketValue": 2022223.29,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "AFRE",
+      "isin": "IL0010979487",
+      "cusip": null,
+      "name": "Africa Israel Residences Ltd.",
+      "sharesHeld": "21572",
+      "marketValue": 2020633.6,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRE",
+      "isin": "KW0EQ0400642",
+      "cusip": null,
+      "name": "Salhia Real Estate Co. KSCP",
+      "sharesHeld": "1575206",
+      "marketValue": 2002830.06,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENTRA",
+      "isin": "NO0010716418",
+      "cusip": null,
+      "name": "Entra ASA",
+      "sharesHeld": "170916",
+      "marketValue": 2001712.09,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "JHSF3",
+      "isin": "BRJHSFACNOR2",
+      "cusip": null,
+      "name": "JHSF Participacoes SA",
+      "sharesHeld": "1091832",
+      "marketValue": 1981282.71,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GVYM",
+      "isin": "IL0007590198",
+      "cusip": null,
+      "name": "Gav-Yam Lands Corp. Ltd.",
+      "sharesHeld": "153286",
+      "marketValue": 1977106.71,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELCRE",
+      "isin": "IL0010940448",
+      "cusip": null,
+      "name": "Electra Real Estate Ltd.",
+      "sharesHeld": "107474",
+      "marketValue": 1972784.82,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "365550",
+      "isin": "KR7365550003",
+      "cusip": null,
+      "name": "ESR Kendall Square REIT Co. Ltd.",
+      "sharesHeld": "641536",
+      "marketValue": 1966824.03,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "OSK",
+      "isin": "MYL5053OO003",
+      "cusip": null,
+      "name": "OSK Holdings Bhd.",
+      "sharesHeld": "4613800",
+      "marketValue": 1964917,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "5522",
+      "isin": "TW0005522007",
+      "cusip": null,
+      "name": "Farglory Land Development Co. Ltd.",
+      "sharesHeld": "926631",
+      "marketValue": 1952987.14,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "NXI",
+      "isin": "FR0010112524",
+      "cusip": null,
+      "name": "Nexity SA",
+      "sharesHeld": "169734",
+      "marketValue": 1919211.45,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "3492",
+      "isin": "JP3048750008",
+      "cusip": null,
+      "name": "MIRARTH Real Estate Investment Corp.",
+      "sharesHeld": "3164",
+      "marketValue": 1911858.77,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "RFF",
+      "isin": "AU000000RFF5",
+      "cusip": null,
+      "name": "Rural Funds Trust",
+      "sharesHeld": "1355102",
+      "marketValue": 1911548.56,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "5534",
+      "isin": "TW0005534002",
+      "cusip": null,
+      "name": "Chong Hong Construction Co. Ltd.",
+      "sharesHeld": "768297",
+      "marketValue": 1886054.88,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "3459",
+      "isin": "JP3047960004",
+      "cusip": null,
+      "name": "Samty Residential Investment Corp.",
+      "sharesHeld": "2552",
+      "marketValue": 1879642.16,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "4342",
+      "isin": "SA14GG523R59",
+      "cusip": null,
+      "name": "Jadwa REIT Saudi Fund",
+      "sharesHeld": "623887",
+      "marketValue": 1879228.25,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CREI",
+      "isin": "GB00BJFLFT45",
+      "cusip": null,
+      "name": "Custodian Property Income Reit plc",
+      "sharesHeld": "1587723",
+      "marketValue": 1845067.23,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "2337",
+      "isin": "JP3120010008",
+      "cusip": null,
+      "name": "Ichigo Inc.",
+      "sharesHeld": "696700",
+      "marketValue": 1838548.42,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "J85",
+      "isin": "SG1T66931158",
+      "cusip": null,
+      "name": "CDL Hospitality Trusts",
+      "sharesHeld": "2688399",
+      "marketValue": 1830753.01,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "Q5T",
+      "isin": "SG2F08984575",
+      "cusip": null,
+      "name": "Far East Hospitality Trust",
+      "sharesHeld": "3770292",
+      "marketValue": 1809224.46,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "8818",
+      "isin": "JP3279000008",
+      "cusip": null,
+      "name": "Keihanshin Building Co. Ltd.",
+      "sharesHeld": "145500",
+      "marketValue": 1804329.53,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "RAKPROP",
+      "isin": "AER000601016",
+      "cusip": null,
+      "name": "RAK Properties PJSC",
+      "sharesHeld": "5080702",
+      "marketValue": 1799536.92,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "MATRIX",
+      "isin": "MYL5236OO004",
+      "cusip": null,
+      "name": "Matrix Concepts Holdings Bhd.",
+      "sharesHeld": "4837463",
+      "marketValue": 1760235.22,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "4020",
+      "isin": "SA0007870047",
+      "cusip": null,
+      "name": "Saudi Real Estate Co.",
+      "sharesHeld": "455340",
+      "marketValue": 1759312.38,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "DCRU",
+      "isin": "SGXC50067435",
+      "cusip": null,
+      "name": "Digital Core REIT Management Pte Ltd.",
+      "sharesHeld": "3238200",
+      "marketValue": 1748984.2,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "RLC",
+      "isin": "PHY731961264",
+      "cusip": "Y73196126",
+      "name": "Robinsons Land Corp.",
+      "sharesHeld": "5668072",
+      "marketValue": 1747059.96,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAHSING",
+      "isin": "MYL8583OO006",
+      "cusip": null,
+      "name": "Mah Sing Group Bhd.",
+      "sharesHeld": "5982225",
+      "marketValue": 1746615.45,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "NWH.UN",
+      "isin": "CA6674951059",
+      "cusip": "667495105",
+      "name": "Northwest Healthcare Properties REIT",
+      "sharesHeld": "423072",
+      "marketValue": 1736843.15,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "4340",
+      "isin": "SA14GG523Q50",
+      "cusip": null,
+      "name": "Al Rajhi REIT",
+      "sharesHeld": "803737",
+      "marketValue": 1721131.2,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2007",
+      "isin": "KYG245241032",
+      "cusip": null,
+      "name": "Country Garden Holdings Co. Ltd.",
+      "sharesHeld": "45310000",
+      "marketValue": 1707820.62,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZRGYO.E",
+      "isin": "TREZRGY00023",
+      "cusip": null,
+      "name": "Ziraat Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "3085481",
+      "marketValue": 1689627.4,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAGA D",
+      "isin": "SE0009161052",
+      "cusip": null,
+      "name": "Sagax AB",
+      "sharesHeld": "439357",
+      "marketValue": 1674777.34,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMBDL",
+      "isin": "INE069I01010",
+      "cusip": null,
+      "name": "Embassy Developments Ltd.",
+      "sharesHeld": "2308994",
+      "marketValue": 1665536.07,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "AXTRART-F",
+      "isin": "THC611010016",
+      "cusip": null,
+      "name": "Axtra Future City Freehold and Leasehold REIT",
+      "sharesHeld": "4115400",
+      "marketValue": 1661113.56,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CMW",
+      "isin": "AU000000CMW8",
+      "cusip": null,
+      "name": "Cromwell Property Group",
+      "sharesHeld": "5823355",
+      "marketValue": 1660540.94,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LOGI B",
+      "isin": "SE0017131337",
+      "cusip": null,
+      "name": "Logistea AB Class B",
+      "sharesHeld": "1026319",
+      "marketValue": 1657195.07,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "601155",
+      "isin": "CNE100002BF8",
+      "cusip": null,
+      "name": "Seazen Holdings Co. Ltd. Class A",
+      "sharesHeld": "646363",
+      "marketValue": 1644905.88,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2986",
+      "isin": "JP3968300008",
+      "cusip": null,
+      "name": "LA Holdings Co. Ltd./Japan",
+      "sharesHeld": "25400",
+      "marketValue": 1641816.06,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SSS",
+      "isin": "ZAE000208963",
+      "cusip": null,
+      "name": "Stor-Age Property REIT Ltd.",
+      "sharesHeld": "1492899",
+      "marketValue": 1641020.55,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "173",
+      "isin": "BMG5321P1169",
+      "cusip": null,
+      "name": "K Wah International Holdings Ltd.",
+      "sharesHeld": "4920000",
+      "marketValue": 1635646.67,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "330590",
+      "isin": "KR7330590001",
+      "cusip": null,
+      "name": "LOTTE Reit Co. Ltd.",
+      "sharesHeld": "535237",
+      "marketValue": 1620191.85,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ERES",
+      "isin": "QA000A0NE8B4",
+      "cusip": null,
+      "name": "Ezdan Holding Group QSC",
+      "sharesHeld": "5663257",
+      "marketValue": 1616442.24,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "UDCD",
+      "isin": "QA000A0KD6M9",
+      "cusip": null,
+      "name": "United Development Co. QSC",
+      "sharesHeld": "6074810",
+      "marketValue": 1610975.88,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "DXI",
+      "isin": "AU0000192833",
+      "cusip": null,
+      "name": "Dexus Industria REIT",
+      "sharesHeld": "892329",
+      "marketValue": 1591924.72,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MBK-F",
+      "isin": "TH0480B10Z19",
+      "cusip": null,
+      "name": "Mbk Pcl",
+      "sharesHeld": "2717032",
+      "marketValue": 1555224.45,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "41",
+      "isin": "BMG4069C1486",
+      "cusip": null,
+      "name": "Great Eagle Holdings Ltd.",
+      "sharesHeld": "751000",
+      "marketValue": 1550424.27,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "900932",
+      "isin": "CNE000000HH6",
+      "cusip": "Y7686Q119",
+      "name": "Shanghai Lujiazui Finance & Trade Zone Development Co. Ltd. Class B",
+      "sharesHeld": "3641699",
+      "marketValue": 1543759.91,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "293940",
+      "isin": "KR7293940003",
+      "cusip": null,
+      "name": "Shinhan Alpha REIT Co. Ltd.",
+      "sharesHeld": "377999",
+      "marketValue": 1526141.19,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LH-F",
+      "isin": "TH0143010Z16",
+      "cusip": null,
+      "name": "Land & Houses PCL",
+      "sharesHeld": "12306200",
+      "marketValue": 1524433.31,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASK",
+      "isin": "AU0000286213",
+      "cusip": null,
+      "name": "Abacus Storage King",
+      "sharesHeld": "1415654",
+      "marketValue": 1523171.26,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "754",
+      "isin": "BMG4600H1198",
+      "cusip": null,
+      "name": "Hopson Development Holdings Ltd.",
+      "sharesHeld": "3416589",
+      "marketValue": 1521749.9,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "GOZ",
+      "isin": "AU000000GOZ8",
+      "cusip": null,
+      "name": "Growthpoint Properties Australia Ltd.",
+      "sharesHeld": "944605",
+      "marketValue": 1504025.64,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "KUYAS.E",
+      "isin": "TREKYAS00018",
+      "cusip": null,
+      "name": "Kuyumcukent Gayrimenkul Yatirimlari AS",
+      "sharesHeld": "1216265",
+      "marketValue": 1503931.82,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTRA",
+      "isin": "ID1000115306",
+      "cusip": null,
+      "name": "Ciputra Development Tbk PT",
+      "sharesHeld": "30212891",
+      "marketValue": 1497771.43,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "8934",
+      "isin": "JP3336950005",
+      "cusip": null,
+      "name": "Sun Frontier Fudousan Co. Ltd.",
+      "sharesHeld": "93600",
+      "marketValue": 1484698.22,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "002244",
+      "isin": "CNE100000BS5",
+      "cusip": null,
+      "name": "Hangzhou Binjiang Real Estate Group Co. Ltd. Class A",
+      "sharesHeld": "888516",
+      "marketValue": 1483909.57,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2540",
+      "isin": "TW0002540002",
+      "cusip": null,
+      "name": "JSL Construction & Development Co. Ltd.",
+      "sharesHeld": "986387",
+      "marketValue": 1470333.94,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2501",
+      "isin": "TW0002501004",
+      "cusip": null,
+      "name": "Cathay Real Estate Development Co. Ltd.",
+      "sharesHeld": "2090100",
+      "marketValue": 1462629.13,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2530",
+      "isin": "TW0002530003",
+      "cusip": null,
+      "name": "Delpha Construction Co. Ltd.",
+      "sharesHeld": "1753000",
+      "marketValue": 1460176.25,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "PAT",
+      "isin": "DE000PAT1AG3",
+      "cusip": null,
+      "name": "PATRIZIA SE",
+      "sharesHeld": "140996",
+      "marketValue": 1426912.28,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTY1S",
+      "isin": "FI4000369947",
+      "cusip": null,
+      "name": "Citycon Oyj",
+      "sharesHeld": "316057",
+      "marketValue": 1425077.34,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "451800",
+      "isin": "KR7451800007",
+      "cusip": null,
+      "name": "Hanwha Reit Co. Ltd.",
+      "sharesHeld": "446493",
+      "marketValue": 1424833.23,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "HABA",
+      "isin": "DE000A3H2333",
+      "cusip": null,
+      "name": "Hamborner REIT AG",
+      "sharesHeld": "252605",
+      "marketValue": 1401385.51,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "3290",
+      "isin": "JP3047640002",
+      "cusip": null,
+      "name": "One REIT Inc.",
+      "sharesHeld": "2373",
+      "marketValue": 1395080.38,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2972",
+      "isin": "JP3048880003",
+      "cusip": null,
+      "name": "Sankei Real Estate Inc.",
+      "sharesHeld": "1622",
+      "marketValue": 1392680.74,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CWP",
+      "isin": "AU000000CWP1",
+      "cusip": null,
+      "name": "Cedar Woods Properties Ltd.",
+      "sharesHeld": "246571",
+      "marketValue": 1389872.04,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "2520",
+      "isin": "TW0002520004",
+      "cusip": null,
+      "name": "Kindom Development Co. Ltd.",
+      "sharesHeld": "1417190",
+      "marketValue": 1388868.09,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIGNATURE",
+      "isin": "INE903U01023",
+      "cusip": null,
+      "name": "SignatureGlobal India Ltd.",
+      "sharesHeld": "140439",
+      "marketValue": 1376354.59,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAHLIFE",
+      "isin": "INE813A01018",
+      "cusip": null,
+      "name": "Mahindra Lifespace Developers Ltd.",
+      "sharesHeld": "343996",
+      "marketValue": 1374555.62,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LIC",
+      "isin": "AU000000LIC9",
+      "cusip": null,
+      "name": "Lifestyle Communities Ltd.",
+      "sharesHeld": "355444",
+      "marketValue": 1364331.58,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPALI-F",
+      "isin": "TH0371010Z13",
+      "cusip": null,
+      "name": "Supalai PCL",
+      "sharesHeld": "2348881",
+      "marketValue": 1357495.48,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASCE",
+      "isin": "BE0003856730",
+      "cusip": null,
+      "name": "Ascencio",
+      "sharesHeld": "20593",
+      "marketValue": 1350170.03,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "600177",
+      "isin": "CNE000000XR2",
+      "cusip": null,
+      "name": "Youngor Fashion Co. Ltd. Class A",
+      "sharesHeld": "1273920",
+      "marketValue": 1347882.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SREI",
+      "isin": "GB00B01HM147",
+      "cusip": null,
+      "name": "Schroder REIT Ltd.",
+      "sharesHeld": "1704295",
+      "marketValue": 1311182.19,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISRS",
+      "isin": "IL0006130343",
+      "cusip": null,
+      "name": "Isras Investment Co. Ltd.",
+      "sharesHeld": "4144",
+      "marketValue": 1310935.12,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BSDE",
+      "isin": "ID1000110802",
+      "cusip": null,
+      "name": "Bumi Serpong Damai Tbk PT",
+      "sharesHeld": "24272727",
+      "marketValue": 1300466.34,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYGYO.E",
+      "isin": "TRERGYO00019",
+      "cusip": null,
+      "name": "Reysas Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "1996291",
+      "marketValue": 1296284.79,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRSK",
+      "isin": "IL0011021289",
+      "cusip": null,
+      "name": "Prashkovsky Investments and Construction Ltd.",
+      "sharesHeld": "25582",
+      "marketValue": 1291549.5,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "600208",
+      "isin": "CNE000000ZH8",
+      "cusip": null,
+      "name": "Quzhou Xin'an Development Co. Ltd. Class A",
+      "sharesHeld": "2359599",
+      "marketValue": 1256744.47,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NRR",
+      "isin": "GB00BD7XPJ64",
+      "cusip": null,
+      "name": "NewRiver REIT plc",
+      "sharesHeld": "1261304",
+      "marketValue": 1254286.47,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEHOL.E",
+      "isin": "TRAGLOBL91Q0",
+      "cusip": null,
+      "name": "Tera Yatirim Teknoloji Holding AS",
+      "sharesHeld": "3869447",
+      "marketValue": 1236087.53,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BTN",
+      "isin": "ZAE000180915",
+      "cusip": null,
+      "name": "Burstone Group Ltd.",
+      "sharesHeld": "2161225",
+      "marketValue": 1232398.43,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "HWG",
+      "isin": "GB00BYZJ7G42",
+      "cusip": null,
+      "name": "Harworth Group plc",
+      "sharesHeld": "543796",
+      "marketValue": 1226258.66,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MEG",
+      "isin": "PHY594811127",
+      "cusip": null,
+      "name": "Megaworld Corp.",
+      "sharesHeld": "32692100",
+      "marketValue": 1219463.83,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLMT",
+      "isin": "MYL5180TO003",
+      "cusip": null,
+      "name": "Capitaland Malaysia Trust",
+      "sharesHeld": "7093800",
+      "marketValue": 1205084.02,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABG",
+      "isin": "AU0000291882",
+      "cusip": null,
+      "name": "Abacus Group",
+      "sharesHeld": "1488095",
+      "marketValue": 1196321.2,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOHO",
+      "isin": "GB00BF0P7H59",
+      "cusip": null,
+      "name": "Social Housing Reit plc",
+      "sharesHeld": "1178874",
+      "marketValue": 1195477.77,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "3252",
+      "isin": "JP3714200007",
+      "cusip": null,
+      "name": "JINUSHI Co. Ltd.",
+      "sharesHeld": "57900",
+      "marketValue": 1186958.35,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "1396",
+      "isin": "KYG4181B1196",
+      "cusip": null,
+      "name": "Guangdong Hong Kong Greater Bay Area Holdings Ltd.",
+      "sharesHeld": "1356000",
+      "marketValue": 1186914.76,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LHHOTEL-F",
+      "isin": "TH6957010015",
+      "cusip": null,
+      "name": "LH Hotel Leasehold REIT",
+      "sharesHeld": "2853800",
+      "marketValue": 1178289.44,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DRM",
+      "isin": "CA26153M5072",
+      "cusip": "26153M507",
+      "name": "DREAM Unlimited Corp. Class A",
+      "sharesHeld": "81281",
+      "marketValue": 1170580.11,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "KSL",
+      "isin": "MYL5038OO004",
+      "cusip": null,
+      "name": "KSL Holdings Bhd.",
+      "sharesHeld": "1511100",
+      "marketValue": 1170092.03,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SVEAF",
+      "isin": "SE0022243812",
+      "cusip": null,
+      "name": "Sveafastigheter AB",
+      "sharesHeld": "264636",
+      "marketValue": 1169601.04,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MULT3",
+      "isin": "BRMULTACNOR5",
+      "cusip": null,
+      "name": "Multiplan Empreendimentos Imobiliarios SA",
+      "sharesHeld": "185107",
+      "marketValue": 1158600.46,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "4310",
+      "isin": "SA12IG523B16",
+      "cusip": null,
+      "name": "Knowledge Economic City Co.",
+      "sharesHeld": "331726",
+      "marketValue": 1117574.34,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "600848",
+      "isin": "CNE000000C74",
+      "cusip": null,
+      "name": "Shanghai Lingang Holdings Corp. Ltd. Class A",
+      "sharesHeld": "660824",
+      "marketValue": 1116207.96,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CORE B",
+      "isin": "SE0010714287",
+      "cusip": null,
+      "name": "Corem Property Group AB Class B",
+      "sharesHeld": "2410816",
+      "marketValue": 1116019.84,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NESCO",
+      "isin": "INE317F01035",
+      "cusip": null,
+      "name": "NESCO Ltd.",
+      "sharesHeld": "89424",
+      "marketValue": 1109302.96,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGR.UN",
+      "isin": "CA8310622037",
+      "cusip": "831062203",
+      "name": "Slate Grocery REIT",
+      "sharesHeld": "97304",
+      "marketValue": 1106206.38,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "8979",
+      "isin": "JP3046340000",
+      "cusip": null,
+      "name": "Starts Proceed Investment Corp.",
+      "sharesHeld": "813",
+      "marketValue": 1105140.45,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "2511",
+      "isin": "TW0002511003",
+      "cusip": null,
+      "name": "Prince Housing & Development Corp.",
+      "sharesHeld": "4124478",
+      "marketValue": 1102430.24,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "272",
+      "isin": "KYG811511131",
+      "cusip": null,
+      "name": "Shui On Land Ltd.",
+      "sharesHeld": "12285538",
+      "marketValue": 1085274.68,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NSI",
+      "isin": "NL0012365084",
+      "cusip": null,
+      "name": "Nsi Nv",
+      "sharesHeld": "49298",
+      "marketValue": 1081793.23,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "Z25",
+      "isin": "SG1T57930854",
+      "cusip": null,
+      "name": "Yanlord Land Group Ltd.",
+      "sharesHeld": "1891804",
+      "marketValue": 1079410.93,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "348950",
+      "isin": "KR7348950007",
+      "cusip": null,
+      "name": "JR Global Reit",
+      "sharesHeld": "652096",
+      "marketValue": 1054846.42,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRPU",
+      "isin": "SG1ED2000000",
+      "cusip": null,
+      "name": "Sasseur REIT",
+      "sharesHeld": "1953400",
+      "marketValue": 1052887.36,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GCT",
+      "isin": "IL0001260111",
+      "cusip": null,
+      "name": "G City Ltd.",
+      "sharesHeld": "341464",
+      "marketValue": 1051583.42,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AX.UN",
+      "isin": "CA04315L1058",
+      "cusip": "04315L105",
+      "name": "Artis REIT",
+      "sharesHeld": "159403",
+      "marketValue": 1044229.25,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "PWON",
+      "isin": "ID1000122500",
+      "cusip": null,
+      "name": "Pakuwon Jati Tbk PT",
+      "sharesHeld": "48303228",
+      "marketValue": 1036139.21,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DEYAAR",
+      "isin": "AED001001018",
+      "cusip": null,
+      "name": "Deyaar Development PJSC",
+      "sharesHeld": "3710874",
+      "marketValue": 1031538.09,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLCL",
+      "isin": "GB00B0FYMT95",
+      "cusip": null,
+      "name": "Helical plc",
+      "sharesHeld": "386292",
+      "marketValue": 1019161,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "COF",
+      "isin": "AU0000077893",
+      "cusip": null,
+      "name": "Centuria Office REIT",
+      "sharesHeld": "1366382",
+      "marketValue": 1016111.62,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIRI-F",
+      "isin": "TH0577C10Z12",
+      "cusip": null,
+      "name": "Sansiri PCL (Foreign)",
+      "sharesHeld": "23178625",
+      "marketValue": 1010339.8,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VASTB",
+      "isin": "BE0003754687",
+      "cusip": null,
+      "name": "Vastned NV",
+      "sharesHeld": "28316",
+      "marketValue": 1007716.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "3451",
+      "isin": "JP3047830009",
+      "cusip": null,
+      "name": "Tosei Reit Investment Corp.",
+      "sharesHeld": "1064",
+      "marketValue": 1005393.24,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "2971",
+      "isin": "JP3048810000",
+      "cusip": null,
+      "name": "ESCON Japan Reit Investment Corp.",
+      "sharesHeld": "1241",
+      "marketValue": 1004062.22,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "1516",
+      "isin": "KYG8569B1041",
+      "cusip": null,
+      "name": "Sunac Services Holdings Ltd.",
+      "sharesHeld": "5402000",
+      "marketValue": 994811.34,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "405",
+      "isin": "HK0405033157",
+      "cusip": null,
+      "name": "Yuexiu REIT",
+      "sharesHeld": "9063970",
+      "marketValue": 985652.35,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRGYO.E",
+      "isin": "TRETRGY00018",
+      "cusip": null,
+      "name": "Torunlar Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "512916",
+      "marketValue": 984316.65,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "DBREALTY",
+      "isin": "INE879I01012",
+      "cusip": null,
+      "name": "Valor Estate Ltd.",
+      "sharesHeld": "842925",
+      "marketValue": 979062.2,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "DEQ",
+      "isin": "DE0007480204",
+      "cusip": null,
+      "name": "Deutsche EuroShop AG",
+      "sharesHeld": "42615",
+      "marketValue": 973598.63,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "LHSC-F",
+      "isin": "TH6180010014",
+      "cusip": null,
+      "name": "LH Shopping Centers Leasehold REIT",
+      "sharesHeld": "2407800",
+      "marketValue": 963565.52,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "8897",
+      "isin": "JP3460800000",
+      "cusip": "J80744105",
+      "name": "Mirarth Holdings Inc.",
+      "sharesHeld": "377152",
+      "marketValue": 962796.4,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMATA-F",
+      "isin": "TH0617A10Z16",
+      "cusip": null,
+      "name": "Amata Corp. PCL",
+      "sharesHeld": "1933923",
+      "marketValue": 960823.53,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "5213",
+      "isin": "TW0005213003",
+      "cusip": null,
+      "name": "Yea Shin International Development Co. Ltd.",
+      "sharesHeld": "1223279",
+      "marketValue": 956551.74,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "8914",
+      "isin": "JP3167620008",
+      "cusip": null,
+      "name": "Arealink Co. Ltd.",
+      "sharesHeld": "133000",
+      "marketValue": 955745.9,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "TROP",
+      "isin": "MYL5401OO004",
+      "cusip": null,
+      "name": "Tropicana Corp. Bhd.",
+      "sharesHeld": "3171300",
+      "marketValue": 955275.69,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "600246",
+      "isin": "CNE0000014S5",
+      "cusip": null,
+      "name": "Vantone Neo Development Group Co. Ltd. Class A",
+      "sharesHeld": "532811",
+      "marketValue": 953529.87,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "3455",
+      "isin": "JP3047910009",
+      "cusip": null,
+      "name": "Health Care & Medical Investment Corp.",
+      "sharesHeld": "1215",
+      "marketValue": 950405.05,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "8871",
+      "isin": "JP3306800008",
+      "cusip": null,
+      "name": "Goldcrest Co. Ltd.",
+      "sharesHeld": "43740",
+      "marketValue": 940155.86,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "OU8",
+      "isin": "SG2D51973063",
+      "cusip": null,
+      "name": "Centurion Corp. Ltd.",
+      "sharesHeld": "785800",
+      "marketValue": 938842.91,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "PTBL",
+      "isin": "IL0006990175",
+      "cusip": null,
+      "name": "Property & Building Corp. Ltd.",
+      "sharesHeld": "7437",
+      "marketValue": 935383.98,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "565",
+      "isin": "KYG0583P1028",
+      "cusip": null,
+      "name": "Art Group Holdings Ltd.",
+      "sharesHeld": "5365000",
+      "marketValue": 935132.53,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AP-F",
+      "isin": "TH0308010Y16",
+      "cusip": null,
+      "name": "Asian Property Development PCL (Foreign)",
+      "sharesHeld": "3245320",
+      "marketValue": 932887.84,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NRE",
+      "isin": "KW0EQ0400634",
+      "cusip": null,
+      "name": "National Real Estate Co. KPSC",
+      "sharesHeld": "4005939",
+      "marketValue": 932088.47,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SUNTECK",
+      "isin": "INE805D01034",
+      "cusip": null,
+      "name": "Sunteck Realty Ltd.",
+      "sharesHeld": "212644",
+      "marketValue": 926329.52,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAREIT-F",
+      "isin": "THA996010015",
+      "cusip": null,
+      "name": "BA Airport Leasehold REIT",
+      "sharesHeld": "2735300",
+      "marketValue": 913578.64,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "4344",
+      "isin": "SA14GG523S58",
+      "cusip": null,
+      "name": "Sedco Capital REIT Fund",
+      "sharesHeld": "481405",
+      "marketValue": 906058.07,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "000069",
+      "isin": "CNE000000SS0",
+      "cusip": null,
+      "name": "Shenzhen Overseas Chinese Town Co. Ltd. Class A",
+      "sharesHeld": "2284795",
+      "marketValue": 901465.97,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAVV3",
+      "isin": "BRLAVVACNOR4",
+      "cusip": null,
+      "name": "Lavvi Empreendimentos Imobiliarios SA",
+      "sharesHeld": "264512",
+      "marketValue": 899172.43,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "604",
+      "isin": "HK0604011236",
+      "cusip": null,
+      "name": "Shenzhen Investment Ltd.",
+      "sharesHeld": "8014201",
+      "marketValue": 893310.38,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SNGYO.E",
+      "isin": "TRESNGY00019",
+      "cusip": null,
+      "name": "Sinpas Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "7360970",
+      "marketValue": 893089.27,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "2534",
+      "isin": "TW0002534005",
+      "cusip": null,
+      "name": "Hung Sheng Construction Ltd.",
+      "sharesHeld": "1395520",
+      "marketValue": 888672.41,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "UEMS",
+      "isin": "MYL5148OO001",
+      "cusip": null,
+      "name": "UEM Sunrise Bhd.",
+      "sharesHeld": "5342765",
+      "marketValue": 887999.53,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "FPAR A",
+      "isin": "SE0013512506",
+      "cusip": null,
+      "name": "FastPartner AB Class A",
+      "sharesHeld": "171922",
+      "marketValue": 883994.07,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEOBO",
+      "isin": "SE0005034550",
+      "cusip": null,
+      "name": "Neobo Fastigheter AB",
+      "sharesHeld": "415687",
+      "marketValue": 873714.57,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISGYO.E",
+      "isin": "TRAISGYO91Q3",
+      "cusip": null,
+      "name": "Is Gayrimenkul Yatirim Ortakligi AS",
+      "sharesHeld": "1566917",
+      "marketValue": 870248.41,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "AEDAS",
+      "isin": "ES0105287009",
+      "cusip": null,
+      "name": "Aedas Homes SA",
+      "sharesHeld": "30493",
+      "marketValue": 865805.07,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "ILDC",
+      "isin": "IL0006120104",
+      "cusip": null,
+      "name": "Land Development Nimrodi Group Ltd.",
+      "sharesHeld": "72179",
+      "marketValue": 864608.83,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "MDNE3",
+      "isin": "BRMDNEACNOR9",
+      "cusip": null,
+      "name": "Moura Dubeux Engenharia S/A",
+      "sharesHeld": "157978",
+      "marketValue": 857918.62,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "1442",
+      "isin": "TW0001442002",
+      "cusip": null,
+      "name": "Advancetek Enterprise Co. Ltd.",
+      "sharesHeld": "905000",
+      "marketValue": 854500.8,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "108",
+      "isin": "HK0108000628",
+      "cusip": null,
+      "name": "GR Life Style Company Ltd.",
+      "sharesHeld": "2896000",
+      "marketValue": 848784.79,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "808",
+      "isin": "HK0808032913",
+      "cusip": null,
+      "name": "Prosperity REIT",
+      "sharesHeld": "4464000",
+      "marketValue": 840126.96,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHDC",
+      "isin": "EGS655L1C012",
+      "cusip": null,
+      "name": "Palm Hills Developments SAE",
+      "sharesHeld": "4574151",
+      "marketValue": 837425.19,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "URC",
+      "isin": "KW0EQ0400626",
+      "cusip": null,
+      "name": "United Real Estate Co. SAKP",
+      "sharesHeld": "910362",
+      "marketValue": 829120.12,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "3380",
+      "isin": "KYG555551095",
+      "cusip": null,
+      "name": "Logan Group Co. Ltd.",
+      "sharesHeld": "4560984",
+      "marketValue": 828654.56,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "3480",
+      "isin": "JP3386630002",
+      "cusip": null,
+      "name": "JSB Co. Ltd.",
+      "sharesHeld": "39506",
+      "marketValue": 827853.47,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "IGD",
+      "isin": "IT0005322612",
+      "cusip": null,
+      "name": "Immobiliare Grande Distribuzione SIIQ SPA",
+      "sharesHeld": "195241",
+      "marketValue": 827726.74,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEBA B",
+      "isin": "SE0017911480",
+      "cusip": null,
+      "name": "Heba Fastighets AB Class B",
+      "sharesHeld": "244470",
+      "marketValue": 827298.83,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "8841",
+      "isin": "JP3538400007",
+      "cusip": null,
+      "name": "TOC Co. Ltd.",
+      "sharesHeld": "152529",
+      "marketValue": 825585.52,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMRA",
+      "isin": "ID1000092406",
+      "cusip": null,
+      "name": "Summarecon Agung Tbk PT",
+      "sharesHeld": "34831781",
+      "marketValue": 822257.51,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "600606",
+      "isin": "CNE000000388",
+      "cusip": null,
+      "name": "Greenland Holdings Corp. Ltd. Class A",
+      "sharesHeld": "3466871",
+      "marketValue": 818381.13,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "YTLREIT",
+      "isin": "MYL5109TO002",
+      "cusip": null,
+      "name": "YTL Hospitality REIT",
+      "sharesHeld": "2768900",
+      "marketValue": 815840.72,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "435",
+      "isin": "HK0435036626",
+      "cusip": null,
+      "name": "Sunlight REIT",
+      "sharesHeld": "2628400",
+      "marketValue": 810566.38,
+      "percentWeight": "0.02"
+    }
+  ]
+}

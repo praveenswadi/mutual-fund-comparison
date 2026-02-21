@@ -1,0 +1,1602 @@
+{
+  "source": "Vanguard ETFs",
+  "dataAsOf": "2026-02-20",
+  "etfs": [
+    {
+      "symbol": "VGT",
+      "name": "Information Technology ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vgt",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "0.38%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-2.15%",
+        "oneYear": "21.85%",
+        "fiveYear": "17.11%",
+        "tenYear": "23.20%",
+        "sinceInception": "13.96%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$738.30",
+        "change": "$3.47",
+        "changePct": "0.47%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "MGK",
+      "name": "Mega Cap Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/mgk",
+      "assetClass": "Stock - Large-Cap Growth",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "0.31%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-5.45%",
+        "oneYear": "17.02%",
+        "fiveYear": "15.59%",
+        "tenYear": "18.83%",
+        "sinceInception": "13.57%",
+        "inceptionDate": "12/17/2007"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$390.06",
+        "change": "$3.16",
+        "changePct": "0.82%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VONG",
+      "name": "Russell 1000 Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vong",
+      "assetClass": "Stock - Large-Cap Growth",
+      "riskLevel": 4,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "0.45%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-4.05%",
+        "oneYear": "14.55%",
+        "fiveYear": "15.11%",
+        "tenYear": "18.55%",
+        "sinceInception": "16.83%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$116.81",
+        "change": "$0.83",
+        "changePct": "0.72%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VUG",
+      "name": "Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vug",
+      "assetClass": "Stock - Large-Cap Growth",
+      "riskLevel": 4,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "0.38%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-4.68%",
+        "oneYear": "15.63%",
+        "fiveYear": "14.57%",
+        "tenYear": "18.03%",
+        "sinceInception": "11.94%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$465.02",
+        "change": "$3.90",
+        "changePct": "0.85%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VOOG",
+      "name": "S&P 500 Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/voog",
+      "assetClass": "Stock - Large-Cap Growth",
+      "riskLevel": 4,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "0.44%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-1.72%",
+        "oneYear": "19.60%",
+        "fiveYear": "15.18%",
+        "tenYear": "17.54%",
+        "sinceInception": "16.65%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$436.82",
+        "change": "$4.08",
+        "changePct": "0.94%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "MGC",
+      "name": "Mega Cap ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/mgc",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "0.93%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-0.23%",
+        "oneYear": "17.31%",
+        "fiveYear": "15.44%",
+        "tenYear": "16.26%",
+        "sinceInception": "11.48%",
+        "inceptionDate": "12/17/2007"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$250.51",
+        "change": "$1.72",
+        "changePct": "0.69%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VV",
+      "name": "Large-Cap ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vv",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "1.04%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "0.56%",
+        "oneYear": "15.99%",
+        "fiveYear": "14.40%",
+        "tenYear": "15.56%",
+        "sinceInception": "10.76%",
+        "inceptionDate": "01/27/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$316.58",
+        "change": "$2.03",
+        "changePct": "0.65%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VOO",
+      "name": "S&P 500 ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/voo",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "1.08%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.10%",
+        "oneYear": "16.39%",
+        "fiveYear": "14.97%",
+        "tenYear": "15.55%",
+        "sinceInception": "14.84%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$633.92",
+        "change": "$4.39",
+        "changePct": "0.70%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VONE",
+      "name": "Russell 1000 ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vone",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "1.05%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.20%",
+        "oneYear": "15.20%",
+        "fiveYear": "14.04%",
+        "tenYear": "15.30%",
+        "sinceInception": "14.30%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$312.70",
+        "change": "$2.04",
+        "changePct": "0.66%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTI",
+      "name": "Total Stock Market ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vti",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "1.08%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.49%",
+        "oneYear": "15.44%",
+        "fiveYear": "13.52%",
+        "tenYear": "15.11%",
+        "sinceInception": "9.25%",
+        "inceptionDate": "05/24/2001"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$340.23",
+        "change": "$2.01",
+        "changePct": "0.59%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTHR",
+      "name": "Russell 3000 ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vthr",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "1.05%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.52%",
+        "oneYear": "15.33%",
+        "fiveYear": "13.51%",
+        "tenYear": "15.02%",
+        "sinceInception": "14.04%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$304.93",
+        "change": "$1.89",
+        "changePct": "0.62%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIS",
+      "name": "Industrials ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vis",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "0.94%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "14.93%",
+        "oneYear": "21.48%",
+        "fiveYear": "15.68%",
+        "tenYear": "14.71%",
+        "sinceInception": "10.92%",
+        "inceptionDate": "09/23/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$342.75",
+        "change": "$1.17",
+        "changePct": "0.34%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VCR",
+      "name": "Consumer Discretionary ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vcr",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "0.67%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-1.35%",
+        "oneYear": "3.03%",
+        "fiveYear": "8.03%",
+        "tenYear": "14.56%",
+        "sinceInception": "11.16%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$388.48",
+        "change": "$3.86",
+        "changePct": "1.00%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VFH",
+      "name": "Financials ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vfh",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "1.52%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-3.67%",
+        "oneYear": "5.68%",
+        "fiveYear": "15.09%",
+        "tenYear": "13.77%",
+        "sinceInception": "6.65%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$128.61",
+        "change": "$0.75",
+        "changePct": "0.59%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIG",
+      "name": "Dividend Appreciation ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vig",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.04%",
+      "yield": {
+        "pct": "1.55%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "3.54%",
+        "oneYear": "12.69%",
+        "fiveYear": "12.38%",
+        "tenYear": "13.57%",
+        "sinceInception": "10.05%",
+        "inceptionDate": "04/21/2006"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$227.56",
+        "change": "$0.45",
+        "changePct": "0.20%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "MGV",
+      "name": "Mega Cap Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/mgv",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.91%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.37%",
+        "oneYear": "15.78%",
+        "fiveYear": "14.20%",
+        "tenYear": "12.98%",
+        "sinceInception": "9.05%",
+        "inceptionDate": "12/17/2007"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$152.97",
+        "change": "$0.43",
+        "changePct": "0.28%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VT",
+      "name": "Total World Stock ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vt",
+      "assetClass": "International",
+      "riskLevel": 4,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "4.88%",
+        "oneYear": "22.50%",
+        "fiveYear": "11.78%",
+        "tenYear": "12.79%",
+        "sinceInception": "8.57%",
+        "inceptionDate": "06/24/2008"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$147.77",
+        "change": "$1.16",
+        "changePct": "0.79%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTV",
+      "name": "Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vtv",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "1.95%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.32%",
+        "oneYear": "15.50%",
+        "fiveYear": "13.80%",
+        "tenYear": "12.73%",
+        "sinceInception": "9.27%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$206.83",
+        "change": "$0.70",
+        "changePct": "0.34%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VOT",
+      "name": "Mid-Cap Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vot",
+      "assetClass": "Stock - Mid-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "0.65%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-1.12%",
+        "oneYear": "3.09%",
+        "fiveYear": "6.37%",
+        "tenYear": "12.48%",
+        "sinceInception": "9.76%",
+        "inceptionDate": "08/17/2006"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$276.06",
+        "change": "$0.53",
+        "changePct": "0.19%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VOOV",
+      "name": "S&P 500 Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/voov",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "1.74%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.37%",
+        "oneYear": "12.73%",
+        "fiveYear": "13.78%",
+        "tenYear": "12.46%",
+        "sinceInception": "12.19%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$213.73",
+        "change": "$0.92",
+        "changePct": "0.43%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VXF",
+      "name": "Extended Market ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vxf",
+      "assetClass": "Stock - Mid-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.03%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.28%",
+        "oneYear": "8.72%",
+        "fiveYear": "6.10%",
+        "tenYear": "12.30%",
+        "sinceInception": "9.81%",
+        "inceptionDate": "12/27/2001"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$217.97",
+        "change": "-$0.10",
+        "changePct": "-0.05%",
+        "direction": "down"
+      }
+    },
+    {
+      "symbol": "VAW",
+      "name": "Materials ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vaw",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "1.43%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "16.29%",
+        "oneYear": "15.92%",
+        "fiveYear": "9.88%",
+        "tenYear": "12.26%",
+        "sinceInception": "9.16%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$241.29",
+        "change": "$0.84",
+        "changePct": "0.35%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VYM",
+      "name": "High Dividend Yield ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vym",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.04%",
+      "yield": {
+        "pct": "2.34%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.39%",
+        "oneYear": "16.26%",
+        "fiveYear": "13.82%",
+        "tenYear": "12.14%",
+        "sinceInception": "9.17%",
+        "inceptionDate": "11/10/2006"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$155.54",
+        "change": "$0.35",
+        "changePct": "0.23%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VO",
+      "name": "Mid-Cap ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vo",
+      "assetClass": "Stock - Mid-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "1.46%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.85%",
+        "oneYear": "9.13%",
+        "fiveYear": "9.17%",
+        "tenYear": "12.01%",
+        "sinceInception": "9.95%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$304.22",
+        "change": "$1.25",
+        "changePct": "0.41%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VB",
+      "name": "Small-Cap ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vb",
+      "assetClass": "Stock - Small-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "1.30%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.21%",
+        "oneYear": "9.64%",
+        "fiveYear": "7.86%",
+        "tenYear": "11.82%",
+        "sinceInception": "9.45%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$279.19",
+        "change": "$0.98",
+        "changePct": "0.35%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VBK",
+      "name": "Small-Cap Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vbk",
+      "assetClass": "Stock - Small-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "0.43%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "6.00%",
+        "oneYear": "7.83%",
+        "fiveYear": "3.30%",
+        "tenYear": "11.71%",
+        "sinceInception": "9.32%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$320.28",
+        "change": "$0.66",
+        "changePct": "0.21%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "IVOO",
+      "name": "S&P Mid-Cap 400 ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/ivoo",
+      "assetClass": "Stock - Mid-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "1.24%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.21%",
+        "oneYear": "7.75%",
+        "fiveYear": "9.58%",
+        "tenYear": "11.71%",
+        "sinceInception": "11.94%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$122.13",
+        "change": "$0.75",
+        "changePct": "0.62%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "IVOV",
+      "name": "S&P Mid-Cap 400 Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/ivov",
+      "assetClass": "Stock - Mid-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "1.86%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.57%",
+        "oneYear": "7.72%",
+        "fiveYear": "11.53%",
+        "tenYear": "11.63%",
+        "sinceInception": "11.60%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$109.55",
+        "change": "$0.51",
+        "changePct": "0.47%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VONV",
+      "name": "Russell 1000 Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vonv",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "1.67%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "7.12%",
+        "oneYear": "15.86%",
+        "fiveYear": "12.46%",
+        "tenYear": "11.52%",
+        "sinceInception": "11.39%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$98.84",
+        "change": "$0.55",
+        "changePct": "0.56%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VBR",
+      "name": "Small-Cap Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vbr",
+      "assetClass": "Stock - Small-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.91%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.91%",
+        "oneYear": "10.91%",
+        "fiveYear": "11.25%",
+        "tenYear": "11.46%",
+        "sinceInception": "9.22%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$232.71",
+        "change": "$1.05",
+        "changePct": "0.45%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "IVOG",
+      "name": "S&P Mid-Cap 400 Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/ivog",
+      "assetClass": "Stock - Mid-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "0.57%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "10.12%",
+        "oneYear": "7.54%",
+        "fiveYear": "7.45%",
+        "tenYear": "11.38%",
+        "sinceInception": "11.95%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$132.29",
+        "change": "$1.00",
+        "changePct": "0.76%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTWG",
+      "name": "Russell 2000 Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vtwg",
+      "assetClass": "Stock - Small-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "0.38%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.28%",
+        "oneYear": "14.07%",
+        "fiveYear": "3.04%",
+        "tenYear": "11.30%",
+        "sinceInception": "11.21%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$246.26",
+        "change": "-$0.94",
+        "changePct": "-0.38%",
+        "direction": "down"
+      }
+    },
+    {
+      "symbol": "VTWO",
+      "name": "Russell 2000 ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vtwo",
+      "assetClass": "Stock - Small-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "1.07%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "7.48%",
+        "oneYear": "16.08%",
+        "fiveYear": "6.23%",
+        "tenYear": "11.27%",
+        "sinceInception": "10.79%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$106.92",
+        "change": "-$0.05",
+        "changePct": "-0.05%",
+        "direction": "down"
+      }
+    },
+    {
+      "symbol": "VOE",
+      "name": "Mid-Cap Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/voe",
+      "assetClass": "Stock - Mid-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.98%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.06%",
+        "oneYear": "13.88%",
+        "fiveYear": "11.68%",
+        "tenYear": "11.20%",
+        "sinceInception": "9.12%",
+        "inceptionDate": "08/17/2006"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$193.45",
+        "change": "$1.08",
+        "changePct": "0.56%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIOO",
+      "name": "S&P Small-Cap 600 ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vioo",
+      "assetClass": "Stock - Small-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "1.50%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.51%",
+        "oneYear": "8.96%",
+        "fiveYear": "7.10%",
+        "tenYear": "11.08%",
+        "sinceInception": "11.93%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$121.46",
+        "change": "$0.65",
+        "changePct": "0.54%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIOV",
+      "name": "S&P Small-Cap 600 Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/viov",
+      "assetClass": "Stock - Small-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "2.09%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "10.50%",
+        "oneYear": "11.70%",
+        "fiveYear": "8.89%",
+        "tenYear": "10.92%",
+        "sinceInception": "11.43%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$108.13",
+        "change": "$0.46",
+        "changePct": "0.43%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIOG",
+      "name": "S&P Small-Cap 600 Growth ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/viog",
+      "assetClass": "Stock - Small-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "0.89%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.35%",
+        "oneYear": "6.11%",
+        "fiveYear": "5.07%",
+        "tenYear": "10.92%",
+        "sinceInception": "12.19%",
+        "inceptionDate": "09/07/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$131.60",
+        "change": "$0.85",
+        "changePct": "0.65%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTWV",
+      "name": "Russell 2000 Value ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vtwv",
+      "assetClass": "Stock - Small-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "1.75%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "10.76%",
+        "oneYear": "18.06%",
+        "fiveYear": "9.14%",
+        "tenYear": "10.71%",
+        "sinceInception": "9.95%",
+        "inceptionDate": "09/20/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$177.18",
+        "change": "$0.53",
+        "changePct": "0.30%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VHT",
+      "name": "Health Care ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vht",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "1.35%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "0.71%",
+        "oneYear": "7.97%",
+        "fiveYear": "6.17%",
+        "tenYear": "10.70%",
+        "sinceInception": "9.74%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$289.89",
+        "change": "-$1.03",
+        "changePct": "-0.35%",
+        "direction": "down"
+      }
+    },
+    {
+      "symbol": "VOX",
+      "name": "Communication Services ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vox",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "0.85%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-1.46%",
+        "oneYear": "21.24%",
+        "fiveYear": "11.84%",
+        "tenYear": "10.66%",
+        "sinceInception": "9.21%",
+        "inceptionDate": "09/23/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$190.78",
+        "change": "$2.84",
+        "changePct": "1.51%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VPU",
+      "name": "Utilities ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vpu",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "2.74%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.25%",
+        "oneYear": "15.06%",
+        "fiveYear": "10.05%",
+        "tenYear": "10.08%",
+        "sinceInception": "9.78%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$200.35",
+        "change": "$0.80",
+        "changePct": "0.40%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VEA",
+      "name": "FTSE Developed Markets ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vea",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.03%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "11.29%",
+        "oneYear": "37.16%",
+        "fiveYear": "10.65%",
+        "tenYear": "10.01%",
+        "sinceInception": "4.68%",
+        "inceptionDate": "07/20/2007"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$69.40",
+        "change": "$0.67",
+        "changePct": "0.97%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VEU",
+      "name": "FTSE All-World ex-US ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/veu",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.04%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.70%",
+        "oneYear": "35.23%",
+        "fiveYear": "9.26%",
+        "tenYear": "9.90%",
+        "sinceInception": "5.30%",
+        "inceptionDate": "03/02/2007"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$81.26",
+        "change": "$0.87",
+        "changePct": "1.08%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VGK",
+      "name": "FTSE Europe ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vgk",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "7.65%",
+        "oneYear": "33.68%",
+        "fiveYear": "11.51%",
+        "tenYear": "9.89%",
+        "sinceInception": "6.35%",
+        "inceptionDate": "03/04/2005"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$89.98",
+        "change": "$0.86",
+        "changePct": "0.96%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VDE",
+      "name": "Energy ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vde",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "2.77%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "22.90%",
+        "oneYear": "19.97%",
+        "fiveYear": "25.89%",
+        "tenYear": "9.79%",
+        "sinceInception": "7.78%",
+        "inceptionDate": "09/23/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$154.71",
+        "change": "-$0.68",
+        "changePct": "-0.44%",
+        "direction": "down"
+      }
+    },
+    {
+      "symbol": "VXUS",
+      "name": "Total International Stock ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vxus",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.51%",
+        "oneYear": "35.18%",
+        "fiveYear": "9.17%",
+        "tenYear": "9.76%",
+        "sinceInception": "6.32%",
+        "inceptionDate": "01/26/2011"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$83.26",
+        "change": "$0.86",
+        "changePct": "1.04%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VPL",
+      "name": "FTSE Pacific ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vpl",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "18.05%",
+        "oneYear": "41.79%",
+        "fiveYear": "7.98%",
+        "tenYear": "9.55%",
+        "sinceInception": "6.16%",
+        "inceptionDate": "03/04/2005"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$106.50",
+        "change": "$1.12",
+        "changePct": "1.06%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VWO",
+      "name": "FTSE Emerging Markets ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vwo",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "8.87%",
+        "oneYear": "30.84%",
+        "fiveYear": "5.12%",
+        "tenYear": "9.40%",
+        "sinceInception": "6.74%",
+        "inceptionDate": "03/04/2005"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$58.23",
+        "change": "$0.70",
+        "changePct": "1.22%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSS",
+      "name": "FTSE All-World ex-US Small-Cap ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vss",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.06%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.75%",
+        "oneYear": "37.12%",
+        "fiveYear": "7.95%",
+        "tenYear": "8.93%",
+        "sinceInception": "9.63%",
+        "inceptionDate": "04/02/2009"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$157.85",
+        "change": "$1.16",
+        "changePct": "0.74%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VDC",
+      "name": "Consumer Staples ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vdc",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "2.13%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "12.76%",
+        "oneYear": "7.75%",
+        "fiveYear": "8.91%",
+        "tenYear": "8.47%",
+        "sinceInception": "9.50%",
+        "inceptionDate": "01/26/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$238.22",
+        "change": "$0.52",
+        "changePct": "0.22%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VNQ",
+      "name": "Real Estate ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vnq",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 4,
+      "expenseRatio": "0.13%",
+      "yield": {
+        "pct": null,
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "7.22%",
+        "oneYear": "4.24%",
+        "fiveYear": "5.17%",
+        "tenYear": "5.77%",
+        "sinceInception": "7.41%",
+        "inceptionDate": "09/23/2004"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$94.87",
+        "change": "$0.69",
+        "changePct": "0.73%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VNQI",
+      "name": "Global ex-U.S. Real Estate ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vnqi",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.12%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.56%",
+        "oneYear": "25.16%",
+        "fiveYear": "2.05%",
+        "tenYear": "4.18%",
+        "sinceInception": "3.85%",
+        "inceptionDate": "11/01/2010"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$50.41",
+        "change": "$0.42",
+        "changePct": "0.84%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VYMI",
+      "name": "International High Dividend Yield ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vymi",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "11.73%",
+        "oneYear": "41.06%",
+        "fiveYear": "14.35%",
+        "tenYear": "\u2014",
+        "sinceInception": "11.14%",
+        "inceptionDate": "02/25/2016"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$100.18",
+        "change": "$0.80",
+        "changePct": "0.80%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIGI",
+      "name": "International Dividend Appreciation ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vigi",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "4.45%",
+        "oneYear": "14.49%",
+        "fiveYear": "5.94%",
+        "tenYear": "\u2014",
+        "sinceInception": "8.92%",
+        "inceptionDate": "02/25/2016"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$95.47",
+        "change": "$0.32",
+        "changePct": "0.34%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "ESGV",
+      "name": "ESG U.S. Stock ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/esgv",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "0.91%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-0.80%",
+        "oneYear": "13.82%",
+        "fiveYear": "13.06%",
+        "tenYear": "\u2014",
+        "sinceInception": "14.16%",
+        "inceptionDate": "09/18/2018"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$119.98",
+        "change": "$0.91",
+        "changePct": "0.76%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSGX",
+      "name": "ESG International Stock ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vsgx",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.56%",
+        "oneYear": "33.77%",
+        "fiveYear": "7.94%",
+        "tenYear": "\u2014",
+        "sinceInception": "8.53%",
+        "inceptionDate": "09/18/2018"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$78.84",
+        "change": "$0.87",
+        "changePct": "1.12%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VEXC",
+      "name": "Emerging Markets ex-China ETF",
+      "profileUrl": "https://investor.vanguard.com/investment-products/etfs/profile/vexc",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "11.64%",
+        "oneYear": "\u2014",
+        "fiveYear": "\u2014",
+        "tenYear": "\u2014",
+        "sinceInception": "12.70%",
+        "inceptionDate": "09/30/2025"
+      },
+      "minInvestment": "$1",
+      "nav": {
+        "price": "$88.64",
+        "change": "$1.44",
+        "changePct": "1.65%",
+        "direction": "up"
+      }
+    }
+  ]
+}

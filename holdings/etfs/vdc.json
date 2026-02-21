@@ -1,0 +1,1063 @@
+{
+  "symbol": "VDC",
+  "name": "Consumer Staples ETF",
+  "assetClass": "Stock - Sector",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 105,
+    "bond": 0,
+    "total": 105
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "WMT",
+      "isin": "US9311421039",
+      "cusip": "931142103",
+      "name": "Walmart Inc.",
+      "sharesHeld": "11416780",
+      "marketValue": 1360195169.2,
+      "percentWeight": "15.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "COST",
+      "isin": "US22160K1051",
+      "cusip": "22160K105",
+      "name": "Costco Wholesale Corp.",
+      "sharesHeld": "1135599",
+      "marketValue": 1067746959.75,
+      "percentWeight": "11.82"
+    },
+    {
+      "type": "stock",
+      "ticker": "PG",
+      "isin": "US7427181091",
+      "cusip": "742718109",
+      "name": "Procter & Gamble Co.",
+      "sharesHeld": "5834951",
+      "marketValue": 885570513.27,
+      "percentWeight": "9.80"
+    },
+    {
+      "type": "stock",
+      "ticker": "KO",
+      "isin": "US1912161007",
+      "cusip": "191216100",
+      "name": "Coca-Cola Co.",
+      "sharesHeld": "9940977",
+      "marketValue": 743684489.37,
+      "percentWeight": "8.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "PM",
+      "isin": "US7181721090",
+      "cusip": "718172109",
+      "name": "Philip Morris International Inc.",
+      "sharesHeld": "2405461",
+      "marketValue": 431635921.84,
+      "percentWeight": "4.78"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEP",
+      "isin": "US7134481081",
+      "cusip": "713448108",
+      "name": "PepsiCo Inc.",
+      "sharesHeld": "2723325",
+      "marketValue": 418384419.75,
+      "percentWeight": "4.63"
+    },
+    {
+      "type": "stock",
+      "ticker": "MO",
+      "isin": "US02209S1033",
+      "cusip": "02209S103",
+      "name": "Altria Group Inc.",
+      "sharesHeld": "4996057",
+      "marketValue": 309705573.43,
+      "percentWeight": "3.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "MDLZ",
+      "isin": "US6092071058",
+      "cusip": "609207105",
+      "name": "Mondelez International Inc. Class A",
+      "sharesHeld": "3891229",
+      "marketValue": 227520159.63,
+      "percentWeight": "2.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "CL",
+      "isin": "US1941621039",
+      "cusip": "194162103",
+      "name": "Colgate-Palmolive Co.",
+      "sharesHeld": "2335521",
+      "marketValue": 210874191.09,
+      "percentWeight": "2.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "MNST",
+      "isin": "US61174X1090",
+      "cusip": "61174X109",
+      "name": "Monster Beverage Corp.",
+      "sharesHeld": "2261182",
+      "marketValue": 182613058.32,
+      "percentWeight": "2.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "TGT",
+      "isin": "US87612E1064",
+      "cusip": "87612E106",
+      "name": "Target Corp.",
+      "sharesHeld": "1420571",
+      "marketValue": 149827623.37,
+      "percentWeight": "1.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "SYY",
+      "isin": "US8718291078",
+      "cusip": "871829107",
+      "name": "Sysco Corp.",
+      "sharesHeld": "1525099",
+      "marketValue": 127879551.15,
+      "percentWeight": "1.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "KR",
+      "isin": "US5010441013",
+      "cusip": "501044101",
+      "name": "Kroger Co.",
+      "sharesHeld": "1978829",
+      "marketValue": 124369402.65,
+      "percentWeight": "1.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "KDP",
+      "isin": "US49271V1008",
+      "cusip": "49271V100",
+      "name": "Keurig Dr Pepper Inc.",
+      "sharesHeld": "4106286",
+      "marketValue": 112676487.84,
+      "percentWeight": "1.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "KVUE",
+      "isin": "US49177J1025",
+      "cusip": "49177J102",
+      "name": "Kenvue Inc.",
+      "sharesHeld": "6159688",
+      "marketValue": 107178571.2,
+      "percentWeight": "1.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "KMB",
+      "isin": "US4943681035",
+      "cusip": "494368103",
+      "name": "Kimberly-Clark Corp.",
+      "sharesHeld": "1060686",
+      "marketValue": 106057993.14,
+      "percentWeight": "1.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "DG",
+      "isin": "US2566771059",
+      "cusip": "256677105",
+      "name": "Dollar General Corp.",
+      "sharesHeld": "737594",
+      "marketValue": 105793107.42,
+      "percentWeight": "1.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADM",
+      "isin": "US0394831020",
+      "cusip": "039483102",
+      "name": "Archer-Daniels-Midland Co.",
+      "sharesHeld": "1568841",
+      "marketValue": 105598687.71,
+      "percentWeight": "1.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "HSY",
+      "isin": "US4278661081",
+      "cusip": "427866108",
+      "name": "Hershey Co.",
+      "sharesHeld": "486779",
+      "marketValue": 94800210.25,
+      "percentWeight": "1.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "EL",
+      "isin": "US5184391044",
+      "cusip": "518439104",
+      "name": "Estee Lauder Cos. Inc. Class A",
+      "sharesHeld": "795314",
+      "marketValue": 91683797.92,
+      "percentWeight": "1.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "GIS",
+      "isin": "US3703341046",
+      "cusip": "370334104",
+      "name": "General Mills Inc.",
+      "sharesHeld": "1782974",
+      "marketValue": 82480377.24,
+      "percentWeight": "0.91"
+    },
+    {
+      "type": "stock",
+      "ticker": "STZ",
+      "isin": "US21036P1084",
+      "cusip": "21036P108",
+      "name": "Constellation Brands Inc. Class A",
+      "sharesHeld": "512021",
+      "marketValue": 80233690.7,
+      "percentWeight": "0.89"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHD",
+      "isin": "US1713401024",
+      "cusip": "171340102",
+      "name": "Church & Dwight Co. Inc.",
+      "sharesHeld": "828853",
+      "marketValue": 79777101.25,
+      "percentWeight": "0.88"
+    },
+    {
+      "type": "stock",
+      "ticker": "DLTR",
+      "isin": "US2567461080",
+      "cusip": "256746108",
+      "name": "Dollar Tree Inc.",
+      "sharesHeld": "664363",
+      "marketValue": 78122445.17,
+      "percentWeight": "0.86"
+    },
+    {
+      "type": "stock",
+      "ticker": "CASY",
+      "isin": "US1475281036",
+      "cusip": "147528103",
+      "name": "Casey's General Stores Inc.",
+      "sharesHeld": "128220",
+      "marketValue": 77765430,
+      "percentWeight": "0.86"
+    },
+    {
+      "type": "stock",
+      "ticker": "KHC",
+      "isin": "US5007541064",
+      "cusip": "500754106",
+      "name": "Kraft Heinz Co.",
+      "sharesHeld": "3021322",
+      "marketValue": 71726184.28,
+      "percentWeight": "0.79"
+    },
+    {
+      "type": "stock",
+      "ticker": "USFD",
+      "isin": "US9120081099",
+      "cusip": "912008109",
+      "name": "US Foods Holding Corp.",
+      "sharesHeld": "803126",
+      "marketValue": 67157396.12,
+      "percentWeight": "0.74"
+    },
+    {
+      "type": "stock",
+      "ticker": "TSN",
+      "isin": "US9024941034",
+      "cusip": "902494103",
+      "name": "Tyson Foods Inc. Class A",
+      "sharesHeld": "1026481",
+      "marketValue": 67060003.73,
+      "percentWeight": "0.74"
+    },
+    {
+      "type": "stock",
+      "ticker": "BG",
+      "isin": "CH1300646267",
+      "cusip": "H11356104",
+      "name": "Bunge Global SA",
+      "sharesHeld": "523339",
+      "marketValue": 59597845.32,
+      "percentWeight": "0.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "PFGC",
+      "isin": "US71377A1034",
+      "cusip": "71377A103",
+      "name": "Performance Food Group Co.",
+      "sharesHeld": "569562",
+      "marketValue": 54364692.9,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLX",
+      "isin": "US1890541097",
+      "cusip": "189054109",
+      "name": "Clorox Co.",
+      "sharesHeld": "456841",
+      "marketValue": 51527096.39,
+      "percentWeight": "0.57"
+    },
+    {
+      "type": "stock",
+      "ticker": "MKC",
+      "isin": "US5797802064",
+      "cusip": "579780206",
+      "name": "McCormick & Co. Inc./MD",
+      "sharesHeld": "826332",
+      "marketValue": 51092107.56,
+      "percentWeight": "0.57"
+    },
+    {
+      "type": "stock",
+      "ticker": "BJ",
+      "isin": "US05550J1016",
+      "cusip": "05550J101",
+      "name": "BJ's Wholesale Club Holdings Inc.",
+      "sharesHeld": "502296",
+      "marketValue": 46432242.24,
+      "percentWeight": "0.51"
+    },
+    {
+      "type": "stock",
+      "ticker": "SJM",
+      "isin": "US8326964058",
+      "cusip": "832696405",
+      "name": "JM Smucker Co.",
+      "sharesHeld": "417315",
+      "marketValue": 43759650.9,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAG",
+      "isin": "US2058871029",
+      "cusip": "205887102",
+      "name": "Conagra Brands Inc.",
+      "sharesHeld": "2044018",
+      "marketValue": 37834773.18,
+      "percentWeight": "0.42"
+    },
+    {
+      "type": "stock",
+      "ticker": "CELH",
+      "isin": "US15118V2079",
+      "cusip": "15118V207",
+      "name": "Celsius Holdings Inc.",
+      "sharesHeld": "695979",
+      "marketValue": 36524977.92,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "TAP",
+      "isin": "US60871R2094",
+      "cusip": "60871R209",
+      "name": "Molson Coors Brewing Co. Class B",
+      "sharesHeld": "743523",
+      "marketValue": 35718844.92,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "DAR",
+      "isin": "US2372661015",
+      "cusip": "237266101",
+      "name": "Darling Ingredients Inc.",
+      "sharesHeld": "782081",
+      "marketValue": 35709818.46,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "INGR",
+      "isin": "US4571871023",
+      "cusip": "457187102",
+      "name": "Ingredion Inc.",
+      "sharesHeld": "288668",
+      "marketValue": 34091690.8,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "COKE",
+      "isin": "US1910981026",
+      "cusip": "191098102",
+      "name": "Coca-Cola Consolidated Inc.",
+      "sharesHeld": "223484",
+      "marketValue": 33982977.04,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "HRL",
+      "isin": "US4404521001",
+      "cusip": "440452100",
+      "name": "Hormel Foods Corp.",
+      "sharesHeld": "1377540",
+      "marketValue": 33901259.4,
+      "percentWeight": "0.38"
+    },
+    {
+      "type": "stock",
+      "ticker": "LW",
+      "isin": "US5132721045",
+      "cusip": "513272104",
+      "name": "Lamb Weston Holdings Inc.",
+      "sharesHeld": "645996",
+      "marketValue": 29670596.28,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "CART",
+      "isin": "US5653941030",
+      "cusip": "565394103",
+      "name": "Maplebear Inc.",
+      "sharesHeld": "791391",
+      "marketValue": 29408089.56,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACI",
+      "isin": "US0130911037",
+      "cusip": "013091103",
+      "name": "Albertsons Cos. Inc. Class A",
+      "sharesHeld": "1718984",
+      "marketValue": 28621083.6,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPB",
+      "isin": "US1344291091",
+      "cusip": "134429109",
+      "name": "Campbell's Co.",
+      "sharesHeld": "993428",
+      "marketValue": 27796115.44,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRMB",
+      "isin": "US7416231022",
+      "cusip": "741623102",
+      "name": "Primo Brands Corp. Class A",
+      "sharesHeld": "1403365",
+      "marketValue": 26579733.1,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "SFM",
+      "isin": "US85208M1027",
+      "cusip": "85208M102",
+      "name": "Sprouts Farmers Market Inc.",
+      "sharesHeld": "371656",
+      "marketValue": 26354126.96,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELF",
+      "isin": "US26856L1035",
+      "cusip": "26856L103",
+      "name": "elf Beauty Inc.",
+      "sharesHeld": "308845",
+      "marketValue": 26248736.55,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "POST",
+      "isin": "US7374461041",
+      "cusip": "737446104",
+      "name": "Post Holdings Inc.",
+      "sharesHeld": "242851",
+      "marketValue": 24846085.81,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSMT",
+      "isin": "US7415111092",
+      "cusip": "741511109",
+      "name": "PriceSmart Inc.",
+      "sharesHeld": "173214",
+      "marketValue": 24632762.94,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "FRPT",
+      "isin": "US3580391056",
+      "cusip": "358039105",
+      "name": "Freshpet Inc.",
+      "sharesHeld": "344632",
+      "marketValue": 24020850.4,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "CALM",
+      "isin": "US1280302027",
+      "cusip": "128030202",
+      "name": "Cal-Maine Foods Inc.",
+      "sharesHeld": "275431",
+      "marketValue": 23006751.43,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANDE",
+      "isin": "US0341641035",
+      "cusip": "034164103",
+      "name": "Andersons Inc.",
+      "sharesHeld": "368990",
+      "marketValue": 22873690.1,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "WDFC",
+      "isin": "US9292361071",
+      "cusip": "929236107",
+      "name": "WD-40 Co.",
+      "sharesHeld": "95522",
+      "marketValue": 22087552.06,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "MZTI",
+      "isin": "US5138471033",
+      "cusip": "513847103",
+      "name": "Lancaster Colony Corp.",
+      "sharesHeld": "127989",
+      "marketValue": 21959072.73,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "COCO",
+      "isin": "US92846Q1076",
+      "cusip": "92846Q107",
+      "name": "Vita Coco Co. Inc.",
+      "sharesHeld": "406330",
+      "marketValue": 21677705.5,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLF",
+      "isin": "KYG4412G1010",
+      "cusip": "G4412G101",
+      "name": "Herbalife Nutrition Ltd.",
+      "sharesHeld": "1175712",
+      "marketValue": 20269274.88,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "UNFI",
+      "isin": "US9111631035",
+      "cusip": "911163103",
+      "name": "United Natural Foods Inc.",
+      "sharesHeld": "540249",
+      "marketValue": 20113470.27,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "TPB",
+      "isin": "US90041L1052",
+      "cusip": "90041L105",
+      "name": "Turning Point Brands Inc.",
+      "sharesHeld": "165522",
+      "marketValue": 20052990.3,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRBR",
+      "isin": "US07831C1036",
+      "cusip": "07831C103",
+      "name": "BellRing Brands Inc.",
+      "sharesHeld": "795915",
+      "marketValue": 19794406.05,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "BF.B",
+      "isin": "US1156372096",
+      "cusip": "115637209",
+      "name": "Brown-Forman Corp. Class B",
+      "sharesHeld": "714474",
+      "marketValue": 19555153.38,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "PPC",
+      "isin": "US72147K1088",
+      "cusip": "72147K108",
+      "name": "Pilgrim's Pride Corp.",
+      "sharesHeld": "436723",
+      "marketValue": 18940676.51,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "FLO",
+      "isin": "US3434981011",
+      "cusip": "343498101",
+      "name": "Flowers Foods Inc.",
+      "sharesHeld": "1630379",
+      "marketValue": 18635231.97,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHEF",
+      "isin": "US1630861011",
+      "cusip": "163086101",
+      "name": "Chefs' Warehouse Inc.",
+      "sharesHeld": "291177",
+      "marketValue": 18315033.3,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "IPAR",
+      "isin": "US4583341098",
+      "cusip": "458334109",
+      "name": "Inter Parfums Inc.",
+      "sharesHeld": "184050",
+      "marketValue": 17957758.5,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAM",
+      "isin": "US1005571070",
+      "cusip": "100557107",
+      "name": "Boston Beer Co. Inc. Class A",
+      "sharesHeld": "80786",
+      "marketValue": 17257505.32,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "FDP",
+      "isin": "KYG367381053",
+      "cusip": "G36738105",
+      "name": "Fresh Del Monte Produce Inc.",
+      "sharesHeld": "430844",
+      "marketValue": 17087273.04,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "JJSF",
+      "isin": "US4660321096",
+      "cusip": "466032109",
+      "name": "J&J Snack Foods Corp.",
+      "sharesHeld": "177425",
+      "marketValue": 16855375,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "CENTA",
+      "isin": "US1535272058",
+      "cusip": "153527205",
+      "name": "Central Garden & Pet Co. Class A",
+      "sharesHeld": "546270",
+      "marketValue": 16754100.9,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEB",
+      "isin": "US8115431079",
+      "cusip": "811543107",
+      "name": "Seaboard Corp.",
+      "sharesHeld": "3287",
+      "marketValue": 16705454.36,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPB",
+      "isin": "US84790A1051",
+      "cusip": "84790A105",
+      "name": "Spectrum Brands Holdings Inc.",
+      "sharesHeld": "262180",
+      "marketValue": 16703487.8,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMPL",
+      "isin": "US82900L1026",
+      "cusip": "82900L102",
+      "name": "Simply Good Foods Co.",
+      "sharesHeld": "856799",
+      "marketValue": 16082117.23,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "UVV",
+      "isin": "US9134561094",
+      "cusip": "913456109",
+      "name": "Universal Corp./VA",
+      "sharesHeld": "282581",
+      "marketValue": 15991258.79,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "REYN",
+      "isin": "US76171L1061",
+      "cusip": "76171L106",
+      "name": "Reynolds Consumer Products Inc.",
+      "sharesHeld": "664281",
+      "marketValue": 15391390.77,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENR",
+      "isin": "US29272W1099",
+      "cusip": "29272W109",
+      "name": "Energizer Holdings Inc.",
+      "sharesHeld": "700005",
+      "marketValue": 15281109.15,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "COTY",
+      "isin": "US2220702037",
+      "cusip": "222070203",
+      "name": "Coty Inc. Class A",
+      "sharesHeld": "4480206",
+      "marketValue": 14202253.02,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "THS",
+      "isin": "US89469A1043",
+      "cusip": "89469A104",
+      "name": "TreeHouse Foods Inc.",
+      "sharesHeld": "518195",
+      "marketValue": 12768324.8,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "IMKTA",
+      "isin": "US4570301048",
+      "cusip": "457030104",
+      "name": "Ingles Markets Inc. Class A",
+      "sharesHeld": "165876",
+      "marketValue": 12417477.36,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "VITL",
+      "isin": "US92847W1036",
+      "cusip": "92847W103",
+      "name": "Vital Farms Inc.",
+      "sharesHeld": "407499",
+      "marketValue": 11593346.55,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "WMK",
+      "isin": "US9488491047",
+      "cusip": "948849104",
+      "name": "Weis Markets Inc.",
+      "sharesHeld": "155603",
+      "marketValue": 11071153.45,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "FIZZ",
+      "isin": "US6350171061",
+      "cusip": "635017106",
+      "name": "National Beverage Corp.",
+      "sharesHeld": "319914",
+      "marketValue": 10902669.12,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "GO",
+      "isin": "US39874R1014",
+      "cusip": "39874R101",
+      "name": "Grocery Outlet Holding Corp.",
+      "sharesHeld": "1117658",
+      "marketValue": 10651280.74,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "EPC",
+      "isin": "US28035Q1022",
+      "cusip": "28035Q102",
+      "name": "Edgewell Personal Care Co.",
+      "sharesHeld": "504681",
+      "marketValue": 9821092.26,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "UTZ",
+      "isin": "US9180901012",
+      "cusip": "918090101",
+      "name": "Utz Brands Inc.",
+      "sharesHeld": "837986",
+      "marketValue": 8832372.44,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "JBSS",
+      "isin": "US8004221078",
+      "cusip": "800422107",
+      "name": "John B Sanfilippo & Son Inc.",
+      "sharesHeld": "103113",
+      "marketValue": 8341841.7,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "TR",
+      "isin": "US8905161076",
+      "cusip": "890516107",
+      "name": "Tootsie Roll Industries Inc.",
+      "sharesHeld": "215188",
+      "marketValue": 8151321.44,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVO",
+      "isin": "US60510V1089",
+      "cusip": "60510V108",
+      "name": "Mission Produce Inc.",
+      "sharesHeld": "524976",
+      "marketValue": 7066176.96,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ODC",
+      "isin": "US6778641000",
+      "cusip": "677864100",
+      "name": "Oil-Dri Corp. of America",
+      "sharesHeld": "106912",
+      "marketValue": 6473521.6,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "SENEA",
+      "isin": "US8170705011",
+      "cusip": "817070501",
+      "name": "Seneca Foods Corp. Class A",
+      "sharesHeld": "51525",
+      "marketValue": 6148478.25,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "NUS",
+      "isin": "US67018T1051",
+      "cusip": "67018T105",
+      "name": "Nu Skin Enterprises Inc. Class A",
+      "sharesHeld": "563635",
+      "marketValue": 5980167.35,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CVGW",
+      "isin": "US1282461052",
+      "cusip": "128246105",
+      "name": "Calavo Growers Inc.",
+      "sharesHeld": "194524",
+      "marketValue": 4948690.56,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "MGPI",
+      "isin": "US55303J1060",
+      "cusip": "55303J106",
+      "name": "MGP Ingredients Inc.",
+      "sharesHeld": "169507",
+      "marketValue": 4222419.37,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "VLGEA",
+      "isin": "US9271074091",
+      "cusip": "927107409",
+      "name": "Village Super Market Inc. Class A",
+      "sharesHeld": "115530",
+      "marketValue": 4119799.8,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "BGS",
+      "isin": "US05508R1068",
+      "cusip": "05508R106",
+      "name": "B&G Foods Inc.",
+      "sharesHeld": "914064",
+      "marketValue": 3994459.68,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "NAGE",
+      "isin": "US1710774076",
+      "cusip": "171077407",
+      "name": "ChromaDex Corp.",
+      "sharesHeld": "635602",
+      "marketValue": 3807255.98,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "CENT",
+      "isin": "US1535271068",
+      "cusip": "153527106",
+      "name": "Central Garden & Pet Co. Class A",
+      "sharesHeld": "104409",
+      "marketValue": 3532156.47,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "OLPX",
+      "isin": "US6793691089",
+      "cusip": "679369108",
+      "name": "Olaplex Holdings Inc.",
+      "sharesHeld": "1906930",
+      "marketValue": 3012949.4,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NGVC",
+      "isin": "US63888U1088",
+      "cusip": "63888U108",
+      "name": "Natural Grocers by Vitamin Cottage Inc.",
+      "sharesHeld": "105086",
+      "marketValue": 2870949.52,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "HNST",
+      "isin": "US4383331067",
+      "cusip": "438333106",
+      "name": "Honest Co. Inc.",
+      "sharesHeld": "1146313",
+      "marketValue": 2831393.11,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "USNA",
+      "isin": "US90328M1071",
+      "cusip": "90328M107",
+      "name": "USANA Health Sciences Inc.",
+      "sharesHeld": "124899",
+      "marketValue": 2710308.3,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "WEST",
+      "isin": "US96145W1036",
+      "cusip": "96145W103",
+      "name": "Westrock Coffee Co.",
+      "sharesHeld": "379051",
+      "marketValue": 1830816.33,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "MED",
+      "isin": "US58470H1014",
+      "cusip": "58470H101",
+      "name": "Medifast Inc.",
+      "sharesHeld": "126813",
+      "marketValue": 1450740.72,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "SKIN",
+      "isin": "US88331L1089",
+      "cusip": "88331L108",
+      "name": "Beauty Health Co.",
+      "sharesHeld": "934078",
+      "marketValue": 1401117,
+      "percentWeight": "0.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "HAIN",
+      "isin": "US4052171000",
+      "cusip": "405217100",
+      "name": "Hain Celestial Group Inc.",
+      "sharesHeld": "1043293",
+      "marketValue": 1262384.53,
+      "percentWeight": "0.01"
+    },
+    {
+      "type": "stock",
+      "ticker": "BYND",
+      "isin": "US08862E1091",
+      "cusip": "08862E109",
+      "name": "Beyond Meat Inc.",
+      "sharesHeld": "832539",
+      "marketValue": 635393.76,
+      "percentWeight": "0.01"
+    }
+  ]
+}

@@ -1,0 +1,1073 @@
+{
+  "symbol": "VDE",
+  "name": "Energy ETF",
+  "assetClass": "Stock - Sector",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 106,
+    "bond": 0,
+    "total": 106
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "XOM",
+      "isin": "US30231G1022",
+      "cusip": "30231G102",
+      "name": "Exxon Mobil Corp.",
+      "sharesHeld": "16935931",
+      "marketValue": 2394740643.4,
+      "percentWeight": "23.73"
+    },
+    {
+      "type": "stock",
+      "ticker": "CVX",
+      "isin": "US1667641005",
+      "cusip": "166764100",
+      "name": "Chevron Corp.",
+      "sharesHeld": "8781863",
+      "marketValue": 1553511564.7,
+      "percentWeight": "15.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "COP",
+      "isin": "US20825C1045",
+      "cusip": "20825C104",
+      "name": "ConocoPhillips",
+      "sharesHeld": "5594980",
+      "marketValue": 583164765.4,
+      "percentWeight": "5.78"
+    },
+    {
+      "type": "stock",
+      "ticker": "WMB",
+      "isin": "US9694571004",
+      "cusip": "969457100",
+      "name": "Williams Cos. Inc.",
+      "sharesHeld": "5588934",
+      "marketValue": 375911700.84,
+      "percentWeight": "3.72"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLB",
+      "isin": "AN8068571086",
+      "cusip": "806857108",
+      "name": "Schlumberger Ltd.",
+      "sharesHeld": "6087173",
+      "marketValue": 294497429.74,
+      "percentWeight": "2.92"
+    },
+    {
+      "type": "stock",
+      "ticker": "EOG",
+      "isin": "US26875P1012",
+      "cusip": "26875P101",
+      "name": "EOG Resources Inc.",
+      "sharesHeld": "2530694",
+      "marketValue": 283766718.22,
+      "percentWeight": "2.81"
+    },
+    {
+      "type": "stock",
+      "ticker": "KMI",
+      "isin": "US49456B1017",
+      "cusip": "49456B101",
+      "name": "Kinder Morgan Inc./DE",
+      "sharesHeld": "9173502",
+      "marketValue": 279700075.98,
+      "percentWeight": "2.77"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSX",
+      "isin": "US7185461040",
+      "cusip": "718546104",
+      "name": "Phillips 66",
+      "sharesHeld": "1870784",
+      "marketValue": 268569751.04,
+      "percentWeight": "2.66"
+    },
+    {
+      "type": "stock",
+      "ticker": "VLO",
+      "isin": "US91913Y1001",
+      "cusip": "91913Y100",
+      "name": "Valero Energy Corp.",
+      "sharesHeld": "1437083",
+      "marketValue": 260729968.69,
+      "percentWeight": "2.58"
+    },
+    {
+      "type": "stock",
+      "ticker": "MPC",
+      "isin": "US56585A1025",
+      "cusip": "56585A102",
+      "name": "Marathon Petroleum Corp.",
+      "sharesHeld": "1456511",
+      "marketValue": 256622673.09,
+      "percentWeight": "2.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "BKR",
+      "isin": "US05722G1004",
+      "cusip": "05722G100",
+      "name": "Baker Hughes Co. Class A",
+      "sharesHeld": "4528322",
+      "marketValue": 253767164.88,
+      "percentWeight": "2.51"
+    },
+    {
+      "type": "stock",
+      "ticker": "OKE",
+      "isin": "US6826801036",
+      "cusip": "682680103",
+      "name": "ONEOK Inc.",
+      "sharesHeld": "2894600",
+      "marketValue": 229223374,
+      "percentWeight": "2.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "LNG",
+      "isin": "US16411R2085",
+      "cusip": "16411R208",
+      "name": "Cheniere Energy Inc.",
+      "sharesHeld": "1017389",
+      "marketValue": 215198121.28,
+      "percentWeight": "2.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRGP",
+      "isin": "US87612G1013",
+      "cusip": "87612G101",
+      "name": "Targa Resources Corp.",
+      "sharesHeld": "991318",
+      "marketValue": 199235091.64,
+      "percentWeight": "1.97"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQT",
+      "isin": "US26884L1098",
+      "cusip": "26884L109",
+      "name": "EQT Corp.",
+      "sharesHeld": "2872656",
+      "marketValue": 165838430.88,
+      "percentWeight": "1.64"
+    },
+    {
+      "type": "stock",
+      "ticker": "FANG",
+      "isin": "US25278X1090",
+      "cusip": "25278X109",
+      "name": "Diamondback Energy Inc.",
+      "sharesHeld": "870677",
+      "marketValue": 142747494.15,
+      "percentWeight": "1.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "OXY",
+      "isin": "US6745991058",
+      "cusip": "674599105",
+      "name": "Occidental Petroleum Corp.",
+      "sharesHeld": "3003936",
+      "marketValue": 136348655.04,
+      "percentWeight": "1.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "HAL",
+      "isin": "US4062161017",
+      "cusip": "406216101",
+      "name": "Halliburton Co.",
+      "sharesHeld": "4003255",
+      "marketValue": 134189107.6,
+      "percentWeight": "1.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXE",
+      "isin": "US1651677353",
+      "cusip": "165167735",
+      "name": "Expand Energy Corp.",
+      "sharesHeld": "1100599",
+      "marketValue": 123718333.59,
+      "percentWeight": "1.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "DVN",
+      "isin": "US25179M1036",
+      "cusip": "25179M103",
+      "name": "Devon Energy Corp.",
+      "sharesHeld": "2858314",
+      "marketValue": 114932805.94,
+      "percentWeight": "1.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "FTI",
+      "isin": "GB00BDSFG982",
+      "cusip": "G87110105",
+      "name": "TechnipFMC plc",
+      "sharesHeld": "1980541",
+      "marketValue": 110355744.52,
+      "percentWeight": "1.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTRA",
+      "isin": "US1270971039",
+      "cusip": "127097103",
+      "name": "Cabot Oil & Gas Corp.",
+      "sharesHeld": "3551168",
+      "marketValue": 102451196.8,
+      "percentWeight": "1.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "TPL",
+      "isin": "US88262P1021",
+      "cusip": "88262P102",
+      "name": "Texas Pacific Land Corp.",
+      "sharesHeld": "272766",
+      "marketValue": 95020763.76,
+      "percentWeight": "0.94"
+    },
+    {
+      "type": "stock",
+      "ticker": "DTM",
+      "isin": "US23345M1071",
+      "cusip": "23345M107",
+      "name": "DT Midstream Inc.",
+      "sharesHeld": "480329",
+      "marketValue": 60531060.58,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "PR",
+      "isin": "US71424F1057",
+      "cusip": "71424F105",
+      "name": "Permian Resources Corp. Class A",
+      "sharesHeld": "3373328",
+      "marketValue": 54411780.64,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "OVV",
+      "isin": "US69047Q1022",
+      "cusip": "69047Q102",
+      "name": "Ovintiv Inc.",
+      "sharesHeld": "1225578",
+      "marketValue": 53275875.66,
+      "percentWeight": "0.53"
+    },
+    {
+      "type": "stock",
+      "ticker": "AR",
+      "isin": "US03674X1063",
+      "cusip": "03674X106",
+      "name": "Antero Resources Corp.",
+      "sharesHeld": "1396531",
+      "marketValue": 50791832.47,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "APA",
+      "isin": "US03743Q1085",
+      "cusip": "03743Q108",
+      "name": "APA Corp.",
+      "sharesHeld": "1732473",
+      "marketValue": 45754611.93,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "RRC",
+      "isin": "US75281A1097",
+      "cusip": "75281A109",
+      "name": "Range Resources Corp.",
+      "sharesHeld": "1142445",
+      "marketValue": 43241543.25,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "UEC",
+      "isin": "US9168961038",
+      "cusip": "916896103",
+      "name": "Uranium Energy Corp.",
+      "sharesHeld": "2367224",
+      "marketValue": 40810941.76,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "DINO",
+      "isin": "US4039491000",
+      "cusip": "403949100",
+      "name": "HF Sinclair Corp",
+      "sharesHeld": "771013",
+      "marketValue": 40084965.87,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNOM",
+      "isin": "US64361Q1013",
+      "cusip": "64361Q101",
+      "name": "Viper Energy Inc. Class A",
+      "sharesHeld": "841135",
+      "marketValue": 35613655.9,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOV",
+      "isin": "US62955J1034",
+      "cusip": "62955J103",
+      "name": "NOV Inc.",
+      "sharesHeld": "1888230",
+      "marketValue": 34649020.5,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "WFRD",
+      "isin": "IE00BLNN3691",
+      "cusip": "G48833118",
+      "name": "Weatherford International plc",
+      "sharesHeld": "357345",
+      "marketValue": 33619017.6,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "AM",
+      "isin": "US03676B1026",
+      "cusip": "03676B102",
+      "name": "Antero Midstream Corp.",
+      "sharesHeld": "1758986",
+      "marketValue": 33104116.52,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "CHRD",
+      "isin": "US6742152076",
+      "cusip": "674215207",
+      "name": "Chord Energy Corp.",
+      "sharesHeld": "293900",
+      "marketValue": 29460536,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNX",
+      "isin": "US12653C1080",
+      "cusip": "12653C108",
+      "name": "CNX Resources Corp.",
+      "sharesHeld": "742568",
+      "marketValue": 28811638.4,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTDR",
+      "isin": "US5764852050",
+      "cusip": "576485205",
+      "name": "Matador Resources Co.",
+      "sharesHeld": "590844",
+      "marketValue": 26729782.56,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNR",
+      "isin": "US2189371006",
+      "cusip": "218937100",
+      "name": "Core Natural Resources Inc.",
+      "sharesHeld": "268045",
+      "marketValue": 25566132.1,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "RIG",
+      "isin": "CH0048265513",
+      "cusip": "H8817H100",
+      "name": "Transocean Ltd.",
+      "sharesHeld": "5085581",
+      "marketValue": 25275337.57,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "LEU",
+      "isin": "US15643U1043",
+      "cusip": "15643U104",
+      "name": "Centrus Energy Corp. Class A",
+      "sharesHeld": "90184",
+      "marketValue": 25096403.52,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "AROC",
+      "isin": "US03957W1062",
+      "cusip": "03957W106",
+      "name": "Archrock Inc.",
+      "sharesHeld": "846999",
+      "marketValue": 25062700.41,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "BTU",
+      "isin": "US7045511000",
+      "cusip": "704551100",
+      "name": "Peabody Energy Corp.",
+      "sharesHeld": "666885",
+      "marketValue": 23514365.1,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "NE",
+      "isin": "GB00BMXNWH07",
+      "cusip": "G65431127",
+      "name": "Noble Corp. plc",
+      "sharesHeld": "654927",
+      "marketValue": 23328499.74,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "SM",
+      "isin": "US78454L1008",
+      "cusip": "78454L100",
+      "name": "SM Energy Co.",
+      "sharesHeld": "1192490",
+      "marketValue": 23217780.3,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "MGY",
+      "isin": "US5596631094",
+      "cusip": "559663109",
+      "name": "Magnolia Oil & Gas Corp. Class A",
+      "sharesHeld": "893268",
+      "marketValue": 22787266.68,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "HESM",
+      "isin": "US4281031058",
+      "cusip": "428103105",
+      "name": "Hess Midstream LP Class A",
+      "sharesHeld": "629329",
+      "marketValue": 22322299.63,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "LBRT",
+      "isin": "US53115L1044",
+      "cusip": "53115L104",
+      "name": "Liberty Oilfield Services Inc. Class A",
+      "sharesHeld": "867361",
+      "marketValue": 21380448.65,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "MUR",
+      "isin": "US6267171022",
+      "cusip": "626717102",
+      "name": "Murphy Oil Corp.",
+      "sharesHeld": "701695",
+      "marketValue": 21114002.55,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRC",
+      "isin": "US13057Q3056",
+      "cusip": "13057Q305",
+      "name": "California Resources Corp.",
+      "sharesHeld": "393011",
+      "marketValue": 21026088.5,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "PAGP",
+      "isin": "US72651A2078",
+      "cusip": "72651A207",
+      "name": "Plains GP Holdings LP Class A",
+      "sharesHeld": "1020066",
+      "marketValue": 20890951.68,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "WHD",
+      "isin": "US1272031071",
+      "cusip": "127203107",
+      "name": "Cactus Inc. Class A",
+      "sharesHeld": "361493",
+      "marketValue": 20326751.39,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "KGS",
+      "isin": "US50012A1088",
+      "cusip": "50012A108",
+      "name": "Kodiak Gas Services Inc.",
+      "sharesHeld": "460319",
+      "marketValue": 19338001.19,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "VAL",
+      "isin": "BMG9460G1015",
+      "cusip": "G9460G101",
+      "name": "Valaris Ltd.",
+      "sharesHeld": "331609",
+      "marketValue": 19143787.57,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "HP",
+      "isin": "US4234521015",
+      "cusip": "423452101",
+      "name": "Helmerich & Payne Inc.",
+      "sharesHeld": "538183",
+      "marketValue": 18233640.04,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "GPOR",
+      "isin": "US4026355028",
+      "cusip": "402635502",
+      "name": "Gulfport Energy Corp.",
+      "sharesHeld": "82188",
+      "marketValue": 16780323.96,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "OII",
+      "isin": "US6752321025",
+      "cusip": "675232102",
+      "name": "Oceaneering International Inc.",
+      "sharesHeld": "549247",
+      "marketValue": 16532334.7,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "PBF",
+      "isin": "US69318G1067",
+      "cusip": "69318G106",
+      "name": "PBF Energy Inc. Class A",
+      "sharesHeld": "480377",
+      "marketValue": 16073414.42,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "TDW",
+      "isin": "US88642R1095",
+      "cusip": "88642R109",
+      "name": "Tidewater Inc.",
+      "sharesHeld": "254333",
+      "marketValue": 15893269.17,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRGY",
+      "isin": "US44952J1043",
+      "cusip": "44952J104",
+      "name": "Crescent Energy Co. Class A",
+      "sharesHeld": "1586526",
+      "marketValue": 15500359.02,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "PTEN",
+      "isin": "US7034811015",
+      "cusip": "703481101",
+      "name": "Patterson-UTI Energy Inc.",
+      "sharesHeld": "2016675",
+      "marketValue": 15185562.75,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "PARR",
+      "isin": "US69888T2078",
+      "cusip": "69888T207",
+      "name": "Par Pacific Holdings Inc.",
+      "sharesHeld": "369653",
+      "marketValue": 13950704.22,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "INSW",
+      "isin": "MHY410531021",
+      "cusip": "Y41053102",
+      "name": "International Seaways Inc.",
+      "sharesHeld": "231304",
+      "marketValue": 13797283.6,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEI",
+      "isin": "US83418M1036",
+      "cusip": "83418M103",
+      "name": "Solaris Oilfield Infrastructure Inc. Class A",
+      "sharesHeld": "243206",
+      "marketValue": 13422539.14,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "SDRL",
+      "isin": "BMG7997W1029",
+      "cusip": "G7997W102",
+      "name": "Seadrill Ltd.",
+      "sharesHeld": "338588",
+      "marketValue": 13028866.24,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOG",
+      "isin": "US6655313079",
+      "cusip": "665531307",
+      "name": "Northern Oil & Gas Inc.",
+      "sharesHeld": "517081",
+      "marketValue": 12927025,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRK",
+      "isin": "US2057683029",
+      "cusip": "205768302",
+      "name": "Comstock Resources Inc.",
+      "sharesHeld": "510857",
+      "marketValue": 12439367.95,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "TTI",
+      "isin": "US88162F1057",
+      "cusip": "88162F105",
+      "name": "TETRA Technologies Inc.",
+      "sharesHeld": "1062817",
+      "marketValue": 12116113.8,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "DK",
+      "isin": "US24665A1034",
+      "cusip": "24665A103",
+      "name": "Delek US Holdings Inc.",
+      "sharesHeld": "404700",
+      "marketValue": 11942697,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNTK",
+      "isin": "US02215L2097",
+      "cusip": "02215L209",
+      "name": "Kinetik Holdings Inc. Class A",
+      "sharesHeld": "271750",
+      "marketValue": 11117292.5,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "TALO",
+      "isin": "US87484T1088",
+      "cusip": "87484T108",
+      "name": "Talos Energy Inc.",
+      "sharesHeld": "844681",
+      "marketValue": 10068597.52,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "XPRO",
+      "isin": "NL0010556684",
+      "cusip": "N3144W105",
+      "name": "Expro Group Holdings NV",
+      "sharesHeld": "627523",
+      "marketValue": 10046643.23,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLMT",
+      "isin": "US1314281049",
+      "cusip": "131428104",
+      "name": "Calumet Inc.",
+      "sharesHeld": "433676",
+      "marketValue": 9718679.16,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "WKC",
+      "isin": "US9814751064",
+      "cusip": "981475106",
+      "name": "World Fuel Services Corp.",
+      "sharesHeld": "345736",
+      "marketValue": 9303755.76,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "PUMP",
+      "isin": "US74347M1080",
+      "cusip": "74347M108",
+      "name": "ProPetro Holding Corp.",
+      "sharesHeld": "802108",
+      "marketValue": 9216220.92,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "REX",
+      "isin": "US7616241052",
+      "cusip": "761624105",
+      "name": "REX American Resources Corp.",
+      "sharesHeld": "244072",
+      "marketValue": 8252074.32,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "LPG",
+      "isin": "MHY2106R1100",
+      "cusip": "Y2106R110",
+      "name": "Dorian LPG Ltd.",
+      "sharesHeld": "263764",
+      "marketValue": 7788950.92,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "EE",
+      "isin": "US30069T1016",
+      "cusip": "30069T101",
+      "name": "Excelerate Energy Inc. Class A",
+      "sharesHeld": "206733",
+      "marketValue": 7721477.55,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "WTTR",
+      "isin": "US81617J3014",
+      "cusip": "81617J301",
+      "name": "Select Energy Services Inc. Class A",
+      "sharesHeld": "632066",
+      "marketValue": 7641677.94,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOC",
+      "isin": "US78574H1041",
+      "cusip": "78574H104",
+      "name": "Sable Offshore Corp.",
+      "sharesHeld": "788381",
+      "marketValue": 7631528.08,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLX",
+      "isin": "US42330P1075",
+      "cusip": "42330P107",
+      "name": "Helix Energy Solutions Group Inc.",
+      "sharesHeld": "960899",
+      "marketValue": 7629538.06,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRP",
+      "isin": "US49435R1023",
+      "cusip": "49435R102",
+      "name": "Kimbell Royalty Partners LP",
+      "sharesHeld": "557911",
+      "marketValue": 7492744.73,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "INVX",
+      "isin": "US4576511079",
+      "cusip": "457651107",
+      "name": "Innovex International Inc.",
+      "sharesHeld": "288666",
+      "marketValue": 7173350.1,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLB",
+      "isin": "US21867A1051",
+      "cusip": "21867A105",
+      "name": "Core Laboratories Inc.",
+      "sharesHeld": "364569",
+      "marketValue": 7123678.26,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "VTOL",
+      "isin": "US11040G1031",
+      "cusip": "11040G103",
+      "name": "Bristow Group Inc.",
+      "sharesHeld": "151828",
+      "marketValue": 6674358.88,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "NBR",
+      "isin": "BMG6359F1370",
+      "cusip": "G6359F137",
+      "name": "Nabors Industries Ltd.",
+      "sharesHeld": "98168",
+      "marketValue": 6561549.12,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CVI",
+      "isin": "US12662P1084",
+      "cusip": "12662P108",
+      "name": "CVR Energy Inc.",
+      "sharesHeld": "258433",
+      "marketValue": 5876766.42,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "GPRE",
+      "isin": "US3932221043",
+      "cusip": "393222104",
+      "name": "Green Plains Inc.",
+      "sharesHeld": "503755",
+      "marketValue": 5773032.3,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "KOS",
+      "isin": "US5006881065",
+      "cusip": "500688106",
+      "name": "Kosmos Energy Ltd.",
+      "sharesHeld": "3629733",
+      "marketValue": 5734978.14,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "AESI",
+      "isin": "US6420451089",
+      "cusip": "642045108",
+      "name": "Atlas Energy Solutions Inc.",
+      "sharesHeld": "472154",
+      "marketValue": 5510037.18,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "EGY",
+      "isin": "US91851C2017",
+      "cusip": "91851C201",
+      "name": "VAALCO Energy Inc.",
+      "sharesHeld": "1031771",
+      "marketValue": 5303302.94,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "RES",
+      "isin": "US7496601060",
+      "cusip": "749660106",
+      "name": "RPC Inc.",
+      "sharesHeld": "793695",
+      "marketValue": 5278071.75,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SD",
+      "isin": "US80007P8692",
+      "cusip": "80007P869",
+      "name": "SandRidge Energy Inc.",
+      "sharesHeld": "332409",
+      "marketValue": 5268682.65,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "OIS",
+      "isin": "US6780261052",
+      "cusip": "678026105",
+      "name": "Oil States International Inc.",
+      "sharesHeld": "604368",
+      "marketValue": 5118996.96,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "VTS",
+      "isin": "US92852X1037",
+      "cusip": "92852X103",
+      "name": "Vitesse Energy Inc.",
+      "sharesHeld": "234276",
+      "marketValue": 4910424.96,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEXT",
+      "isin": "US65342K1051",
+      "cusip": "65342K105",
+      "name": "NextDecade Corp.",
+      "sharesHeld": "916923",
+      "marketValue": 4850522.67,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "BKV",
+      "isin": "US05603J1088",
+      "cusip": "05603J108",
+      "name": "BKV Corp.",
+      "sharesHeld": "157831",
+      "marketValue": 4695472.25,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GEVO",
+      "isin": "US3743964062",
+      "cusip": "374396406",
+      "name": "Gevo Inc.",
+      "sharesHeld": "2357212",
+      "marketValue": 4620135.52,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLNE",
+      "isin": "US1844991018",
+      "cusip": "184499101",
+      "name": "Clean Energy Fuels Corp.",
+      "sharesHeld": "1683927",
+      "marketValue": 3704639.4,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "REPX",
+      "isin": "US76665T1025",
+      "cusip": "76665T102",
+      "name": "Riley Exploration Permian Inc.",
+      "sharesHeld": "130695",
+      "marketValue": 3665994.75,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "WTI",
+      "isin": "US92922P1066",
+      "cusip": "92922P106",
+      "name": "W&T Offshore Inc.",
+      "sharesHeld": "1626883",
+      "marketValue": 3530336.11,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GRNT",
+      "isin": "US3874321074",
+      "cusip": "387432107",
+      "name": "Granite Ridge Resources Inc.",
+      "sharesHeld": "679657",
+      "marketValue": 3411878.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "REI",
+      "isin": "US76680V1089",
+      "cusip": "76680V108",
+      "name": "Ring Energy Inc.",
+      "sharesHeld": "2850664",
+      "marketValue": 3392290.16,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NFE",
+      "isin": "US6443931000",
+      "cusip": "644393100",
+      "name": "New Fortress Energy LLC",
+      "sharesHeld": "2248932",
+      "marketValue": 2991079.56,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BOOM",
+      "isin": "US23291C1036",
+      "cusip": "23291C103",
+      "name": "DMC Global Inc.",
+      "sharesHeld": "316080",
+      "marketValue": 2718288,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "HPK",
+      "isin": "US43114Q1058",
+      "cusip": "43114Q105",
+      "name": "HighPeak Energy Inc.",
+      "sharesHeld": "441895",
+      "marketValue": 2010622.25,
+      "percentWeight": "0.02"
+    }
+  ]
+}

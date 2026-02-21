@@ -1,0 +1,5013 @@
+{
+  "symbol": "VGK",
+  "name": "FTSE Europe ETF",
+  "assetClass": "International",
+  "asOfDate": "2026-01-31T00:00:00-05:00",
+  "holdingsCount": {
+    "stock": 1243,
+    "bond": 0,
+    "total": 1243
+  },
+  "holdings": [
+    {
+      "type": "stock",
+      "ticker": "ASML",
+      "isin": "NL0010273215",
+      "cusip": "N07059202",
+      "name": "ASML Holding NV",
+      "sharesHeld": "985730",
+      "marketValue": 1413443380.29,
+      "percentWeight": "3.57"
+    },
+    {
+      "type": "stock",
+      "ticker": "ROG",
+      "isin": "CH0012032048",
+      "cusip": "H69293217",
+      "name": "Roche Holding AG",
+      "sharesHeld": "1755839",
+      "marketValue": 798449459.16,
+      "percentWeight": "2.02"
+    },
+    {
+      "type": "stock",
+      "ticker": "HSBA",
+      "isin": "GB0005405286",
+      "cusip": null,
+      "name": "HSBC Holdings plc",
+      "sharesHeld": "43002188",
+      "marketValue": 758598404.15,
+      "percentWeight": "1.92"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOVN",
+      "isin": "CH0012005267",
+      "cusip": "H5820Q150",
+      "name": "Novartis AG",
+      "sharesHeld": "4807564",
+      "marketValue": 713297179.25,
+      "percentWeight": "1.80"
+    },
+    {
+      "type": "stock",
+      "ticker": "AZN",
+      "isin": "GB0009895292",
+      "cusip": null,
+      "name": "AstraZeneca plc",
+      "sharesHeld": "3753900",
+      "marketValue": 699404579.72,
+      "percentWeight": "1.77"
+    },
+    {
+      "type": "stock",
+      "ticker": "NESN",
+      "isin": "CH0038863350",
+      "cusip": "H57312649",
+      "name": "Nestle SA",
+      "sharesHeld": "6335846",
+      "marketValue": 604607691.71,
+      "percentWeight": "1.53"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIE",
+      "isin": "DE0007236101",
+      "cusip": null,
+      "name": "Siemens AG",
+      "sharesHeld": "1838874",
+      "marketValue": 555946990.27,
+      "percentWeight": "1.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAP",
+      "isin": "DE0007164600",
+      "cusip": "D66992104",
+      "name": "SAP SE",
+      "sharesHeld": "2574678",
+      "marketValue": 514339223.41,
+      "percentWeight": "1.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHEL",
+      "isin": "GB00BP6MXD84",
+      "cusip": null,
+      "name": "Shell plc",
+      "sharesHeld": "13291576",
+      "marketValue": 510921486.97,
+      "percentWeight": "1.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAN",
+      "isin": "ES0113900J37",
+      "cusip": null,
+      "name": "Banco Santander SA",
+      "sharesHeld": "37138990",
+      "marketValue": 474192951.19,
+      "percentWeight": "1.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOVO B",
+      "isin": "DK0062498333",
+      "cusip": null,
+      "name": "Novo Nordisk A/S Class B",
+      "sharesHeld": "7980672",
+      "marketValue": 473886088.92,
+      "percentWeight": "1.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALV",
+      "isin": "DE0008404005",
+      "cusip": null,
+      "name": "Allianz SE",
+      "sharesHeld": "967217",
+      "marketValue": 425886546.88,
+      "percentWeight": "1.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "MC",
+      "isin": "FR0000121014",
+      "cusip": "F58485115",
+      "name": "LVMH Moet Hennessy Louis Vuitton SE",
+      "sharesHeld": "638758",
+      "marketValue": 412257141.83,
+      "percentWeight": "1.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SU",
+      "isin": "FR0000121972",
+      "cusip": null,
+      "name": "Schneider Electric SE",
+      "sharesHeld": "1357384",
+      "marketValue": 389164483.34,
+      "percentWeight": "0.98"
+    },
+    {
+      "type": "stock",
+      "ticker": "UBSG",
+      "isin": "CH0244767585",
+      "cusip": null,
+      "name": "UBS Group AG",
+      "sharesHeld": "7988244",
+      "marketValue": 377966784.8,
+      "percentWeight": "0.95"
+    },
+    {
+      "type": "stock",
+      "ticker": "IBE",
+      "isin": "ES0144580Y14",
+      "cusip": null,
+      "name": "Iberdrola SA",
+      "sharesHeld": "16700716",
+      "marketValue": 375477887.42,
+      "percentWeight": "0.95"
+    },
+    {
+      "type": "stock",
+      "ticker": "ULVR",
+      "isin": "GB00BVZK7T90",
+      "cusip": null,
+      "name": "Unilever plc",
+      "sharesHeld": "5370885",
+      "marketValue": 365377997.84,
+      "percentWeight": "0.92"
+    },
+    {
+      "type": "stock",
+      "ticker": "BBVA",
+      "isin": "ES0113211835",
+      "cusip": null,
+      "name": "Banco Bilbao Vizcaya Argentaria SA",
+      "sharesHeld": "14192059",
+      "marketValue": 360246144.03,
+      "percentWeight": "0.91"
+    },
+    {
+      "type": "stock",
+      "ticker": "RR.",
+      "isin": "GB00B63H8491",
+      "cusip": null,
+      "name": "Rolls-Royce Holdings plc",
+      "sharesHeld": "21240035",
+      "marketValue": 355069123.95,
+      "percentWeight": "0.90"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABBN",
+      "isin": "CH0012221716",
+      "cusip": "H0010V101",
+      "name": "ABB Ltd.",
+      "sharesHeld": "3935908",
+      "marketValue": 338873894.04,
+      "percentWeight": "0.86"
+    },
+    {
+      "type": "stock",
+      "ticker": "AIR",
+      "isin": "NL0000235190",
+      "cusip": "N0280G100",
+      "name": "Airbus SE",
+      "sharesHeld": "1463539",
+      "marketValue": 335076857.91,
+      "percentWeight": "0.85"
+    },
+    {
+      "type": "stock",
+      "ticker": "TTE",
+      "isin": "FR0000120271",
+      "cusip": null,
+      "name": "TotalEnergies SE",
+      "sharesHeld": "4595195",
+      "marketValue": 334202496.68,
+      "percentWeight": "0.84"
+    },
+    {
+      "type": "stock",
+      "ticker": "UCG",
+      "isin": "IT0005239360",
+      "cusip": null,
+      "name": "UniCredit SPA",
+      "sharesHeld": "3829685",
+      "marketValue": 333741826.98,
+      "percentWeight": "0.84"
+    },
+    {
+      "type": "stock",
+      "ticker": "BATS",
+      "isin": "GB0002875804",
+      "cusip": null,
+      "name": "British American Tobacco plc",
+      "sharesHeld": "5328238",
+      "marketValue": 321898091.92,
+      "percentWeight": "0.81"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENR",
+      "isin": "DE000ENER6Y0",
+      "cusip": null,
+      "name": "Siemens Energy AG",
+      "sharesHeld": "1860079",
+      "marketValue": 316920296.31,
+      "percentWeight": "0.80"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAF",
+      "isin": "FR0000073272",
+      "cusip": null,
+      "name": "Safran SA",
+      "sharesHeld": "870658",
+      "marketValue": 311078397.3,
+      "percentWeight": "0.79"
+    },
+    {
+      "type": "stock",
+      "ticker": "DTE",
+      "isin": "DE0005557508",
+      "cusip": null,
+      "name": "Deutsche Telekom AG",
+      "sharesHeld": "8695648",
+      "marketValue": 291810759.16,
+      "percentWeight": "0.74"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISP",
+      "isin": "IT0000072618",
+      "cusip": null,
+      "name": "Intesa Sanpaolo SPA (Registered)",
+      "sharesHeld": "38452927",
+      "marketValue": 272222992.31,
+      "percentWeight": "0.69"
+    },
+    {
+      "type": "stock",
+      "ticker": "BNP",
+      "isin": "FR0000131104",
+      "cusip": null,
+      "name": "BNP Paribas SA",
+      "sharesHeld": "2479880",
+      "marketValue": 268155420.18,
+      "percentWeight": "0.68"
+    },
+    {
+      "type": "stock",
+      "ticker": "GSK",
+      "isin": "GB00BN7SWP63",
+      "cusip": null,
+      "name": "GSK plc",
+      "sharesHeld": "10007356",
+      "marketValue": 258806836.18,
+      "percentWeight": "0.65"
+    },
+    {
+      "type": "stock",
+      "ticker": "CFR",
+      "isin": "CH0210483332",
+      "cusip": null,
+      "name": "Cie Financiere Richemont SA",
+      "sharesHeld": "1325198",
+      "marketValue": 257233567.51,
+      "percentWeight": "0.65"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAN",
+      "isin": "FR0000120578",
+      "cusip": "F5548N101",
+      "name": "Sanofi SA",
+      "sharesHeld": "2687238",
+      "marketValue": 253470071.67,
+      "percentWeight": "0.64"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZURN",
+      "isin": "CH0011075394",
+      "cusip": null,
+      "name": "Zurich Insurance Group AG",
+      "sharesHeld": "356177",
+      "marketValue": 253392068.87,
+      "percentWeight": "0.64"
+    },
+    {
+      "type": "stock",
+      "ticker": "BP.",
+      "isin": "GB0007980591",
+      "cusip": null,
+      "name": "BP plc",
+      "sharesHeld": "39272330",
+      "marketValue": 249008423.26,
+      "percentWeight": "0.63"
+    },
+    {
+      "type": "stock",
+      "ticker": "RHM",
+      "isin": "DE0007030009",
+      "cusip": null,
+      "name": "Rheinmetall AG",
+      "sharesHeld": "112909",
+      "marketValue": 239236808.24,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "RIO",
+      "isin": "GB0007188757",
+      "cusip": null,
+      "name": "Rio Tinto plc",
+      "sharesHeld": "2588870",
+      "marketValue": 236193745.5,
+      "percentWeight": "0.60"
+    },
+    {
+      "type": "stock",
+      "ticker": "BARC",
+      "isin": "GB0031348658",
+      "cusip": null,
+      "name": "Barclays plc",
+      "sharesHeld": "34848783",
+      "marketValue": 232583165.92,
+      "percentWeight": "0.59"
+    },
+    {
+      "type": "stock",
+      "ticker": "LLOY",
+      "isin": "GB0008706128",
+      "cusip": null,
+      "name": "Lloyds Banking Group plc",
+      "sharesHeld": "148194197",
+      "marketValue": 221284180.79,
+      "percentWeight": "0.56"
+    },
+    {
+      "type": "stock",
+      "ticker": "EL",
+      "isin": "FR0000121667",
+      "cusip": "F31665106",
+      "name": "EssilorLuxottica SA",
+      "sharesHeld": "721774",
+      "marketValue": 220643309.58,
+      "percentWeight": "0.56"
+    },
+    {
+      "type": "stock",
+      "ticker": "INGA",
+      "isin": "NL0011821202",
+      "cusip": null,
+      "name": "ING Groep NV",
+      "sharesHeld": "7447402",
+      "marketValue": 219630557.28,
+      "percentWeight": "0.55"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENEL",
+      "isin": "IT0003128367",
+      "cusip": null,
+      "name": "Enel SPA",
+      "sharesHeld": "19436033",
+      "marketValue": 214739927.52,
+      "percentWeight": "0.54"
+    },
+    {
+      "type": "stock",
+      "ticker": "NG.",
+      "isin": "GB00BDR05C01",
+      "cusip": null,
+      "name": "National Grid plc",
+      "sharesHeld": "12400090",
+      "marketValue": 210671947.93,
+      "percentWeight": "0.53"
+    },
+    {
+      "type": "stock",
+      "ticker": "RMS",
+      "isin": "FR0000052292",
+      "cusip": "F48051100",
+      "name": "Hermes International SCA",
+      "sharesHeld": "85235",
+      "marketValue": 205075221.88,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "BA.",
+      "isin": "GB0002634946",
+      "cusip": null,
+      "name": "BAE Systems plc",
+      "sharesHeld": "7529794",
+      "marketValue": 204410857.89,
+      "percentWeight": "0.52"
+    },
+    {
+      "type": "stock",
+      "ticker": "MUV2",
+      "isin": "DE0008430026",
+      "cusip": null,
+      "name": "Muenchener Rueckversicherungs-Gesellschaft AG in Muenchen",
+      "sharesHeld": "327455",
+      "marketValue": 198462737.64,
+      "percentWeight": "0.50"
+    },
+    {
+      "type": "stock",
+      "ticker": "CS",
+      "isin": "FR0000120628",
+      "cusip": null,
+      "name": "Axa SA",
+      "sharesHeld": "4177117",
+      "marketValue": 190472703.85,
+      "percentWeight": "0.48"
+    },
+    {
+      "type": "stock",
+      "ticker": "NWG",
+      "isin": "GB00BM8PJY71",
+      "cusip": null,
+      "name": "NatWest Group plc",
+      "sharesHeld": "20234754",
+      "marketValue": 184435357.99,
+      "percentWeight": "0.47"
+    },
+    {
+      "type": "stock",
+      "ticker": "ITX",
+      "isin": "ES0148396007",
+      "cusip": "E6282J125",
+      "name": "Industria de Diseno Textil SA",
+      "sharesHeld": "2769992",
+      "marketValue": 180243644.38,
+      "percentWeight": "0.46"
+    },
+    {
+      "type": "stock",
+      "ticker": "DG",
+      "isin": "FR0000125486",
+      "cusip": null,
+      "name": "Vinci SA",
+      "sharesHeld": "1249922",
+      "marketValue": 179719540.06,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "GLEN",
+      "isin": "JE00B4T3BW64",
+      "cusip": null,
+      "name": "Glencore plc",
+      "sharesHeld": "26319836",
+      "marketValue": 179431638.34,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRX",
+      "isin": "NL0013654783",
+      "cusip": null,
+      "name": "Prosus NV",
+      "sharesHeld": "3068740",
+      "marketValue": 176456367.59,
+      "percentWeight": "0.45"
+    },
+    {
+      "type": "stock",
+      "ticker": "DBK",
+      "isin": "DE0005140008",
+      "cusip": null,
+      "name": "Deutsche Bank AG",
+      "sharesHeld": "4436307",
+      "marketValue": 175061500.64,
+      "percentWeight": "0.44"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABI",
+      "isin": "BE0974293251",
+      "cusip": null,
+      "name": "Anheuser-Busch InBev SA/NV",
+      "sharesHeld": "2383176",
+      "marketValue": 171548177.11,
+      "percentWeight": "0.43"
+    },
+    {
+      "type": "stock",
+      "ticker": "INVE B",
+      "isin": "SE0015811963",
+      "cusip": "W5R777115",
+      "name": "Investor AB Class B",
+      "sharesHeld": "4260387",
+      "marketValue": 164279039.06,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "REL",
+      "isin": "GB00B2B0DG97",
+      "cusip": "G7493L105",
+      "name": "RELX plc",
+      "sharesHeld": "4555893",
+      "marketValue": 161515594.91,
+      "percentWeight": "0.41"
+    },
+    {
+      "type": "stock",
+      "ticker": "IFX",
+      "isin": "DE0006231004",
+      "cusip": null,
+      "name": "Infineon Technologies AG",
+      "sharesHeld": "3254475",
+      "marketValue": 159086835.14,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "FR0000053951",
+      "cusip": null,
+      "name": "Air Liquide SA",
+      "sharesHeld": "837654",
+      "marketValue": 156860949.18,
+      "percentWeight": "0.40"
+    },
+    {
+      "type": "stock",
+      "ticker": "GLE",
+      "isin": "FR0000130809",
+      "cusip": null,
+      "name": "Societe Generale SA",
+      "sharesHeld": "1766224",
+      "marketValue": 154773210.91,
+      "percentWeight": "0.39"
+    },
+    {
+      "type": "stock",
+      "ticker": "RBGPF",
+      "isin": "GB00B24CGK77",
+      "cusip": null,
+      "name": "Reckitt Benckiser Group PLC",
+      "sharesHeld": "1699776",
+      "marketValue": 141810623.06,
+      "percentWeight": "0.36"
+    },
+    {
+      "type": "stock",
+      "ticker": "VOLV B",
+      "isin": "SE0000115446",
+      "cusip": "928856301",
+      "name": "Volvo AB Class B",
+      "sharesHeld": "3867726",
+      "marketValue": 140543090.04,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "FR0011149590",
+      "cusip": null,
+      "name": "L'Oreal SA",
+      "sharesHeld": "303570",
+      "marketValue": 139471901.95,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "LSEG",
+      "isin": "GB00B0SWJX34",
+      "cusip": null,
+      "name": "London Stock Exchange Group plc",
+      "sharesHeld": "1238745",
+      "marketValue": 138172175.49,
+      "percentWeight": "0.35"
+    },
+    {
+      "type": "stock",
+      "ticker": "DSV",
+      "isin": "DK0060079531",
+      "cusip": "K31864117",
+      "name": "DSV A/S",
+      "sharesHeld": "477430",
+      "marketValue": 134246106.53,
+      "percentWeight": "0.34"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATCO A",
+      "isin": "SE0017486889",
+      "cusip": null,
+      "name": "Atlas Copco AB Class A",
+      "sharesHeld": "6344113",
+      "marketValue": 130829475.59,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAYN",
+      "isin": "DE000BAY0017",
+      "cusip": "D0712D163",
+      "name": "Bayer AG",
+      "sharesHeld": "2462821",
+      "marketValue": 130262650.68,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "DHL",
+      "isin": "DE0005552004",
+      "cusip": null,
+      "name": "Deutsche Post AG",
+      "sharesHeld": "2314800",
+      "marketValue": 129463222.54,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "MBG",
+      "isin": "DE0007100000",
+      "cusip": null,
+      "name": "Mercedes-Benz Group AG",
+      "sharesHeld": "1892387",
+      "marketValue": 129333690.23,
+      "percentWeight": "0.33"
+    },
+    {
+      "type": "stock",
+      "ticker": "ARGX",
+      "isin": "NL0010832176",
+      "cusip": null,
+      "name": "Argenx SE",
+      "sharesHeld": "152692",
+      "marketValue": 128409476.67,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "DGE",
+      "isin": "GB0002374006",
+      "cusip": "G42089113",
+      "name": "Diageo plc",
+      "sharesHeld": "5573724",
+      "marketValue": 128253058.97,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "CPG",
+      "isin": "GB00BD6K4575",
+      "cusip": "G23296208",
+      "name": "Compass Group plc",
+      "sharesHeld": "4248806",
+      "marketValue": 127402291.51,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "HOLN",
+      "isin": "CH0012214059",
+      "cusip": null,
+      "name": "Holcim AG",
+      "sharesHeld": "1220196",
+      "marketValue": 125764183.51,
+      "percentWeight": "0.32"
+    },
+    {
+      "type": "stock",
+      "ticker": "BN",
+      "isin": "FR0000120644",
+      "cusip": null,
+      "name": "Danone SA",
+      "sharesHeld": "1586202",
+      "marketValue": 124294599.05,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "AAL",
+      "isin": "GB00BTK05J60",
+      "cusip": null,
+      "name": "Anglo American plc",
+      "sharesHeld": "2665851",
+      "marketValue": 123609650.32,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAS",
+      "isin": "DE000BASF111",
+      "cusip": "D06216317",
+      "name": "Basf Se",
+      "sharesHeld": "2237367",
+      "marketValue": 121296509.88,
+      "percentWeight": "0.31"
+    },
+    {
+      "type": "stock",
+      "ticker": "CABK",
+      "isin": "ES0140609019",
+      "cusip": null,
+      "name": "CaixaBank SA",
+      "sharesHeld": "8991301",
+      "marketValue": 118686744.16,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "EOAN",
+      "isin": "DE000ENAG999",
+      "cusip": null,
+      "name": "E.On Se",
+      "sharesHeld": "5556785",
+      "marketValue": 117858488.17,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "SREN",
+      "isin": "CH0126881561",
+      "cusip": null,
+      "name": "Swiss Re AG",
+      "sharesHeld": "736704",
+      "marketValue": 117713358.32,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "STAN",
+      "isin": "GB0004082847",
+      "cusip": null,
+      "name": "Standard Chartered plc",
+      "sharesHeld": "4583748",
+      "marketValue": 117281752.68,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "LONN",
+      "isin": "CH0013841017",
+      "cusip": null,
+      "name": "Lonza Group AG",
+      "sharesHeld": "172078",
+      "marketValue": 116918403.22,
+      "percentWeight": "0.30"
+    },
+    {
+      "type": "stock",
+      "ticker": "DB1",
+      "isin": "DE0005810055",
+      "cusip": null,
+      "name": "Deutsche Boerse AG",
+      "sharesHeld": "460667",
+      "marketValue": 116652485.48,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLN",
+      "isin": "GB00BMX86B70",
+      "cusip": null,
+      "name": "Haleon plc",
+      "sharesHeld": "22299984",
+      "marketValue": 116626670.17,
+      "percentWeight": "0.29"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGO",
+      "isin": "FR0000125007",
+      "cusip": null,
+      "name": "Cie de Saint-Gobain SA",
+      "sharesHeld": "1132166",
+      "marketValue": 111750961.35,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "III",
+      "isin": "GB00B1YW4409",
+      "cusip": null,
+      "name": "3i Group plc",
+      "sharesHeld": "2408407",
+      "marketValue": 110640096.63,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "NDA SE",
+      "isin": "FI4000297767",
+      "cusip": null,
+      "name": "Nordea Bank Abp",
+      "sharesHeld": "5654691",
+      "marketValue": 109107184.44,
+      "percentWeight": "0.28"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRU",
+      "isin": "GB0007099541",
+      "cusip": "G72899100",
+      "name": "Prudential plc",
+      "sharesHeld": "6447871",
+      "marketValue": 105907869.52,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "RWE",
+      "isin": "DE0007037129",
+      "cusip": null,
+      "name": "Rwe AG",
+      "sharesHeld": "1666743",
+      "marketValue": 105844606.38,
+      "percentWeight": "0.27"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENI",
+      "isin": "IT0003132476",
+      "cusip": null,
+      "name": "Eni SPA",
+      "sharesHeld": "5023231",
+      "marketValue": 102670354.96,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAND",
+      "isin": "SE0000667891",
+      "cusip": null,
+      "name": "Sandvik AB",
+      "sharesHeld": "2578867",
+      "marketValue": 101830032.34,
+      "percentWeight": "0.26"
+    },
+    {
+      "type": "stock",
+      "ticker": "LR",
+      "isin": "FR0010307819",
+      "cusip": "F56196185",
+      "name": "Legrand SA",
+      "sharesHeld": "631046",
+      "marketValue": 100751428.18,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "SSE",
+      "isin": "GB0007908733",
+      "cusip": null,
+      "name": "SSE plc",
+      "sharesHeld": "3017984",
+      "marketValue": 100310108.32,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALC",
+      "isin": "CH0432492467",
+      "cusip": null,
+      "name": "Alcon AG",
+      "sharesHeld": "1239122",
+      "marketValue": 100297358.99,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "RACE",
+      "isin": "NL0011585146",
+      "cusip": null,
+      "name": "Ferrari NV",
+      "sharesHeld": "298504",
+      "marketValue": 99564754.46,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "G",
+      "isin": "IT0000062072",
+      "cusip": null,
+      "name": "Generali",
+      "sharesHeld": "2424331",
+      "marketValue": 98889386.62,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADYEN",
+      "isin": "NL0012969182",
+      "cusip": null,
+      "name": "Adyen NV",
+      "sharesHeld": "66514",
+      "marketValue": 98629869.4,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASSA B",
+      "isin": "SE0007100581",
+      "cusip": "W0817X204",
+      "name": "Assa Abloy AB Class B",
+      "sharesHeld": "2434625",
+      "marketValue": 98441460.8,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASM",
+      "isin": "NL0000334118",
+      "cusip": null,
+      "name": "ASM International NV",
+      "sharesHeld": "116445",
+      "marketValue": 97794377.1,
+      "percentWeight": "0.25"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORA",
+      "isin": "FR0000133308",
+      "cusip": null,
+      "name": "Orange SA",
+      "sharesHeld": "5215997",
+      "marketValue": 96965467.89,
+      "percentWeight": "0.24"
+    },
+    {
+      "type": "stock",
+      "ticker": "TSCO",
+      "isin": "GB00BLGZ9862",
+      "cusip": null,
+      "name": "Tesco plc",
+      "sharesHeld": "15822355",
+      "marketValue": 92067124.22,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "EBS",
+      "isin": "AT0000652011",
+      "cusip": null,
+      "name": "Erste Group Bank AG",
+      "sharesHeld": "703013",
+      "marketValue": 91397947.37,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "UCB",
+      "isin": "BE0003739530",
+      "cusip": "B93562120",
+      "name": "Ucb SA",
+      "sharesHeld": "299473",
+      "marketValue": 91257044.48,
+      "percentWeight": "0.23"
+    },
+    {
+      "type": "stock",
+      "ticker": "AD",
+      "isin": "NL0011794037",
+      "cusip": null,
+      "name": "Koninklijke Ahold Delhaize NV",
+      "sharesHeld": "2245959",
+      "marketValue": 87817315.57,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXPN",
+      "isin": "GB00B19NLV48",
+      "cusip": "G32655105",
+      "name": "Experian plc",
+      "sharesHeld": "2297711",
+      "marketValue": 87025196.93,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEI",
+      "isin": "DE0006047004",
+      "cusip": "D31709104",
+      "name": "Heidelberg Materials AG",
+      "sharesHeld": "315511",
+      "marketValue": 86409182.06,
+      "percentWeight": "0.22"
+    },
+    {
+      "type": "stock",
+      "ticker": "PRY",
+      "isin": "IT0004176001",
+      "cusip": null,
+      "name": "Prysmian SPA",
+      "sharesHeld": "717053",
+      "marketValue": 84930090.02,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "AI",
+      "isin": "FR0000120073",
+      "cusip": "F01764103",
+      "name": "Air Liquide SA",
+      "sharesHeld": "447315",
+      "marketValue": 83765200.77,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "SDZ",
+      "isin": "CH1243598427",
+      "cusip": null,
+      "name": "Sandoz Group AG",
+      "sharesHeld": "1034025",
+      "marketValue": 81921482.34,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "OR",
+      "isin": "FR0000120321",
+      "cusip": "F58149133",
+      "name": "L'Oreal SA",
+      "sharesHeld": "177892",
+      "marketValue": 81730525.36,
+      "percentWeight": "0.21"
+    },
+    {
+      "type": "stock",
+      "ticker": "NOKIA",
+      "isin": "FI0009000681",
+      "cusip": null,
+      "name": "Nokia Oyj",
+      "sharesHeld": "12546410",
+      "marketValue": 80810279.4,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "SEB A",
+      "isin": "SE0000148884",
+      "cusip": "W25381141",
+      "name": "Skandinaviska Enskilda Banken AB Class A",
+      "sharesHeld": "3758829",
+      "marketValue": 80793853.81,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "IMB",
+      "isin": "GB0004544929",
+      "cusip": null,
+      "name": "Imperial Brands plc",
+      "sharesHeld": "1910401",
+      "marketValue": 80461858.32,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "FER",
+      "isin": "NL0015001FS8",
+      "cusip": null,
+      "name": "Ferrovial SE",
+      "sharesHeld": "1190151",
+      "marketValue": 80388793.05,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "GALD",
+      "isin": "CH1335392721",
+      "cusip": null,
+      "name": "Galderma Group AG",
+      "sharesHeld": "431247",
+      "marketValue": 80383985.59,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "DANSKE",
+      "isin": "DK0010274414",
+      "cusip": null,
+      "name": "Danske Bank A/S",
+      "sharesHeld": "1570527",
+      "marketValue": 80015257.01,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "KBC",
+      "isin": "BE0003565737",
+      "cusip": null,
+      "name": "KBC Group NV",
+      "sharesHeld": "566655",
+      "marketValue": 79850479.37,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "SWED A",
+      "isin": "SE0000242455",
+      "cusip": null,
+      "name": "Swedbank AB Class A",
+      "sharesHeld": "2024261",
+      "marketValue": 78703792.64,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "SLHN",
+      "isin": "CH0014852781",
+      "cusip": null,
+      "name": "Swiss Life Holding AG",
+      "sharesHeld": "71252",
+      "marketValue": 78131558.99,
+      "percentWeight": "0.20"
+    },
+    {
+      "type": "stock",
+      "ticker": "VWS",
+      "isin": "DK0061539921",
+      "cusip": null,
+      "name": "Vestas Wind Systems A/S",
+      "sharesHeld": "2521106",
+      "marketValue": 76418210.8,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMW",
+      "isin": "DE0005190003",
+      "cusip": "D12096109",
+      "name": "Bayerische Motoren Werke AG",
+      "sharesHeld": "727492",
+      "marketValue": 74917325.92,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMS",
+      "isin": "ES0109067019",
+      "cusip": "E04648114",
+      "name": "Amadeus IT Group SA",
+      "sharesHeld": "1110562",
+      "marketValue": 74459449.24,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "GIVN",
+      "isin": "CH0010645932",
+      "cusip": "H3238Q102",
+      "name": "Givaudan SA",
+      "sharesHeld": "19173",
+      "marketValue": 74112992.43,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADS",
+      "isin": "DE000A1EWWW0",
+      "cusip": null,
+      "name": "adidas AG",
+      "sharesHeld": "417704",
+      "marketValue": 74060391.26,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIKA",
+      "isin": "CH0418792922",
+      "cusip": null,
+      "name": "Sika AG",
+      "sharesHeld": "385684",
+      "marketValue": 74009085.12,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "ERIC B",
+      "isin": "SE0000108656",
+      "cusip": "W26049119",
+      "name": "Telefonaktiebolaget LM Ericsson Class B",
+      "sharesHeld": "6830731",
+      "marketValue": 73977929.43,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "PGHN",
+      "isin": "CH0024608827",
+      "cusip": "H6120A101",
+      "name": "Partners Group Holding AG",
+      "sharesHeld": "53826",
+      "marketValue": 73394116.62,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "FR0013215407",
+      "cusip": null,
+      "name": "Engie SA",
+      "sharesHeld": "2454882",
+      "marketValue": 73293955.52,
+      "percentWeight": "0.19"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAAB B",
+      "isin": "SE0021921269",
+      "cusip": null,
+      "name": "Saab AB Class B",
+      "sharesHeld": "898905",
+      "marketValue": 70135164.45,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "CBK",
+      "isin": "DE000CBK1001",
+      "cusip": null,
+      "name": "Commerzbank AG",
+      "sharesHeld": "1686720",
+      "marketValue": 69332092.84,
+      "percentWeight": "0.18"
+    },
+    {
+      "type": "stock",
+      "ticker": "VOD",
+      "isin": "GB00BH4HKS39",
+      "cusip": "G93882192",
+      "name": "Vodafone Group plc",
+      "sharesHeld": "46792455",
+      "marketValue": 68912499.02,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "HO",
+      "isin": "FR0000121329",
+      "cusip": null,
+      "name": "Thales SA",
+      "sharesHeld": "223597",
+      "marketValue": 68448767.3,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "ATCO B",
+      "isin": "SE0017486897",
+      "cusip": null,
+      "name": "Atlas Copco AB Class B",
+      "sharesHeld": "3760444",
+      "marketValue": 67641600.17,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "AHT",
+      "isin": "GB0000536739",
+      "cusip": "G05320109",
+      "name": "Ashtead Group plc",
+      "sharesHeld": "1049060",
+      "marketValue": 67538170.35,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "LDO",
+      "isin": "IT0003856405",
+      "cusip": null,
+      "name": "Leonardo SPA",
+      "sharesHeld": "1007456",
+      "marketValue": 67324866.25,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "AV.",
+      "isin": "GB00BPQY8M80",
+      "cusip": null,
+      "name": "Aviva plc",
+      "sharesHeld": "7607793",
+      "marketValue": 66323589.83,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMRZ",
+      "isin": "CH1430134226",
+      "cusip": null,
+      "name": "Amrize Ltd.",
+      "sharesHeld": "1248248",
+      "marketValue": 66032196.48,
+      "percentWeight": "0.17"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAMPO",
+      "isin": "FI4000552500",
+      "cusip": "X75653232",
+      "name": "Sampo Oyj Class A",
+      "sharesHeld": "5686561",
+      "marketValue": 63418245.66,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "GEBN",
+      "isin": "CH0030170408",
+      "cusip": "H2942E124",
+      "name": "Geberit AG",
+      "sharesHeld": "82221",
+      "marketValue": 62783146.1,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "VOW3",
+      "isin": "DE0007664039",
+      "cusip": null,
+      "name": "Volkswagen AG Preference Shares",
+      "sharesHeld": "516633",
+      "marketValue": 62670175.82,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "DTG",
+      "isin": "DE000DTR0CK8",
+      "cusip": null,
+      "name": "Daimler Truck Holding AG",
+      "sharesHeld": "1272893",
+      "marketValue": 61632121.33,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "ML",
+      "isin": "FR001400AJ45",
+      "cusip": null,
+      "name": "Cie Generale des Etablissements Michelin SCA",
+      "sharesHeld": "1658079",
+      "marketValue": 61573798.54,
+      "percentWeight": "0.16"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAP",
+      "isin": "FR0000125338",
+      "cusip": null,
+      "name": "Capgemini SE",
+      "sharesHeld": "385880",
+      "marketValue": 59957282.18,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTX",
+      "isin": "DE000A0D9PT0",
+      "cusip": null,
+      "name": "MTU Aero Engines AG",
+      "sharesHeld": "134840",
+      "marketValue": 59946471.26,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "A5G",
+      "isin": "IE00BF0L3536",
+      "cusip": null,
+      "name": "AIB Group plc",
+      "sharesHeld": "5355899",
+      "marketValue": 59868939.44,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "DNB",
+      "isin": "NO0010161896",
+      "cusip": null,
+      "name": "DNB Bank ASA",
+      "sharesHeld": "2039595",
+      "marketValue": 58481995.42,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEXA B",
+      "isin": "SE0015961909",
+      "cusip": "W4R431112",
+      "name": "Hexagon AB Class B",
+      "sharesHeld": "5145819",
+      "marketValue": 58019304.2,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "UMG",
+      "isin": "NL0015000IY2",
+      "cusip": null,
+      "name": "Universal Music Group NV",
+      "sharesHeld": "2358826",
+      "marketValue": 57832608.5,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "FRE",
+      "isin": "DE0005785604",
+      "cusip": "D27348263",
+      "name": "Fresenius SE & Co. KGaA",
+      "sharesHeld": "1031038",
+      "marketValue": 57673939.96,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "MT",
+      "isin": "LU1598757687",
+      "cusip": null,
+      "name": "ArcelorMittal SA",
+      "sharesHeld": "1059670",
+      "marketValue": 57548575.99,
+      "percentWeight": "0.15"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEIA",
+      "isin": "NL0000009165",
+      "cusip": null,
+      "name": "Heineken NV",
+      "sharesHeld": "693656",
+      "marketValue": 57261019.01,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "PUB",
+      "isin": "FR0000130577",
+      "cusip": null,
+      "name": "Publicis Groupe SA",
+      "sharesHeld": "570294",
+      "marketValue": 56999891.35,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "VIE",
+      "isin": "FR0000124141",
+      "cusip": null,
+      "name": "Veolia Environnement SA",
+      "sharesHeld": "1511062",
+      "marketValue": 56675633.61,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHB A",
+      "isin": "SE0007100599",
+      "cusip": null,
+      "name": "Svenska Handelsbanken AB Class A",
+      "sharesHeld": "3588603",
+      "marketValue": 56574513.43,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNEBV",
+      "isin": "FI0009013403",
+      "cusip": "X4551T105",
+      "name": "Kone Oyj Class B",
+      "sharesHeld": "781195",
+      "marketValue": 56140478.16,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "PKO",
+      "isin": "PLPKO0000016",
+      "cusip": null,
+      "name": "Powszechna Kasa Oszczednosci Bank Polski SA",
+      "sharesHeld": "2151651",
+      "marketValue": 55966299.24,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAMI",
+      "isin": "IT0005218380",
+      "cusip": null,
+      "name": "Banco BPM SPA",
+      "sharesHeld": "3682216",
+      "marketValue": 55193887.75,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHIA",
+      "isin": "NL0000009538",
+      "cusip": null,
+      "name": "Koninklijke Philips NV",
+      "sharesHeld": "1922009",
+      "marketValue": 55192040.85,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "KER",
+      "isin": "FR0000121485",
+      "cusip": null,
+      "name": "Kering SA",
+      "sharesHeld": "175609",
+      "marketValue": 54821203.6,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "WKL",
+      "isin": "NL0000395903",
+      "cusip": null,
+      "name": "Wolters Kluwer NV",
+      "sharesHeld": "579980",
+      "marketValue": 54461853.28,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "REP",
+      "isin": "ES0173516115",
+      "cusip": null,
+      "name": "Repsol SA",
+      "sharesHeld": "2750825",
+      "marketValue": 54194255.27,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMPS",
+      "isin": "IT0005508921",
+      "cusip": null,
+      "name": "Banca Monte dei Paschi di Siena SPA",
+      "sharesHeld": "5210482",
+      "marketValue": 54052479.55,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "AENA",
+      "isin": "ES0105046017",
+      "cusip": null,
+      "name": "Aena SME SA",
+      "sharesHeld": "1735018",
+      "marketValue": 53885406.07,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABN",
+      "isin": "NL0011540547",
+      "cusip": null,
+      "name": "ABN AMRO Bank NV",
+      "sharesHeld": "1451512",
+      "marketValue": 53478409.98,
+      "percentWeight": "0.14"
+    },
+    {
+      "type": "stock",
+      "ticker": "NSIS B",
+      "isin": "DK0060336014",
+      "cusip": "K7317J133",
+      "name": "Novonesis Novozymes B",
+      "sharesHeld": "869758",
+      "marketValue": 53293160.89,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "NN",
+      "isin": "NL0010773842",
+      "cusip": null,
+      "name": "NN Group NV",
+      "sharesHeld": "660409",
+      "marketValue": 52348770.14,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCMN",
+      "isin": "CH0008742519",
+      "cusip": null,
+      "name": "Swisscom AG",
+      "sharesHeld": "63728",
+      "marketValue": 52325843.77,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "NXT",
+      "isin": "GB0032089863",
+      "cusip": null,
+      "name": "Next plc",
+      "sharesHeld": "288151",
+      "marketValue": 52316368.33,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "VNA",
+      "isin": "DE000A1ML7J1",
+      "cusip": null,
+      "name": "Vonovia SE",
+      "sharesHeld": "1783034",
+      "marketValue": 52205933.09,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "INVE A",
+      "isin": "SE0015811955",
+      "cusip": null,
+      "name": "Investor AB Class A",
+      "sharesHeld": "1354130",
+      "marketValue": 51826173.51,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "HBAN",
+      "isin": "CH0466642201",
+      "cusip": null,
+      "name": "Helvetia Baloise Holding AG",
+      "sharesHeld": "202185",
+      "marketValue": 51278294.65,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQT",
+      "isin": "SE0012853455",
+      "cusip": null,
+      "name": "EQT AB",
+      "sharesHeld": "1343522",
+      "marketValue": 50994346.07,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "LGEN",
+      "isin": "GB0005603997",
+      "cusip": null,
+      "name": "Legal & General Group plc",
+      "sharesHeld": "14042191",
+      "marketValue": 50984597.37,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACA",
+      "isin": "FR0000045072",
+      "cusip": null,
+      "name": "Credit Agricole SA",
+      "sharesHeld": "2324481",
+      "marketValue": 50339943.51,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "GMAB",
+      "isin": "DK0010272202",
+      "cusip": null,
+      "name": "Genmab A/S",
+      "sharesHeld": "154249",
+      "marketValue": 50252084.04,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGSN",
+      "isin": "CH1256740924",
+      "cusip": null,
+      "name": "SGS SA",
+      "sharesHeld": "415859",
+      "marketValue": 50052563.3,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACS",
+      "isin": "ES0167050915",
+      "cusip": null,
+      "name": "ACS Actividades de Construccion y Servicios SA",
+      "sharesHeld": "445174",
+      "marketValue": 49946804.33,
+      "percentWeight": "0.13"
+    },
+    {
+      "type": "stock",
+      "ticker": "BPE",
+      "isin": "IT0000066123",
+      "cusip": null,
+      "name": "BPER Banca SPA",
+      "sharesHeld": "3509478",
+      "marketValue": 49425486.5,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAB",
+      "isin": "ES0113860A34",
+      "cusip": null,
+      "name": "Banco de Sabadell SA",
+      "sharesHeld": "12507383",
+      "marketValue": 49063746.58,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "BOL",
+      "isin": "SE0020050417",
+      "cusip": null,
+      "name": "Boliden AB",
+      "sharesHeld": "699914",
+      "marketValue": 49012661.79,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIRG",
+      "isin": "IE00BD1RP616",
+      "cusip": null,
+      "name": "Bank of Ireland Group plc",
+      "sharesHeld": "2410692",
+      "marketValue": 48979119.05,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "IHG",
+      "isin": "GB00BHJYC057",
+      "cusip": "G4804L163",
+      "name": "InterContinental Hotels Group plc",
+      "sharesHeld": "358736",
+      "marketValue": 48465304.99,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "CCEP",
+      "isin": "GB00BDCPN049",
+      "cusip": null,
+      "name": "Coca-Cola Europacific Partners plc",
+      "sharesHeld": "529337",
+      "marketValue": 48352332.15,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRK",
+      "isin": "DE0006599905",
+      "cusip": "D5357W103",
+      "name": "Merck KGaA",
+      "sharesHeld": "324106",
+      "marketValue": 48289419,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "NDA FI",
+      "isin": "FI4000297767",
+      "cusip": null,
+      "name": "Nordea Bank Abp",
+      "sharesHeld": "2480975",
+      "marketValue": 47933411.71,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "KPN",
+      "isin": "NL0000009082",
+      "cusip": null,
+      "name": "Koninklijke KPN NV",
+      "sharesHeld": "9444968",
+      "marketValue": 46256847.02,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "WRT1V",
+      "isin": "FI0009003727",
+      "cusip": "X98155116",
+      "name": "Wartsila OYJ Abp",
+      "sharesHeld": "1136891",
+      "marketValue": 46089570.82,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHELL",
+      "isin": "GB00BP6MXD84",
+      "cusip": null,
+      "name": "Shell plc",
+      "sharesHeld": "1191185",
+      "marketValue": 45893208.66,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "EQNR",
+      "isin": "NO0010096985",
+      "cusip": null,
+      "name": "Equinor ASA",
+      "sharesHeld": "1704582",
+      "marketValue": 45816623.17,
+      "percentWeight": "0.12"
+    },
+    {
+      "type": "stock",
+      "ticker": "HLMA",
+      "isin": "GB0004052071",
+      "cusip": "G42504103",
+      "name": "Halma plc",
+      "sharesHeld": "937176",
+      "marketValue": 45517307.22,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "DSY",
+      "isin": "FR0014003TT8",
+      "cusip": "F24571451",
+      "name": "Dassault Systemes SE",
+      "sharesHeld": "1654673",
+      "marketValue": 45511444.17,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "STMPA",
+      "isin": "NL0000226223",
+      "cusip": null,
+      "name": "STMicroelectronics NV",
+      "sharesHeld": "1610413",
+      "marketValue": 45474890.68,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "PKN",
+      "isin": "PLPKN0000018",
+      "cusip": null,
+      "name": "ORLEN SA",
+      "sharesHeld": "1457138",
+      "marketValue": 44286180.47,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "CLNX",
+      "isin": "ES0105066007",
+      "cusip": null,
+      "name": "Cellnex Telecom SA",
+      "sharesHeld": "1417185",
+      "marketValue": 43833732.48,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "EPI A",
+      "isin": "SE0015658109",
+      "cusip": "BDZV11902",
+      "name": "Epiroc AB Class A",
+      "sharesHeld": "1560297",
+      "marketValue": 43740076.52,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "VACN",
+      "isin": "CH0311864901",
+      "cusip": null,
+      "name": "VAT Group AG",
+      "sharesHeld": "67560",
+      "marketValue": 43688776.69,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "ESSITY B",
+      "isin": "SE0009922164",
+      "cusip": null,
+      "name": "Essity AB Class B",
+      "sharesHeld": "1466126",
+      "marketValue": 43410008.81,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAER",
+      "isin": "CH0102484968",
+      "cusip": null,
+      "name": "Julius Baer Group Ltd.",
+      "sharesHeld": "512056",
+      "marketValue": 42772182.41,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "RI",
+      "isin": "FR0000120693",
+      "cusip": null,
+      "name": "Pernod Ricard SA",
+      "sharesHeld": "478193",
+      "marketValue": 42758411.19,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "HNR1",
+      "isin": "DE0008402215",
+      "cusip": null,
+      "name": "Hannover Rueck SE",
+      "sharesHeld": "150538",
+      "marketValue": 42564550.13,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "FR0014013RC7",
+      "cusip": null,
+      "name": "L'Oreal SA",
+      "sharesHeld": "92168",
+      "marketValue": 42345575.18,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANTO",
+      "isin": "GB0000456144",
+      "cusip": null,
+      "name": "Antofagasta plc",
+      "sharesHeld": "852858",
+      "marketValue": 42260414.12,
+      "percentWeight": "0.11"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEF",
+      "isin": "ES0178430E18",
+      "cusip": "879382109",
+      "name": "Telefonica SA",
+      "sharesHeld": "10246122",
+      "marketValue": 41479333.5,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENGI",
+      "isin": "FR0010208488",
+      "cusip": null,
+      "name": "Engie SA",
+      "sharesHeld": "1372411",
+      "marketValue": 40975261.06,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "FBK",
+      "isin": "IT0000072170",
+      "cusip": null,
+      "name": "FinecoBank Banca Fineco SPA",
+      "sharesHeld": "1533242",
+      "marketValue": 40646601.95,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALFA",
+      "isin": "SE0000695876",
+      "cusip": "W04008152",
+      "name": "Alfa Laval AB",
+      "sharesHeld": "682179",
+      "marketValue": 39513345.81,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCHP",
+      "isin": "CH0024638196",
+      "cusip": null,
+      "name": "Schindler Holding AG",
+      "sharesHeld": "101341",
+      "marketValue": 39101651.6,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "RTO",
+      "isin": "GB00B082RF11",
+      "cusip": null,
+      "name": "Rentokil Initial plc",
+      "sharesHeld": "6290118",
+      "marketValue": 39041600.05,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "LISN",
+      "isin": "CH0010570759",
+      "cusip": null,
+      "name": "Chocoladefabriken Lindt & Spruengli AG",
+      "sharesHeld": "264",
+      "marketValue": 39022293.34,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "INF",
+      "isin": "GB00BMJ6DW54",
+      "cusip": null,
+      "name": "Informa plc",
+      "sharesHeld": "3219832",
+      "marketValue": 38856342.74,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "EDP",
+      "isin": "PTEDP0AM0009",
+      "cusip": null,
+      "name": "EDP SA",
+      "sharesHeld": "7487435",
+      "marketValue": 38286578.67,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRN",
+      "isin": "IT0003242622",
+      "cusip": null,
+      "name": "Terna - Rete Elettrica Nazionale",
+      "sharesHeld": "3518401",
+      "marketValue": 38126489.3,
+      "percentWeight": "0.10"
+    },
+    {
+      "type": "stock",
+      "ticker": "BT.A",
+      "isin": "GB0030913577",
+      "cusip": null,
+      "name": "BT Group plc",
+      "sharesHeld": "14121306",
+      "marketValue": 37118138.81,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SHL",
+      "isin": "DE000SHL1006",
+      "cusip": "D6T479107",
+      "name": "Siemens Healthineers AG",
+      "sharesHeld": "741527",
+      "marketValue": 37012178.26,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SN.",
+      "isin": "GB0009223206",
+      "cusip": "G82343164",
+      "name": "Smith & Nephew plc",
+      "sharesHeld": "2126897",
+      "marketValue": 36249259.41,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "STLAM",
+      "isin": "NL00150001Q9",
+      "cusip": null,
+      "name": "Stellantis NV",
+      "sharesHeld": "3692816",
+      "marketValue": 36235556.47,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRZ",
+      "isin": "IE0004906560",
+      "cusip": "G52416107",
+      "name": "Kerry Group plc Class A",
+      "sharesHeld": "406253",
+      "marketValue": 36112611.03,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "LISP",
+      "isin": "CH0010570767",
+      "cusip": "H49983184",
+      "name": "Chocoladefabriken Lindt & Spruengli AG",
+      "sharesHeld": "2500",
+      "marketValue": 35928690.06,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "DSFIR",
+      "isin": "CH1216478797",
+      "cusip": null,
+      "name": "DSM-Firmenich AG",
+      "sharesHeld": "455608",
+      "marketValue": 35926306.07,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "UPM",
+      "isin": "FI0009005987",
+      "cusip": null,
+      "name": "UPM-Kymmene Oyj",
+      "sharesHeld": "1297774",
+      "marketValue": 35803151.86,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEN3",
+      "isin": "DE0006048432",
+      "cusip": "D3207M110",
+      "name": "Henkel AG & Co. KGaA Preference Shares",
+      "sharesHeld": "407473",
+      "marketValue": 35797277.28,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "RO",
+      "isin": "CH0012032113",
+      "cusip": null,
+      "name": "Roche Holding AG (Bearer)",
+      "sharesHeld": "77073",
+      "marketValue": 35617067.49,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "KOGo",
+      "isin": "NO0013536151",
+      "cusip": null,
+      "name": "Kongsberg Gruppen ASA",
+      "sharesHeld": "1029999",
+      "marketValue": 35381578.06,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRG",
+      "isin": "IT0003153415",
+      "cusip": null,
+      "name": "Snam SPA",
+      "sharesHeld": "5135890",
+      "marketValue": 35297348.91,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGRO",
+      "isin": "GB00B5ZN1N88",
+      "cusip": null,
+      "name": "Segro plc",
+      "sharesHeld": "3377330",
+      "marketValue": 35186972.65,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "BESI",
+      "isin": "NL0012866412",
+      "cusip": null,
+      "name": "BE Semiconductor Industries NV",
+      "sharesHeld": "177068",
+      "marketValue": 34465101.5,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "METSO",
+      "isin": "FI0009014575",
+      "cusip": null,
+      "name": "Metso Oyj",
+      "sharesHeld": "1726890",
+      "marketValue": 33761970.36,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOON",
+      "isin": "CH0012549785",
+      "cusip": null,
+      "name": "Sonova Holding AG",
+      "sharesHeld": "123234",
+      "marketValue": 33727084.12,
+      "percentWeight": "0.09"
+    },
+    {
+      "type": "stock",
+      "ticker": "URW",
+      "isin": "FR0013326246",
+      "cusip": null,
+      "name": "Unibail-Rodamco-Westfield",
+      "sharesHeld": "303894",
+      "marketValue": 33600013.94,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "KRX",
+      "isin": "IE0004927939",
+      "cusip": "G52654103",
+      "name": "Kingspan Group plc",
+      "sharesHeld": "384192",
+      "marketValue": 33453356.06,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "MONC",
+      "isin": "IT0004965148",
+      "cusip": null,
+      "name": "Moncler SPA",
+      "sharesHeld": "562439",
+      "marketValue": 32769762.48,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "STMN",
+      "isin": "CH1175448666",
+      "cusip": null,
+      "name": "Straumann Holding AG",
+      "sharesHeld": "270692",
+      "marketValue": 32556048.92,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPSN",
+      "isin": "CH0008038389",
+      "cusip": null,
+      "name": "Swiss Prime Site AG",
+      "sharesHeld": "190303",
+      "marketValue": 32397293.99,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "BG",
+      "isin": "AT0000BAWAG2",
+      "cusip": null,
+      "name": "BAWAG Group AG",
+      "sharesHeld": "195949",
+      "marketValue": 31876164.71,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "LOGN",
+      "isin": "CH0025751329",
+      "cusip": null,
+      "name": "Logitech International SA",
+      "sharesHeld": "368908",
+      "marketValue": 31782199.43,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "KGH",
+      "isin": "PLKGHM000017",
+      "cusip": null,
+      "name": "KGHM Polska Miedz SA",
+      "sharesHeld": "341373",
+      "marketValue": 31674830.22,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "IAG",
+      "isin": "ES0177542018",
+      "cusip": null,
+      "name": "International Consolidated Airlines Group SA (London Shares)",
+      "sharesHeld": "5473011",
+      "marketValue": 31442873.45,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "AGS",
+      "isin": "BE0974264930",
+      "cusip": null,
+      "name": "Ageas SA/NV",
+      "sharesHeld": "442055",
+      "marketValue": 31399329.09,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "SGE",
+      "isin": "GB00B8C3BL03",
+      "cusip": null,
+      "name": "Sage Group plc",
+      "sharesHeld": "2383929",
+      "marketValue": 31260939.88,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENX",
+      "isin": "NL0006294274",
+      "cusip": null,
+      "name": "Euronext NV",
+      "sharesHeld": "223011",
+      "marketValue": 31233524.39,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "BEI",
+      "isin": "DE0005200000",
+      "cusip": null,
+      "name": "Beiersdorf AG",
+      "sharesHeld": "260007",
+      "marketValue": 31013466.31,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "CNA",
+      "isin": "GB00B033F229",
+      "cusip": null,
+      "name": "Centrica plc",
+      "sharesHeld": "11791468",
+      "marketValue": 30876085.94,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "CARL B",
+      "isin": "DK0010181759",
+      "cusip": null,
+      "name": "Carlsberg AS Class B",
+      "sharesHeld": "226376",
+      "marketValue": 30775622.19,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "AC",
+      "isin": "FR0000120404",
+      "cusip": null,
+      "name": "Accor SA",
+      "sharesHeld": "552172",
+      "marketValue": 30027727.6,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "PST",
+      "isin": "IT0003796171",
+      "cusip": null,
+      "name": "Poste Italiane SPA",
+      "sharesHeld": "1138791",
+      "marketValue": 29993651.55,
+      "percentWeight": "0.08"
+    },
+    {
+      "type": "stock",
+      "ticker": "AKZA",
+      "isin": "NL0013267909",
+      "cusip": null,
+      "name": "Akzo Nobel NV",
+      "sharesHeld": "421932",
+      "marketValue": 29559386.61,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "FR0014010OO5",
+      "cusip": null,
+      "name": "AIR LIQUIDE SA - PF - 2028",
+      "sharesHeld": "157815",
+      "marketValue": 29552787.54,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "UU.",
+      "isin": "GB00B39J2M42",
+      "cusip": null,
+      "name": "United Utilities Group plc",
+      "sharesHeld": "1707100",
+      "marketValue": 29235010.47,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELE",
+      "isin": "ES0130670112",
+      "cusip": null,
+      "name": "Endesa SA",
+      "sharesHeld": "790893",
+      "marketValue": 29195596.47,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "NHY",
+      "isin": "NO0005052605",
+      "cusip": null,
+      "name": "Norsk Hydro ASA",
+      "sharesHeld": "3233872",
+      "marketValue": 28709921.73,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "WEIR",
+      "isin": "GB0009465807",
+      "cusip": null,
+      "name": "Weir Group plc",
+      "sharesHeld": "648238",
+      "marketValue": 28631840.27,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "COLO B",
+      "isin": "DK0060448595",
+      "cusip": "K16018192",
+      "name": "Coloplast A/S Class B",
+      "sharesHeld": "335515",
+      "marketValue": 28600962.13,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ASRNL",
+      "isin": "NL0011872643",
+      "cusip": null,
+      "name": "ASR Nederland NV",
+      "sharesHeld": "386741",
+      "marketValue": 28089246.47,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "PZU",
+      "isin": "PLPZU0000011",
+      "cusip": null,
+      "name": "Powszechny Zaklad Ubezpieczen SA",
+      "sharesHeld": "1426874",
+      "marketValue": 28075637.47,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "FGR",
+      "isin": "FR0000130452",
+      "cusip": null,
+      "name": "Eiffage SA",
+      "sharesHeld": "189267",
+      "marketValue": 28069677.88,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "SMIN",
+      "isin": "GB00B1WY2338",
+      "cusip": "G82401111",
+      "name": "Smiths Group plc",
+      "sharesHeld": "816469",
+      "marketValue": 28039027.58,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "SY1",
+      "isin": "DE000SYM9999",
+      "cusip": "D827A1108",
+      "name": "Symrise AG Class A",
+      "sharesHeld": "332777",
+      "marketValue": 28015515.3,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "BVI",
+      "isin": "FR0006174348",
+      "cusip": null,
+      "name": "Bureau Veritas SA",
+      "sharesHeld": "868465",
+      "marketValue": 27957907.82,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "CCH",
+      "isin": "CH0198251305",
+      "cusip": null,
+      "name": "Coca-Cola HBC AG",
+      "sharesHeld": "501465",
+      "marketValue": 27234391.12,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "BEAN",
+      "isin": "CH1101098163",
+      "cusip": null,
+      "name": "Belimo Holding AG",
+      "sharesHeld": "24647",
+      "marketValue": 26958317.57,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRO",
+      "isin": "GB00BNGDN821",
+      "cusip": null,
+      "name": "Melrose Industries plc",
+      "sharesHeld": "3135185",
+      "marketValue": 26956116.48,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "PEO",
+      "isin": "PLPEKAO00016",
+      "cusip": null,
+      "name": "Bank Polska Kasa Opieki SA",
+      "sharesHeld": "442743",
+      "marketValue": 26926736.3,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "EDV",
+      "isin": "GB00BL6K5J42",
+      "cusip": null,
+      "name": "Endeavour Mining plc",
+      "sharesHeld": "472531",
+      "marketValue": 26895628.2,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALO",
+      "isin": "FR0010220475",
+      "cusip": null,
+      "name": "Alstom SA",
+      "sharesHeld": "841660",
+      "marketValue": 26872837.31,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "KNIN",
+      "isin": "CH0025238863",
+      "cusip": null,
+      "name": "Kuehne + Nagel International AG",
+      "sharesHeld": "115811",
+      "marketValue": 26817448.79,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "QIA",
+      "isin": "NL0015002SN0",
+      "cusip": null,
+      "name": "QIAGEN NV",
+      "sharesHeld": "505360",
+      "marketValue": 26793798.88,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "AGN",
+      "isin": "BMG0112X1056",
+      "cusip": null,
+      "name": "Aegon Ltd.",
+      "sharesHeld": "3403918",
+      "marketValue": 26735991.62,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "STJ",
+      "isin": "GB0007669376",
+      "cusip": "G5005D124",
+      "name": "St. James's Place plc",
+      "sharesHeld": "1273585",
+      "marketValue": 26599233.67,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "SVT",
+      "isin": "GB00B1FH8J72",
+      "cusip": null,
+      "name": "Severn Trent plc",
+      "sharesHeld": "662199",
+      "marketValue": 26597740.09,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "BKT",
+      "isin": "ES0113679I37",
+      "cusip": null,
+      "name": "Bankinter SA",
+      "sharesHeld": "1554089",
+      "marketValue": 26528256.29,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEL",
+      "isin": "NO0010063308",
+      "cusip": "R21882106",
+      "name": "Telenor ASA",
+      "sharesHeld": "1573639",
+      "marketValue": 26519949.41,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "TELIA",
+      "isin": "SE0000667925",
+      "cusip": null,
+      "name": "Telia Co. AB",
+      "sharesHeld": "5723678",
+      "marketValue": 26148387.28,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "NESTE",
+      "isin": "FI0009013296",
+      "cusip": null,
+      "name": "Neste Oyj",
+      "sharesHeld": "1022180",
+      "marketValue": 26111528.75,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORSTED",
+      "isin": "DK0060094928",
+      "cusip": null,
+      "name": "Orsted AS",
+      "sharesHeld": "1154351",
+      "marketValue": 25967424.9,
+      "percentWeight": "0.07"
+    },
+    {
+      "type": "stock",
+      "ticker": "G1A",
+      "isin": "DE0006602006",
+      "cusip": null,
+      "name": "GEA Group AG",
+      "sharesHeld": "359565",
+      "marketValue": 25709913.8,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "MKS",
+      "isin": "GB0031274896",
+      "cusip": null,
+      "name": "Marks & Spencer Group plc",
+      "sharesHeld": "5119898",
+      "marketValue": 25677317.6,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "EN",
+      "isin": "FR0000120503",
+      "cusip": null,
+      "name": "Bouygues SA",
+      "sharesHeld": "468482",
+      "marketValue": 25323228.19,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEL2 B",
+      "isin": "SE0005190238",
+      "cusip": null,
+      "name": "Tele2 AB",
+      "sharesHeld": "1368222",
+      "marketValue": 25173263.99,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SKA B",
+      "isin": "SE0000113250",
+      "cusip": null,
+      "name": "Skanska AB Class B",
+      "sharesHeld": "824044",
+      "marketValue": 25028017.38,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "MOWI",
+      "isin": "NO0003054108",
+      "cusip": null,
+      "name": "Mowi ASA",
+      "sharesHeld": "1083136",
+      "marketValue": 24968541.83,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "FORTUM",
+      "isin": "FI0009007132",
+      "cusip": null,
+      "name": "Fortum Oyj",
+      "sharesHeld": "1050582",
+      "marketValue": 24817200.76,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAERSK B",
+      "isin": "DK0010244508",
+      "cusip": null,
+      "name": "AP Moller - Maersk A/S Class B",
+      "sharesHeld": "9877",
+      "marketValue": 24423101.09,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "DPLM",
+      "isin": "GB0001826634",
+      "cusip": "G27664112",
+      "name": "Diploma plc",
+      "sharesHeld": "334061",
+      "marketValue": 24336890.12,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "HM B",
+      "isin": "SE0000106270",
+      "cusip": null,
+      "name": "H & M Hennes & Mauritz AB Class B",
+      "sharesHeld": "1214639",
+      "marketValue": 24323311.04,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "BCP",
+      "isin": "PTBCP0AM0015",
+      "cusip": null,
+      "name": "Banco Comercial Portugues SA",
+      "sharesHeld": "22428308",
+      "marketValue": 24276444.2,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "WISE",
+      "isin": "GB00BL9YR756",
+      "cusip": null,
+      "name": "Wise plc Class A",
+      "sharesHeld": "1870477",
+      "marketValue": 24124919.18,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "EPI B",
+      "isin": "SE0015658117",
+      "cusip": null,
+      "name": "Epiroc AB Class B",
+      "sharesHeld": "959926",
+      "marketValue": 23937759.85,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "FME",
+      "isin": "DE0005785802",
+      "cusip": "D2734Z107",
+      "name": "Fresenius Medical Care AG",
+      "sharesHeld": "526127",
+      "marketValue": 23685695.81,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADM",
+      "isin": "GB00B02J6398",
+      "cusip": null,
+      "name": "Admiral Group plc",
+      "sharesHeld": "626661",
+      "marketValue": 23583735.51,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ITRK",
+      "isin": "GB0031638363",
+      "cusip": "G4911B108",
+      "name": "Intertek Group plc",
+      "sharesHeld": "384240",
+      "marketValue": 23572220.48,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "RXL",
+      "isin": "FR0010451203",
+      "cusip": null,
+      "name": "Rexel SA",
+      "sharesHeld": "557149",
+      "marketValue": 23347643.29,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "CA",
+      "isin": "FR0000120172",
+      "cusip": null,
+      "name": "Carrefour SA",
+      "sharesHeld": "1409601",
+      "marketValue": 23088093.86,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ERF",
+      "isin": "FR0014000MR3",
+      "cusip": "L31839134",
+      "name": "Eurofins Scientific SE",
+      "sharesHeld": "284620",
+      "marketValue": 23023757.81,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "IMI",
+      "isin": "GB00BGLP8L22",
+      "cusip": "G47152114",
+      "name": "IMI plc",
+      "sharesHeld": "609129",
+      "marketValue": 23002098.56,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSPN",
+      "isin": "CH0018294154",
+      "cusip": null,
+      "name": "PSP Swiss Property AG",
+      "sharesHeld": "114082",
+      "marketValue": 22898428.95,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "FRES",
+      "isin": "GB00B2QPKJ12",
+      "cusip": null,
+      "name": "Fresnillo plc",
+      "sharesHeld": "461506",
+      "marketValue": 22727584.33,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "BEZ",
+      "isin": "GB00BYQ0JC66",
+      "cusip": "G0936K107",
+      "name": "Beazley plc",
+      "sharesHeld": "1462450",
+      "marketValue": 22719937.7,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "AKRBP",
+      "isin": "NO0010345853",
+      "cusip": null,
+      "name": "Aker BP ASA",
+      "sharesHeld": "771199",
+      "marketValue": 22702462.95,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "BNZL",
+      "isin": "GB00B0744B38",
+      "cusip": "G16968110",
+      "name": "Bunzl plc",
+      "sharesHeld": "804597",
+      "marketValue": 22563366.85,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "MNG",
+      "isin": "GB00BKFB1C65",
+      "cusip": null,
+      "name": "M&G plc",
+      "sharesHeld": "5312741",
+      "marketValue": 22522018.56,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACLN",
+      "isin": "CH1169360919",
+      "cusip": null,
+      "name": "Accelleron Industries AG",
+      "sharesHeld": "234839",
+      "marketValue": 22494515.59,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "SKF B",
+      "isin": "SE0000108227",
+      "cusip": null,
+      "name": "Skf Ab",
+      "sharesHeld": "836858",
+      "marketValue": 21881070.54,
+      "percentWeight": "0.06"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORNBV",
+      "isin": "FI0009014377",
+      "cusip": null,
+      "name": "Orion Oyj Class B",
+      "sharesHeld": "261453",
+      "marketValue": 21621652.95,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "MICC",
+      "isin": "NL0015002MS2",
+      "cusip": null,
+      "name": "Magnum Ice Cream Co. NV",
+      "sharesHeld": "1206551",
+      "marketValue": 21444189.23,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "CON",
+      "isin": "DE0005439004",
+      "cusip": null,
+      "name": "Continental AG",
+      "sharesHeld": "270016",
+      "marketValue": 21247352.36,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "OMV",
+      "isin": "AT0000743059",
+      "cusip": null,
+      "name": "OMV AG",
+      "sharesHeld": "357525",
+      "marketValue": 21239747.19,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEIO",
+      "isin": "NL0000008977",
+      "cusip": null,
+      "name": "Heineken Holding NV",
+      "sharesHeld": "284200",
+      "marketValue": 21124317.88,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSON",
+      "isin": "GB0006776081",
+      "cusip": null,
+      "name": "Pearson plc",
+      "sharesHeld": "1600942",
+      "marketValue": 21057108.05,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TREL B",
+      "isin": "SE0000114837",
+      "cusip": "W96297101",
+      "name": "Trelleborg AB Class B",
+      "sharesHeld": "519222",
+      "marketValue": 21010953.16,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "UNI",
+      "isin": "IT0004810054",
+      "cusip": null,
+      "name": "Unipol Assicurazioni SPA",
+      "sharesHeld": "942175",
+      "marketValue": 20983896.92,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "EVO",
+      "isin": "SE0012673267",
+      "cusip": null,
+      "name": "Evolution AB",
+      "sharesHeld": "317233",
+      "marketValue": 20607807.55,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GALP",
+      "isin": "PTGAL0AM0009",
+      "cusip": null,
+      "name": "Galp Energia SGPS SA",
+      "sharesHeld": "1032959",
+      "marketValue": 20553434.41,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "LI",
+      "isin": "FR0000121964",
+      "cusip": null,
+      "name": "Klepierre SA",
+      "sharesHeld": "518534",
+      "marketValue": 19975680.7,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPIE",
+      "isin": "FR0012757854",
+      "cusip": null,
+      "name": "Spie SA",
+      "sharesHeld": "363830",
+      "marketValue": 19935654.19,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "HEN",
+      "isin": "DE0006048408",
+      "cusip": null,
+      "name": "Henkel AG & Co. KGaA",
+      "sharesHeld": "240624",
+      "marketValue": 19863297.24,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "KGF",
+      "isin": "GB0033195214",
+      "cusip": "G5256E441",
+      "name": "Kingfisher plc",
+      "sharesHeld": "4307517",
+      "marketValue": 19850726.1,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GTT",
+      "isin": "FR0011726835",
+      "cusip": null,
+      "name": "Gaztransport Et Technigaz SA",
+      "sharesHeld": "92037",
+      "marketValue": 19829222.53,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ORK",
+      "isin": "NO0003733800",
+      "cusip": null,
+      "name": "Orkla ASA",
+      "sharesHeld": "1657673",
+      "marketValue": 19723587.02,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "NTGY",
+      "isin": "ES0116870314",
+      "cusip": null,
+      "name": "Naturgy Energy Group SA",
+      "sharesHeld": "624561",
+      "marketValue": 19611812.7,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SECU B",
+      "isin": "SE0000163594",
+      "cusip": null,
+      "name": "Securitas AB Class B",
+      "sharesHeld": "1182796",
+      "marketValue": 19559775.49,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEN",
+      "isin": "LU2598331598",
+      "cusip": null,
+      "name": "Tenaris SA",
+      "sharesHeld": "870866",
+      "marketValue": 19344495.02,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "KBX",
+      "isin": "DE000KBX1006",
+      "cusip": null,
+      "name": "Knorr-Bremse AG",
+      "sharesHeld": "165227",
+      "marketValue": 19238240.34,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GAW",
+      "isin": "GB0003718474",
+      "cusip": null,
+      "name": "Games Workshop Group plc",
+      "sharesHeld": "82064",
+      "marketValue": 19144554.58,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "VOLV A",
+      "isin": "SE0000115420",
+      "cusip": "928856202",
+      "name": "Volvo AB Class A",
+      "sharesHeld": "526123",
+      "marketValue": 19115719.72,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TLX",
+      "isin": "DE000TLX1005",
+      "cusip": null,
+      "name": "Talanx AG",
+      "sharesHeld": "150851",
+      "marketValue": 19026935.63,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "KCR",
+      "isin": "FI0009005870",
+      "cusip": null,
+      "name": "Konecranes Oyj",
+      "sharesHeld": "161052",
+      "marketValue": 18965825.41,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABF",
+      "isin": "GB0006731235",
+      "cusip": "G05600138",
+      "name": "Associated British Foods plc",
+      "sharesHeld": "725460",
+      "marketValue": 18959388.89,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "PHNX",
+      "isin": "GB00BGXQNP29",
+      "cusip": null,
+      "name": "Phoenix Group Holdings plc",
+      "sharesHeld": "1862948",
+      "marketValue": 18882237.4,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "LIFCO B",
+      "isin": "SE0015949201",
+      "cusip": null,
+      "name": "Lifco AB Class B",
+      "sharesHeld": "547375",
+      "marketValue": 18808890.04,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "BNR",
+      "isin": "DE000A1DAHH0",
+      "cusip": "D12459117",
+      "name": "Brenntag SE",
+      "sharesHeld": "308005",
+      "marketValue": 18738918.8,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "YAR",
+      "isin": "NO0010208051",
+      "cusip": null,
+      "name": "Yara International ASA",
+      "sharesHeld": "406522",
+      "marketValue": 18684867.5,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SBRY",
+      "isin": "GB00B019KW72",
+      "cusip": null,
+      "name": "J Sainsbury plc",
+      "sharesHeld": "4263400",
+      "marketValue": 18680992.1,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCHN",
+      "isin": "CH0024638212",
+      "cusip": null,
+      "name": "Schindler Holding AG (Registered)",
+      "sharesHeld": "50755",
+      "marketValue": 18666742.11,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TIT",
+      "isin": "IT0003497168",
+      "cusip": null,
+      "name": "Telecom Italia SPA (Registered)",
+      "sharesHeld": "27432974",
+      "marketValue": 18608688.17,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "IG",
+      "isin": "IT0005211237",
+      "cusip": null,
+      "name": "Italgas SPA",
+      "sharesHeld": "1536714",
+      "marketValue": 18462357.3,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADDT B",
+      "isin": "SE0014781795",
+      "cusip": null,
+      "name": "AddTech AB",
+      "sharesHeld": "566948",
+      "marketValue": 18408224.97,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCA B",
+      "isin": "SE0000112724",
+      "cusip": "W90152120",
+      "name": "Svenska Cellulosa AB SCA Class B",
+      "sharesHeld": "1469671",
+      "marketValue": 18401622.64,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "TRYG",
+      "isin": "DK0060636678",
+      "cusip": null,
+      "name": "Tryg A/S",
+      "sharesHeld": "755441",
+      "marketValue": 18359488.25,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "GBLB",
+      "isin": "BE0003797140",
+      "cusip": "B4746J115",
+      "name": "Groupe Bruxelles Lambert NV",
+      "sharesHeld": "193143",
+      "marketValue": 18275670.64,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOBI",
+      "isin": "SE0000872095",
+      "cusip": null,
+      "name": "Swedish Orphan Biovitrum AB",
+      "sharesHeld": "480876",
+      "marketValue": 18261434.67,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPX",
+      "isin": "GB00BWFGQN14",
+      "cusip": "G83561129",
+      "name": "Spirax Group plc",
+      "sharesHeld": "183233",
+      "marketValue": 18258136.07,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "BTRW",
+      "isin": "GB0000811801",
+      "cusip": null,
+      "name": "Barratt Redrow plc",
+      "sharesHeld": "3376222",
+      "marketValue": 17977475.39,
+      "percentWeight": "0.05"
+    },
+    {
+      "type": "stock",
+      "ticker": "EXO",
+      "isin": "NL0012059018",
+      "cusip": null,
+      "name": "EXOR NV",
+      "sharesHeld": "216984",
+      "marketValue": 17815695.73,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "STB",
+      "isin": "NO0003053605",
+      "cusip": null,
+      "name": "Storebrand ASA",
+      "sharesHeld": "1014747",
+      "marketValue": 17757925.19,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LPP",
+      "isin": "PLLPP0000011",
+      "cusip": null,
+      "name": "Lpp SA",
+      "sharesHeld": "3203",
+      "marketValue": 17688661.53,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": null,
+      "isin": "FR0014012X74",
+      "cusip": null,
+      "name": "Engie SA",
+      "sharesHeld": "591247",
+      "marketValue": 17652510.93,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "RNO",
+      "isin": "FR0000131906",
+      "cusip": null,
+      "name": "Renault SA",
+      "sharesHeld": "467352",
+      "marketValue": 17637567.32,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "RED",
+      "isin": "ES0173093024",
+      "cusip": "E42807110",
+      "name": "Redeia Corp. SA",
+      "sharesHeld": "1016840",
+      "marketValue": 17572963.18,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "NKT",
+      "isin": "DK0010287663",
+      "cusip": null,
+      "name": "Nkt A/S",
+      "sharesHeld": "134146",
+      "marketValue": 17544458.21,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "G24",
+      "isin": "DE000A12DM80",
+      "cusip": null,
+      "name": "Scout24 SE",
+      "sharesHeld": "175418",
+      "marketValue": 17464823.28,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "INDU C",
+      "isin": "SE0000107203",
+      "cusip": null,
+      "name": "Industrivarden AB Class C",
+      "sharesHeld": "343804",
+      "marketValue": 17212230.32,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ICG",
+      "isin": "GB00BYT1DJ19",
+      "cusip": "G4807D192",
+      "name": "ICG plc",
+      "sharesHeld": "680370",
+      "marketValue": 16929895.68,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "HSX",
+      "isin": "BMG4593F1389",
+      "cusip": "G4593F138",
+      "name": "Hiscox Ltd.",
+      "sharesHeld": "830944",
+      "marketValue": 16900853.62,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZAL",
+      "isin": "DE000ZAL1111",
+      "cusip": null,
+      "name": "Zalando SE",
+      "sharesHeld": "586627",
+      "marketValue": 16868671.53,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "STERV",
+      "isin": "FI0009005961",
+      "cusip": null,
+      "name": "Stora Enso Oyj",
+      "sharesHeld": "1457360",
+      "marketValue": 16777109.16,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "KESKOB",
+      "isin": "FI0009000202",
+      "cusip": null,
+      "name": "Kesko Oyj Class B",
+      "sharesHeld": "661350",
+      "marketValue": 16727764.28,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "AM",
+      "isin": "FR0014004L86",
+      "cusip": null,
+      "name": "Dassault Aviation SA",
+      "sharesHeld": "43960",
+      "marketValue": 16712486.91,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "BEIJ B",
+      "isin": "SE0015949748",
+      "cusip": null,
+      "name": "Beijer Ref AB Class B",
+      "sharesHeld": "1166967",
+      "marketValue": 16611623.34,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPL",
+      "isin": "PLBZ00000044",
+      "cusip": null,
+      "name": "Santander Bank Polska SA",
+      "sharesHeld": "105613",
+      "marketValue": 16569024.02,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAND",
+      "isin": "GB00BYW0PQ60",
+      "cusip": null,
+      "name": "Land Securities Group plc",
+      "sharesHeld": "1851111",
+      "marketValue": 16521972.49,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "STLAP",
+      "isin": "NL00150001Q9",
+      "cusip": null,
+      "name": "Stellantis NV",
+      "sharesHeld": "1684979",
+      "marketValue": 16498982.15,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "UHR",
+      "isin": "CH0012255151",
+      "cusip": null,
+      "name": "Swatch Group AG (Bearer)",
+      "sharesHeld": "69579",
+      "marketValue": 16416298.97,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALE",
+      "isin": "LU2237380790",
+      "cusip": null,
+      "name": "Allegro.eu SA",
+      "sharesHeld": "1992615",
+      "marketValue": 16369049.01,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "TKA",
+      "isin": "DE0007500001",
+      "cusip": null,
+      "name": "thyssenkrupp AG",
+      "sharesHeld": "1224678",
+      "marketValue": 16325844.88,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "JMT",
+      "isin": "PTJMT0AE0001",
+      "cusip": null,
+      "name": "Jeronimo Martins SGPS SA",
+      "sharesHeld": "688014",
+      "marketValue": 16224093.39,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAERSK A",
+      "isin": "DK0010244425",
+      "cusip": null,
+      "name": "AP Moller - Maersk A/S Class A",
+      "sharesHeld": "6595",
+      "marketValue": 16172049.07,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "WTB",
+      "isin": "GB00B1KJJ408",
+      "cusip": "G9606P197",
+      "name": "Whitbread plc",
+      "sharesHeld": "432305",
+      "marketValue": 16137251.59,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAVE",
+      "isin": "SE0015192067",
+      "cusip": null,
+      "name": "Nordnet AB publ",
+      "sharesHeld": "496018",
+      "marketValue": 16047714.6,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "RBI",
+      "isin": "AT0000606306",
+      "cusip": null,
+      "name": "Raiffeisen Bank International AG",
+      "sharesHeld": "318338",
+      "marketValue": 16045971.65,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SQN",
+      "isin": "CH0010675863",
+      "cusip": null,
+      "name": "Swissquote Group Holding SA",
+      "sharesHeld": "28142",
+      "marketValue": 16021417.55,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "INDU A",
+      "isin": "SE0000190126",
+      "cusip": null,
+      "name": "Industrivarden AB Class A",
+      "sharesHeld": "319981",
+      "marketValue": 15995985.62,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELI",
+      "isin": "BE0003822393",
+      "cusip": null,
+      "name": "Elia Group SA/NV Class B",
+      "sharesHeld": "110088",
+      "marketValue": 15938613.35,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "AUTO",
+      "isin": "GB00BVYVFW23",
+      "cusip": null,
+      "name": "Autotrader Group plc",
+      "sharesHeld": "2147495",
+      "marketValue": 15830227.65,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "JYSK",
+      "isin": "DK0010307958",
+      "cusip": null,
+      "name": "Jyske Bank A/S",
+      "sharesHeld": "108579",
+      "marketValue": 15801121.12,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "INDT",
+      "isin": "SE0001515552",
+      "cusip": null,
+      "name": "Indutrade AB",
+      "sharesHeld": "672265",
+      "marketValue": 15781744.01,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "HOT",
+      "isin": "DE0006070006",
+      "cusip": null,
+      "name": "Hochtief AG",
+      "sharesHeld": "37523",
+      "marketValue": 15735063.47,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ACKB",
+      "isin": "BE0003764785",
+      "cusip": "B01165156",
+      "name": "Ackermans & van Haaren NV",
+      "sharesHeld": "52920",
+      "marketValue": 15657343.82,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "DIM",
+      "isin": "FR0013154002",
+      "cusip": "F8005V210",
+      "name": "Sartorius Stedim Biotech",
+      "sharesHeld": "69745",
+      "marketValue": 15585763.32,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "DHER",
+      "isin": "DE000A2E4K43",
+      "cusip": null,
+      "name": "Delivery Hero SE Class A",
+      "sharesHeld": "557583",
+      "marketValue": 15550532.26,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "GALE",
+      "isin": "CH0360674466",
+      "cusip": "H85158113",
+      "name": "Galenica AG",
+      "sharesHeld": "124308",
+      "marketValue": 15538197.05,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "BARN",
+      "isin": "CH0009002962",
+      "cusip": null,
+      "name": "Barry Callebaut AG",
+      "sharesHeld": "8797",
+      "marketValue": 15518055.57,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LHA",
+      "isin": "DE0008232125",
+      "cusip": null,
+      "name": "Deutsche Lufthansa AG",
+      "sharesHeld": "1505137",
+      "marketValue": 15505116.44,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELISA",
+      "isin": "FI0009007884",
+      "cusip": null,
+      "name": "Elisa Oyj",
+      "sharesHeld": "349225",
+      "marketValue": 15447971.7,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "RILBA",
+      "isin": "DK0060854669",
+      "cusip": null,
+      "name": "Ringkjoebing Landbobank A/S",
+      "sharesHeld": "61177",
+      "marketValue": 15421976.21,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "HWDN",
+      "isin": "GB0005576813",
+      "cusip": null,
+      "name": "Howden Joinery Group plc",
+      "sharesHeld": "1344119",
+      "marketValue": 15398105.89,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LMP",
+      "isin": "GB00B4WFW713",
+      "cusip": null,
+      "name": "LondonMetric Property plc",
+      "sharesHeld": "5589991",
+      "marketValue": 15345020.83,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "IGG",
+      "isin": "GB00B06QFB75",
+      "cusip": null,
+      "name": "IG Group Holdings plc",
+      "sharesHeld": "823007",
+      "marketValue": 15268462.51,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "LTMC",
+      "isin": "IT0005541336",
+      "cusip": null,
+      "name": "Lottomatica Group SPA",
+      "sharesHeld": "617772",
+      "marketValue": 15196028.5,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MTLN",
+      "isin": "GB00BTQGS779",
+      "cusip": null,
+      "name": "Metlen Energy & Metals plc",
+      "sharesHeld": "278153",
+      "marketValue": 15170672.4,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "PNDORA",
+      "isin": "DK0060252690",
+      "cusip": null,
+      "name": "Pandora A/S",
+      "sharesHeld": "187362",
+      "marketValue": 15165760.66,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "PSN",
+      "isin": "GB0006825383",
+      "cusip": null,
+      "name": "Persimmon plc",
+      "sharesHeld": "782666",
+      "marketValue": 15071974.38,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "GET",
+      "isin": "FR0010533075",
+      "cusip": "F4R053105",
+      "name": "Getlink SE",
+      "sharesHeld": "760283",
+      "marketValue": 15049342.17,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "HAG",
+      "isin": "DE000HAG0005",
+      "cusip": null,
+      "name": "Hensoldt AG",
+      "sharesHeld": "151178",
+      "marketValue": 15018413.49,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "REC",
+      "isin": "IT0003828271",
+      "cusip": null,
+      "name": "Recordati Industria Chimica e Farmaceutica SPA",
+      "sharesHeld": "270693",
+      "marketValue": 14915000.99,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SYENS",
+      "isin": "BE0974464977",
+      "cusip": null,
+      "name": "Syensqo SA",
+      "sharesHeld": "175840",
+      "marketValue": 14799352.36,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEX",
+      "isin": "FR0000044448",
+      "cusip": null,
+      "name": "Nexans SA",
+      "sharesHeld": "93807",
+      "marketValue": 14775758.08,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "FHZN",
+      "isin": "CH0319416936",
+      "cusip": null,
+      "name": "Flughafen Zurich AG",
+      "sharesHeld": "47358",
+      "marketValue": 14708503.09,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "JDEP",
+      "isin": "NL0014332678",
+      "cusip": null,
+      "name": "JDE Peet's NV",
+      "sharesHeld": "388739",
+      "marketValue": 14634907.56,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "TE",
+      "isin": "NL0014559478",
+      "cusip": null,
+      "name": "Technip Energies NV",
+      "sharesHeld": "373309",
+      "marketValue": 14629757.89,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SUBC",
+      "isin": "LU0075646355",
+      "cusip": null,
+      "name": "Subsea 7 SA",
+      "sharesHeld": "563011",
+      "marketValue": 14391736.58,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMW3",
+      "isin": "DE0005190037",
+      "cusip": null,
+      "name": "Bayerische Motoren Werke AG Preference Shares",
+      "sharesHeld": "139524",
+      "marketValue": 14391269,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "IPN",
+      "isin": "FR0010259150",
+      "cusip": null,
+      "name": "Ipsen SA",
+      "sharesHeld": "87309",
+      "marketValue": 14263254.65,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "VOE",
+      "isin": "AT0000937503",
+      "cusip": null,
+      "name": "voestalpine AG",
+      "sharesHeld": "298597",
+      "marketValue": 14179022.6,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "IDR",
+      "isin": "ES0118594417",
+      "cusip": null,
+      "name": "Indra Sistemas SA",
+      "sharesHeld": "218406",
+      "marketValue": 14116440.89,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "SCR",
+      "isin": "FR0010411983",
+      "cusip": null,
+      "name": "Scor Se",
+      "sharesHeld": "433029",
+      "marketValue": 14111189.64,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANDR",
+      "isin": "AT0000730007",
+      "cusip": null,
+      "name": "Andritz AG",
+      "sharesHeld": "161859",
+      "marketValue": 14004748.61,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "MRL",
+      "isin": "ES0105025003",
+      "cusip": null,
+      "name": "Merlin Properties Socimi SA",
+      "sharesHeld": "940006",
+      "marketValue": 13990299.91,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "AVOL",
+      "isin": "CH0023405456",
+      "cusip": null,
+      "name": "Avolta AG",
+      "sharesHeld": "227085",
+      "marketValue": 13902473.58,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "NIBE B",
+      "isin": "SE0015988019",
+      "cusip": null,
+      "name": "Nibe Industrier AB Class B",
+      "sharesHeld": "3619615",
+      "marketValue": 13865936.21,
+      "percentWeight": "0.04"
+    },
+    {
+      "type": "stock",
+      "ticker": "BLND",
+      "isin": "GB0001367019",
+      "cusip": null,
+      "name": "British Land Co. plc",
+      "sharesHeld": "2427507",
+      "marketValue": 13846323.45,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BBOX",
+      "isin": "GB00BG49KP99",
+      "cusip": null,
+      "name": "Tritax Big Box REIT plc",
+      "sharesHeld": "6094537",
+      "marketValue": 13834157.91,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CTEC",
+      "isin": "GB00BD3VFW73",
+      "cusip": null,
+      "name": "Convatec Group plc",
+      "sharesHeld": "4385290",
+      "marketValue": 13832601.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LEG",
+      "isin": "DE000LEG1110",
+      "cusip": null,
+      "name": "LEG Immobilien SE",
+      "sharesHeld": "189775",
+      "marketValue": 13722171.98,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DCC",
+      "isin": "IE0002424939",
+      "cusip": null,
+      "name": "DCC plc",
+      "sharesHeld": "215362",
+      "marketValue": 13651667.31,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IMCD",
+      "isin": "NL0010801007",
+      "cusip": null,
+      "name": "Imcd Nv",
+      "sharesHeld": "145440",
+      "marketValue": 13594628.4,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "JMAT",
+      "isin": "GB00BZ4BQC70",
+      "cusip": "G51604166",
+      "name": "Johnson Matthey plc",
+      "sharesHeld": "420042",
+      "marketValue": 13583258.55,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RYA",
+      "isin": "IE00BYTBXV33",
+      "cusip": null,
+      "name": "Ryanair Holdings plc",
+      "sharesHeld": "398751",
+      "marketValue": 13533344.24,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BRBY",
+      "isin": "GB0031743007",
+      "cusip": "G1700D105",
+      "name": "Burberry Group plc",
+      "sharesHeld": "891970",
+      "marketValue": 13476706.42,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ABDN",
+      "isin": "GB00BF8Q6K64",
+      "cusip": null,
+      "name": "Aberdeen Group plc",
+      "sharesHeld": "4508559",
+      "marketValue": 13461602.78,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ISS",
+      "isin": "DK0060542181",
+      "cusip": null,
+      "name": "Iss A/S",
+      "sharesHeld": "353838",
+      "marketValue": 13419196.2,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMSN",
+      "isin": "CH0016440353",
+      "cusip": "H22206199",
+      "name": "EMS-Chemie Holding AG",
+      "sharesHeld": "17067",
+      "marketValue": 13269046.32,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ELIS",
+      "isin": "FR0012435121",
+      "cusip": null,
+      "name": "Elis SA",
+      "sharesHeld": "453117",
+      "marketValue": 13155999.58,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GJF",
+      "isin": "NO0010582521",
+      "cusip": null,
+      "name": "Gjensidige Forsikring ASA",
+      "sharesHeld": "461562",
+      "marketValue": 13137230.75,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BALD B",
+      "isin": "SE0017832488",
+      "cusip": null,
+      "name": "Fastighets AB Balder Class B",
+      "sharesHeld": "1740274",
+      "marketValue": 13126197.41,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "WDP",
+      "isin": "BE0974349814",
+      "cusip": null,
+      "name": "Warehouses De Pauw CVA",
+      "sharesHeld": "460369",
+      "marketValue": 13044846.99,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CRDA",
+      "isin": "GB00BJFFLV09",
+      "cusip": "G25536155",
+      "name": "Croda International plc",
+      "sharesHeld": "348048",
+      "marketValue": 13006512.53,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GF",
+      "isin": "CH1169151003",
+      "cusip": null,
+      "name": "Georg Fischer AG",
+      "sharesHeld": "194994",
+      "marketValue": 12996517.96,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RMV",
+      "isin": "GB00BGDT3G23",
+      "cusip": "G7565D106",
+      "name": "Rightmove plc",
+      "sharesHeld": "1917966",
+      "marketValue": 12983489.79,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AMUN",
+      "isin": "FR0004125920",
+      "cusip": null,
+      "name": "Amundi SA",
+      "sharesHeld": "145343",
+      "marketValue": 12922317.26,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TW.",
+      "isin": "GB0008782301",
+      "cusip": null,
+      "name": "Taylor Wimpey plc",
+      "sharesHeld": "8814189",
+      "marketValue": 12885996.55,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AYV",
+      "isin": "FR0013258662",
+      "cusip": null,
+      "name": "Ayvens SA",
+      "sharesHeld": "888701",
+      "marketValue": 12884228.84,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADP",
+      "isin": "FR0010340141",
+      "cusip": null,
+      "name": "Aeroports de Paris SA",
+      "sharesHeld": "97428",
+      "marketValue": 12872363.02,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CDR",
+      "isin": "PLOPTTC00011",
+      "cusip": null,
+      "name": "CD Projekt SA",
+      "sharesHeld": "176308",
+      "marketValue": 12869877.66,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BKG",
+      "isin": "GB00BP0RGD03",
+      "cusip": null,
+      "name": "Berkeley Group Holdings plc",
+      "sharesHeld": "227704",
+      "marketValue": 12865007.26,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ANA",
+      "isin": "ES0125220311",
+      "cusip": null,
+      "name": "Acciona SA",
+      "sharesHeld": "59419",
+      "marketValue": 12770079.38,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MNDI",
+      "isin": "GB00BMWC6P49",
+      "cusip": "G6258S107",
+      "name": "Mondi plc",
+      "sharesHeld": "1086337",
+      "marketValue": 12695166.67,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BIM",
+      "isin": "FR0013280286",
+      "cusip": null,
+      "name": "BioMerieux",
+      "sharesHeld": "109211",
+      "marketValue": 12682287.36,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SIGN",
+      "isin": "CH0435377954",
+      "cusip": null,
+      "name": "SIG Group AG",
+      "sharesHeld": "819431",
+      "marketValue": 12679402.86,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DNP",
+      "isin": "PLDINPL00011",
+      "cusip": null,
+      "name": "Dino Polska SA",
+      "sharesHeld": "1197208",
+      "marketValue": 12665915.78,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AZA",
+      "isin": "SE0012454072",
+      "cusip": null,
+      "name": "Avanza Bank Holding AB",
+      "sharesHeld": "324941",
+      "marketValue": 12660483.19,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AAK",
+      "isin": "SE0011337708",
+      "cusip": "W9609S117",
+      "name": "AAK AB",
+      "sharesHeld": "451183",
+      "marketValue": 12624977.94,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "EDEN",
+      "isin": "FR0010908533",
+      "cusip": null,
+      "name": "Edenred SE",
+      "sharesHeld": "598377",
+      "marketValue": 12533482.77,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NDX1",
+      "isin": "DE000A0D6554",
+      "cusip": null,
+      "name": "Nordex SE",
+      "sharesHeld": "312736",
+      "marketValue": 12520826.09,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GBF",
+      "isin": "DE0005909006",
+      "cusip": null,
+      "name": "Bilfinger SE",
+      "sharesHeld": "89337",
+      "marketValue": 12516889.88,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BMED",
+      "isin": "IT0004776628",
+      "cusip": null,
+      "name": "Banca Mediolanum SPA",
+      "sharesHeld": "533023",
+      "marketValue": 12503761.62,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BAB",
+      "isin": "GB0009697037",
+      "cusip": null,
+      "name": "Babcock International Group plc",
+      "sharesHeld": "632071",
+      "marketValue": 12462184.43,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "R3NK",
+      "isin": "DE000RENK730",
+      "cusip": null,
+      "name": "RENK Group AG",
+      "sharesHeld": "192740",
+      "marketValue": 12408964.34,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "KGX",
+      "isin": "DE000KGX8881",
+      "cusip": null,
+      "name": "KION Group AG",
+      "sharesHeld": "175425",
+      "marketValue": 12391110.78,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ENT",
+      "isin": "IM00B5VQMV65",
+      "cusip": null,
+      "name": "Entain plc",
+      "sharesHeld": "1490838",
+      "marketValue": 12368328.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NDA",
+      "isin": "DE0006766504",
+      "cusip": null,
+      "name": "Aurubis AG",
+      "sharesHeld": "65479",
+      "marketValue": 12364658.31,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "NEM",
+      "isin": "DE0006452907",
+      "cusip": null,
+      "name": "Nemetschek SE",
+      "sharesHeld": "141468",
+      "marketValue": 12360673.87,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "UMI",
+      "isin": "BE0974320526",
+      "cusip": null,
+      "name": "Umicore SA",
+      "sharesHeld": "518276",
+      "marketValue": 12320599.8,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SFZN",
+      "isin": "CH1429326825",
+      "cusip": null,
+      "name": "Siegfried Holding AG",
+      "sharesHeld": "99825",
+      "marketValue": 12274651.55,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TUB",
+      "isin": "BE0003823409",
+      "cusip": null,
+      "name": "Financiere de Tubize SA",
+      "sharesHeld": "48118",
+      "marketValue": 12274306.55,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VER",
+      "isin": "AT0000746409",
+      "cusip": null,
+      "name": "Verbund AG",
+      "sharesHeld": "166113",
+      "marketValue": 12188623.41,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "INVP",
+      "isin": "GB00B17BBQ50",
+      "cusip": null,
+      "name": "Investec plc",
+      "sharesHeld": "1459706",
+      "marketValue": 12121731.54,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VALMT",
+      "isin": "FI4000074984",
+      "cusip": null,
+      "name": "Valmet Oyj",
+      "sharesHeld": "352672",
+      "marketValue": 12084851.32,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "EVD",
+      "isin": "DE0005470306",
+      "cusip": "D1648T108",
+      "name": "CTS Eventim AG & Co. KGaA",
+      "sharesHeld": "143151",
+      "marketValue": 12030554.22,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BBY",
+      "isin": "GB0000961622",
+      "cusip": null,
+      "name": "Balfour Beatty plc",
+      "sharesHeld": "1228343",
+      "marketValue": 12028322.68,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GETI B",
+      "isin": "SE0000202624",
+      "cusip": null,
+      "name": "Getinge AB",
+      "sharesHeld": "547152",
+      "marketValue": 11989363.36,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TUI1",
+      "isin": "DE000TUAG505",
+      "cusip": null,
+      "name": "TUI AG",
+      "sharesHeld": "1124316",
+      "marketValue": 11987477.13,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SPM",
+      "isin": "IT0005495657",
+      "cusip": null,
+      "name": "Saipem SPA",
+      "sharesHeld": "3238583",
+      "marketValue": 11960913.64,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TITR",
+      "isin": "IT0003497176",
+      "cusip": null,
+      "name": "Telecom Italia SPA (Bearer)",
+      "sharesHeld": "15052457",
+      "marketValue": 11952032.65,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LOTB",
+      "isin": "BE0003604155",
+      "cusip": null,
+      "name": "Lotus Bakeries NV",
+      "sharesHeld": "1012",
+      "marketValue": 11931121.25,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ADEN",
+      "isin": "CH0012138605",
+      "cusip": null,
+      "name": "Adecco Group AG",
+      "sharesHeld": "404496",
+      "marketValue": 11886678.9,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALSYDB",
+      "isin": "DK0010311471",
+      "cusip": null,
+      "name": "AL Sydbank",
+      "sharesHeld": "130877",
+      "marketValue": 11852794.83,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "A2A",
+      "isin": "IT0001233417",
+      "cusip": null,
+      "name": "A2A Spa",
+      "sharesHeld": "3920886",
+      "marketValue": 11828519.43,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "TEMN",
+      "isin": "CH0012453913",
+      "cusip": null,
+      "name": "Temenos AG",
+      "sharesHeld": "133817",
+      "marketValue": 11825922.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SAGA B",
+      "isin": "SE0005127818",
+      "cusip": null,
+      "name": "Sagax AB Class B",
+      "sharesHeld": "535855",
+      "marketValue": 11816218.7,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "EDPR",
+      "isin": "ES0127797019",
+      "cusip": null,
+      "name": "EDP Renovaveis SA",
+      "sharesHeld": "776384",
+      "marketValue": 11794343,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "GFC",
+      "isin": "FR0010040865",
+      "cusip": null,
+      "name": "Gecina SA",
+      "sharesHeld": "128374",
+      "marketValue": 11791309.23,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ZEAL",
+      "isin": "DK0060257814",
+      "cusip": null,
+      "name": "Zealand Pharma A/S",
+      "sharesHeld": "176012",
+      "marketValue": 11771237.5,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SBMO",
+      "isin": "NL0000360618",
+      "cusip": null,
+      "name": "SBM Offshore NV",
+      "sharesHeld": "327147",
+      "marketValue": 11751197.65,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DIE",
+      "isin": "BE0974259880",
+      "cusip": null,
+      "name": "D'ieteren Group",
+      "sharesHeld": "51285",
+      "marketValue": 11681615.86,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BZU",
+      "isin": "IT0001347308",
+      "cusip": null,
+      "name": "Buzzi SPA",
+      "sharesHeld": "204758",
+      "marketValue": 11655147.83,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RBREW",
+      "isin": "DK0060634707",
+      "cusip": null,
+      "name": "Royal Unibrew A/S",
+      "sharesHeld": "122823",
+      "marketValue": 11571721.35,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SDR",
+      "isin": "GB00BP9LHF23",
+      "cusip": null,
+      "name": "Schroders plc",
+      "sharesHeld": "1843502",
+      "marketValue": 11418155.56,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AZM",
+      "isin": "IT0003261697",
+      "cusip": null,
+      "name": "Azimut Holding SPA",
+      "sharesHeld": "270103",
+      "marketValue": 11410205.37,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SOF",
+      "isin": "BE0003717312",
+      "cusip": "B80925124",
+      "name": "Sofina SA",
+      "sharesHeld": "38457",
+      "marketValue": 11206808.59,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "WPP",
+      "isin": "JE00B8KF9B49",
+      "cusip": null,
+      "name": "WPP plc",
+      "sharesHeld": "2696064",
+      "marketValue": 11183873.2,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BGEO",
+      "isin": "GB00BF4HYT85",
+      "cusip": null,
+      "name": "Lion Finance Group plc",
+      "sharesHeld": "79879",
+      "marketValue": 11036028.97,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IP",
+      "isin": "IT0001078911",
+      "cusip": null,
+      "name": "Interpump Group SPA",
+      "sharesHeld": "189054",
+      "marketValue": 10967974.2,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "VSURE",
+      "isin": "GB00BVMN1558",
+      "cusip": null,
+      "name": "Verisure plc",
+      "sharesHeld": "670589",
+      "marketValue": 10945494.49,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALK B",
+      "isin": "DK0061802139",
+      "cusip": null,
+      "name": "ALK-Abello A/S",
+      "sharesHeld": "329189",
+      "marketValue": 10877633.88,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SSAB B",
+      "isin": "SE0000120669",
+      "cusip": null,
+      "name": "SSAB AB Class B",
+      "sharesHeld": "1320505",
+      "marketValue": 10862944.52,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LUND B",
+      "isin": "SE0000108847",
+      "cusip": "W54114108",
+      "name": "L E Lundbergforetagen AB Class B",
+      "sharesHeld": "181458",
+      "marketValue": 10809200.56,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "ALLN",
+      "isin": "CH0008837566",
+      "cusip": null,
+      "name": "Allreal Holding AG",
+      "sharesHeld": "36918",
+      "marketValue": 10798987.17,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RS1",
+      "isin": "GB0003096442",
+      "cusip": null,
+      "name": "RS GROUP plc",
+      "sharesHeld": "1176021",
+      "marketValue": 10798883.19,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "FNTN",
+      "isin": "DE000A0Z2ZZ5",
+      "cusip": "D3689Q134",
+      "name": "Freenet AG",
+      "sharesHeld": "297081",
+      "marketValue": 10727344.31,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "IVG",
+      "isin": "NL0015000LU4",
+      "cusip": null,
+      "name": "Iveco Group NV",
+      "sharesHeld": "479294",
+      "marketValue": 10721177.17,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BWY",
+      "isin": "GB0000904986",
+      "cusip": null,
+      "name": "Bellway plc",
+      "sharesHeld": "287129",
+      "marketValue": 10685487.85,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "BC8",
+      "isin": "DE0005158703",
+      "cusip": "D0873U103",
+      "name": "Bechtle AG",
+      "sharesHeld": "206069",
+      "marketValue": 10681003.91,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "CAST",
+      "isin": "SE0000379190",
+      "cusip": "W2084X107",
+      "name": "Castellum AB",
+      "sharesHeld": "857258",
+      "marketValue": 10597637.05,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "DRX",
+      "isin": "GB00B1VNSX38",
+      "cusip": null,
+      "name": "Drax Group plc",
+      "sharesHeld": "854772",
+      "marketValue": 10546995.95,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "MAP",
+      "isin": "ES0124244E34",
+      "cusip": null,
+      "name": "Mapfre SA",
+      "sharesHeld": "2294885",
+      "marketValue": 10500785.5,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "AED",
+      "isin": "BE0003851681",
+      "cusip": null,
+      "name": "Aedifica SA",
+      "sharesHeld": "119044",
+      "marketValue": 10482780.12,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "LAGR B",
+      "isin": "SE0014990966",
+      "cusip": null,
+      "name": "Lagercrantz Group AB",
+      "sharesHeld": "471007",
+      "marketValue": 10320047.69,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRBNK",
+      "isin": "NO0010631567",
+      "cusip": null,
+      "name": "SpareBank 1 Sor-Norge ASA",
+      "sharesHeld": "511756",
+      "marketValue": 10316617.45,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "EMG",
+      "isin": "JE00BJ1DLW90",
+      "cusip": null,
+      "name": "Man Group PLC/Jersey",
+      "sharesHeld": "2854860",
+      "marketValue": 10304336.43,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "RAA",
+      "isin": "DE0007010803",
+      "cusip": "D6349P107",
+      "name": "Rational AG",
+      "sharesHeld": "12837",
+      "marketValue": 10286496.97,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SALM",
+      "isin": "NO0010310956",
+      "cusip": null,
+      "name": "Salmar ASA",
+      "sharesHeld": "172042",
+      "marketValue": 10248621.35,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "FRO",
+      "isin": "CY0200352116",
+      "cusip": null,
+      "name": "Frontline plc",
+      "sharesHeld": "357751",
+      "marketValue": 10183402.14,
+      "percentWeight": "0.03"
+    },
+    {
+      "type": "stock",
+      "ticker": "SRP",
+      "isin": "GB0007973794",
+      "cusip": null,
+      "name": "Serco Group plc",
+      "sharesHeld": "2469936",
+      "marketValue": 10141393.16,
+      "percentWeight": "0.03"
+    }
+  ]
+}

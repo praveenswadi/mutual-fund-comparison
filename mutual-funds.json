@@ -1,0 +1,986 @@
+{
+  "source": "Vanguard Mutual Funds",
+  "dataAsOf": "2026-02-20",
+  "funds": [
+    {
+      "symbol": "VIGAX",
+      "name": "Growth Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vigax",
+      "assetClass": "Stock - Large-Cap Growth",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "0.37%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-4.69%",
+        "oneYear": "15.60%",
+        "fiveYear": "14.53%",
+        "tenYear": "18.00%",
+        "sinceInception": "9.42%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$239.36",
+        "change": "$2.00",
+        "changePct": "0.84%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VLCAX",
+      "name": "Large-Cap Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vlcax",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.03%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "0.58%",
+        "oneYear": "15.95%",
+        "fiveYear": "14.37%",
+        "tenYear": "15.54%",
+        "sinceInception": "10.80%",
+        "inceptionDate": "02/02/2004"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$159.87",
+        "change": "$1.02",
+        "changePct": "0.64%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VFIAX",
+      "name": "500 Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vfiax",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.04%",
+      "yield": {
+        "pct": "1.07%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.10%",
+        "oneYear": "16.30%",
+        "fiveYear": "14.94%",
+        "tenYear": "15.53%",
+        "sinceInception": "8.69%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$638.79",
+        "change": "$4.43",
+        "changePct": "0.70%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTSAX",
+      "name": "Total Stock Market Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.04%",
+      "yield": {
+        "pct": "1.07%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.48%",
+        "oneYear": "15.40%",
+        "fiveYear": "13.49%",
+        "tenYear": "15.08%",
+        "sinceInception": "8.88%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$165.62",
+        "change": "$0.98",
+        "changePct": "0.60%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VDADX",
+      "name": "Dividend Appreciation Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vdadx",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "1.53%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "3.52%",
+        "oneYear": "12.63%",
+        "fiveYear": "12.35%",
+        "tenYear": "13.55%",
+        "sinceInception": "11.74%",
+        "inceptionDate": "12/19/2013"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$61.75",
+        "change": "$0.12",
+        "changePct": "0.19%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VVIAX",
+      "name": "Value Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vviax",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.94%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.29%",
+        "oneYear": "15.48%",
+        "fiveYear": "13.78%",
+        "tenYear": "12.71%",
+        "sinceInception": "7.99%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$80.69",
+        "change": "$0.28",
+        "changePct": "0.35%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VMGMX",
+      "name": "Mid-Cap Growth Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vmgmx",
+      "assetClass": "Stock - Mid-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "0.64%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-1.12%",
+        "oneYear": "2.85%",
+        "fiveYear": "6.33%",
+        "tenYear": "12.46%",
+        "sinceInception": "12.31%",
+        "inceptionDate": "09/27/2011"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$118.83",
+        "change": "$0.22",
+        "changePct": "0.19%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VEXAX",
+      "name": "Extended Market Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vexax",
+      "assetClass": "Stock - Mid-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.03%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.26%",
+        "oneYear": "8.66%",
+        "fiveYear": "6.09%",
+        "tenYear": "12.31%",
+        "sinceInception": "8.75%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$165.38",
+        "change": "-$0.07",
+        "changePct": "-0.04%",
+        "direction": "down"
+      }
+    },
+    {
+      "symbol": "VIMAX",
+      "name": "Mid-Cap Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vimax",
+      "assetClass": "Stock - Mid-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.45%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.85%",
+        "oneYear": "9.16%",
+        "fiveYear": "9.16%",
+        "tenYear": "12.01%",
+        "sinceInception": "10.18%",
+        "inceptionDate": "11/12/2001"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$376.80",
+        "change": "$1.55",
+        "changePct": "0.41%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSMAX",
+      "name": "Small-Cap Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vsmax",
+      "assetClass": "Stock - Small-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.30%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.25%",
+        "oneYear": "9.59%",
+        "fiveYear": "7.84%",
+        "tenYear": "11.81%",
+        "sinceInception": "9.37%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$133.78",
+        "change": "$0.47",
+        "changePct": "0.35%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSGAX",
+      "name": "Small-Cap Growth Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vsgax",
+      "assetClass": "Stock - Small-Cap Growth",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "0.42%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "6.12%",
+        "oneYear": "7.83%",
+        "fiveYear": "3.30%",
+        "tenYear": "11.71%",
+        "sinceInception": "11.71%",
+        "inceptionDate": "09/27/2011"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$112.61",
+        "change": "$0.23",
+        "changePct": "0.20%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSIAX",
+      "name": "Small-Cap Value Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax",
+      "assetClass": "Stock - Small-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "1.91%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.85%",
+        "oneYear": "10.89%",
+        "fiveYear": "11.25%",
+        "tenYear": "11.46%",
+        "sinceInception": "12.19%",
+        "inceptionDate": "09/27/2011"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$99.99",
+        "change": "$0.45",
+        "changePct": "0.45%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VMVAX",
+      "name": "Mid-Cap Value Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vmvax",
+      "assetClass": "Stock - Mid-Cap Value",
+      "riskLevel": 5,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "1.99%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.10%",
+        "oneYear": "13.85%",
+        "fiveYear": "11.67%",
+        "tenYear": "11.19%",
+        "sinceInception": "12.26%",
+        "inceptionDate": "09/27/2011"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$100.21",
+        "change": "$0.55",
+        "changePct": "0.55%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VASGX",
+      "name": "LifeStrategy Growth Fund",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vasgx",
+      "assetClass": "Balanced",
+      "riskLevel": 4,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "2.19%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "4.38%",
+        "oneYear": "19.72%",
+        "fiveYear": "9.41%",
+        "tenYear": "10.80%",
+        "sinceInception": "8.56%",
+        "inceptionDate": "09/30/1994"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$52.95",
+        "change": "$0.33",
+        "changePct": "0.63%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTMGX",
+      "name": "Developed Markets Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmgx",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "11.16%",
+        "oneYear": "37.10%",
+        "fiveYear": "10.65%",
+        "tenYear": "10.00%",
+        "sinceInception": "5.65%",
+        "inceptionDate": "08/17/1999"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$22.31",
+        "change": "$0.22",
+        "changePct": "1.00%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VBIAX",
+      "name": "Balanced Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vbiax",
+      "assetClass": "Balanced",
+      "riskLevel": 3,
+      "expenseRatio": "0.07%",
+      "yield": {
+        "pct": "2.23%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.41%",
+        "oneYear": "12.40%",
+        "fiveYear": "8.08%",
+        "tenYear": "9.92%",
+        "sinceInception": "7.17%",
+        "inceptionDate": "11/13/2000"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$52.53",
+        "change": "$0.19",
+        "changePct": "0.36%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VEUSX",
+      "name": "European Stock Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/veusx",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.08%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "7.72%",
+        "oneYear": "33.70%",
+        "fiveYear": "11.51%",
+        "tenYear": "9.87%",
+        "sinceInception": "6.85%",
+        "inceptionDate": "08/13/2001"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$112.55",
+        "change": "$1.07",
+        "changePct": "0.96%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VFWAX",
+      "name": "FTSE All-World ex-US Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vfwax",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.08%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.50%",
+        "oneYear": "35.00%",
+        "fiveYear": "9.26%",
+        "tenYear": "9.85%",
+        "sinceInception": "8.08%",
+        "inceptionDate": "09/27/2011"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$50.51",
+        "change": "$0.53",
+        "changePct": "1.06%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTIAX",
+      "name": "Total International Stock Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtiax",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.46%",
+        "oneYear": "35.25%",
+        "fiveYear": "9.17%",
+        "tenYear": "9.75%",
+        "sinceInception": "6.86%",
+        "inceptionDate": "11/29/2010"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$44.77",
+        "change": "$0.46",
+        "changePct": "1.04%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VPADX",
+      "name": "Pacific Stock Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vpadx",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "17.54%",
+        "oneYear": "41.55%",
+        "fiveYear": "8.06%",
+        "tenYear": "9.52%",
+        "sinceInception": "6.44%",
+        "inceptionDate": "08/13/2001"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$131.76",
+        "change": "$1.38",
+        "changePct": "1.06%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VEMAX",
+      "name": "Emerging Markets Stock Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vemax",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.13%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "8.54%",
+        "oneYear": "30.38%",
+        "fiveYear": "5.04%",
+        "tenYear": "9.31%",
+        "sinceInception": "6.12%",
+        "inceptionDate": "06/23/2006"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$48.42",
+        "change": "$0.58",
+        "changePct": "1.21%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSMGX",
+      "name": "LifeStrategy Moderate Growth Fund",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vsmgx",
+      "assetClass": "Balanced",
+      "riskLevel": 3,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "2.62%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "3.61%",
+        "oneYear": "16.21%",
+        "fiveYear": "7.02%",
+        "tenYear": "8.61%",
+        "sinceInception": "7.73%",
+        "inceptionDate": "09/30/1994"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$35.83",
+        "change": "$0.18",
+        "changePct": "0.50%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VSCGX",
+      "name": "LifeStrategy Conservative Growth Fund",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vscgx",
+      "assetClass": "Balanced",
+      "riskLevel": 3,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "3.05%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "2.84%",
+        "oneYear": "12.80%",
+        "fiveYear": "4.66%",
+        "tenYear": "6.42%",
+        "sinceInception": "6.68%",
+        "inceptionDate": "09/30/1994"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$22.46",
+        "change": "$0.08",
+        "changePct": "0.36%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VGSLX",
+      "name": "Real Estate Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vgslx",
+      "assetClass": "Stock - Sector",
+      "riskLevel": 4,
+      "expenseRatio": "0.13%",
+      "yield": {
+        "pct": null,
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "7.23%",
+        "oneYear": "4.19%",
+        "fiveYear": "5.18%",
+        "tenYear": "5.78%",
+        "sinceInception": "8.79%",
+        "inceptionDate": "11/12/2001"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$134.45",
+        "change": "$0.97",
+        "changePct": "0.73%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VASIX",
+      "name": "LifeStrategy Income Fund",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vasix",
+      "assetClass": "Balanced",
+      "riskLevel": 2,
+      "expenseRatio": "0.10%",
+      "yield": {
+        "pct": "3.48%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "2.09%",
+        "oneYear": "9.30%",
+        "fiveYear": "2.23%",
+        "tenYear": "4.14%",
+        "sinceInception": "5.64%",
+        "inceptionDate": "09/30/1994"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$16.10",
+        "change": "$0.03",
+        "changePct": "0.19%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VGRLX",
+      "name": "Global ex-U.S. Real Estate Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vgrlx",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.12%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "9.77%",
+        "oneYear": "25.05%",
+        "fiveYear": "2.02%",
+        "tenYear": "4.14%",
+        "sinceInception": "3.98%",
+        "inceptionDate": "02/10/2011"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$30.57",
+        "change": "$0.25",
+        "changePct": "0.82%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTWAX",
+      "name": "Total World Stock Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtwax",
+      "assetClass": "International",
+      "riskLevel": 4,
+      "expenseRatio": "0.09%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "4.80%",
+        "oneYear": "22.26%",
+        "fiveYear": "11.75%",
+        "tenYear": "\u2014",
+        "sinceInception": "13.23%",
+        "inceptionDate": "02/07/2019"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$52.35",
+        "change": "$0.41",
+        "changePct": "0.79%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIHAX",
+      "name": "International High Dividend Yield Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vihax",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.16%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "11.63%",
+        "oneYear": "40.28%",
+        "fiveYear": "14.30%",
+        "tenYear": "\u2014",
+        "sinceInception": "10.74%",
+        "inceptionDate": "03/02/2016"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$48.57",
+        "change": "$0.39",
+        "changePct": "0.81%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VIAAX",
+      "name": "International Dividend Appreciation Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/viaax",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.16%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "4.64%",
+        "oneYear": "13.85%",
+        "fiveYear": "5.90%",
+        "tenYear": "\u2014",
+        "sinceInception": "8.57%",
+        "inceptionDate": "03/02/2016"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$46.48",
+        "change": "$0.16",
+        "changePct": "0.35%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VHYAX",
+      "name": "High Dividend Yield Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vhyax",
+      "assetClass": "Stock - Large-Cap Value",
+      "riskLevel": 4,
+      "expenseRatio": "0.08%",
+      "yield": {
+        "pct": "2.32%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "8.39%",
+        "oneYear": "16.24%",
+        "fiveYear": "13.80%",
+        "tenYear": "\u2014",
+        "sinceInception": "12.23%",
+        "inceptionDate": "02/07/2019"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$46.90",
+        "change": "$0.10",
+        "changePct": "0.21%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VFTAX",
+      "name": "FTSE Social Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vftax",
+      "assetClass": "Stock - Large-Cap Growth",
+      "riskLevel": 4,
+      "expenseRatio": "0.11%",
+      "yield": {
+        "pct": "0.83%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "-1.45%",
+        "oneYear": "14.30%",
+        "fiveYear": "13.77%",
+        "tenYear": "\u2014",
+        "sinceInception": "16.27%",
+        "inceptionDate": "02/07/2019"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$64.56",
+        "change": "$0.52",
+        "changePct": "0.81%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VFSAX",
+      "name": "FTSE All-World ex-US Small-Cap Index Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vfsax",
+      "assetClass": "International",
+      "riskLevel": 5,
+      "expenseRatio": "0.17%",
+      "yield": {
+        "pct": "\u2014",
+        "type": null,
+        "asOf": null
+      },
+      "returns": {
+        "ytd": "10.08%",
+        "oneYear": "36.80%",
+        "fiveYear": "7.82%",
+        "tenYear": "\u2014",
+        "sinceInception": "9.10%",
+        "inceptionDate": "02/07/2019"
+      },
+      "minInvestment": "$3K",
+      "nav": {
+        "price": "$38.97",
+        "change": "$0.28",
+        "changePct": "0.72%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTCLX",
+      "name": "Tax-Managed Capital Appreciation Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtclx",
+      "assetClass": "Stock - Large-Cap Blend",
+      "riskLevel": 4,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "0.89%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.33%",
+        "oneYear": "15.50%",
+        "fiveYear": "14.12%",
+        "tenYear": "15.47%",
+        "sinceInception": "10.99%",
+        "inceptionDate": "09/06/1994"
+      },
+      "minInvestment": "$10K",
+      "nav": {
+        "price": "$356.34",
+        "change": "$2.42",
+        "changePct": "0.68%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTMSX",
+      "name": "Tax-Managed Small-Cap Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmsx",
+      "assetClass": "Stock - Small-Cap Blend",
+      "riskLevel": 5,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "1.44%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "9.59%",
+        "oneYear": "8.65%",
+        "fiveYear": "7.13%",
+        "tenYear": "11.03%",
+        "sinceInception": "10.24%",
+        "inceptionDate": "03/25/1999"
+      },
+      "minInvestment": "$10K",
+      "nav": {
+        "price": "$107.74",
+        "change": "$0.56",
+        "changePct": "0.52%",
+        "direction": "up"
+      }
+    },
+    {
+      "symbol": "VTMFX",
+      "name": "Tax-Managed Balanced Fund Admiral Shares",
+      "profileUrl": "https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmfx",
+      "assetClass": "Balanced",
+      "riskLevel": 3,
+      "expenseRatio": "0.05%",
+      "yield": {
+        "pct": "2.04%",
+        "type": "30 day",
+        "asOf": "01/31/2026"
+      },
+      "returns": {
+        "ytd": "1.58%",
+        "oneYear": "10.57%",
+        "fiveYear": "7.61%",
+        "tenYear": "8.74%",
+        "sinceInception": "7.79%",
+        "inceptionDate": "09/06/1994"
+      },
+      "minInvestment": "$10K",
+      "nav": {
+        "price": "$50.00",
+        "change": "$0.18",
+        "changePct": "0.36%",
+        "direction": "up"
+      }
+    }
+  ]
+}
