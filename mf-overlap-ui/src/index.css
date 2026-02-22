@@ -1252,9 +1252,9 @@ ul { list-style: none; }
     width: 100%;
     max-width: none;
     max-height: 92dvh;
-    max-height: 92vh; /* fallback for older browsers */
+    max-height: 92vh;
     max-height: 92dvh;
-    padding: 16px 16px 24px;
+    padding: 16px 16px calc(24px + env(safe-area-inset-bottom, 0px));
     border-radius: 16px 16px 0 0;
     animation: slideUpMobile 0.25s ease;
   }
@@ -1376,7 +1376,7 @@ ul { list-style: none; }
   .cards-grid { grid-template-columns: 1fr; }
   .main-title { font-size: 16px; }
 
-  .modal-popup { padding: 12px 12px 20px; }
+  .modal-popup { padding: 12px 12px calc(20px + env(safe-area-inset-bottom, 0px)); }
   .modal-stats-grid { grid-template-columns: 1fr 1fr; padding: 10px; }
   .modal-fund-symbol { font-size: 18px; }
   .modal-treemap-title { font-size: 13px; }
