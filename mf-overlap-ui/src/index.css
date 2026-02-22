@@ -125,7 +125,10 @@ ul { list-style: none; }
   display: flex;
   height: 100%;
   overflow: hidden;
+  position: relative;
 }
+
+.sidebar-backdrop { display: none; }
 
 .sidebar {
   width: var(--sidebar-w);
@@ -156,10 +159,10 @@ ul { list-style: none; }
   pointer-events: none;
 }
 
-/* Toggle tab button on the right edge */
+/* Toggle tab button on the right edge of sidebar */
 .sidebar-toggle-btn {
   position: absolute;
-  right: 0;
+  left: var(--sidebar-w);
   top: 50%;
   transform: translateY(-50%);
   z-index: 10;
@@ -175,7 +178,10 @@ ul { list-style: none; }
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  transition: background 0.15s, color 0.15s;
+  transition: background 0.15s, color 0.15s, left 0.25s ease;
+}
+.sidebar--collapsed ~ .sidebar-toggle-btn {
+  left: 36px;
 }
 .sidebar-toggle-btn:hover {
   background: var(--accent);
@@ -573,7 +579,7 @@ ul { list-style: none; }
   display: flex;
   justify-content: center;
 }
-.chord-svg { display: block; overflow: visible; }
+.chord-svg { display: block; overflow: visible; width: 100%; max-width: 500px; height: auto; }
 
 .matrix-hint { color: var(--muted); font-size: 12px; margin-top: 8px; text-align: center; }
 
@@ -1211,4 +1217,156 @@ ul { list-style: none; }
 @keyframes slideUp {
   from { opacity: 0; transform: translateY(20px); }
   to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ─── Mobile: 768px ─────────────────────────────────────────── */
+@media (max-width: 768px) {
+  /* ── Top nav ─────────────────────────────────────────────── */
+  .top-nav { padding: 0 0 0 8px; gap: 0; }
+  .top-nav a { font-size: 12px; padding: 10px 10px; }
+
+  /* ── Shared header ───────────────────────────────────────── */
+  .main-title { font-size: 18px; }
+  .main-sub   { font-size: 13px; }
+
+  /* ── Fund Cards page ─────────────────────────────────────── */
+  .cards-page { padding: 16px; }
+  .cards-page-header { margin-bottom: 20px; }
+  .cards-category { margin-bottom: 24px; }
+  .cards-category-title { font-size: 14px; gap: 8px; margin-bottom: 10px; }
+  .cards-grid {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 12px;
+  }
+  .fund-card:hover { transform: none; }
+
+  /* ── Modal ───────────────────────────────────────────────── */
+  .modal-popup {
+    width: 96vw;
+    max-width: none;
+    max-height: 95vh;
+    padding: 20px 16px;
+    border-radius: 12px;
+  }
+  .modal-close { top: 10px; right: 10px; }
+  .modal-fund-header { flex-wrap: wrap; padding-right: 36px; gap: 10px; }
+  .modal-fund-symbol { font-size: 20px; }
+  .modal-stats-grid {
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 10px;
+    padding: 12px;
+  }
+
+  /* ── Overlap page: sidebar ───────────────────────────────── */
+  .sidebar {
+    position: fixed;
+    top: 42px;
+    left: 0;
+    bottom: 0;
+    z-index: 200;
+    width: 85vw;
+    max-width: 320px;
+    min-width: 0;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    border-right: 1px solid var(--border);
+    box-shadow: 4px 0 24px var(--shadow);
+  }
+  .sidebar:not(.sidebar--collapsed) {
+    transform: translateX(0);
+  }
+  .sidebar--collapsed {
+    transform: translateX(-100%);
+    width: 85vw;
+    min-width: 0;
+  }
+  .sidebar-inner { min-width: 0; }
+  .sidebar--collapsed .sidebar-inner { opacity: 1; pointer-events: auto; }
+
+  .sidebar-toggle-btn {
+    position: fixed;
+    left: 8px;
+    top: 52px;
+    right: auto;
+    transform: none;
+    width: 36px;
+    height: 36px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+    z-index: 201;
+    font-size: 14px;
+    background: var(--bg2);
+    transition: left 0.25s ease, background 0.15s, color 0.15s;
+  }
+  .sidebar--collapsed ~ .sidebar-toggle-btn { left: 8px; }
+  .sidebar:not(.sidebar--collapsed) ~ .sidebar-toggle-btn {
+    left: min(85vw, 320px);
+  }
+
+  .sidebar-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    top: 42px;
+    z-index: 199;
+    background: rgba(0,0,0,.35);
+    backdrop-filter: blur(2px);
+  }
+  .sidebar-backdrop--hidden { display: none; }
+
+  /* ── Overlap page: main content ──────────────────────────── */
+  .main-content { padding: 16px; }
+  .main-header { margin-bottom: 20px; flex-direction: column; gap: 8px; }
+
+  /* ── Chord diagram ───────────────────────────────────────── */
+  .chord-svg-container { overflow: visible; }
+  .chord-svg { max-width: 100%; height: auto; }
+  .matrix-hint { font-size: 11px; }
+
+  /* ── Detail panel ────────────────────────────────────────── */
+  .detail-wrap { padding: 14px; }
+  .detail-summary {
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+    text-align: center;
+  }
+  .detail-fund { align-items: center; }
+  .detail-fund--b { align-items: center; }
+  .detail-center { min-width: 0; width: 100%; }
+  .detail-symbol { font-size: 18px; }
+
+  /* ── Tables ──────────────────────────────────────────────── */
+  .data-table { font-size: 12px; }
+  .data-table th { font-size: 10px; padding: 6px 8px; }
+  .data-table td { padding: 6px 8px; }
+  .td-name { max-width: 160px; }
+  .weight-bar-wrap { width: 80px; }
+
+  /* ── View toggle ─────────────────────────────────────────── */
+  .view-toggle-row { flex-wrap: wrap; gap: 8px; }
+
+  /* ── Empty state ─────────────────────────────────────────── */
+  .empty-state { min-height: 240px; }
+  .empty-icon  { font-size: 40px; }
+  .empty-state h2 { font-size: 17px; }
+  .empty-state p  { font-size: 13px; }
+}
+
+/* ─── Mobile: 480px (small phones) ──────────────────────────── */
+@media (max-width: 480px) {
+  .cards-page { padding: 12px; }
+  .cards-grid { grid-template-columns: 1fr; }
+  .main-title { font-size: 16px; }
+
+  .modal-popup { padding: 16px 12px; }
+  .modal-stats-grid { grid-template-columns: 1fr 1fr; padding: 10px; }
+  .modal-fund-symbol { font-size: 18px; }
+
+  .detail-wrap { padding: 12px; }
+  .detail-summary { gap: 12px; padding-bottom: 14px; }
+  .weight-bar-wrap { width: 64px; }
+
+  .sidebar { width: 100vw; max-width: none; }
 }

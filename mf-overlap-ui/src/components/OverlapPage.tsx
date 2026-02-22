@@ -20,8 +20,13 @@ export default function OverlapPage() {
 
   const [filter, setFilter] = useState<HoldingFilter>("all");
   const [activePair, setActivePair] = useState<[string, string] | null>(null);
-  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [sidebarOpen, setSidebarOpen] = useState(
+    () => typeof window !== "undefined" && window.innerWidth > 768
+  );
   const toggleSidebar = useCallback(() => setSidebarOpen((o) => !o), []);
+  const closeSidebarOnMobile = useCallback(() => {
+    if (window.innerWidth <= 768) setSidebarOpen(false);
+  }, []);
 
   useEffect(() => {
     setLoadState("loading");
@@ -93,16 +98,13 @@ export default function OverlapPage() {
 
   return (
     <div className="app-layout">
-      <aside className={`sidebar${sidebarOpen ? "" : " sidebar--collapsed"}`}>
-        <button
-          className="sidebar-toggle-btn"
-          onClick={toggleSidebar}
-          title={sidebarOpen ? "Collapse panel" : "Expand panel"}
-          aria-label={sidebarOpen ? "Collapse panel" : "Expand panel"}
-        >
-          {sidebarOpen ? "\u25C0" : "\u25B6"}
-        </button>
+      {/* Mobile backdrop */}
+      <div
+        className={`sidebar-backdrop${sidebarOpen ? "" : " sidebar-backdrop--hidden"}`}
+        onClick={closeSidebarOnMobile}
+      />
 
+      <aside className={`sidebar${sidebarOpen ? "" : " sidebar--collapsed"}`}>
         <div className="sidebar-inner">
           <div className="sidebar-logo">
             <span className="logo-mark">V</span>
@@ -152,6 +154,15 @@ export default function OverlapPage() {
           )}
         </div>
       </aside>
+
+      <button
+        className="sidebar-toggle-btn"
+        onClick={toggleSidebar}
+        title={sidebarOpen ? "Collapse panel" : "Expand panel"}
+        aria-label={sidebarOpen ? "Collapse panel" : "Expand panel"}
+      >
+        {sidebarOpen ? "\u25C0" : "\u25B6"}
+      </button>
 
       <main className="main-content">
         <header className="main-header">

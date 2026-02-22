@@ -258,8 +258,7 @@ export function ChordDiagram({
 
       <div className="chord-svg-container">
         <svg
-          width={SIZE}
-          height={SIZE}
+          viewBox={`0 0 ${SIZE} ${SIZE}`}
           className="chord-svg"
           onMouseMove={handleSvgMouseMove}
           onMouseLeave={handleLeave}
